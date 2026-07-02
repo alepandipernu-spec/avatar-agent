@@ -1,0 +1,226 @@
+{%- liquid
+  assign current_variant = product.selected_or_first_available_variant
+  assign color_option_index = -1
+  for option in product.options_with_values
+    assign downcased_name = option.name | downcase
+    if downcased_name == 'color' or downcased_name == 'colour'
+      assign color_option_index = forloop.index0
+    endif
+  endfor
+  assign has_color_swatches = false
+  if color_option_index != -1 and product.options.size == 1
+    assign has_color_swatches = true
+  endif
+-%}
+
+<div class="fh-wrap" style="padding-top: clamp(20px,3vw,32px); padding-bottom: clamp(56px,7vw,96px);">
+  <a href="{{ section.settings.shop_collection.url | default: routes.all_products_collection_url }}" class="fh-back-link">← {{ 'flubberhomme.product.back_to_shop' | t }}</a>
+
+  <div class="fh-pdp">
+    <!-- GALLERY -->
+    <div class="fh-gallery">
+      <div class="fh-thumbs">
+        {%- if has_color_swatches -%}
+          {%- for variant in product.variants -%}
+            {%- assign v_image = variant.featured_image | default: product.featured_image -%}
+            <button
+              type="button"
+              class="fh-thumb{% if variant.id == current_variant.id %} is-active{% endif %}"
+              data-variant-thumb="{{ variant.id }}"
+              aria-label="{{ variant.title | escape }}"
+              style="background-image: url('{{ v_image | image_url: width: 168 }}'); background-size: contain; background-repeat: no-repeat; background-position: center;"
+            ></button>
+          {%- endfor -%}
+        {%- else -%}
+          {%- for media in product.media limit: 4 -%}
+            <button
+              type="button"
+              class="fh-thumb{% if forloop.first %} is-active{% endif %}"
+              data-media-thumb="{{ media.id }}"
+              aria-label="{{ media.alt | default: product.title | escape }}"
+              style="background-image: url('{{ media | image_url: width: 168 }}'); background-size: contain; background-repeat: no-repeat; background-position: center;"
+            ></button>
+          {%- endfor -%}
+        {%- endif -%}
+      </div>
+      <div class="fh-gallery__main">
+        {%- assign main_image = current_variant.featured_image | default: product.featured_image -%}
+        <div
+          class="fh-gallery__main-img"
+          data-gallery-main
+          style="background-image: url('{{ main_image | image_url: width: 1000 }}');"
+        ></div>
+      </div>
+    </div>
+
+    <!-- DETAILS -->
+    <div class="fh-pdp-details">
+      <div class="fh-pdp-details__rating">
+        <div class="fh-rating fh-rating--sm">★★★★★</div>
+        <span class="fh-pdp-details__rating-text">{{ 'flubberhomme.hero.rating' | t }}</span>
+      </div>
+      <h1 class="fh-pdp-details__title">{{ product.title }}</h1>
+
+      <div class="fh-price-row">
+        <span class="fh-price" data-product-price>{{ current_variant.price | money }}</span>
+        {%- if current_variant.compare_at_price > current_variant.price -%}
+          <span class="fh-price fh-price--compare" data-product-compare-price>{{ current_variant.compare_at_price | money }}</span>
+          {%- assign discount_pct = current_variant.compare_at_price | minus: current_variant.price | times: 100.0 | divided_by: current_variant.compare_at_price -%}
+          <span class="fh-chip--save" data-product-save>-{{ discount_pct | round }}%</span>
+        {%- endif -%}
+      </div>
+
+      {%- form 'product', product, id: 'ProductForm', class: 'fh-product-form' -%}
+        <input type="hidden" name="id" value="{{ current_variant.id }}" data-product-variant-id>
+
+        {%- if has_color_swatches -%}
+          <div class="fh-color-label">{{ 'flubberhomme.product.color_label' | t }}: <span class="fh-color-label__value" data-product-color-value>{{ current_variant.title }}</span></div>
+          <div class="fh-swatches">
+            {%- for variant in product.variants -%}
+              {%- capture hex -%}{% render 'swatch-hex', name: variant.title %}{%- endcapture -%}
+              <button
+                type="button"
+                class="fh-swatch{% if variant.id == current_variant.id %} is-active{% endif %}"
+                style="background: {{ hex | strip }};"
+                data-variant-swatch="{{ variant.id }}"
+                data-variant-label="{{ variant.title | escape }}"
+                title="{{ variant.title | escape }}"
+                aria-label="{{ variant.title | escape }}"
+              ></button>
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+
+        <div class="fh-buy-row">
+          <div class="fh-qty" data-qty-wrapper data-qty-auto-submit>
+            <button type="button" class="fh-qty__btn" data-qty-decrease aria-label="-">−</button>
+            <input type="number" name="quantity" value="1" min="1" class="fh-qty__value" style="border:none; background:none;" data-qty-value>
+            <button type="button" class="fh-qty__btn" data-qty-increase aria-label="+">+</button>
+          </div>
+          <button type="submit" class="fh-add-to-cart" data-add-to-cart {% unless current_variant.available %}disabled{% endunless %}>
+            {%- if current_variant.available -%}
+              {{ 'flubberhomme.product.add_to_cart' | t }} — <span data-product-line-price>{{ current_variant.price | money }}</span>
+            {%- else -%}
+              {{ 'flubberhomme.product.sold_out' | t }}
+            {%- endif -%}
+          </button>
+        </div>
+      {%- endform -%}
+
+      <div class="fh-trust">
+        <span class="fh-trust__item"><span>✓</span>{{ 'flubberhomme.product.trust_1' | t }}</span>
+        <span class="fh-trust__item"><span>✓</span>{{ 'flubberhomme.product.trust_2' | t }}</span>
+        <span class="fh-trust__item"><span>✓</span>{{ 'flubberhomme.product.trust_3' | t }}</span>
+      </div>
+
+      <h3>{{ 'flubberhomme.product.description_title' | t }}</h3>
+      <div class="fh-pdp-details__desc">
+        {%- if product.description != blank -%}
+          {{ product.description }}
+        {%- else -%}
+          {{ 'flubberhomme.product.description_body' | t }}
+        {%- endif -%}
+      </div>
+
+      {%- assign feature_blocks = section.blocks | where: 'type', 'feature' -%}
+      {%- if feature_blocks.size > 0 -%}
+        <ul class="fh-features">
+          {%- for block in feature_blocks -%}
+            <li {{ block.shopify_attributes }}><span>→</span>{{ block.settings.text }}</li>
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+    </div>
+  </div>
+
+  {%- assign review_blocks = section.blocks | where: 'type', 'review' -%}
+  {%- if review_blocks.size > 0 -%}
+    <section style="margin-top: clamp(48px,6vw,80px);">
+      <div class="fh-reviews-head">
+        <h2>{{ 'flubberhomme.product.reviews_title' | t }}</h2>
+        <span class="fh-rating fh-rating--sm">★★★★★</span>
+        <span class="fh-reviews-head__count">{{ 'flubberhomme.product.reviews_summary' | t }}</span>
+      </div>
+      <div class="fh-review-grid">
+        {%- for block in review_blocks -%}
+          {%- assign stars = block.settings.rating | default: 5 -%}
+          <div class="review-card" {{ block.shopify_attributes }}>
+            <div class="fh-rating fh-rating--xs">
+              {%- for i in (1..5) -%}{% if i <= stars %}★{% else %}☆{% endif %}{%- endfor -%}
+            </div>
+            <p class="review-card__quote">&ldquo;{{ block.settings.text }}&rdquo;</p>
+            <div class="review-card__meta">
+              <span class="review-card__avatar">{{ block.settings.name | slice: 0, 1 }}</span>
+              <span class="review-card__name">{{ block.settings.name }}</span>
+              {%- if block.settings.verified -%}
+                <span class="review-card__badge">{{ 'flubberhomme.reviews.verified' | t }}</span>
+              {%- endif -%}
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+    </section>
+  {%- endif -%}
+
+  {%- assign faq_blocks = section.blocks | where: 'type', 'faq' -%}
+  {%- if faq_blocks.size > 0 -%}
+    <section class="fh-faq" style="margin-top: clamp(40px,5vw,64px);">
+      <h2>{{ 'flubberhomme.product.faq_title' | t }}</h2>
+      <div class="fh-faq-list">
+        {%- for block in faq_blocks -%}
+          <details class="fh-faq-item" {{ block.shopify_attributes }}>
+            <summary>{{ block.settings.question }}</summary>
+            <p>{{ block.settings.answer }}</p>
+          </details>
+        {%- endfor -%}
+      </div>
+    </section>
+  {%- endif -%}
+</div>
+
+<script type="application/json" data-product-json>
+  {
+    "variants": {{ product.variants | json }},
+    "fallback_image": {{ product.featured_image | image_url: width: 1000 | json }}
+  }
+</script>
+
+{% schema %}
+{
+  "name": "Página de producto",
+  "settings": [
+    {
+      "type": "collection",
+      "id": "shop_collection",
+      "label": "Colección \"Volver a la tienda\""
+    }
+  ],
+  "blocks": [
+    {
+      "type": "feature",
+      "name": "Característica",
+      "settings": [
+        { "type": "text", "id": "text", "label": "Texto" }
+      ]
+    },
+    {
+      "type": "review",
+      "name": "Reseña",
+      "settings": [
+        { "type": "text", "id": "name", "label": "Nombre" },
+        { "type": "range", "id": "rating", "label": "Estrellas", "min": 1, "max": 5, "step": 1, "default": 5 },
+        { "type": "textarea", "id": "text", "label": "Comentario" },
+        { "type": "checkbox", "id": "verified", "label": "Compra verificada", "default": true }
+      ]
+    },
+    {
+      "type": "faq",
+      "name": "Pregunta frecuente",
+      "settings": [
+        { "type": "text", "id": "question", "label": "Pregunta" },
+        { "type": "textarea", "id": "answer", "label": "Respuesta" }
+      ]
+    }
+  ]
+}
+{% endschema %}

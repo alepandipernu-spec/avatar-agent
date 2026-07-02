@@ -1,0 +1,14 @@
+<div class="fh-wrap fh-wrap--help" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <a href="{{ blog.url }}" class="fh-back-link">← {{ blog.title }}</a>
+  <h1 class="fh-page-hero__title">{{ article.title }}</h1>
+  <div class="fh-pdp-details__desc" style="font-size: 17px;">
+    {{ article.content }}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Artículo",
+  "settings": []
+}
+{% endschema %}

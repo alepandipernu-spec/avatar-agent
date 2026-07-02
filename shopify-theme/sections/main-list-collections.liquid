@@ -1,0 +1,26 @@
+<div class="fh-wrap" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <div class="fh-collection-head">
+    <h1 class="fh-collection-head__title">{{ 'flubberhomme.nav.shop' | t }}</h1>
+  </div>
+  <div class="product-grid">
+    {%- for coll in collections -%}
+      <a href="{{ coll.url }}" class="product-card">
+        <span class="product-card__link">
+          <span class="product-card__media" style="display:block;">
+            {%- if coll.featured_image -%}
+              <img class="product-card__img" src="{{ coll.featured_image | image_url: width: 520 }}" alt="{{ coll.featured_image.alt | default: coll.title | escape }}" loading="lazy" width="520" height="520">
+            {%- endif -%}
+          </span>
+          <h3 class="product-card__name product-card__name--top">{{ coll.title }}</h3>
+        </span>
+      </a>
+    {%- endfor -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Listado de colecciones",
+  "settings": []
+}
+{% endschema %}

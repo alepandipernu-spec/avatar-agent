@@ -1,0 +1,141 @@
+<div class="fh-wrap fh-wrap--narrow" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <h1 class="fh-page-title">{{ 'flubberhomme.cart.title' | t }}</h1>
+
+  {%- if cart.item_count == 0 -%}
+    <div class="fh-cart-empty">
+      <p>{{ 'flubberhomme.cart.empty' | t }}</p>
+      <a href="{{ section.settings.shop_collection.url | default: routes.all_products_collection_url }}" class="btn btn--accent">{{ 'flubberhomme.cart.start_shopping' | t }}</a>
+    </div>
+  {%- else -%}
+    <form action="{{ routes.cart_url }}" method="post" id="CartForm" data-cart-form>
+      <div class="fh-cart-grid">
+        <div class="fh-cart-lines">
+          {%- for line in cart.items -%}
+            <div class="cart-line">
+              <div class="cart-line__thumb">
+                <img src="{{ line.image | image_url: width: 176 }}" alt="{{ line.image.alt | default: line.title | escape }}" width="88" height="88" loading="lazy">
+              </div>
+              <div class="cart-line__info">
+                {%- if line.variant.title != blank and line.variant.title != 'Default Title' -%}
+                  {%- capture hex -%}{% render 'swatch-hex', name: line.variant.title %}{%- endcapture -%}
+                  <div class="cart-line__color-row">
+                    <span class="cart-line__dot" style="background: {{ hex | strip }};"></span>
+                    <span class="cart-line__color">{{ line.variant.title }}</span>
+                  </div>
+                {%- endif -%}
+                <span class="cart-line__name">{{ line.product.title }}</span>
+                <div class="cart-line__controls">
+                  <div class="fh-qty cart-line__qty" data-qty-wrapper data-qty-auto-submit>
+                    <button type="button" class="fh-qty__btn" data-qty-decrease aria-label="-">−</button>
+                    <input
+                      type="number"
+                      class="cart-line__qty-input"
+                      name="updates[{{ line.key }}]"
+                      value="{{ line.quantity }}"
+                      min="0"
+                      data-qty-value
+                      data-cart-line-key="{{ line.key }}"
+                      aria-label="{{ line.product.title | escape }}"
+                    >
+                    <button type="button" class="fh-qty__btn" data-qty-increase aria-label="+">+</button>
+                  </div>
+                  <button type="button" class="cart-line__remove" data-cart-remove="{{ line.key }}">{{ 'flubberhomme.cart.remove' | t }}</button>
+                </div>
+              </div>
+              <span class="cart-line__price">{{ line.final_line_price | money }}</span>
+            </div>
+          {%- endfor -%}
+        </div>
+
+        <div class="fh-summary">
+          <h2>{{ 'flubberhomme.cart.summary' | t }}</h2>
+
+          <div class="fh-coupon-row" data-coupon-row>
+            <input type="text" data-coupon-input placeholder="{{ 'flubberhomme.cart.coupon_placeholder' | t }}">
+            <button type="button" data-coupon-apply>{{ 'flubberhomme.cart.coupon_apply' | t }}</button>
+          </div>
+          <p class="fh-summary-note" style="text-align:left; margin: 0 0 16px;">{{ 'flubberhomme.cart.coupon_go' | t }}</p>
+
+          {%- if cart.total_discount > 0 -%}
+            <div class="fh-summary-row"><span>{{ 'flubberhomme.cart.coupon_row' | t }}</span><span class="fh-discount">-{{ cart.total_discount | money }}</span></div>
+          {%- endif -%}
+
+          <div class="fh-summary-row"><span>{{ 'flubberhomme.cart.subtotal' | t }}</span><strong>{{ cart.items_subtotal_price | money }}</strong></div>
+
+          {%- assign free_shipping_threshold_cents = section.settings.free_shipping_threshold | times: 100 -%}
+          <div class="fh-summary-row">
+            <span>{{ 'flubberhomme.cart.shipping' | t }}</span>
+            {%- if cart.items_subtotal_price >= free_shipping_threshold_cents -%}
+              <span class="fh-discount">{{ 'flubberhomme.cart.free_shipping_note' | t }}</span>
+            {%- else -%}
+              <span>{{ 'flubberhomme.cart.shipping_note' | t }}</span>
+            {%- endif -%}
+          </div>
+
+          <div class="fh-summary-divider"></div>
+          <div class="fh-summary-total"><span>{{ 'flubberhomme.cart.total' | t }}</span><span>{{ cart.total_price | money }}</span></div>
+          <p class="fh-summary-note" style="margin: -14px 0 18px;">{{ 'flubberhomme.cart.totals_note' | t }}</p>
+
+          <button type="submit" name="checkout" class="btn btn--accent btn--full">{{ 'flubberhomme.cart.checkout' | t }}</button>
+          <p class="fh-summary-note">🔒 {{ 'flubberhomme.cart.secure' | t }}</p>
+        </div>
+      </div>
+    </form>
+
+    {%- if section.settings.cross_sell_collection != blank -%}
+      <section class="fh-cross-sell">
+        <h2>{{ 'flubberhomme.cart.cross_sell_title' | t }}</h2>
+        <div class="fh-cross-sell__grid">
+          {%- assign shown = 0 -%}
+          {%- for product in section.settings.cross_sell_collection.products -%}
+            {%- if shown >= 3 -%}{%- break -%}{%- endif -%}
+            {%- assign already_in_cart = false -%}
+            {%- for line in cart.items -%}
+              {%- if line.product_id == product.id -%}{%- assign already_in_cart = true -%}{%- endif -%}
+            {%- endfor -%}
+            {%- unless already_in_cart -%}
+              {%- assign shown = shown | plus: 1 -%}
+              {%- assign cs_variant = product.selected_or_first_available_variant -%}
+              <div class="fh-cross-sell__item">
+                <img class="fh-cross-sell__thumb" src="{{ product.featured_image | image_url: width: 112 }}" alt="{{ product.featured_image.alt | default: product.title | escape }}" loading="lazy" width="56" height="56">
+                <div class="fh-cross-sell__info">
+                  <span class="fh-cross-sell__name">{{ product.title }}</span>
+                  <span class="fh-cross-sell__price">{{ cs_variant.price | money }}</span>
+                </div>
+                {%- form 'product', product -%}
+                  <input type="hidden" name="id" value="{{ cs_variant.id }}">
+                  <button type="submit" class="btn btn--ink btn--round">+</button>
+                {%- endform -%}
+              </div>
+            {%- endunless -%}
+          {%- endfor -%}
+        </div>
+      </section>
+    {%- endif -%}
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Carrito",
+  "settings": [
+    {
+      "type": "collection",
+      "id": "shop_collection",
+      "label": "Colección para \"Ir a la tienda\""
+    },
+    {
+      "type": "collection",
+      "id": "cross_sell_collection",
+      "label": "Colección para \"Completá tu compra\""
+    },
+    {
+      "type": "number",
+      "id": "free_shipping_threshold",
+      "label": "Umbral de envío gratis (informativo)",
+      "info": "Monto en la moneda de la tienda, por ejemplo 50 para $50.",
+      "default": 50
+    }
+  ]
+}
+{% endschema %}

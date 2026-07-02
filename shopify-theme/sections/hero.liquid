@@ -1,0 +1,62 @@
+<section class="fh-wrap fh-hero">
+  <div>
+    <div class="fh-eyebrow">
+      <span class="fh-eyebrow__dot"></span>{{ 'flubberhomme.hero.eyebrow' | t }}
+    </div>
+    <h1 class="fh-hero__title">{{ 'flubberhomme.hero.title' | t }}</h1>
+    <p class="fh-hero__sub">{{ 'flubberhomme.hero.subtitle' | t }}</p>
+    <div class="fh-hero__cta">
+      <a href="{{ section.settings.primary_product.url | default: section.settings.shop_collection.url | default: routes.all_products_collection_url }}" class="btn btn--accent">
+        {{ 'flubberhomme.hero.buy_now' | t }}{% if section.settings.primary_product != blank %} · {{ section.settings.primary_product.price | money }}{% endif %}
+      </a>
+      <a href="{{ section.settings.shop_collection.url | default: routes.all_products_collection_url }}" class="btn btn--ghost">{{ 'flubberhomme.hero.shop_all' | t }}</a>
+    </div>
+    <div class="fh-hero__rating">
+      <div class="fh-rating">★★★★★</div>
+      <span class="fh-hero__rating-text">{{ 'flubberhomme.hero.rating' | t }}</span>
+    </div>
+  </div>
+
+  <div class="fh-hero__art">
+    <div class="fh-hero__blob" aria-hidden="true"></div>
+    <div class="fh-hero__ring" aria-hidden="true"></div>
+    <div class="fh-hero__frame">
+      {%- if section.settings.hero_image != blank -%}
+        <img class="fh-hero__img" src="{{ section.settings.hero_image | image_url: width: 1200 }}" alt="{{ section.settings.hero_image.alt | default: 'flubberhomme' | escape }}" loading="eager" width="1200" height="1440">
+      {%- else -%}
+        <img class="fh-hero__img" src="{{ 'producto.png' | asset_url }}" alt="Licuadora flubberhomme" loading="eager">
+      {%- endif -%}
+    </div>
+    <div class="fh-hero__price-card">
+      <span class="fh-hero__price-label">{{ 'flubberhomme.hero.price_label' | t }}</span>
+      <span class="fh-hero__price-value">{% if section.settings.primary_product != blank %}{{ section.settings.primary_product.price | money }}{% else %}$49.90{% endif %}</span>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Hero",
+  "settings": [
+    {
+      "type": "product",
+      "id": "primary_product",
+      "label": "Producto principal (CTA y precio)"
+    },
+    {
+      "type": "collection",
+      "id": "shop_collection",
+      "label": "Colección \"Ver la tienda\""
+    },
+    {
+      "type": "image_picker",
+      "id": "hero_image",
+      "label": "Imagen del producto",
+      "info": "Si se deja vacío, se usa la imagen del diseño original."
+    }
+  ],
+  "presets": [
+    { "name": "Hero" }
+  ]
+}
+{% endschema %}

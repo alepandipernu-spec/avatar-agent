@@ -1,0 +1,44 @@
+{%- liquid
+  assign page_heading = page.title
+  if page_heading == blank
+    assign page_heading = 'flubberhomme.contact.title' | t
+  endif
+  assign contact_email = section.settings.contact_email
+  if contact_email == blank
+    assign contact_email = 'flubberhomme.contact.mail' | t
+  endif
+-%}
+<div class="fh-wrap fh-wrap--narrow" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <h1 class="fh-page-hero__title">{{ page_heading }}</h1>
+  <p class="fh-page-hero__sub">{{ 'flubberhomme.contact.subtitle' | t }}</p>
+
+  <div class="fh-contact-grid">
+    {%- form 'contact', class: 'fh-contact-form' -%}
+      {%- if form.posted_successfully? -%}
+        <div class="fh-form-status fh-form-status--success">{{ 'flubberhomme.contact.sent' | t }}</div>
+      {%- endif -%}
+      {%- if form.errors -%}
+        <div class="fh-form-status fh-form-status--error">{{ form.errors | default_errors }}</div>
+      {%- endif -%}
+      <input type="text" name="contact[name]" class="fh-field" placeholder="{{ 'flubberhomme.contact.name' | t }}" value="{{ form.name }}" required>
+      <input type="email" name="contact[email]" class="fh-field" placeholder="{{ 'flubberhomme.contact.email' | t }}" value="{{ form.email }}" required>
+      <textarea name="contact[body]" rows="5" class="fh-field" placeholder="{{ 'flubberhomme.contact.message' | t }}" required>{{ form.body }}</textarea>
+      <button type="submit" class="btn btn--accent">{{ 'flubberhomme.contact.send' | t }}</button>
+    {%- endform -%}
+
+    <div class="fh-contact-panel">
+      <h3>{{ 'flubberhomme.contact.info_heading' | t }}</h3>
+      <p class="fh-mail">{{ contact_email }}</p>
+      <p class="fh-hours">{{ 'flubberhomme.contact.hours' | t }}</p>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Página de contacto",
+  "settings": [
+    { "type": "text", "id": "contact_email", "label": "Email de contacto (opcional)" }
+  ]
+}
+{% endschema %}

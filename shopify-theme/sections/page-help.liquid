@@ -1,0 +1,40 @@
+{%- liquid
+  assign page_heading = page.title
+  if page_heading == blank
+    assign page_heading = 'flubberhomme.help.title' | t
+  endif
+-%}
+<div class="fh-wrap fh-wrap--help" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <h1 class="fh-page-hero__title">{{ page_heading }}</h1>
+  <p class="fh-page-hero__sub">{{ 'flubberhomme.help.subtitle' | t }}</p>
+
+  <div class="fh-help-list">
+    <div class="fh-help-card" id="shipping">
+      <h3>{{ 'flubberhomme.help.shipping_h' | t }}</h3>
+      <p>{{ 'flubberhomme.help.shipping_p' | t }}</p>
+    </div>
+    <div class="fh-help-card" id="returns">
+      <h3>{{ 'flubberhomme.help.returns_h' | t }}</h3>
+      <p>{{ 'flubberhomme.help.returns_p' | t }}</p>
+    </div>
+    <div class="fh-help-card" id="warranty">
+      <h3>{{ 'flubberhomme.help.warranty_h' | t }}</h3>
+      <p>{{ 'flubberhomme.help.warranty_p' | t }}</p>
+    </div>
+    <div class="fh-help-card" id="contact">
+      <h3>{{ 'flubberhomme.help.contact_h' | t }}</h3>
+      <p>{{ 'flubberhomme.help.contact_p' | t }}</p>
+    </div>
+  </div>
+
+  {%- if page.content != blank -%}
+    <div class="fh-pdp-details__desc" style="margin-top: 32px;">{{ page.content }}</div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Página de ayuda",
+  "settings": []
+}
+{% endschema %}

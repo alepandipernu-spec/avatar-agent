@@ -1,0 +1,25 @@
+<section class="fh-wrap fh-section" data-reveal>
+  <h2 class="fh-section__title">{{ 'flubberhomme.how_it_works.title' | t }}</h2>
+  <p class="fh-section__sub">{{ 'flubberhomme.how_it_works.subtitle' | t }}</p>
+  <div class="fh-steps">
+    {%- for i in (1..3) -%}
+      <div class="fh-step">
+        <span class="fh-step__badge">{{ i }}</span>
+        <div>
+          <h3 class="fh-step__title">{{ 'flubberhomme.how_it_works.step_' | append: i | append: '_title' | t }}</h3>
+          <p class="fh-step__desc">{{ 'flubberhomme.how_it_works.step_' | append: i | append: '_desc' | t }}</p>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Así de simple",
+  "settings": [],
+  "presets": [
+    { "name": "Así de simple" }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,275 @@
+{
+  "general": {
+    "accessibility": {
+      "skip_to_content": "Saltar al contenido"
+    },
+    "meta": {
+      "title_suffix": "flubberhomme"
+    }
+  },
+  "flubberhomme": {
+    "marquee": {
+      "item_1": "Envío gratis desde $50",
+      "item_2": "Garantía de 12 meses",
+      "item_3": "Recargable por USB",
+      "item_4": "Pagá hasta en 12 cuotas",
+      "item_5": "Devolución en 30 días"
+    },
+    "nav": {
+      "home": "Inicio",
+      "shop": "Tienda",
+      "product": "Producto",
+      "help": "Ayuda",
+      "about": "Nosotros",
+      "contact": "Contacto"
+    },
+    "lang": { "es": "ES", "en": "EN" },
+    "search": {
+      "placeholder": "Buscar color o pack…",
+      "empty": "Sin resultados",
+      "open": "Buscar",
+      "cart": "Carrito"
+    },
+    "hero": {
+      "eyebrow": "Licuadora portátil recargable",
+      "title": "Tu smoothie, en cualquier lado.",
+      "subtitle": "Cargá fruta, apretá un botón y tomá directo del vaso. Sin cables, sin excusas.",
+      "buy_now": "Comprar ahora",
+      "shop_all": "Ver la tienda",
+      "rating": "4.9/5 · 2.480 reseñas",
+      "price_label": "Desde"
+    },
+    "value_props": {
+      "1_title": "Recargable por USB",
+      "1_desc": "Se carga con el cable incluido, sin pilas.",
+      "2_title": "4 cuchillas de acero",
+      "2_desc": "Aspas en cruz para fruta, hielo y batidos.",
+      "3_title": "Botella con asa",
+      "3_desc": "Tapa a rosca y aro de silicona para llevar.",
+      "4_title": "Lista para usar",
+      "4_desc": "Incluye cable de carga y manual (LL-890)."
+    },
+    "how_it_works": {
+      "title": "Así de simple",
+      "subtitle": "Un smoothie fresco en tres pasos, donde sea que estés.",
+      "step_1_title": "Cargá por USB",
+      "step_1_desc": "Con el cable que viene incluido. Un cable, sin enchufes especiales.",
+      "step_2_title": "Agregá tu fruta",
+      "step_2_desc": "Frutas, hielo, proteína o avena. Vos elegís la receta.",
+      "step_3_title": "Licuá y tomá",
+      "step_3_desc": "Doble toque y en 30 segundos tomás directo del vaso."
+    },
+    "box": {
+      "title": "En la caja",
+      "subtitle": "Cada licuadora llega lista para usar, con su cable de carga y manual.",
+      "item_1": "Licuadora portátil (LL-890)",
+      "item_2": "Cable de carga USB",
+      "item_3": "Manual de uso"
+    },
+    "bestseller": {
+      "badge": "Más vendido",
+      "title": "La licuadora que se lleva todo el crédito.",
+      "subtitle": "Motor potente, diseño lindo y batería que aguanta la semana. La favorita de más de 2.400 clientes.",
+      "cta": "Ver producto"
+    },
+    "testimonials": {
+      "title": "Lo que dicen quienes ya la tienen",
+      "1_text": "La uso todas las mañanas antes del gym. Me cambió la rutina.",
+      "1_name": "Camila R.",
+      "2_text": "Calidad increíble por el precio. El motor es potente de verdad.",
+      "2_name": "Martín G.",
+      "3_text": "Llegó rápido y funciona perfecto. Ya pedí otra de regalo.",
+      "3_name": "Lucía P."
+    },
+    "compare": {
+      "title": "¿Por qué flubberhomme?",
+      "subtitle": "Cómo se compara con una licuadora de mesa común.",
+      "head_a": "flubberhomme",
+      "head_b": "Licuadora común",
+      "row_1": "Portátil y recargable",
+      "row_2": "Tomás directo del vaso",
+      "row_3": "Sin cables mientras la usás",
+      "row_4": "Entra en la mochila",
+      "row_5": "Fácil de limpiar"
+    },
+    "recipes": {
+      "title": "Recetas para arrancar",
+      "subtitle": "Tres batidos listos en menos de un minuto.",
+      "1_tag": "Clásico",
+      "1_name": "Frutilla-banana",
+      "1_desc": "Frutilla, banana, leche o bebida vegetal y un toque de miel.",
+      "2_tag": "Liviano",
+      "2_name": "Verde detox",
+      "2_desc": "Espinaca, manzana verde, apio, jengibre y agua fría.",
+      "3_tag": "Refrescante",
+      "3_name": "Mango tropical",
+      "3_desc": "Mango, ananá, jugo de naranja y unos cubos de hielo."
+    },
+    "cta_banner": {
+      "title": "Empezá a licuar hoy",
+      "subtitle": "Envío gratis y 30 días de garantía de devolución. Si no te encanta, te devolvemos la plata.",
+      "button": "Comprar — $49.90"
+    },
+    "product": {
+      "back_to_shop": "Volver a la tienda",
+      "save_tag": "-17%",
+      "color_label": "Color",
+      "add_to_cart": "Agregar al carrito",
+      "sold_out": "Agotado",
+      "trust_1": "Envío en 24–48h",
+      "trust_2": "Garantía 12 meses",
+      "trust_3": "Pago seguro",
+      "description_title": "Sobre la licuadora",
+      "description_body": "La flubberhomme es una licuadora-vaso portátil tipo botella (modelo LL-890). Se recarga por USB con el cable incluido y trae 4 cuchillas de acero inoxidable en cruz para licuar fruta, hielo o batidos y tomar directo del vaso.",
+      "feature_1": "4 cuchillas de acero inoxidable en cruz",
+      "feature_2": "Batería recargable por USB (cable incluido)",
+      "feature_3": "Vaso transparente tipo botella con tapa a rosca",
+      "feature_4": "Aro de silicona para transportarla",
+      "feature_5": "Incluye manual de uso (modelo LL-890)",
+      "reviews_title": "Lo que opinan quienes ya la tienen",
+      "reviews_summary": "4.9 de 5 · 2.480 reseñas",
+      "faq_title": "Preguntas frecuentes",
+      "faq_1_q": "¿Puede con hielo y fruta congelada?",
+      "faq_1_a": "Sí. Las 4 cuchillas de acero licúan hielo y fruta congelada; cortala en trozos y no pases la línea de llenado máximo.",
+      "faq_2_q": "¿Cuánto dura la batería?",
+      "faq_2_a": "Con una carga completa hacés varios batidos seguidos. Se recarga por USB con el cable incluido.",
+      "faq_3_q": "¿Cómo se limpia?",
+      "faq_3_a": "El vaso se enjuaga fácil. Poné agua con una gota de jabón, encendela unos segundos y listo. No sumerjas la base del motor.",
+      "faq_4_q": "¿Qué incluye la caja?",
+      "faq_4_a": "La licuadora (modelo LL-890), el cable de carga USB y el manual de uso."
+    },
+    "reviews": {
+      "verified": "Compra verificada",
+      "1_name": "Camila R.",
+      "1_text": "La uso todas las mañanas antes del gym. Potente y súper fácil de limpiar.",
+      "2_name": "Martín G.",
+      "2_text": "Calidad increíble por el precio. La batería aguanta varios días.",
+      "3_name": "Lucía P.",
+      "3_text": "Llegó en 2 días y funciona perfecto. Le pondría 5 si viniera con más recetas.",
+      "4_name": "Nahuel D.",
+      "4_text": "Ideal para llevar al trabajo. Hace batidos con hielo sin problema."
+    },
+    "collection": {
+      "title": "Toda la colección",
+      "subtitle": "Elegí tu color favorito o llevate un pack y ahorrá.",
+      "count": "{{ count }} productos",
+      "add": "Agregar",
+      "save_badge": "Ahorrá {{ amount }}"
+    },
+    "cart": {
+      "title": "Tu carrito",
+      "empty": "Todavía no agregaste nada.",
+      "start_shopping": "Ir a la tienda",
+      "remove": "Quitar",
+      "summary": "Resumen del pedido",
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "free": "Gratis",
+      "total": "Total",
+      "checkout": "Finalizar compra",
+      "secure": "Pago 100% seguro y encriptado",
+      "coupon_placeholder": "Código (probá FLUBBER10)",
+      "coupon_apply": "Aplicar",
+      "coupon_ok": "Cupón aplicado: -10%",
+      "coupon_row": "Descuento (FLUBBER10)",
+      "cross_sell_title": "Completá tu compra",
+      "shipping_note": "Envío calculado en el checkout",
+      "free_shipping_note": "Envío gratis en este pedido",
+      "coupon_go": "Ingresá el código y continuá al checkout para aplicarlo.",
+      "totals_note": "Impuestos y envío se calculan en el checkout."
+    },
+    "checkout": {
+      "back_to_cart": "Volver al carrito",
+      "title": "Finalizar compra",
+      "contact_heading": "Contacto",
+      "shipping_heading": "Dirección de envío",
+      "payment_heading": "Pago",
+      "name": "Nombre y apellido",
+      "email": "Email",
+      "phone": "Teléfono",
+      "address": "Dirección",
+      "city": "Ciudad",
+      "zip": "Código postal",
+      "card": "Número de tarjeta",
+      "exp": "MM/AA",
+      "cvc": "CVC",
+      "pay": "Pagar",
+      "summary": "Resumen",
+      "secure": "Pago seguro y encriptado"
+    },
+    "footer": {
+      "blurb": "Licuadoras portátiles que hacen que comer sano sea fácil, en cualquier lado.",
+      "email_placeholder": "Tu email",
+      "subscribe": "Sumarme",
+      "col_shop": "Tienda",
+      "col_help": "Ayuda",
+      "col_about": "Nosotros",
+      "shop_link_1": "Licuadora Rosa",
+      "shop_link_2": "Licuadora Blanco",
+      "shop_link_3": "Licuadora Lavanda",
+      "shop_link_4": "Packs",
+      "help_link_1": "Envíos",
+      "help_link_2": "Devoluciones",
+      "help_link_3": "Garantía",
+      "help_link_4": "Contacto",
+      "about_link_1": "Historia",
+      "about_link_2": "Sostenibilidad",
+      "about_link_3": "Prensa",
+      "about_link_4": "Trabajá con nosotros",
+      "rights": "© 2026 flubberhomme. Todos los derechos reservados."
+    },
+    "help": {
+      "title": "Ayuda",
+      "subtitle": "¿Tenés una duda? Acá están las respuestas más frecuentes.",
+      "shipping_h": "Envíos",
+      "shipping_p": "Enviamos a todo el país en 24–48 h hábiles. El envío es gratis en compras superiores a $50; por debajo tiene un costo fijo de $5.90.",
+      "returns_h": "Devoluciones",
+      "returns_p": "Tenés 30 días desde que recibís el producto para devolverlo. Si no te convence, te reintegramos el importe completo.",
+      "warranty_h": "Garantía",
+      "warranty_p": "Todas las licuadoras tienen 12 meses de garantía por defectos de fabricación (modelo LL-890). Escribinos y la gestionamos sin vueltas.",
+      "contact_h": "Contacto",
+      "contact_p": "Escribinos a hola@flubberhomme.com o por WhatsApp. Respondemos de lunes a viernes, de 9 a 18 h."
+    },
+    "about": {
+      "title": "Nosotros",
+      "heading": "Hacemos que comer sano sea fácil, en cualquier lado.",
+      "body": "flubberhomme nació con una idea simple: que preparar un batido no dependa de tener una cocina cerca. Diseñamos licuadoras portátiles que se cargan por USB, caben en cualquier bolso y se limpian en segundos.",
+      "value_1_h": "Simple",
+      "value_1_p": "Un botón y listo. Sin cables ni piezas complicadas.",
+      "value_2_h": "Portátil",
+      "value_2_p": "Pensada para el gym, la oficina o un viaje.",
+      "value_3_h": "Honesta",
+      "value_3_p": "Buen producto a un precio justo, sin promesas infladas.",
+      "stat_1_n": "2.480+",
+      "stat_1_l": "clientes felices",
+      "stat_2_n": "4.9/5",
+      "stat_2_l": "valoración media",
+      "stat_3_n": "12",
+      "stat_3_l": "meses de garantía"
+    },
+    "contact": {
+      "title": "Contacto",
+      "subtitle": "Escribinos y te respondemos dentro de las 24 h hábiles.",
+      "name": "Tu nombre",
+      "email": "Tu email",
+      "message": "Tu mensaje",
+      "send": "Enviar mensaje",
+      "sent": "¡Mensaje enviado! Te contactamos pronto.",
+      "info_heading": "Otros canales",
+      "mail": "hola@flubberhomme.com",
+      "hours": "Lun a Vie · 9 a 18 h"
+    },
+    "products": {
+      "portable_blender": "Licuadora Portátil",
+      "color": {
+        "rosa": "Rosa",
+        "blanco": "Blanco",
+        "lavanda": "Lavanda",
+        "azul": "Azul"
+      }
+    },
+    "payments": {
+      "label": "VISA, MASTERCARD, AMEX, PAYPAL, MERCADO PAGO"
+    }
+  }
+}

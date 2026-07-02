@@ -1,0 +1,75 @@
+<header class="fh-header">
+  <div class="fh-wrap fh-header__inner">
+    <a href="{{ routes.root_url }}" class="fh-logo">flubber<span class="fh-logo__accent">homme</span></a>
+
+    <nav class="fh-nav" aria-label="Main">
+      <a href="{{ routes.root_url }}" class="fh-nav__link{% if request.page_type == 'index' %} is-active{% endif %}">{{ 'flubberhomme.nav.home' | t }}</a>
+      {%- if section.settings.shop_collection != blank -%}
+        <a href="{{ section.settings.shop_collection.url }}" class="fh-nav__link{% if collection.handle == section.settings.shop_collection.handle %} is-active{% endif %}">{{ 'flubberhomme.nav.shop' | t }}</a>
+      {%- else -%}
+        <a href="{{ routes.all_products_collection_url }}" class="fh-nav__link{% if request.page_type == 'collection' %} is-active{% endif %}">{{ 'flubberhomme.nav.shop' | t }}</a>
+      {%- endif -%}
+      {%- if section.settings.featured_product != blank -%}
+        <a href="{{ section.settings.featured_product.url }}" class="fh-nav__link{% if request.page_type == 'product' %} is-active{% endif %}">{{ 'flubberhomme.nav.product' | t }}</a>
+      {%- endif -%}
+    </nav>
+
+    <div class="fh-header__actions">
+      {%- if localization.available_languages.size > 1 -%}
+        {%- form 'localization', id: 'HeaderLocalizationForm' -%}
+          <div class="fh-lang">
+            {%- for language in localization.available_languages -%}
+              <button type="submit" name="locale_code" value="{{ language.iso_code }}" class="fh-lang__btn{% if language.iso_code == localization.language.iso_code %} is-active{% endif %}">{{ language.iso_code | upcase }}</button>
+            {%- endfor -%}
+          </div>
+        {%- endform -%}
+      {%- endif -%}
+
+      <button type="button" class="fh-icon-btn" data-search-toggle aria-expanded="false" aria-controls="HeaderSearchPanel" title="{{ 'flubberhomme.search.open' | t }}">
+        {%- render 'icon-search' -%}
+      </button>
+
+      <a href="{{ routes.cart_url }}" class="fh-cart-btn" title="{{ 'flubberhomme.search.cart' | t }}">
+        {%- render 'icon-cart' -%}
+        <span class="fh-badge{% if cart.item_count == 0 %} visually-hidden{% endif %}" data-cart-badge>{{ cart.item_count }}</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="fh-search" id="HeaderSearchPanel" data-search-panel>
+    <div class="fh-search__inner">
+      <form action="{{ routes.search_url }}" method="get" role="search" data-search-form>
+        <input
+          type="search"
+          name="q"
+          class="fh-search__input"
+          data-search-input
+          placeholder="{{ 'flubberhomme.search.placeholder' | t }}"
+          autocomplete="off"
+        >
+        <input type="hidden" name="type" value="product">
+      </form>
+      <div class="fh-search__grid" data-search-results></div>
+      <p class="fh-search__empty" data-search-empty hidden>{{ 'flubberhomme.search.empty' | t }}</p>
+    </div>
+  </div>
+</header>
+
+{% schema %}
+{
+  "name": "Encabezado",
+  "settings": [
+    {
+      "type": "collection",
+      "id": "shop_collection",
+      "label": "Colección \"Tienda\"",
+      "info": "Se usa para el enlace de navegación Tienda."
+    },
+    {
+      "type": "product",
+      "id": "featured_product",
+      "label": "Producto destacado (para el enlace de navegación Producto)"
+    }
+  ]
+}
+{% endschema %}

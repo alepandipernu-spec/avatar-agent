@@ -1,0 +1,23 @@
+<div class="fh-marquee">
+  <div class="fh-marquee__track">
+    {%- for rep in (1..2) -%}
+      {%- for i in (1..5) -%}
+        {%- assign key = 'flubberhomme.marquee.item_' | append: i -%}
+        <span class="fh-marquee__item">
+          <span>{{ key | t }}</span>
+          <span class="fh-marquee__dot">✦</span>
+        </span>
+      {%- endfor -%}
+    {%- endfor -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Barra de anuncios",
+  "settings": [],
+  "presets": [
+    { "name": "Barra de anuncios" }
+  ]
+}
+{% endschema %}

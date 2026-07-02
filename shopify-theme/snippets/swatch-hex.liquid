@@ -1,0 +1,13 @@
+{%- comment -%}
+  Renders a hex color for a given color-option value name.
+  Usage: {% capture hex %}{% render 'swatch-hex', name: value %}{% endcapture %}
+  Falls back to a neutral tone if the name isn't recognized, so it never errors.
+{%- endcomment -%}
+{%- assign n = name | downcase | strip -%}
+{%- case n -%}
+  {%- when 'rosa', 'pink' -%}#F2A7A0
+  {%- when 'blanco', 'white' -%}#E7E4DE
+  {%- when 'lavanda', 'lavender' -%}#B4A4D4
+  {%- when 'azul', 'blue' -%}#8CC4E2
+  {%- else -%}#CBBFAE
+{%- endcase -%}

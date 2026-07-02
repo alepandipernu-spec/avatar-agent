@@ -1,0 +1,30 @@
+<section class="fh-bestseller" data-reveal>
+  <div class="fh-wrap fh-bestseller__grid">
+    <div class="fh-bestseller__frame">
+      {%- if section.settings.image != blank -%}
+        <img class="fh-bestseller__img" src="{{ section.settings.image | image_url: width: 900 }}" alt="{{ section.settings.image.alt | default: 'flubberhomme' | escape }}" loading="lazy">
+      {%- else -%}
+        <img class="fh-bestseller__img" src="{{ 'producto.png' | asset_url }}" alt="Licuadora flubberhomme" loading="lazy">
+      {%- endif -%}
+    </div>
+    <div>
+      <span class="fh-bestseller__badge">{{ 'flubberhomme.bestseller.badge' | t }}</span>
+      <h2 class="fh-bestseller__title">{{ 'flubberhomme.bestseller.title' | t }}</h2>
+      <p class="fh-bestseller__sub">{{ 'flubberhomme.bestseller.subtitle' | t }}</p>
+      <a href="{{ section.settings.product.url | default: routes.all_products_collection_url }}" class="btn btn--ink">{{ 'flubberhomme.bestseller.cta' | t }}</a>
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Franja más vendido",
+  "settings": [
+    { "type": "product", "id": "product", "label": "Producto" },
+    { "type": "image_picker", "id": "image", "label": "Imagen" }
+  ],
+  "presets": [
+    { "name": "Franja más vendido" }
+  ]
+}
+{% endschema %}

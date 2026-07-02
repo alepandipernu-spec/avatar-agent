@@ -1,0 +1,26 @@
+<section class="fh-wrap fh-section fh-section--tight-top" data-reveal>
+  <h2 class="fh-section__title">{{ 'flubberhomme.compare.title' | t }}</h2>
+  <p class="fh-section__sub">{{ 'flubberhomme.compare.subtitle' | t }}</p>
+  <div class="fh-compare">
+    <div class="fh-compare__grid">
+      <div class="fh-compare__head-blank"></div>
+      <div class="fh-compare__head-a">{{ 'flubberhomme.compare.head_a' | t }}</div>
+      <div class="fh-compare__head-b">{{ 'flubberhomme.compare.head_b' | t }}</div>
+      {%- for i in (1..5) -%}
+        <div class="fh-compare__k">{{ 'flubberhomme.compare.row_' | append: i | t }}</div>
+        <div class="fh-compare__v fh-compare__v--yes">✓</div>
+        <div class="fh-compare__v fh-compare__v--no-b">✕</div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Tabla comparativa",
+  "settings": [],
+  "presets": [
+    { "name": "Tabla comparativa" }
+  ]
+}
+{% endschema %}

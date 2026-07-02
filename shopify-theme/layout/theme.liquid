@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ request.locale.iso_code }}" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{ page_title }}{% if page_title contains 'flubberhomme' %}{% else %} · flubberhomme{% endif %}
+  </title>
+  {% if page_description %}
+    <meta name="description" content="{{ page_description | escape }}">
+  {% endif %}
+
+  <link rel="canonical" href="{{ canonical_url }}">
+  {% if settings.favicon %}
+    <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32 }}">
+  {% endif %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  {{ 'theme.css' | asset_url | stylesheet_tag }}
+
+  {%- assign accent = settings.accent_color -%}
+  {%- if settings.accent_preset != blank -%}
+    {%- assign accent = settings.accent_preset -%}
+  {%- endif -%}
+  {%- assign accent_deep = accent | color_darken: 14 -%}
+  <style>
+    :root {
+      --bg: {{ settings.bg_color }};
+      --surface: {{ settings.surface_color }};
+      --ink: {{ settings.ink_color }};
+      --muted: {{ settings.muted_color }};
+      --line: {{ settings.line_color }};
+      --accent: {{ accent }};
+      --accent-deep: {{ accent_deep }};
+      --pink: {{ settings.pink_color }};
+      --mint: {{ settings.mint_color }};
+      --peach: {{ settings.peach_color }};
+    }
+  </style>
+
+  <script>window.themeMoneyFormat = {{ shop.money_format | json }};</script>
+
+  {{ content_for_header }}
+</head>
+<body>
+  <a class="fh-skip-link" href="#MainContent">{{ 'general.accessibility.skip_to_content' | t }}</a>
+
+  {%- if settings.show_announcement -%}
+    {% section 'announcement-bar' %}
+  {%- endif -%}
+
+  {% section 'header' %}
+
+  <main id="MainContent">
+    {{ content_for_layout }}
+  </main>
+
+  {% section 'footer' %}
+
+  {{ 'theme.js' | asset_url | script_tag }}
+</body>
+</html>

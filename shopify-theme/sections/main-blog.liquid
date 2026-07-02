@@ -1,0 +1,18 @@
+<div class="fh-wrap fh-wrap--narrow" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <h1 class="fh-page-hero__title">{{ blog.title }}</h1>
+  <div class="fh-help-list">
+    {%- for article in blog.articles -%}
+      <a href="{{ article.url }}" class="fh-help-card" style="text-decoration:none; color:inherit; display:block;">
+        <h3>{{ article.title }}</h3>
+        <p>{{ article.excerpt_or_content | strip_html | truncate: 160 }}</p>
+      </a>
+    {%- endfor -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Blog",
+  "settings": []
+}
+{% endschema %}

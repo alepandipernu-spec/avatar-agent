@@ -1,0 +1,21 @@
+<section class="fh-wrap fh-section fh-section--tight-top" data-reveal>
+  <div class="fh-cta-banner">
+    <h2 class="fh-cta-banner__title">{{ 'flubberhomme.cta_banner.title' | t }}</h2>
+    <p class="fh-cta-banner__sub">{{ 'flubberhomme.cta_banner.subtitle' | t }}</p>
+    <a href="{{ section.settings.product.url | default: routes.all_products_collection_url }}" class="btn btn--white">
+      {{ 'flubberhomme.cta_banner.button' | t }}
+    </a>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Banner CTA",
+  "settings": [
+    { "type": "product", "id": "product", "label": "Producto de destino" }
+  ],
+  "presets": [
+    { "name": "Banner CTA" }
+  ]
+}
+{% endschema %}

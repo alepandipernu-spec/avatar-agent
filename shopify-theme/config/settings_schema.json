@@ -1,0 +1,123 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "flubberhomme",
+    "theme_version": "1.0.0",
+    "theme_author": "flubberhomme",
+    "theme_documentation_url": "",
+    "theme_support_url": ""
+  },
+  {
+    "name": "Marca",
+    "settings": [
+      {
+        "type": "color",
+        "id": "accent_color",
+        "label": "Color de acento",
+        "default": "#FF5C48"
+      },
+      {
+        "type": "select",
+        "id": "accent_preset",
+        "label": "Paletas alternativas",
+        "info": "Sobrescribe el color de acento con una de las paletas del diseño original.",
+        "options": [
+          { "value": "", "label": "Personalizado (usar color de acento)" },
+          { "value": "#FF5C48", "label": "Coral (por defecto)" },
+          { "value": "#5B8DEF", "label": "Azul" },
+          { "value": "#12B886", "label": "Verde" },
+          { "value": "#B57BEE", "label": "Violeta" },
+          { "value": "#F0803C", "label": "Naranja" }
+        ],
+        "default": ""
+      }
+    ]
+  },
+  {
+    "name": "Colores",
+    "settings": [
+      {
+        "type": "color",
+        "id": "bg_color",
+        "label": "Fondo",
+        "default": "#FAF5EE"
+      },
+      {
+        "type": "color",
+        "id": "surface_color",
+        "label": "Superficie / tarjetas",
+        "default": "#FFFFFF"
+      },
+      {
+        "type": "color",
+        "id": "ink_color",
+        "label": "Texto principal / secciones oscuras",
+        "default": "#1B1712"
+      },
+      {
+        "type": "color",
+        "id": "muted_color",
+        "label": "Texto secundario",
+        "default": "#857B6E"
+      },
+      {
+        "type": "color",
+        "id": "line_color",
+        "label": "Bordes sutiles",
+        "default": "#EBE2D5"
+      },
+      {
+        "type": "color",
+        "id": "pink_color",
+        "label": "Bloque rosa",
+        "default": "#FBE1DB"
+      },
+      {
+        "type": "color",
+        "id": "mint_color",
+        "label": "Bloque menta",
+        "default": "#E1EEE2"
+      },
+      {
+        "type": "color",
+        "id": "peach_color",
+        "label": "Bloque durazno",
+        "default": "#F7E5D2"
+      }
+    ]
+  },
+  {
+    "name": "Favicon",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "favicon",
+        "label": "Favicon",
+        "info": "Se recomienda una imagen cuadrada de al menos 32x32px."
+      }
+    ]
+  },
+  {
+    "name": "Anuncio",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "show_announcement",
+        "label": "Mostrar barra de anuncios",
+        "default": true
+      }
+    ]
+  },
+  {
+    "name": "Redes y pagos",
+    "settings": [
+      {
+        "type": "text",
+        "id": "payment_badges",
+        "label": "Chips de medios de pago",
+        "info": "Separados por coma.",
+        "default": "VISA, MASTERCARD, AMEX, PAYPAL, MERCADO PAGO"
+      }
+    ]
+  }
+]

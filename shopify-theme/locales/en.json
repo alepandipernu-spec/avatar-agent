@@ -1,0 +1,275 @@
+{
+  "general": {
+    "accessibility": {
+      "skip_to_content": "Skip to content"
+    },
+    "meta": {
+      "title_suffix": "flubberhomme"
+    }
+  },
+  "flubberhomme": {
+    "marquee": {
+      "item_1": "Free shipping over $50",
+      "item_2": "12-month warranty",
+      "item_3": "USB rechargeable",
+      "item_4": "Pay in up to 12 installments",
+      "item_5": "30-day returns"
+    },
+    "nav": {
+      "home": "Home",
+      "shop": "Shop",
+      "product": "Product",
+      "help": "Help",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "lang": { "es": "ES", "en": "EN" },
+    "search": {
+      "placeholder": "Search color or bundle…",
+      "empty": "No results",
+      "open": "Search",
+      "cart": "Cart"
+    },
+    "hero": {
+      "eyebrow": "Rechargeable portable blender",
+      "title": "Your smoothie, anywhere.",
+      "subtitle": "Add fruit, press a button and sip straight from the bottle. No cords, no excuses.",
+      "buy_now": "Buy now",
+      "shop_all": "Shop all",
+      "rating": "4.9/5 · 2,480 reviews",
+      "price_label": "From"
+    },
+    "value_props": {
+      "1_title": "USB rechargeable",
+      "1_desc": "Charges with the included cable, no batteries.",
+      "2_title": "4 steel blades",
+      "2_desc": "Cross blades for fruit, ice and shakes.",
+      "3_title": "Bottle with handle",
+      "3_desc": "Screw cap and silicone carry ring.",
+      "4_title": "Ready to use",
+      "4_desc": "Includes charging cable and manual (LL-890)."
+    },
+    "how_it_works": {
+      "title": "It's this simple",
+      "subtitle": "A fresh smoothie in three steps, wherever you are.",
+      "step_1_title": "Charge via USB",
+      "step_1_desc": "With the included cable. One cable, no special plugs.",
+      "step_2_title": "Add your fruit",
+      "step_2_desc": "Fruit, ice, protein or oats. You pick the recipe.",
+      "step_3_title": "Blend and sip",
+      "step_3_desc": "Double-tap and sip straight from the bottle in 30s."
+    },
+    "box": {
+      "title": "In the box",
+      "subtitle": "Every blender arrives ready to use, with its charging cable and manual.",
+      "item_1": "Portable blender (LL-890)",
+      "item_2": "USB charging cable",
+      "item_3": "User manual"
+    },
+    "bestseller": {
+      "badge": "Bestseller",
+      "title": "The blender that steals the show.",
+      "subtitle": "Powerful motor, good looks and a battery that lasts the week. Loved by 2,400+ customers.",
+      "cta": "View product"
+    },
+    "testimonials": {
+      "title": "What owners are saying",
+      "1_text": "I use it every morning before the gym. Changed my routine.",
+      "1_name": "Camila R.",
+      "2_text": "Incredible quality for the price. The motor is genuinely powerful.",
+      "2_name": "Martín G.",
+      "3_text": "Fast delivery and works perfectly. Already ordered another as a gift.",
+      "3_name": "Lucía P."
+    },
+    "compare": {
+      "title": "Why flubberhomme?",
+      "subtitle": "How it compares to a regular countertop blender.",
+      "head_a": "flubberhomme",
+      "head_b": "Regular blender",
+      "row_1": "Portable and rechargeable",
+      "row_2": "Sip straight from the cup",
+      "row_3": "Cord-free while using it",
+      "row_4": "Fits in your bag",
+      "row_5": "Easy to clean"
+    },
+    "recipes": {
+      "title": "Recipes to get started",
+      "subtitle": "Three shakes ready in under a minute.",
+      "1_tag": "Classic",
+      "1_name": "Strawberry-banana",
+      "1_desc": "Strawberry, banana, milk or plant drink and a touch of honey.",
+      "2_tag": "Light",
+      "2_name": "Green detox",
+      "2_desc": "Spinach, green apple, celery, ginger and cold water.",
+      "3_tag": "Refreshing",
+      "3_name": "Tropical mango",
+      "3_desc": "Mango, pineapple, orange juice and a few ice cubes."
+    },
+    "cta_banner": {
+      "title": "Start blending today",
+      "subtitle": "Free shipping and a 30-day money-back guarantee. If you don't love it, we refund you.",
+      "button": "Buy — $49.90"
+    },
+    "product": {
+      "back_to_shop": "Back to shop",
+      "save_tag": "-17%",
+      "color_label": "Color",
+      "add_to_cart": "Add to cart",
+      "sold_out": "Sold out",
+      "trust_1": "Ships in 24–48h",
+      "trust_2": "12-month warranty",
+      "trust_3": "Secure checkout",
+      "description_title": "About the blender",
+      "description_body": "The flubberhomme is a portable bottle-style blender (model LL-890). It recharges over USB with the included cable and packs 4 stainless steel cross blades to blend fruit, ice or shakes and sip straight from the cup.",
+      "feature_1": "4 stainless steel cross blades",
+      "feature_2": "USB-rechargeable battery (cable included)",
+      "feature_3": "Transparent bottle-style cup with screw cap",
+      "feature_4": "Silicone ring to carry it",
+      "feature_5": "Includes user manual (model LL-890)",
+      "reviews_title": "What owners are saying",
+      "reviews_summary": "4.9 out of 5 · 2,480 reviews",
+      "faq_title": "Frequently asked questions",
+      "faq_1_q": "Can it handle ice and frozen fruit?",
+      "faq_1_a": "Yes. The 4 steel blades blend ice and frozen fruit; cut it into pieces and don't go past the max fill line.",
+      "faq_2_q": "How long does the battery last?",
+      "faq_2_a": "A full charge gives you several blends in a row. It recharges over USB with the included cable.",
+      "faq_3_q": "How do I clean it?",
+      "faq_3_a": "The cup rinses easily. Add water with a drop of soap, run it a few seconds and you're done. Don't submerge the motor base.",
+      "faq_4_q": "What's in the box?",
+      "faq_4_a": "The blender (model LL-890), the USB charging cable and the user manual."
+    },
+    "reviews": {
+      "verified": "Verified",
+      "1_name": "Camila R.",
+      "1_text": "I use it every morning before the gym. Powerful and super easy to clean.",
+      "2_name": "Martín G.",
+      "2_text": "Incredible quality for the price. The battery lasts several days.",
+      "3_name": "Lucía P.",
+      "3_text": "Arrived in 2 days and works perfectly. I'd give 5 if it came with more recipes.",
+      "4_name": "Nahuel D.",
+      "4_text": "Perfect to take to work. Blends drinks with ice no problem."
+    },
+    "collection": {
+      "title": "The full collection",
+      "subtitle": "Pick your favorite color or grab a bundle and save.",
+      "count": "{{ count }} products",
+      "add": "Add",
+      "save_badge": "Save {{ amount }}"
+    },
+    "cart": {
+      "title": "Your cart",
+      "empty": "You haven't added anything yet.",
+      "start_shopping": "Go to shop",
+      "remove": "Remove",
+      "summary": "Order summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "free": "Free",
+      "total": "Total",
+      "checkout": "Checkout",
+      "secure": "100% secure, encrypted payment",
+      "coupon_placeholder": "Code (try FLUBBER10)",
+      "coupon_apply": "Apply",
+      "coupon_ok": "Coupon applied: -10%",
+      "coupon_row": "Discount (FLUBBER10)",
+      "cross_sell_title": "Complete your order",
+      "shipping_note": "Shipping calculated at checkout",
+      "free_shipping_note": "Free shipping on this order",
+      "coupon_go": "Enter the code and continue to checkout to apply it.",
+      "totals_note": "Taxes and shipping are calculated at checkout."
+    },
+    "checkout": {
+      "back_to_cart": "Back to cart",
+      "title": "Checkout",
+      "contact_heading": "Contact",
+      "shipping_heading": "Shipping address",
+      "payment_heading": "Payment",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "city": "City",
+      "zip": "ZIP code",
+      "card": "Card number",
+      "exp": "MM/YY",
+      "cvc": "CVC",
+      "pay": "Pay",
+      "summary": "Summary",
+      "secure": "Secure, encrypted payment"
+    },
+    "footer": {
+      "blurb": "Portable blenders that make eating well easy, wherever you are.",
+      "email_placeholder": "Your email",
+      "subscribe": "Join",
+      "col_shop": "Shop",
+      "col_help": "Help",
+      "col_about": "About",
+      "shop_link_1": "Pink Blender",
+      "shop_link_2": "White Blender",
+      "shop_link_3": "Lavender Blender",
+      "shop_link_4": "Bundles",
+      "help_link_1": "Shipping",
+      "help_link_2": "Returns",
+      "help_link_3": "Warranty",
+      "help_link_4": "Contact",
+      "about_link_1": "Our story",
+      "about_link_2": "Sustainability",
+      "about_link_3": "Press",
+      "about_link_4": "Careers",
+      "rights": "© 2026 flubberhomme. All rights reserved."
+    },
+    "help": {
+      "title": "Help",
+      "subtitle": "Got a question? Here are the most common answers.",
+      "shipping_h": "Shipping",
+      "shipping_p": "We ship nationwide in 24–48 business hours. Shipping is free on orders over $50; below that, a flat $5.90.",
+      "returns_h": "Returns",
+      "returns_p": "You have 30 days from delivery to return the product. If it's not for you, we refund the full amount.",
+      "warranty_h": "Warranty",
+      "warranty_p": "Every blender comes with a 12-month warranty against manufacturing defects (model LL-890). Just write to us and we'll handle it.",
+      "contact_h": "Contact",
+      "contact_p": "Email us at hola@flubberhomme.com or via WhatsApp. We reply Monday to Friday, 9am–6pm."
+    },
+    "about": {
+      "title": "About us",
+      "heading": "We make eating well easy, anywhere.",
+      "body": "flubberhomme started with a simple idea: making a shake shouldn't depend on being near a kitchen. We design portable blenders that charge over USB, fit in any bag and clean in seconds.",
+      "value_1_h": "Simple",
+      "value_1_p": "One button, done. No cords or fiddly parts.",
+      "value_2_h": "Portable",
+      "value_2_p": "Made for the gym, the office or a trip.",
+      "value_3_h": "Honest",
+      "value_3_p": "A good product at a fair price, no inflated promises.",
+      "stat_1_n": "2,480+",
+      "stat_1_l": "happy customers",
+      "stat_2_n": "4.9/5",
+      "stat_2_l": "average rating",
+      "stat_3_n": "12",
+      "stat_3_l": "months warranty"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Write to us and we'll reply within 24 business hours.",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "send": "Send message",
+      "sent": "Message sent! We'll be in touch soon.",
+      "info_heading": "Other channels",
+      "mail": "hola@flubberhomme.com",
+      "hours": "Mon–Fri · 9am–6pm"
+    },
+    "products": {
+      "portable_blender": "Portable Blender",
+      "color": {
+        "rosa": "Pink",
+        "blanco": "White",
+        "lavanda": "Lavender",
+        "azul": "Blue"
+      }
+    },
+    "payments": {
+      "label": "VISA, MASTERCARD, AMEX, PAYPAL, MERCADO PAGO"
+    }
+  }
+}

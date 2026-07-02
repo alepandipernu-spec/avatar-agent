@@ -1,0 +1,22 @@
+<section class="fh-value-props" data-reveal>
+  <div class="fh-wrap fh-value-props__grid">
+    {%- for i in (1..4) -%}
+      {%- assign n = i | prepend: '0' -%}
+      <div class="fh-value-prop">
+        <span class="fh-value-prop__n">{{ n }}</span>
+        <span class="fh-value-prop__t">{{ 'flubberhomme.value_props.' | append: i | append: '_title' | t }}</span>
+        <span class="fh-value-prop__d">{{ 'flubberhomme.value_props.' | append: i | append: '_desc' | t }}</span>
+      </div>
+    {%- endfor -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Propuestas de valor",
+  "settings": [],
+  "presets": [
+    { "name": "Propuestas de valor" }
+  ]
+}
+{% endschema %}

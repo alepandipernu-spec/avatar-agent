@@ -1,0 +1,46 @@
+<div class="fh-wrap" style="padding: clamp(36px,5vw,64px) 0 clamp(56px,7vw,96px);">
+  <div class="fh-collection-head">
+    <div>
+      <h1 class="fh-collection-head__title">{{ 'flubberhomme.search.open' | t }}{% if search.performed %}: “{{ search.terms }}”{% endif %}</h1>
+      <p class="fh-collection-head__sub">{% if search.performed %}{{ search.results_count }} {{ 'flubberhomme.collection.title' | t | downcase }}{% endif %}</p>
+    </div>
+  </div>
+
+  {%- if search.performed and search.results_count == 0 -%}
+    <p class="fh-search__empty">{{ 'flubberhomme.search.empty' | t }}</p>
+  {%- else -%}
+    <div class="product-grid">
+      {%- for item in search.results -%}
+        {%- if item.object_type == 'product' -%}
+          {%- assign default_variant = item.selected_or_first_available_variant -%}
+          <div class="product-card">
+            <a href="{{ item.url }}" class="product-card__link">
+              <div class="product-card__media">
+                <img class="product-card__img" src="{{ item.featured_image | image_url: width: 520 }}" alt="{{ item.featured_image.alt | default: item.title | escape }}" loading="lazy" width="520" height="520">
+              </div>
+              <h3 class="product-card__name product-card__name--top">{{ item.title }}</h3>
+            </a>
+            <div class="product-card__footer">
+              <span class="product-card__price">{{ default_variant.price | money }}</span>
+              {%- form 'product', item -%}
+                <input type="hidden" name="id" value="{{ default_variant.id }}">
+                <button type="submit" class="btn btn--ink btn--small"{% unless default_variant.available %} disabled{% endunless %}>{{ 'flubberhomme.collection.add' | t }}</button>
+              {%- endform -%}
+            </div>
+          </div>
+        {%- else -%}
+          <a href="{{ item.url }}" class="product-card product-card__link" style="padding: 22px;">
+            <h3 class="product-card__name">{{ item.title }}</h3>
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Resultados de búsqueda",
+  "settings": []
+}
+{% endschema %}

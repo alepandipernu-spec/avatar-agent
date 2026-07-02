@@ -1,0 +1,108 @@
+<footer class="fh-footer">
+  <div class="fh-footer__inner">
+    <div>
+      <div class="fh-footer__brand-name">flubber<span class="fh-logo__accent">homme</span></div>
+      <p class="fh-footer__blurb">{{ 'flubberhomme.footer.blurb' | t }}</p>
+      {%- form 'customer', id: 'FooterNewsletterForm' -%}
+        <input type="hidden" name="contact[tags]" value="newsletter">
+        <div class="fh-newsletter">
+          <input
+            type="email"
+            name="contact[email]"
+            class="fh-newsletter__input"
+            placeholder="{{ 'flubberhomme.footer.email_placeholder' | t }}"
+            required
+          >
+          <button type="submit" class="fh-newsletter__btn">{{ 'flubberhomme.footer.subscribe' | t }}</button>
+        </div>
+        {%- if form.posted_successfully? -%}
+          <p class="fh-summary-note" style="text-align:left; color: var(--mint); margin-top: 10px;">✓ {{ 'flubberhomme.cart.coupon_ok' | t }}</p>
+        {%- endif -%}
+      {%- endform -%}
+    </div>
+
+    <div class="fh-footer__col">
+      <h4>{{ 'flubberhomme.footer.col_shop' | t }}</h4>
+      <ul>
+        {%- if section.settings.link_1 != blank -%}<li><a href="{{ section.settings.link_1 }}" class="fh-footer__link">{{ 'flubberhomme.footer.shop_link_1' | t }}</a></li>{%- endif -%}
+        {%- if section.settings.link_2 != blank -%}<li><a href="{{ section.settings.link_2 }}" class="fh-footer__link">{{ 'flubberhomme.footer.shop_link_2' | t }}</a></li>{%- endif -%}
+        {%- if section.settings.link_3 != blank -%}<li><a href="{{ section.settings.link_3 }}" class="fh-footer__link">{{ 'flubberhomme.footer.shop_link_3' | t }}</a></li>{%- endif -%}
+        <li><a href="{{ routes.all_products_collection_url }}" class="fh-footer__link">{{ 'flubberhomme.footer.shop_link_4' | t }}</a></li>
+      </ul>
+    </div>
+
+    <div class="fh-footer__col">
+      <h4>{{ 'flubberhomme.footer.col_help' | t }}</h4>
+      <ul>
+        {%- if section.settings.help_page != blank -%}
+          <li><a href="{{ section.settings.help_page.url }}#shipping" class="fh-footer__link">{{ 'flubberhomme.footer.help_link_1' | t }}</a></li>
+          <li><a href="{{ section.settings.help_page.url }}#returns" class="fh-footer__link">{{ 'flubberhomme.footer.help_link_2' | t }}</a></li>
+          <li><a href="{{ section.settings.help_page.url }}#warranty" class="fh-footer__link">{{ 'flubberhomme.footer.help_link_3' | t }}</a></li>
+        {%- endif -%}
+        {%- if section.settings.contact_page != blank -%}
+          <li><a href="{{ section.settings.contact_page.url }}" class="fh-footer__link">{{ 'flubberhomme.footer.help_link_4' | t }}</a></li>
+        {%- endif -%}
+      </ul>
+    </div>
+
+    <div class="fh-footer__col">
+      <h4>{{ 'flubberhomme.footer.col_about' | t }}</h4>
+      <ul>
+        {%- if section.settings.about_page != blank -%}
+          <li><a href="{{ section.settings.about_page.url }}" class="fh-footer__link">{{ 'flubberhomme.footer.about_link_1' | t }}</a></li>
+          <li><a href="{{ section.settings.about_page.url }}" class="fh-footer__link">{{ 'flubberhomme.footer.about_link_2' | t }}</a></li>
+          <li><a href="{{ section.settings.about_page.url }}" class="fh-footer__link">{{ 'flubberhomme.footer.about_link_3' | t }}</a></li>
+          <li><a href="{{ section.settings.about_page.url }}" class="fh-footer__link">{{ 'flubberhomme.footer.about_link_4' | t }}</a></li>
+        {%- endif -%}
+      </ul>
+    </div>
+  </div>
+
+  <div class="fh-wrap fh-footer__bottom">
+    <span class="fh-footer__copyright">{{ 'flubberhomme.footer.rights' | t }}</span>
+    <div class="fh-payments">
+      {%- assign badges = settings.payment_badges | split: ',' -%}
+      {%- for badge in badges -%}
+        <span class="fh-payment-chip">{{ badge | strip }}</span>
+      {%- endfor -%}
+    </div>
+  </div>
+</footer>
+
+{% schema %}
+{
+  "name": "Pie de página",
+  "settings": [
+    {
+      "type": "url",
+      "id": "link_1",
+      "label": "Enlace 1 (Licuadora Rosa)"
+    },
+    {
+      "type": "url",
+      "id": "link_2",
+      "label": "Enlace 2 (Licuadora Blanco)"
+    },
+    {
+      "type": "url",
+      "id": "link_3",
+      "label": "Enlace 3 (Licuadora Lavanda)"
+    },
+    {
+      "type": "page",
+      "id": "help_page",
+      "label": "Página de Ayuda"
+    },
+    {
+      "type": "page",
+      "id": "about_page",
+      "label": "Página de Nosotros"
+    },
+    {
+      "type": "page",
+      "id": "contact_page",
+      "label": "Página de Contacto"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,24 @@
+{
+  "sections": {
+    "hero": { "type": "hero", "settings": {} },
+    "value_props": { "type": "value-props", "settings": {} },
+    "how_it_works": { "type": "how-it-works", "settings": {} },
+    "in_the_box": { "type": "in-the-box", "settings": {} },
+    "bestseller": { "type": "bestseller-strip", "settings": {} },
+    "testimonials": { "type": "testimonials", "settings": {} },
+    "compare": { "type": "compare-table", "settings": {} },
+    "recipes": { "type": "recipes", "settings": {} },
+    "cta_banner": { "type": "cta-banner", "settings": {} }
+  },
+  "order": [
+    "hero",
+    "value_props",
+    "how_it_works",
+    "in_the_box",
+    "bestseller",
+    "testimonials",
+    "compare",
+    "recipes",
+    "cta_banner"
+  ]
+}

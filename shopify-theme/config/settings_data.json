@@ -1,0 +1,17 @@
+{
+  "current": {
+    "accent_color": "#FF5C48",
+    "accent_preset": "",
+    "bg_color": "#FAF5EE",
+    "surface_color": "#FFFFFF",
+    "ink_color": "#1B1712",
+    "muted_color": "#857B6E",
+    "line_color": "#EBE2D5",
+    "pink_color": "#FBE1DB",
+    "mint_color": "#E1EEE2",
+    "peach_color": "#F7E5D2",
+    "show_announcement": true,
+    "payment_badges": "VISA, MASTERCARD, AMEX, PAYPAL, MERCADO PAGO"
+  },
+  "presets": {}
+}
