@@ -1,0 +1,255 @@
+{
+  "gadnic-ar": {
+    "id": "gadnic-ar",
+    "name": "Gadnic (vía Bidcom)",
+    "domain": "bidcom.com.ar",
+    "category": "Masajeador capilar eléctrico con depósito e infrarrojo",
+    "market": "AR",
+    "verified_at": "2026-10-17",
+    "price": "No visible en la página consultada; preventa ('disponible en 26 días'), envío gratis a todo el país, 10 disponibles.",
+    "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
+    "claims": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
+    "formats": "No obtenido (sin acceso a la Biblioteca de anuncios).",
+    "facts": [
+      "Ofrece 12 meses de garantía y envío gratis.",
+      "Ficha técnica completa y medible (batería, potencia, tiempos)."
+    ],
+    "inferences": [
+      "Compite en confianza de marca local y garantía, no en precio."
+    ],
+    "hypotheses": [
+      "La garantía larga es un argumento que Flubberhome no puede igualar hoy."
+    ],
+    "unknowns": [
+      "Anuncios activos, presupuesto, ventas."
+    ],
+    "sources": [
+      "https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "lena-vegetal-ar": {
+    "id": "lena-vegetal-ar",
+    "name": "Lena Vegetal",
+    "domain": "lenacosmetica.com.ar",
+    "category": "Kit masajeador + tónico capilar",
+    "market": "AR",
+    "verified_at": "2026-10-17",
+    "price": "ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia.",
+    "value_prop": "Kit masajeador + tónico de romero y salvia (60 ml).",
+    "claims": "'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Vende el aparato junto con un tónico propio.",
+      "Descuento extra por transferencia."
+    ],
+    "inferences": [
+      "El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'."
+    ],
+    "hypotheses": [
+      "Un kit con tónico podría subir el valor percibido; requiere proveedor y verificar claims."
+    ],
+    "unknowns": [
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "beltronic-ar": {
+    "id": "beltronic-ar",
+    "name": "Beltronic Beauty Tools",
+    "domain": "beltronic.com.ar",
+    "category": "Kit masajeador infrarrojo + serum Capixyl 5%",
+    "market": "AR",
+    "verified_at": "2026-10-17",
+    "price": "Kit ARS 175.890 (lista ARS 185.990); 10% off por transferencia.",
+    "value_prop": "Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.",
+    "claims": "'Anticaída y densidad', 'reduce la caída'.",
+    "formats": "Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.",
+    "facts": [
+      "Precio alto apoyado en un activo nombrado (Capixyl)."
+    ],
+    "inferences": [
+      "Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "microshop-ar": {
+    "id": "microshop-ar",
+    "name": "Microshop",
+    "domain": "microshop.com.ar",
+    "category": "Masajeador capilar recargable",
+    "market": "AR",
+    "verified_at": "2026-10-17",
+    "price": "ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.",
+    "value_prop": "Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').",
+    "claims": "'Revitaliza tu cabello', 'placentero masaje'.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR."
+    ],
+    "inferences": [],
+    "hypotheses": [],
+    "unknowns": [
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "aurevia-co": {
+    "id": "aurevia-co",
+    "name": "AUREVIA (en Farmatodo)",
+    "domain": "farmatodo.com.co",
+    "category": "Aplicador de tónico vibratorio",
+    "market": "CO",
+    "verified_at": "2026-10-17",
+    "price": "COP 37.425 (lista COP 49.900); despacho 4–5 días.",
+    "value_prop": "Venta dentro de una cadena de farmacias (confianza del canal).",
+    "claims": "'Rejuvenecedor de folículos', 'ideal para frenar la caída'.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Producto similar vendido en farmacia en Colombia."
+    ],
+    "inferences": [
+      "En CO el canal farmacia da confianza que una tienda nueva no tiene."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "anyra-us": {
+    "id": "anyra-us",
+    "name": "Anyra",
+    "domain": "shopanyra.com",
+    "category": "Peine masajeador eléctrico con luz roja y depósito",
+    "market": "US",
+    "verified_at": "2026-10-17",
+    "price": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
+    "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
+    "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Usa porcentajes de satisfacción y conteo de clientes en la página."
+    ],
+    "inferences": [],
+    "hypotheses": [],
+    "unknowns": [
+      "Si las cifras de clientes y reseñas son verificables.",
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "hairrova-us": {
+    "id": "hairrova-us",
+    "name": "Hairrova RootGlow",
+    "domain": "hairrova.com",
+    "category": "Masajeador con luz roja y aplicador",
+    "market": "US",
+    "verified_at": "2026-10-17",
+    "price": "USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.",
+    "value_prop": "Promesa de resultado con plazo.",
+    "claims": "'Clinically proven… visible hair growth in 56 days'.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Garantía de devolución explícita y destacada."
+    ],
+    "inferences": [],
+    "hypotheses": [],
+    "unknowns": [
+      "Respaldo del 'clinically proven'.",
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "nordic-biolabs-us": {
+    "id": "nordic-biolabs-us",
+    "name": "Nordic Biolabs",
+    "domain": "nordic-biolabs.com",
+    "category": "Aplicador eléctrico + solución capilar",
+    "market": "US",
+    "verified_at": "2026-10-17",
+    "price": "USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.",
+    "value_prop": "Aparato como vehículo de un consumible propio (recompra).",
+    "claims": "'Hair regrowth', testimonios y cita profesional.",
+    "formats": "No obtenido.",
+    "facts": [
+      "Modelo aparato + consumible."
+    ],
+    "inferences": [],
+    "hypotheses": [],
+    "unknowns": [
+      "Anuncios, ventas."
+    ],
+    "sources": [
+      "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  },
+  "amazon-generics-us": {
+    "id": "amazon-generics-us",
+    "name": "Genéricos en Amazon (mriya, Satorix, UniiSuui, ABVOT)",
+    "domain": "amazon.com",
+    "category": "Aplicador de aceite + masajeador",
+    "market": "US",
+    "verified_at": "2026-10-17",
+    "price": "USD 21,99 – 49,99.",
+    "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
+    "claims": "Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.",
+    "formats": "Listados de Amazon.",
+    "facts": [
+      "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU."
+    ],
+    "inferences": [
+      "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Anuncios."
+    ],
+    "sources": [
+      "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
+      "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
+    ],
+    "created": "2026-10-17T14:21-03:00",
+    "updated": "2026-10-17T14:21-03:00",
+    "history": []
+  }
+}

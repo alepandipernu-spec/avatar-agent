@@ -16,6 +16,7 @@ import statistics
 import sys
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "monitor.json"
@@ -290,8 +291,8 @@ def rule_findings(snap, cfg, prev_snap):
                 "alta", "Riesgo de confianza y de rechazo de anuncios.",
                 "Decidir si se quita el compare-at price en Shopify.", True, p["compare_at"])
     for p in snap.get("store", {}).get("risky_titles", []):
-        add("risky_claim", p, "P2", "debilidad", f"Afirmación sin respaldo en el catálogo: '{p}'",
-            "Producto con 'Más elegido' y 0 ventas.", "Afirmación no verificable.", "alta",
+        add("risky_claim", p, "P3", "debilidad", f"Afirmación sin respaldo en el catálogo: '{p}'",
+            "Título con \"Más elegido\" sin ventas registradas (producto en borrador).", "Afirmación no verificable.", "alta",
             "Riesgo de confianza si se publica.", "Renombrar antes de publicar ese producto.", True)
 
     if prev_snap:
@@ -483,7 +484,10 @@ def render(snap, cfg, ctx):
         for k, label in (("problema", "Problema"), ("evidencia", "Evidencia"), ("hipotesis", "Hipótesis"), ("variable", "Variable"),
                          ("constantes", "Constantes"), ("metrica_principal", "Métrica principal"), ("metricas_secundarias", "Protección"),
                          ("presupuesto_max_usd", "Presupuesto máximo (sujeto a aprobación)"), ("duracion", "Duración"),
-                         ("exito", "Éxito"), ("fracaso", "Fracaso"), ("inconcluso", "Inconcluso"), ("riesgos", "Riesgos")):
+                         ("exito", "Éxito"), ("fracaso", "Fracaso"), ("inconcluso", "Inconcluso"), ("riesgos", "Riesgos"),
+                         ("concepto", "Concepto creativo"), ("gancho", "Gancho"), ("guion", "Guion"),
+                         ("texto_principal", "Texto principal"), ("titular", "Titular"), ("cta", "Llamada a la acción"),
+                         ("formato", "Formato")):
             if e.get(k) not in (None, "", []):
                 w(f"- {label}: {e[k]}")
         w("")
@@ -565,7 +569,7 @@ def run(snapshot_path, force=False):
     exps, exp_created, exp_changed = merge_registry("experiments", snap.get("experiments", []), "id", run_id)
     _, comp_created, comp_changed = merge_registry("competitors", snap.get("competitors", []), "id", run_id)
     fun, worst = funnel(snap)
-    finished = datetime.now().astimezone().isoformat(timespec="seconds")
+    finished = datetime.now(ZoneInfo(cfg["timezone"])).isoformat(timespec="seconds")
     ctx = {"alerts": open_alerts, "notify": notify, "resolved": resolved, "rule_findings": rule, "warnings": warnings,
            "funnel": fun, "worst": worst, "econ": economics(snap, cfg), "experiments": exps,
            "exp_created": exp_created, "exp_changed": exp_changed, "comp_created": comp_created,
