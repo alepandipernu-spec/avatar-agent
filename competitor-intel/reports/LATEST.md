@@ -140,3 +140,12 @@ Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si 
 - **Contadores de clientes y compras** de Anyra, Nordic, Hairrova y Glokore: son afirmaciones de cada marca y no se pueden verificar.
 - **Repo público:** no se escriben costos, márgenes ni métricas internas de Flubberhome. Conviene volverlo privado.
 - **Fuera del foco** de esta ejecución: competidores de AR/CO del registro inicial y análisis completo de páginas de producto.
+
+---
+## Complemento 2026-10-17T15-28
+Ejecución paralela de la misma tarea, con el mismo foco. Detalle completo en `2026-10-17T15-28.md`.
+- Lena Vegetal (AR): "+70 vendidos" y stock bajo [HECHO: indicador de Tiendanube]. Relevancia → alta.
+- Microshop, Lena y Anyra: sin cambios de precio.
+- El patrón de goteo, obstrucción y limpieza difícil del depósito pasa de 4 a 9 fuentes. OPP-001 sube a score **80**.
+- Oportunidades nuevas: OPP-005 sensorial en seco (score 12) y OPP-006 kit con líquido (score 1,3, en evaluación).
+- Biblioteca de Meta: tampoco se pudo consultar en esta ejecución.

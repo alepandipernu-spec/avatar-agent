@@ -58,7 +58,10 @@
   "ads": "No obtenido.",
   "facts": [
    "Vende el aparato junto con un tónico propio.",
-   "Descuento extra por transferencia."
+   "Descuento extra por transferencia.",
+   "[17/10/2026] Tiendanube muestra \"+70 vendidos\" en el kit (indicador de plataforma, acumulado, sin período).",
+   "[17/10/2026] Stock bajo: \"solo quedan 3\" junto a avisos de sin stock.",
+   "[17/10/2026] Cupón de bienvenida 10%; envío gratis desde ARS 60.000; 3 cuotas sin interés."
   ],
   "inferences": [
    "El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'."
@@ -72,14 +75,20 @@
   "sources": [
    "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
   ],
-  "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
+  "relevance": "alta",
+  "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
   "last_reviewed": "2026-10-17",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "Precio sin cambios (ARS 25.600; 20.480 transferencia). Nuevo: +70 vendidos, stock bajo, cupón 10%. Relevancia media→alta.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -156,6 +165,12 @@
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "Chequeo de precio: sin cambios (ARS 45.780, tachado 60.000, 24% OFF, envío gratis, 10% transferencia).",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
    }
   ]
  },

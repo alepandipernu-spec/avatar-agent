@@ -3,14 +3,14 @@
   "id": "OPP-001-demo-aplicacion-sin-goteo",
   "competidor_observado": "Varios (Amazon US: 2 en 1 IPX7, mriya, Breo; UGC YouTube; INIA)",
   "producto_estrategia": "Objeción recurrente sobre el dispensado del líquido",
-  "fuente_evidencia": "reviews.json patrón 'Dispensado del líquido' (4 fuentes, 17/10/2026)",
+  "fuente_evidencia": "reviews.json patrón 'Dispensado del líquido' (4 fuentes, 17/10/2026); +5 fuentes el 17/10/2026 15:28 (total 9 fuentes / 9 productos)",
   "hallazgo": "[HECHO] Los compradores se quejan de goteo, tapas flojas, salidas tapadas y no saber cuánto apretar. [HECHO] INIA y Glokore responden esa objeción en su ficha.",
   "explicacion": "[HIPÓTESIS] Es la duda práctica que frena a quien ya aplica tónico con los dedos o con gotero.",
-  "confianza": "media (4 fuentes, pocas reseñas cada una)",
-  "diferencia_flubberhome": "Flubberhome incluye una Guía Digital pero la página no muestra paso a paso del depósito.",
+  "confianza": "media-alta (9 fuentes, 9 productos; no verificado aún en ScalpCare Pro)",
+  "diferencia_flubberhome": "Flubberhome incluye una Guía Digital pero la página no muestra paso a paso del depósito. Además varios competidores se venden como aptos para ducha/enjuague (Satorix IPX7, 2 en 1 IPX7); ScalpCare Pro no se usa bajo el agua: el bloque debe presentarlo como ritual en seco, no esconderlo.",
   "adaptable": "Responder la objeción con demostración real y concreta.",
   "no_replicar": "Promesas de crecimiento; porcentajes de 'resultados' sin método.",
-  "propuesta_original": "Bloque 'Cargarlo en 20 segundos' en la página + capítulo de la Guía con: líquidos livianos sí / espesos no, cantidad, cerrar y limpiar; video de 15 s dentro del universo Edificio Flubber donde un personaje aprende a cargarlo sin enchastre (pelo seco, fuera de la ducha).",
+  "propuesta_original": "Bloque 'Cargarlo en 20 segundos' en la página + capítulo de la Guía con: líquidos livianos sí / espesos no, cantidad, cerrar y limpiar; video de 15 s dentro del universo Edificio Flubber donde un personaje aprende a cargarlo sin enchastre (pelo seco, fuera de la ducha). Incluir limpieza de las puntas tras cada uso (queja de cristalización).",
   "ejemplo": "Gancho: '¿Y esto no gotea?' → mano carga 3–4 ml de tónico liviano → pasa por el pelo seco → toalla limpia en primer plano.",
   "recursos": "Edición de la ficha (Shopify), 1 video corto, actualización del PDF de la guía.",
   "costos_riesgos": "Bajo costo. Riesgo: mostrar un goteo real si el producto gotea; probar el propio producto antes de grabar.",
@@ -18,19 +18,24 @@
   "proximo_paso": "Probar el aparato propio con 2–3 líquidos y documentar qué funciona; luego redactar el bloque.",
   "puntajes": {
    "impacto": 4,
-   "confianza": 3,
+   "confianza": 4,
    "facilidad": 5,
    "costo": 1,
    "riesgo": 1,
    "urgencia": 3
   },
-  "score": 60.0,
+  "score": 80.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "evidencia ampliada; confianza 3→4; score 60→80; suma gestión de expectativa ducha vs seco"
    }
   ]
  },
@@ -135,6 +140,76 @@
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-005-sensorial-en-seco": {
+  "id": "OPP-005-sensorial-en-seco",
+  "competidor_observado": "Contenido orgánico/afiliados de la categoría",
+  "producto_estrategia": "Formato creativo sensorial (planos lentos, sonido real, sin claims)",
+  "fuente_evidencia": "Guías públicas https://videoideas.org/blogs/scalp-massager-satisfying-video-ideas (29/09/2026) y https://videoideas.org/blogs/21-hair-care-video-ideas-sell-shampoo-oils-treatments-2026 (15/10/2026). Fuente secundaria, NO Biblioteca de Meta.",
+  "hallazgo": "[HECHO] Las guías recomiendan movimiento continuo sin cortes y sonido real; casi todas las ideas pasan en la ducha.",
+  "explicacion": "[HIPÓTESIS] Retención por sensación sin necesidad de claims.",
+  "confianza": "baja (sin datos de rendimiento)",
+  "diferencia_flubberhome": "Flubberhome no puede mostrar ducha ni espuma.",
+  "adaptable": "Ritmo lento, primer plano, sonido del motor, pausa de alivio.",
+  "no_replicar": "Lavado con espuma, enjuague, antes/después de pelo.",
+  "propuesta_original": "Serie \"El minuto de alivio del Edificio Flubber\": un personaje distinto por episodio, pelo seco, en el sillón, sin música.",
+  "ejemplo": "0–3 s primer plano del depósito con pocas gotas; 3–12 s pasada lenta sin cortes; 12–15 s exhalación + texto \"pelo seco, 5 minutos\".",
+  "recursos": "AI Creative Studio.",
+  "costos_riesgos": "Bajo; revisar que la IA no muestre agua.",
+  "metrica": "Retención a 3 s y tiempo medio de visualización frente a los microdramas actuales.",
+  "proximo_paso": "1 pieza de prueba en el próximo ciclo quincenal.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 2,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 12.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-006-kit-liquido-compatible": {
+  "id": "OPP-006-kit-liquido-compatible",
+  "competidor_observado": "Lena Vegetal (AR), Nordic Biolabs (US), Beltronic (AR)",
+  "producto_estrategia": "Modelo aparato + líquido propio",
+  "fuente_evidencia": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/ (+70 vendidos, stock bajo, 17/10/2026)",
+  "hallazgo": "[HECHO] El único kit AR con contador público vende aparato + tónico.",
+  "explicacion": "[HIPÓTESIS] Responde \"¿qué le pongo?\" y abre recompra.",
+  "confianza": "baja (una señal, chica)",
+  "diferencia_flubberhome": "Solo aparato + guía.",
+  "adaptable": "Recomendar en la guía tipos de líquido aptos, sin vender uno propio todavía.",
+  "no_replicar": "Tónicos \"anticaída\" o \"crecimiento\".",
+  "propuesta_original": "Capítulo de la guía \"Qué cargar en el depósito y qué no\"; evaluar proveedor solo con demanda propia.",
+  "ejemplo": "Lista de líquidos fluidos tipo tónico vs. aceites espesos a evitar.",
+  "recursos": "Kit real: proveedor, registro sanitario por país, logística de líquidos.",
+  "costos_riesgos": "Alto costo y riesgo regulatorio.",
+  "metrica": "Preguntas de clientes sobre qué líquido usar.",
+  "proximo_paso": "Seguir el contador de Lena en próximas ejecuciones.",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 2,
+   "facilidad": 2,
+   "costo": 4,
+   "riesgo": 3,
+   "urgencia": 1
+  },
+  "score": 1.33,
+  "estado": "en evaluación",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
     "change": "creada"
    }
   ]

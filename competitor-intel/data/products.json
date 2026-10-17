@@ -200,5 +200,87 @@
     "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
    }
   ]
+ },
+ "lena-vegetal-ar:kit-masajeador-tonico": {
+  "id": "lena-vegetal-ar:kit-masajeador-tonico",
+  "problema": "Masaje + aplicar tónico",
+  "variantes": [
+   "Kit masajeador + tónico romero y salvia 60 ml"
+  ],
+  "precio": {
+   "lista": "ARS 32.000",
+   "venta": "ARS 25.600",
+   "transferencia": "ARS 20.480"
+  },
+  "promos": [
+   "20% OFF",
+   "20% transferencia",
+   "cupón BIENVENIDA 10%",
+   "3 cuotas sin interés"
+  ],
+  "garantia": "no visible",
+  "devolucion": "no leída",
+  "envio": "gratis desde ARS 60.000",
+  "beneficios": [
+   "control caída (claim médico, no replicar)"
+  ],
+  "objeciones_resueltas": [
+   "qué líquido cargar"
+  ],
+  "diferenciadores": [
+   "líquido propio incluido"
+  ],
+  "merece_investigar": true,
+  "por_que": "Única señal de ventas pública AR del formato kit (+70) y stock bajo.",
+  "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "alta del registro",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   }
+  ]
+ },
+ "microshop-ar:micro-masajeador-capilar": {
+  "id": "microshop-ar:micro-masajeador-capilar",
+  "problema": "Masaje capilar; aceites como uso secundario",
+  "variantes": [
+   "único"
+  ],
+  "precio": {
+   "lista": "ARS 60.000",
+   "venta": "ARS 45.780"
+  },
+  "promos": [
+   "24% OFF",
+   "10% transferencia"
+  ],
+  "garantia": "no visible",
+  "devolucion": "no leída",
+  "envio": "gratis",
+  "beneficios": [
+   "masaje",
+   "5 dB declarados",
+   "pet friendly"
+  ],
+  "objeciones_resueltas": [
+   "ruido"
+  ],
+  "diferenciadores": [
+   "marca registrada propia"
+  ],
+  "merece_investigar": false,
+  "por_que": "Sin señales de demanda visibles.",
+  "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "alta del registro"
+   }
+  ]
  }
 }

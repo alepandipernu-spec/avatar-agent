@@ -70,5 +70,29 @@
   "tipo": "ESTIMACIÓN de terceros",
   "indica": "El producto está en el radar de los dropshippers → más competencia genérica.",
   "no_indica": "Ventas; la cifra '3:1' del blog no tiene método."
+ },
+ "lena-mas-70-vendidos": {
+  "id": "lena-mas-70-vendidos",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-28",
+  "senal": "Contador Tiendanube \"+70 vendidos\"",
+  "valor": "+70",
+  "fuente": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/",
+  "alcance": "Lena Vegetal, kit masajeador + tónico, AR, acumulado",
+  "tipo": "HECHO (indicador de plataforma)",
+  "indica": "Demanda real pero chica del formato kit en tienda propia AR",
+  "no_indica": "Ventas mensuales, ritmo actual ni rentabilidad"
+ },
+ "amazon-us-electricos-deposito-baja-calificacion": {
+  "id": "amazon-us-electricos-deposito-baja-calificacion",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-28",
+  "senal": "Calificación de otros 3 listados con depósito",
+  "valor": "Hlonns B0CR6C9V44 3,2★/58 (USD 33,98); mriya 70 ml B0CL9HGDHC 3,2★/88; JIODTMER B0CDLT9ZZH 4★/59",
+  "fuente": "amazon.com (vía Exa)",
+  "alcance": "3 listados US",
+  "tipo": "HECHO",
+  "indica": "Satisfacción media-baja en la categoría con depósito",
+  "no_indica": "Unidades vendidas"
  }
 }

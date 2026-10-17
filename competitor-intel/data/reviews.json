@@ -1,13 +1,20 @@
 {
  "patterns": [
   {
-   "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar",
-   "n_fuentes": 4,
-   "n_competidores": 4,
+   "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
+   "n_fuentes": 9,
+   "n_competidores": 9,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
    "fecha": "2026-10-17",
-   "run_id": "2026-10-17T15-27"
+   "run_id": "2026-10-17T15-27",
+   "historial": [
+    {
+     "date": "2026-10-17",
+     "run_id": "2026-10-17T15-28",
+     "change": "+5 fuentes (mriya 70 ml, JIODTMER, 3 en 1 B0CWTV3DQ8, TODAY, Hlonns); suma limpieza/cristalización"
+    }
+   ]
   },
   {
    "problema": "Escepticismo sobre la luz roja",
@@ -59,6 +66,46 @@
    "fecha_consulta": "2026-10-17",
    "parafrasis": "Una sola calificación de 2/5, sin texto visible.",
    "run_id": "2026-10-17T15-27"
+  },
+  {
+   "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
+   "producto": "mriya 70 ml (Amazon US)",
+   "problema": "Durabilidad / obstrucción",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "Reseña destacada: se tapó el primer día, no se pudo destapar y además pierde; segunda unidad fallada.",
+   "run_id": "2026-10-17T15-28"
+  },
+  {
+   "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
+   "producto": "JIODTMER (Amazon US)",
+   "problema": "Pérdida de líquido",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "Reseña positiva que advierte que el resto de producto se escapa si no se vacía y que con aceites espesos se complica.",
+   "run_id": "2026-10-17T15-28"
+  },
+  {
+   "fuente": "https://www.amazon.com/dp/B0CWTV3DQ8",
+   "producto": "3 en 1 luz roja (Amazon US)",
+   "problema": "Falta de instrucciones / obstrucción",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "La propia ficha avisa que se cristaliza si no se limpia, que gotea apoyado y que hace falta gotero o embudo para cargarlo.",
+   "run_id": "2026-10-17T15-28"
+  },
+  {
+   "fuente": "https://www.today.com/shop/huayulink-electric-hair-oil-device-review-rcna147431",
+   "producto": "Huayulink (reseña TODAY, 04/2024)",
+   "problema": "Limpieza difícil",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "El depósito quedó con residuo de aceite y lo tuvo que limpiar con hisopos.",
+   "run_id": "2026-10-17T15-28"
+  },
+  {
+   "fuente": "https://www.amazon.com/Electric-Applicator-Oiling-Massager-Dispenser/dp/B0CR6C9V44",
+   "producto": "Hlonns (Amazon US)",
+   "problema": "Expectativas / uso",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "La ficha aclara que no sirve para aceites espesos o concentrados; 3,2★ en 58 reseñas.",
+   "run_id": "2026-10-17T15-28"
   }
  ]
 }

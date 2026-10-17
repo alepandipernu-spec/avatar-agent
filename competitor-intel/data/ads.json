@@ -135,5 +135,33 @@
   "primera_vez_visto": "2026-10-17",
   "ultima_vez_visto": "2026-10-17",
   "repeticiones": 1
+ },
+ "generico:ml-co-clip-2026-02-16": {
+  "id": "generico:ml-co-clip-2026-02-16",
+  "run_id": "2026-10-17T15-28",
+  "competidor": "vendedor de ML Colombia (sin marca visible)",
+  "fuente": "Clip de video de Mercado Libre Colombia (NO es la Biblioteca)",
+  "url": "https://www.mercadolibre.com.co/shorts/clips/0Te7E0/cepillo-masajeador-electrico-hairoiling",
+  "fecha_vista": "2026-10-17",
+  "fecha_publicacion": "2026-02-16",
+  "formato": "Clip corto dentro de ML",
+  "gancho": "\"hairoiling\" como término de búsqueda",
+  "oferta": "COP 110.000",
+  "vistas_visibles": 19,
+  "motivaciones": "[INTERPRETACIÓN] comodidad / mejora de rutina"
+ },
+ "generico:ml-co-clip-2025-11-07": {
+  "id": "generico:ml-co-clip-2025-11-07",
+  "run_id": "2026-10-17T15-28",
+  "competidor": "vendedor de ML Colombia (sin marca visible)",
+  "fuente": "Clip de video de Mercado Libre Colombia (NO es la Biblioteca)",
+  "url": "https://www.mercadolibre.com.co/shorts/clips/pbe70k/cepillo-masajeador-capilar-vibratorio-cuero-cabelludo-color",
+  "fecha_vista": "2026-10-17",
+  "fecha_publicacion": "2025-11-07",
+  "formato": "Clip corto dentro de ML",
+  "gancho": "mejorar la rutina capilar durante lavado o tratamiento",
+  "oferta": "COP 83.480 (6 cuotas sin interés)",
+  "vistas_visibles": 259,
+  "motivaciones": "[INTERPRETACIÓN] comodidad / mejora de rutina"
  }
 }

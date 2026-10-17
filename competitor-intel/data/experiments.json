@@ -10,6 +10,13 @@
   "estado": "propuesto",
   "resultado": null,
   "fecha": "2026-10-17",
-  "run_id": "2026-10-17T15-27"
+  "run_id": "2026-10-17T15-27",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28",
+    "change": "sin cambios; OPP-001 sube a score 80"
+   }
+  ]
  }
 }

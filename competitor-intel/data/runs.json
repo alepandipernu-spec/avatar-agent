@@ -39,5 +39,43 @@
   ],
   "oportunidades_actualizadas": [],
   "privacidad": "repo PÚBLICO (gh api .private = false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-17T15-28",
+  "foco": "Complemento de 2026-10-17T15-27 (ejecución paralela de la misma tarea, mismo foco): AR (Lena, Microshop) y reseñas extra",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "Exa search/fetch",
+   "WebSearch",
+   "tiendas Lena/Microshop/Anyra",
+   "Amazon US (5 listados)",
+   "ML AR/MX/CO",
+   "ML Clips CO",
+   "TikTok Creative Center (sin resultados)"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no aprobado)",
+   "Página de reseñas completa de Amazon (CRAWL_NOT_FOUND)"
+  ],
+  "competidores_revisados": [
+   "lena-vegetal-ar",
+   "microshop-ar",
+   "anyra-us",
+   "amazon-generics-us"
+  ],
+  "novedades": [
+   "Lena +70 vendidos, stock bajo, cupón 10%",
+   "Patrón de dispensado/limpieza: 4→9 fuentes",
+   "2 clips ML CO nuevos"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-005-sensorial-en-seco",
+   "OPP-006-kit-liquido-compatible"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-001-demo-aplicacion-sin-goteo (60→80)"
+  ],
+  "privacidad": "repo PÚBLICO: sin datos internos",
+  "nota": "Se detectó una ejecución duplicada a 1 minuto de diferencia; revisar la programación de la tarea."
  }
 ]
