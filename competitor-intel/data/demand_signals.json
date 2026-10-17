@@ -94,5 +94,29 @@
   "tipo": "HECHO",
   "indica": "Satisfacción media-baja en la categoría con depósito",
   "no_indica": "Unidades vendidas"
+ },
+ "xiaomi-entrada-categoria": {
+  "senal": "Entrada de marca masiva",
+  "valor": "Xiaomi Mijia Smart Head lanzado en China (mayo 2026)",
+  "fuente": "https://www.muymac.com/xiaomi-presenta-peine-inteligente-masaje-calor-y-precio-por-debajo-de-70-e/",
+  "fecha": "2026-10-17",
+  "alcance": "CN",
+  "tipo": "HECHO",
+  "indica": "La categoría masaje + depósito atrae a grandes fabricantes",
+  "no_indica": "Llegada a LATAM",
+  "id": "xiaomi-entrada-categoria",
+  "run_id": "2026-10-17T15-28-b"
+ },
+ "us-dtc-clones-rango": {
+  "senal": "Oferta DTC US saturada",
+  "valor": "≥5 tiendas Shopify con el mismo aparato a USD 50–90",
+  "fuente": "thickroots.com, pilore.com, monalisamedical.com, shopanyra.com, hairrova.com",
+  "fecha": "2026-10-17",
+  "alcance": "US",
+  "tipo": "ESTIMACIÓN (muestra no exhaustiva)",
+  "indica": "Competencia alta por la misma audiencia en US",
+  "no_indica": "Volumen de demanda",
+  "id": "us-dtc-clones-rango",
+  "run_id": "2026-10-17T15-28-b"
  }
 }

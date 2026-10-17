@@ -77,5 +77,33 @@
   ],
   "privacidad": "repo PÚBLICO: sin datos internos",
   "nota": "Se detectó una ejecución duplicada a 1 minuto de diferencia; revisar la programación de la tarea."
+ },
+ {
+  "run_id": "2026-10-17T15-28-b",
+  "foco": "Anuncios, creatividades y demanda (franja 11:54) — TERCERA sesión concurrente (15:27, 15:28, 15:28-b); solo se agregó lo no cubierto",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "Exa search/fetch",
+   "WebSearch",
+   "fichas Anyra/Microshop/Lena/Hairrova",
+   "Amazon mriya"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch sin permiso; Exa SOURCE_NOT_AVAILABLE)",
+   "Mercado Libre (WebFetch robots; Exa fetch no disponible)",
+   "TikTok Creative Center (0 resultados sin login)"
+  ],
+  "competidores_nuevos": [
+   "xiaomi-mijia-smarthead",
+   "ondavu",
+   "dtc-clones-us"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-007-precio-honesto-ahorro-por-unidad",
+   "OPP-008-angulo-habito-paso-abandonado"
+  ],
+  "oportunidades_actualizadas": [],
+  "privacidad": "repo PÚBLICO: sin datos internos",
+  "incidencia": "Tres sesiones de la misma tarea corrieron en paralelo; hubo conflictos de git resueltos sin borrar historial."
  }
 ]

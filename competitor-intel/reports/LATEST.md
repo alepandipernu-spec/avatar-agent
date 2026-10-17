@@ -149,3 +149,11 @@ Ejecución paralela de la misma tarea, con el mismo foco. Detalle completo en `2
 - El patrón de goteo, obstrucción y limpieza difícil del depósito pasa de 4 a 9 fuentes. OPP-001 sube a score **80**.
 - Oportunidades nuevas: OPP-005 sensorial en seco (score 12) y OPP-006 kit con líquido (score 1,3, en evaluación).
 - Biblioteca de Meta: tampoco se pudo consultar en esta ejecución.
+
+
+## Complemento 2026-10-17T15-28-b
+Ver [2026-10-17T15-28-b.md](2026-10-17T15-28-b.md). Lo que suma:
+- Competidores nuevos: Xiaomi Mijia (CN, B), Ondavu (C) y clones DTC de EE. UU. (USD 50–90).
+- 3 reseñas más del patrón de goteo (incluye Breo premium).
+- Oportunidades nuevas: OPP-007 (precio honesto, 30) y OPP-008 (ángulo de hábito, 24).
+- La tarea corrió en 3 sesiones paralelas.

@@ -499,6 +499,12 @@
     "run_id": "2026-10-17T15-27",
     "change": "Competidor nuevo registrado",
     "source": "Exa"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28-b",
+    "change": "Complemento: EUR 179,95 en reseña FR (30/09/2025); reseñas reportan dosificación irregular y tapa que pierde.",
+    "source": "https://www.inthemiddle.fr/test-breo-scalp3-brosse-shiatsu-etanche-et-portable ; https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/"
    }
   ]
  },
@@ -636,6 +642,128 @@
     "run_id": "2026-10-17T15-27",
     "change": "Registrado",
     "source": "Exa"
+   }
+  ]
+ },
+ "xiaomi-mijia-smarthead": {
+  "name": "Xiaomi Mijia Smart Head",
+  "domain": "mi.com (China)",
+  "market": "CN (sin distribución internacional confirmada)",
+  "category": "B_indirecto",
+  "relevant_products": [
+   "Peine masajeador con calor de grafeno, depósito 3 ml, IPX7"
+  ],
+  "price_visible": "CNY 599 (lanzamiento CNY 509) según MuyMac 21/05/2026.",
+  "value_prop": "Marca de electrónica masiva entra a la categoría masaje + aplicación de aceite.",
+  "channels": [
+   "Xiaomi China"
+  ],
+  "sources": [
+   "https://www.muymac.com/xiaomi-presenta-peine-inteligente-masaje-calor-y-precio-por-debajo-de-70-e/"
+  ],
+  "relevance": "media",
+  "follow_reason": "Posible entrante masivo en LATAM (Xiaomi tiene canal fuerte en AR/CO/MX). Vigilar si llega.",
+  "facts": [
+   "Lanzado en China en mayo de 2026 (fuente: MuyMac)."
+  ],
+  "inferences": [],
+  "hypotheses": [
+   "Si llega a LATAM, fijaría un precio de referencia de marca conocida (~USD 70) y validaría la categoría."
+  ],
+  "unknowns": [
+   "Fecha y precio de llegada a LATAM."
+  ],
+  "id": "xiaomi-mijia-smarthead",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "change": "Alta en la base",
+    "source": "https://www.muymac.com/xiaomi-presenta-peine-inteligente-masaje-calor-y-precio-por-debajo-de-70-e/",
+    "run_id": "2026-10-17T15-28-b"
+   }
+  ]
+ },
+ "ondavu": {
+  "name": "Ondavu",
+  "domain": "desconocido (vía post patrocinado)",
+  "market": "US/UK (sin confirmar)",
+  "category": "C_inspiracional",
+  "relevant_products": [
+   "Root Pulse (peine masajeador en seco, 5 niveles)",
+   "Root Reset (serum pre-champú)",
+   "Root Oil",
+   "Root Mist"
+  ],
+  "price_visible": "No visible.",
+  "value_prop": "Vende la rutina, no el aparato: parte de la observación de que el masaje es el paso que la gente abandona.",
+  "channels": [
+   "Blogs/influencers patrocinados"
+  ],
+  "sources": [
+   "https://www.cheymuter.com/post/ondavu-4-step-haircare-routine"
+  ],
+  "relevance": "media",
+  "follow_reason": "Enfoque de comunicación 'rutina de 4 pasos' y 'el paso que abandonás' es adaptable a los microdramas de Flubberhome.",
+  "facts": [
+   "Post patrocinado publicado el 12/10/2026."
+  ],
+  "inferences": [
+   "Usa marketing de influencers con manual ilustrado y pasos numerados."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Sitio oficial, precio, ventas."
+  ],
+  "id": "ondavu",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "change": "Alta en la base",
+    "source": "https://www.cheymuter.com/post/ondavu-4-step-haircare-routine",
+    "run_id": "2026-10-17T15-28-b"
+   }
+  ]
+ },
+ "dtc-clones-us": {
+  "name": "Tiendas DTC de EE. UU. con el mismo aparato (thickroots RootPulse, Pilore RootWake, monalisamedical)",
+  "domain": "thickroots.com / pilore.com / monalisamedical.com",
+  "market": "US",
+  "category": "A_directo",
+  "relevant_products": [
+   "Peines masajeadores con luz roja / atomizador"
+  ],
+  "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
+  "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
+  "channels": [
+   "Shopify"
+  ],
+  "sources": [
+   "https://thickroots.com/products/rootpulse-red-blue-light-head-massage-comb",
+   "https://pilore.com/products/the-root-awakening-brush",
+   "https://monalisamedical.com/product/3-in-1-red-light-therapy-scalp-massager-hair-oil-applicator-waterproof-electric-comb/"
+  ],
+  "relevance": "baja",
+  "follow_reason": "Señal de saturación de la oferta en US; Pilore introduce variante con atomizador (niebla) en lugar de rodillos.",
+  "facts": [
+   "Precios USD 54,90–69,21 (17/10/2026, vía índice de Exa)."
+  ],
+  "inferences": [
+   "El rango DTC US se concentra en USD 50–90; Flubberhome (41,93) queda abajo."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios."
+  ],
+  "id": "dtc-clones-us",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "change": "Alta en la base",
+    "source": "https://thickroots.com/products/rootpulse-red-blue-light-head-massage-comb",
+    "run_id": "2026-10-17T15-28-b"
    }
   ]
  }

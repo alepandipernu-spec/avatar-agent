@@ -213,5 +213,75 @@
     "change": "creada"
    }
   ]
+ },
+ "OPP-007-precio-honesto-ahorro-por-unidad": {
+  "id": "OPP-007-precio-honesto-ahorro-por-unidad",
+  "competidor_observado": "Anyra, Hairrova, Microshop, monalisamedical",
+  "producto_estrategia": "Tachados permanentes de 40–68% y prueba social autodeclarada; página de Anyra con bloque de otro producto",
+  "fuente_evidencia": "páginas de producto, 17/10/2026",
+  "hallazgo": "Los directos de US compiten con descuentos inflados y copy incoherente.",
+  "explicacion": "[HIPÓTESIS] La urgencia funciona a corto plazo, pero un comprador atento detecta la plantilla.",
+  "confianza": "media (observación directa; efecto sobre conversión desconocido)",
+  "diferencia_flubberhome": "Flubberhome quitó tachados el 17/10/2026.",
+  "adaptable": "Convertir la ausencia de tachado en mensaje de confianza.",
+  "no_replicar": "Tachados ficticios, conteos de clientes no verificables, '93% vio crecimiento'.",
+  "propuesta_original": "Línea en la ficha: precio real, sin descuentos inventados; el ahorro está en los packs (mostrar el ahorro por unidad del Dúo y Familiar).",
+  "ejemplo": "'Pack Dúo: cada uno sale USD 35,94' junto al botón.",
+  "recursos": "Edición de texto en la ficha",
+  "costos_riesgos": "Muy bajo",
+  "metrica": "Proporción de pedidos con Pack Dúo/Familiar",
+  "proximo_paso": "Proponer el texto al dueño.",
+  "puntajes": {
+   "impacto": 2,
+   "confianza": 3,
+   "facilidad": 5,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 30.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28-b",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-008-angulo-habito-paso-abandonado": {
+  "id": "OPP-008-angulo-habito-paso-abandonado",
+  "competidor_observado": "Ondavu",
+  "producto_estrategia": "Vender la rutina de 4 pasos y el insight 'el masaje es el paso que se abandona'",
+  "fuente_evidencia": "https://www.cheymuter.com/post/ondavu-4-step-haircare-routine (12/10/2026)",
+  "hallazgo": "Encuadre de hábito en vez de resultado.",
+  "explicacion": "[HIPÓTESIS] Evita claims médicos y apunta a la fricción real (cansancio de manos).",
+  "confianza": "baja-media (una fuente, sin datos de resultado)",
+  "diferencia_flubberhome": "Los microdramas hoy no tienen un arco de 'hábito'.",
+  "adaptable": "La idea de hábito y constancia, no el texto.",
+  "no_replicar": "Su copy, su nombre de pasos.",
+  "propuesta_original": "Mini serie del Edificio Flubber: 'La semana de 5 minutos' — un personaje sostiene la rutina 7 días con el aparato porque no le cansa la mano.",
+  "ejemplo": "Episodio 1: deja el masaje con los dedos a los 90 s; episodio 2: lo hace mirando una serie con el ScalpCare.",
+  "recursos": "Guiones + generación de video IA",
+  "costos_riesgos": "Bajo; riesgo creativo",
+  "metrica": "Retención a 3 s y 50% del Reel, guardados",
+  "proximo_paso": "Pasarlo como ángulo a la skill flubberhome-creative-engine.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 24.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-28-b",
+    "change": "creada"
+   }
+  ]
  }
 }

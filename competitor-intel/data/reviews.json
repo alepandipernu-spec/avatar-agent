@@ -2,7 +2,7 @@
  "patterns": [
   {
    "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 9,
+   "n_fuentes": 12,
    "n_competidores": 9,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
@@ -13,6 +13,11 @@
      "date": "2026-10-17",
      "run_id": "2026-10-17T15-28",
      "change": "+5 fuentes (mriya 70 ml, JIODTMER, 3 en 1 B0CWTV3DQ8, TODAY, Hlonns); suma limpieza/cristalización"
+    },
+    {
+     "date": "2026-10-17",
+     "run_id": "2026-10-17T15-28-b",
+     "change": "+3 fuentes (Breo premium x2, mercilia); el patrón alcanza también al segmento premium."
     }
    ]
   },
@@ -106,6 +111,33 @@
    "fecha_consulta": "2026-10-17",
    "parafrasis": "La ficha aclara que no sirve para aceites espesos o concentrados; 3,2★ en 58 reseñas.",
    "run_id": "2026-10-17T15-28"
+  },
+  {
+   "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
+   "producto": "Breo Scalp3",
+   "problema": "dosificación irregular / pérdida por la tapa",
+   "fecha": "2025-07-15",
+   "parafrasis": "El aceite no siempre salía y la tapa no sellaba bien; terminó aplicando a mano.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T15-28-b"
+  },
+  {
+   "fuente": "https://www.inthemiddle.fr/test-breo-scalp3-brosse-shiatsu-etanche-et-portable",
+   "producto": "Breo Scalp3",
+   "problema": "precio alto / depósito chico / sin adaptador",
+   "fecha": "2025-09-30",
+   "parafrasis": "Depósito de 3 ml corto para pelo largo y no incluye adaptador de corriente.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T15-28-b"
+  },
+  {
+   "fuente": "https://mercilia.com/products/electric-hair-oil-applicator",
+   "producto": "mercilia",
+   "problema": "obstrucción (advertencia del vendedor)",
+   "fecha": "vista 2026-10-17",
+   "parafrasis": "El propio vendedor avisa que si no se limpia, el líquido cristaliza y deja de salir.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T15-28-b"
   }
  ]
 }
