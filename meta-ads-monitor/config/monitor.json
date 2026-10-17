@@ -15,9 +15,18 @@
     "settling_days": 3
   },
   "approved_spend": {
-    "daily_limit_usd": null,
-    "monthly_limit_usd": null,
-    "note": "Sin límite aprobado documentado. Mientras sea null no se generan alertas P0 por 'gasto fuera de límite'; se reporta como dato faltante."
+    "daily_limit_usd": 6,
+    "monthly_limit_usd": 180,
+    "phase": "Fase 1 (solo después de cumplir la lista previa; hoy el gasto aprobado es USD 0 por la pausa intencional)",
+    "scale_rule": "+20% cada 72 h solo con ≥ 3 compras en 7 días y CPA ≤ USD 10; techo USD 12/día y USD 360/mes",
+    "stop_rules": [
+      "USD 50 con ≥ 3 checkouts y 0 compras → pausar y revisar checkout/pago",
+      "USD 50 con < 3 checkouts → pausar y cambiar creativos",
+      "USD 120 con < 3 compras → pausar todo"
+    ],
+    "cpa_target_usd": 8,
+    "cpa_max_usd": 12,
+    "source": "arena de agentes 17/10/2026 (juez: combinación conservadora + gate de Mercado Pago), delegado por el dueño"
   },
   "thresholds": {
     "_note": "Umbrales provisionales derivados del historial del 2026-08-01 al 2026-10-17 (gasto USD 310, 0 compras). Revisar cuando haya ventas.",
@@ -32,11 +41,12 @@
     "material_change_pct": 0.25
   },
   "economics": {
-    "shipping_cost_per_order_usd": null,
-    "payment_fee_pct": null,
-    "tax_pct": null,
-    "returns_pct": null,
-    "note": "Costos no documentados. El script los trata como DESCONOCIDOS y calcula escenarios etiquetados como estimación."
+    "shipping_cost_per_order_usd": 10,
+    "payment_fee_pct": 0.074,
+    "payment_fee_fixed_usd": 0.3,
+    "tax_pct": 0.05,
+    "returns_pct": 0.06,
+    "note": "Elegido por la arena 17/10/2026. Envío CJ = ESTIMACIÓN (falta cotización real); comisión 7,4% = PayPal 5,40% (tabla oficial) + 2% Shopify Basic por pasarela externa; impuestos 5% = ESTIMACIÓN (confirmar con contador); devoluciones 6% = ESTIMACIÓN. La comisión fija no entra en el cálculo del script."
   },
   "notification": {
     "channel": "push al terminar la tarea programada (notificaciones de Claude Code)",
@@ -76,6 +86,13 @@
       "change": "'· Más elegido' quitado de la descripción de ScalpCare Pro y del título del borrador Pack Dúo.",
       "approved_by": "dueño (plan aprobado)",
       "revert": "restaurar texto"
+    },
+    {
+      "date": "2026-10-17",
+      "system": "monitor",
+      "change": "Límite de gasto y costos estimados de la arena cargados en config.",
+      "approved_by": "dueño (delegó en la arena)",
+      "revert": "git"
     }
   ]
 }
