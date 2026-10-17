@@ -1,0 +1,38 @@
+# Contexto de Flubberhome (fase 1)
+
+Verificado: 17/10/2026, 14:56 (Buenos Aires). Fuentes: Shopify (lectura), skill `flubberhome-creative-engine`, config del monitor de Meta Ads (rama `claude/affectionate-fermat-ps9s9g`). Volver a verificar precios y variantes en Shopify en cada ejecución; si algo cambió, actualizar este archivo y anotarlo en "Cambios".
+
+## Producto
+- Único producto activo: **ScalpCare Pro™ — Cepillo Exfoliante** (marca FlubberHomme), tienda flubberhomme.com (Shopify).
+- Masajeador capilar eléctrico e inalámbrico, carga USB-C, 3 intensidades, depósito trasero para tónico o aceite, puntas redondeadas. Colores verde y rojo con detalles dorados.
+- Uso: pelo seco o apenas húmedo, antes o después de la ducha. Nunca bajo el agua, con champú ni espuma.
+- Beneficios que se pueden comunicar: masaje, alivio, rutina de cuidado, aplicación más pareja del tónico. Prohibido: claims médicos (caída, crecimiento, curar), luz roja como beneficio, "más elegido", testimonios inventados.
+
+## Oferta (Shopify, 17/10/2026)
+| Variante | Precio USD |
+|---|---|
+| 1 unidad (incluye Guía Digital) | 41,93 |
+| Pack Dúo (2 u. + envío gratis) | 71,88 |
+| Pack Familiar (3 u. + envío gratis) | 89,85 |
+- Sin precio tachado ni "% OFF" (quitado el 17/10/2026). Envío gratis desde USD 70. Despacho 1–2 días hábiles. Cambios 30 días sin abrir; defectos dentro de 72 h.
+- No hay garantía extendida publicada.
+
+## Mercados
+Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; las cuatro están pausadas a propósito desde el 17/10/2026 hasta resolver tienda, envíos, pago y medición).
+
+## Público y posicionamiento
+- Personas que quieren una rutina de cuidado del cuero cabelludo en casa; tono argentino cercano, no corporativo ni de dropshipping.
+- Dirección creativa actual: microdramas con IA del universo "Edificio Flubber" (personajes de ficción declarados).
+
+## Diferenciadores actuales (verificables)
+- Packs con envío gratis y ahorro real, sin descuentos inflados.
+- Guía digital incluida.
+- Precio por debajo de varias marcas de EE. UU. con precio tachado; por encima de los genéricos de Amazon.
+
+## Limitaciones conocidas
+- Todavía sin compras registradas: no hay reseñas propias ni prueba social real.
+- Costos de envío, impuestos y devoluciones son estimaciones (ver config del monitor de Meta Ads). El costo unitario y el margen no se escriben acá mientras el repo sea público.
+- La Biblioteca de anuncios de Meta no se puede leer desde la nube.
+
+## Cambios
+- 17/10/2026: archivo creado.
