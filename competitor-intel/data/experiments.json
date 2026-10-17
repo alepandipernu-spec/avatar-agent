@@ -1,1 +1,15 @@
-{}
+{
+ "EXP-001-bloque-carga-sin-goteo": {
+  "id": "EXP-001-bloque-carga-sin-goteo",
+  "oportunidad": "OPP-001-demo-aplicacion-sin-goteo",
+  "hipotesis": "Mostrar cómo se carga y aplica el líquido sin goteo aumenta el agregado al carrito.",
+  "cambio": "Bloque de 3 pasos + video de 15 s en la ficha",
+  "metrica": "Tasa de agregar al carrito",
+  "umbral": "+15% relativo con al menos 1.000 sesiones por variante",
+  "costo": "Bajo (producción interna)",
+  "estado": "propuesto",
+  "resultado": null,
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27"
+ }
+}

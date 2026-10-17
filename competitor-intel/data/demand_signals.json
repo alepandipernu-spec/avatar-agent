@@ -1,1 +1,74 @@
-{}
+{
+ "ml-ar-manuales-vs-electricos": {
+  "id": "ml-ar-manuales-vs-electricos",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Indicador '+N vendidos' de ML AR en la búsqueda 'masajeador cuero cabelludo'",
+  "valor": "Manuales: Coony +5mil; Gadnic, Hairfy, MAFEZ +1000; Scher +500. Eléctricos: MegaCuper +50; otros +5.",
+  "fuente": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo",
+  "alcance": "AR, Mercado Libre, acumulado histórico de cada publicación",
+  "tipo": "HECHO (indicador de ML)",
+  "indica": "El hábito existe y la demanda pública se concentra en la herramienta manual barata.",
+  "no_indica": "Ventas mensuales ni ventas fuera de ML; los eléctricos pueden venderse por otros canales."
+ },
+ "amazon-us-manual-heeta": {
+  "id": "amazon-us-manual-heeta",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Reseñas del líder de 'Manual Scalp Massagers' en Amazon US",
+  "valor": "HEETA: 154.436 calificaciones (4,6★)",
+  "fuente": "https://www.amazon.com/Best-Sellers-Manual-Scalp-Massagers/zgbs/hpc/16303041",
+  "alcance": "US, Amazon",
+  "tipo": "HECHO",
+  "indica": "Categoría madre muy grande en EE. UU.",
+  "no_indica": "Unidades vendidas."
+ },
+ "amazon-us-electricos-deposito": {
+  "id": "amazon-us-electricos-deposito",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Reseñas de masajeadores eléctricos con depósito en Amazon US",
+  "valor": "Breo Scalp3 232; ZUTESU 55; 2 en 1 IPX7 47; INIA 34; mriya 19; Satorix 0 (desde 04/2026)",
+  "fuente": "amazon.com (listados citados en products/competitors)",
+  "alcance": "US, Amazon",
+  "tipo": "HECHO",
+  "indica": "Subcategoría fragmentada y joven; ningún jugador domina.",
+  "no_indica": "Ventas; muchos venden fuera de Amazon (DTC)."
+ },
+ "dtc-contadores-propios": {
+  "id": "dtc-contadores-propios",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Contadores de clientes que publican las propias marcas",
+  "valor": "Anyra '12.319 clientes'; Nordic '2.387'; Hairrova '1.100+'; Glokore '2.541 compras en 30 días'",
+  "fuente": "páginas oficiales (ver competitors.json)",
+  "alcance": "US, DTC",
+  "tipo": "HECHO: afirmación del vendedor (no verificada)",
+  "indica": "Las marcas usan la prueba social numérica como palanca principal.",
+  "no_indica": "Ventas reales."
+ },
+ "tiktok-shop-saturacion": {
+  "id": "tiktok-shop-saturacion",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Cantidad de listados en TikTok Shop US para 'electric scalp massager with red light'",
+  "valor": "Más de 20 listados distintos en la primera página, varios con 'LIVE EXCLUSIVE'",
+  "fuente": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light",
+  "alcance": "US",
+  "tipo": "HECHO",
+  "indica": "Oferta abundante y competencia por precio en TikTok Shop US.",
+  "no_indica": "Demanda ni ventas."
+ },
+ "astools-tendencia": {
+  "id": "astools-tendencia",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T15-27",
+  "senal": "Blog de herramientas de dropshipping lista los masajeadores eléctricos como tendencia en TikTok (mayo 2026)",
+  "valor": "Mayorista USD 9–14, minorista USD 39–59 (según el blog)",
+  "fuente": "https://news.astools.app/en/blog/tiktok-viral-hair-tools-2026-dropshipping",
+  "alcance": "Global, fuente secundaria de baja confiabilidad",
+  "tipo": "ESTIMACIÓN de terceros",
+  "indica": "El producto está en el radar de los dropshippers → más competencia genérica.",
+  "no_indica": "Ventas; la cifra '3:1' del blog no tiene método."
+ }
+}

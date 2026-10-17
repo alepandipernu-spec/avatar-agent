@@ -211,12 +211,19 @@
   "price_visible": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
   "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
   "claims_observed": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.",
-  "channels": [],
+  "channels": [
+   "Tienda Shopify propia",
+   "TikTok/Instagram (según la propia página)"
+  ],
   "ads": "No obtenido.",
   "facts": [
-   "Usa porcentajes de satisfacción y conteo de clientes en la página."
+   "Usa porcentajes de satisfacción y conteo de clientes en la página.",
+   "17/10/2026: precio USD 50,95 (tachado 158,95, 'SAVE 68%') sin cambios; envío 7–14 días hábiles; la página afirma +4,5 M de vistas en TikTok e Instagram y 'ya agotamos 3 veces' (afirmaciones del vendedor, no verificadas).",
+   "La página mezcla un bloque de otro producto (cojín para coxis / 'alineación de columna'): señal de plantilla reciclada."
   ],
-  "inferences": [],
+  "inferences": [
+   "Página de estilo dropshipping: descuento inflado, urgencia ('agotado 3 veces') y porcentajes de 'resultados' sin método."
+  ],
   "hypotheses": [],
   "unknowns": [
    "Si las cifras de clientes y reseñas son verificables.",
@@ -226,13 +233,19 @@
    "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
   ],
   "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
+  "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
   "last_reviewed": "2026-10-17",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Chequeo de precio: sin cambios (USD 50,95). Detectado bloque de otro producto en la página.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -252,7 +265,9 @@
   "channels": [],
   "ads": "No obtenido.",
   "facts": [
-   "Garantía de devolución explícita y destacada."
+   "Garantía de devolución explícita y destacada.",
+   "17/10/2026: USD 89,99 (tachado 149,99, 'SAVE 40%'), envío express gratis, 30 días de devolución, 1 año de garantía; la página muestra la etiqueta 'Sold out' (puede ser un texto de plantilla, no verificado).",
+   "Promete crecimiento visible en 56 días y 'clínicamente probado' sin citar estudio en la página."
   ],
   "inferences": [],
   "hypotheses": [],
@@ -264,13 +279,19 @@
    "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
   ],
   "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
+  "follow_reason": "Comunica garantía de 1 año + 30 días de devolución en el primer pantallazo; claims médicos fuertes (no replicables).",
   "last_reviewed": "2026-10-17",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Chequeo de precio: sin cambios (USD 89,99). Aparece 'Sold out' en la ficha.",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
    }
   ]
  },
@@ -290,9 +311,12 @@
   "channels": [],
   "ads": "No obtenido.",
   "facts": [
-   "Modelo aparato + consumible."
+   "Modelo aparato + consumible.",
+   "17/10/2026: USD 79 (tachado 158, 'SAVE 50%'), 'Low Stock Alert', envío gratis, devoluciones gratis; el aparato se vende como aplicador de su sérum propio."
   ],
-  "inferences": [],
+  "inferences": [
+   "Modelo dispositivo + consumible: el aparato es el vehículo para vender el sérum recurrente."
+  ],
   "hypotheses": [],
   "unknowns": [
    "Anuncios, ventas."
@@ -301,13 +325,19 @@
    "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
   ],
   "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
+  "follow_reason": "Ejemplo de modelo aparato + consumible propio (recompra).",
   "last_reviewed": "2026-10-17",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Chequeo de precio: sin cambios (USD 79).",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
    }
   ]
  },
@@ -327,10 +357,12 @@
   "channels": [],
   "ads": "Listados de Amazon.",
   "facts": [
-   "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU."
+   "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
+   "17/10/2026: mriya USD 21,99 (4,5★, 19 reseñas); ZUTESU USD 25,99 (4,7★, 55 reseñas); Satorix USD 29,99 (sin reseñas visibles, disponible desde 06/04/2026); modelo 2 en 1 IPX7 USD 79,99 (4,3★, 47 reseñas)."
   ],
   "inferences": [
-   "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido."
+   "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido.",
+   "Los genéricos con depósito tienen pocas reseñas cada uno (decenas): categoría fragmentada, sin un líder claro en Amazon US."
   ],
   "hypotheses": [],
   "unknowns": [
@@ -348,6 +380,247 @@
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Precios y reseñas actualizados de 4 listados.",
+    "source": "amazon.com (B0DLWC7WXC, B0GW9G41D4, B0CW99YTS7, B0DX1T6RNV)"
+   }
+  ]
+ },
+ "glokore-us": {
+  "id": "glokore-us",
+  "name": "Glokore",
+  "domain": "glokore.com / shop.glokore.com",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Masajeador con luz roja 660 nm, bolillas y cámara para sérum",
+  "relevant_products": [
+   "Red Light Therapy Scalp Massager"
+  ],
+  "price_visible": "USD 119,99 (tachado USD 219,98) en shop.glokore.com; embudo aparte con código 'hasta 55% OFF' y cuenta regresiva 'termina a medianoche'.",
+  "value_prop": "Masaje + luz + aplicación de aceite en un solo paso; alternativa 'de salón' a menor costo.",
+  "claims_observed": "Crecimiento de pelo y 'medical-grade' (el propio advertorial aclara que no está aprobado por la FDA). 'Comprado 2.541 veces en los últimos 30 días' (afirmación del vendedor).",
+  "channels": [
+   "Tienda Shopify",
+   "Embudo de venta directa (preventa/advertorial + checkout propio)",
+   "Comunicados pagos tipo advertorial (AccessNewswire)",
+   "Teléfono de atención"
+  ],
+  "ads": "No se vio la Biblioteca de Meta. Se vio un advertorial público (24/04/2026) que abre aludiendo a un anuncio con 'antes y después'.",
+  "facts": [
+   "Checkout ofrece plan de reemplazo/garantía extendida de 1 año como agregado pago.",
+   "Garantía de devolución de 60 días (menos envío).",
+   "Usa un advertorial de formato periodístico, marcado como 'Advertorial', con tono 'análisis honesto'."
+  ],
+  "inferences": [
+   "Embudo de respuesta directa clásico: advertorial → página puente → checkout con venta adicional de garantía."
+  ],
+  "hypotheses": [
+   "La garantía extendida paga sube el ticket y además baja la objeción de durabilidad."
+  ],
+  "unknowns": [
+   "Ventas reales (el contador de 30 días no es verificable)",
+   "Anuncios activos y gasto."
+  ],
+  "sources": [
+   "https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager",
+   "https://glokore.com/scalpmassager/checkout4",
+   "https://glokore.com/scalpmassager/inter4",
+   "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976"
+  ],
+  "relevance": "media",
+  "follow_reason": "Embudo de respuesta directa completo (advertorial, urgencia, venta adicional de garantía): aprendizaje de estructura, no de claims.",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Competidor nuevo detectado",
+    "source": "Exa"
+   }
+  ]
+ },
+ "breo-us": {
+  "id": "breo-us",
+  "name": "Breo (Scalp3)",
+  "domain": "amazon.com (listado de la marca)",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Masajeador shiatsu 360° con cabina de 3 ml para sérum",
+  "relevant_products": [
+   "Breo Scalp3"
+  ],
+  "price_visible": "USD 159,99 en Amazon (17/10/2026).",
+  "value_prop": "Marca de masajeadores establecida; masaje 'como manos humanas', IPX7, garantía de 365 días.",
+  "claims_observed": "Masaje y absorción; lenguaje más de bienestar que médico en el listado de Amazon.",
+  "channels": [
+   "Amazon",
+   "TikTok Shop (listados con la marca)"
+  ],
+  "ads": "No obtenido.",
+  "facts": [
+   "4,0★ con 232 reseñas en Amazon US.",
+   "Garantía de 365 días y atención 'de por vida' en el listado."
+  ],
+  "inferences": [
+   "Techo de precio de la categoría (~USD 160) con marca reconocida."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios."
+  ],
+  "sources": [
+   "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
+   "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
+  ],
+  "relevance": "media",
+  "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ]
+ },
+ "inia-us": {
+  "id": "inia-us",
+  "name": "INIA (VIBRA 4 en 1)",
+  "domain": "shop.tiktok.com / amazon.com",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Dispositivo 4 en 1: luz roja, microcorriente, masaje, aplicador de 5 ml",
+  "relevant_products": [
+   "INIA VIBRA 4-in-1"
+  ],
+  "price_visible": "No se vio en TikTok Shop; una reseña de Amazon menciona alrededor de USD 100 (no verificado).",
+  "value_prop": "Posicionamiento 'spa en casa' y regalo; aplicador removible 'que no gotea'.",
+  "claims_observed": "Mezcla de bienestar y crecimiento.",
+  "channels": [
+   "TikTok Shop (con 'LIVE EXCLUSIVE')",
+   "Amazon"
+  ],
+  "ads": "Usa ventas en vivo en TikTok Shop (título 'LIVE EXCLUSIVE').",
+  "facts": [
+   "4,3★ con 34 reseñas en Amazon US.",
+   "Destaca el aplicador removible y lavable como diferencial frente a cepillos que 'acumulan residuos'."
+  ],
+  "inferences": [
+   "Responde de forma explícita a la objeción de limpieza y goteo del depósito."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Precio actual, ventas."
+  ],
+  "sources": [
+   "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250",
+   "https://www.amazon.com/INIA-Hair-Scalp-Massager-Rechargeable/dp/B0F62NQWXP"
+  ],
+  "relevance": "baja",
+  "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ]
+ },
+ "ml-electricos-ar": {
+  "id": "ml-electricos-ar",
+  "name": "Vendedores de masajeadores eléctricos en Mercado Libre AR (MegaCuper y otros)",
+  "domain": "listado.mercadolibre.com.ar",
+  "market": "AR",
+  "category": "A_directo",
+  "product_focus": "Masajeadores eléctricos de cuero cabelludo genéricos",
+  "relevant_products": [
+   "Masajeador de cuero cabelludo eléctrico portátil 'crecimiento' (MegaCuper)",
+   "Masajeador cuero cabelludo portátil recargable"
+  ],
+  "price_visible": "ARS 37.692 (tachado 60.793, 37% OFF, MegaCuper, +50 vendidos); ARS 59.800–69.999 en otros (+5 vendidos).",
+  "value_prop": "Precio y envío gratis de ML.",
+  "claims_observed": "'Crecimiento' en el título.",
+  "channels": [
+   "Mercado Libre"
+  ],
+  "ads": "Algunos aparecen como 'Ad' (publicidad dentro de ML).",
+  "facts": [
+   "Los eléctricos muestran indicadores bajos ('+5' a '+50 vendidos') al 17/10/2026."
+  ],
+  "inferences": [
+   "La demanda visible en ML AR de masajeadores eléctricos es chica comparada con los cepillos manuales."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Si tienen depósito para tónico (no se ve en el listado)."
+  ],
+  "sources": [
+   "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo",
+   "https://listado.mercadolibre.com.ar/masajeador-capilar-electrico"
+  ],
+  "relevance": "media",
+  "follow_reason": "Precio de referencia local en pesos para el mismo tipo de producto.",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Registrado",
+    "source": "Exa"
+   }
+  ]
+ },
+ "cepillos-manuales-ar": {
+  "id": "cepillos-manuales-ar",
+  "name": "Cepillos masajeadores manuales de silicona (Coony, Gadnic, Hairfy, Scher, MAFEZ) en ML AR",
+  "domain": "listado.mercadolibre.com.ar",
+  "market": "AR",
+  "category": "B_indirecto",
+  "product_focus": "Cepillo manual de silicona para cuero cabelludo",
+  "relevant_products": [
+   "Coony Scalp Therapy",
+   "Cepillo Masajeador Gadnic",
+   "Hairfy",
+   "Scher"
+  ],
+  "price_visible": "ARS 3.079 – 11.599 (17/10/2026).",
+  "value_prop": "Barato, simple, en la ducha.",
+  "claims_observed": "Limpieza y masaje.",
+  "channels": [
+   "Mercado Libre"
+  ],
+  "ads": "No aplica.",
+  "facts": [
+   "Coony Scalp Therapy: +5mil vendidos, 4,7★, ARS 9.281.",
+   "Gadnic violeta: +1000 vendidos; Hairfy: +1000; MAFEZ: +1000; Scher: +500 (indicadores de ML)."
+  ],
+  "inferences": [
+   "El hábito de 'masajear el cuero cabelludo' ya existe en AR, pero con una herramienta de ~USD 5–10."
+  ],
+  "hypotheses": [
+   "El comprador del cepillo manual es el público natural para 'subir de nivel' a un eléctrico con depósito."
+  ],
+  "unknowns": [
+   "Ventas reales (ML redondea y acumula)."
+  ],
+  "sources": [
+   "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+  ],
+  "relevance": "alta",
+  "follow_reason": "Mayor señal de demanda local de la categoría; define el ancla de precio mental del consumidor argentino.",
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Registrado",
+    "source": "Exa"
    }
   ]
  }

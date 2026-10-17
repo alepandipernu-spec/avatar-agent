@@ -1,4 +1,64 @@
 {
- "patterns": [],
- "items": []
+ "patterns": [
+  {
+   "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar",
+   "n_fuentes": 4,
+   "n_competidores": 4,
+   "clasificacion": "tendencia (varias fuentes y productos)",
+   "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
+   "fecha": "2026-10-17",
+   "run_id": "2026-10-17T15-27"
+  },
+  {
+   "problema": "Escepticismo sobre la luz roja",
+   "n_fuentes": 1,
+   "n_competidores": 1,
+   "clasificacion": "aislado (1 fuente)",
+   "oportunidad": "Flubberhome ya no comunica luz roja: refuerza el posicionamiento de masaje + aplicación. No usarlo como ataque.",
+   "fecha": "2026-10-17",
+   "run_id": "2026-10-17T15-27"
+  }
+ ],
+ "items": [
+  {
+   "fuente": "https://www.amazon.com/Electric-Applicator-Massager-Waterproof-Adjustable/dp/B0DX1T6RNV",
+   "producto": "2 en 1 IPX7 (Amazon US)",
+   "problema": "Calidad / diseño del depósito",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "La tapa del depósito no queda firme y el aceite se derrama; terminó aplicando con gotero y usando solo el cepillo.",
+   "run_id": "2026-10-17T15-27"
+  },
+  {
+   "fuente": "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
+   "producto": "mriya (Amazon US)",
+   "problema": "Expectativas / uso",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "Duda de que las puntas alcancen el cuero cabelludo en pelo muy grueso; el manual advierte que los líquidos espesos tapan las salidas.",
+   "run_id": "2026-10-17T15-27"
+  },
+  {
+   "fuente": "https://www.youtube.com/shorts/0MiwRZgJVx0",
+   "producto": "3 en 1 de TikTok (genérico)",
+   "problema": "Dificultad de uso / expectativas",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "El aceite se concentró y bajó hacia las sienes; pelo algo graso; duda de que la luz atraviese el pelo; el masaje sí le resultó relajante.",
+   "run_id": "2026-10-17T15-27"
+  },
+  {
+   "fuente": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
+   "producto": "Breo Scalp3",
+   "problema": "Falta de instrucciones",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "Reseña positiva que aclara que hay que apretar un poco para que salga el líquido (no es obvio).",
+   "run_id": "2026-10-17T15-27"
+  },
+  {
+   "fuente": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4",
+   "producto": "Peosaard (Amazon MX)",
+   "problema": "Expectativas no satisfechas (sin texto)",
+   "fecha_consulta": "2026-10-17",
+   "parafrasis": "Una sola calificación de 2/5, sin texto visible.",
+   "run_id": "2026-10-17T15-27"
+  }
+ ]
 }

@@ -1,1 +1,142 @@
-{}
+{
+ "OPP-001-demo-aplicacion-sin-goteo": {
+  "id": "OPP-001-demo-aplicacion-sin-goteo",
+  "competidor_observado": "Varios (Amazon US: 2 en 1 IPX7, mriya, Breo; UGC YouTube; INIA)",
+  "producto_estrategia": "Objeción recurrente sobre el dispensado del líquido",
+  "fuente_evidencia": "reviews.json patrón 'Dispensado del líquido' (4 fuentes, 17/10/2026)",
+  "hallazgo": "[HECHO] Los compradores se quejan de goteo, tapas flojas, salidas tapadas y no saber cuánto apretar. [HECHO] INIA y Glokore responden esa objeción en su ficha.",
+  "explicacion": "[HIPÓTESIS] Es la duda práctica que frena a quien ya aplica tónico con los dedos o con gotero.",
+  "confianza": "media (4 fuentes, pocas reseñas cada una)",
+  "diferencia_flubberhome": "Flubberhome incluye una Guía Digital pero la página no muestra paso a paso del depósito.",
+  "adaptable": "Responder la objeción con demostración real y concreta.",
+  "no_replicar": "Promesas de crecimiento; porcentajes de 'resultados' sin método.",
+  "propuesta_original": "Bloque 'Cargarlo en 20 segundos' en la página + capítulo de la Guía con: líquidos livianos sí / espesos no, cantidad, cerrar y limpiar; video de 15 s dentro del universo Edificio Flubber donde un personaje aprende a cargarlo sin enchastre (pelo seco, fuera de la ducha).",
+  "ejemplo": "Gancho: '¿Y esto no gotea?' → mano carga 3–4 ml de tónico liviano → pasa por el pelo seco → toalla limpia en primer plano.",
+  "recursos": "Edición de la ficha (Shopify), 1 video corto, actualización del PDF de la guía.",
+  "costos_riesgos": "Bajo costo. Riesgo: mostrar un goteo real si el producto gotea; probar el propio producto antes de grabar.",
+  "metrica": "Tasa de agregar al carrito y tiempo en la página cuando se reactiven campañas; CTR del video frente al control.",
+  "proximo_paso": "Probar el aparato propio con 2–3 líquidos y documentar qué funciona; luego redactar el bloque.",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 3,
+   "facilidad": 5,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 3
+  },
+  "score": 60.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-002-angulo-upgrade-cepillo-manual-AR": {
+  "id": "OPP-002-angulo-upgrade-cepillo-manual-AR",
+  "competidor_observado": "cepillos-manuales-ar (Coony, Gadnic, Hairfy, Scher)",
+  "producto_estrategia": "Demanda local concentrada en cepillos manuales de silicona",
+  "fuente_evidencia": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo (17/10/2026)",
+  "hallazgo": "[HECHO: indicador ML] Manuales con +500 a +5mil vendidos a ARS 3–12 mil; eléctricos con +5 a +50 a ARS 37–70 mil.",
+  "explicacion": "[HIPÓTESIS] El hábito ya existe; lo que falta es una razón para pagar 5–8 veces más.",
+  "confianza": "media",
+  "diferencia_flubberhome": "Flubberhome vende a USD 41,93 sin explicar por qué conviene frente al cepillo manual.",
+  "adaptable": "Usar el hábito existente como punto de partida.",
+  "no_replicar": "Comparaciones con marcas nombradas; desprestigiar al cepillo manual.",
+  "propuesta_original": "Ángulo 'tu cepillo de silicona, versión siguiente': el manual masajea; ScalpCare además reparte el tónico de forma pareja y no te cansa la mano.",
+  "ejemplo": "Microdrama: vecina que usa su cepillito en el ascensor y otra que hace la rutina con el depósito cargado mientras mira una serie.",
+  "recursos": "1–2 piezas creativas; texto en la ficha.",
+  "costos_riesgos": "Bajo. Riesgo: reforzar el ancla de precio bajo.",
+  "metrica": "CTR y costo por clic en AR frente a ángulos actuales; mensajes de '¿qué diferencia tiene?'.",
+  "proximo_paso": "Incluir el ángulo en el próximo ciclo creativo de AR (cuando se reactive la campaña).",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 3,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 36.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-003-garantia-publicada": {
+  "id": "OPP-003-garantia-publicada",
+  "competidor_observado": "Gadnic (12 meses), Hairrova (1 año + 30 días), Breo (365 días), Glokore (60 días + plan pago), Nordic (devolución)",
+  "producto_estrategia": "Garantía visible como argumento de confianza",
+  "fuente_evidencia": "competitors.json / products.json (17/10/2026)",
+  "hallazgo": "[HECHO] 5 de los competidores relevados publican garantía o devolución extendida; Flubberhome solo cambios 30 días sin abrir y defectos en 72 h.",
+  "explicacion": "[HIPÓTESIS] En una marca nueva sin reseñas, la garantía reemplaza parte de la prueba social que falta.",
+  "confianza": "alta en el hecho, media en el efecto",
+  "diferencia_flubberhome": "Política más corta que el estándar observado.",
+  "adaptable": "Garantía de funcionamiento publicada y clara.",
+  "no_replicar": "Garantías que no se puedan cumplir con la logística actual.",
+  "propuesta_original": "'Garantía de funcionamiento de X meses' (definir X con datos de fallas y costo de reposición) explicada en lenguaje simple junto al botón de compra.",
+  "ejemplo": "Línea bajo el precio: 'Si deja de funcionar dentro de X meses, te mandamos otro'.",
+  "recursos": "Decisión del dueño, datos de tasa de fallas del proveedor, costo de reenvío por país.",
+  "costos_riesgos": "Costo de reposición y envíos internacionales; no se puede estimar sin la tasa de fallas.",
+  "metrica": "Conversión de la página antes/después; reclamos por garantía.",
+  "proximo_paso": "Pedir al proveedor (el dueño) la tasa de defectos y calcular el costo esperado antes de decidir.",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 4,
+   "facilidad": 3,
+   "costo": 3,
+   "riesgo": 2,
+   "urgencia": 3
+  },
+  "score": 8.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-004-embudo-explicativo": {
+  "id": "OPP-004-embudo-explicativo",
+  "competidor_observado": "glokore-us",
+  "producto_estrategia": "Advertorial + página puente + checkout con garantía extendida",
+  "fuente_evidencia": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976 ; https://glokore.com/scalpmassager/checkout4",
+  "hallazgo": "[HECHO] Glokore usa un artículo largo 'para quién sí / para quién no' antes del checkout.",
+  "explicacion": "[HIPÓTESIS] Un producto que necesita explicación vende mejor con contenido previo que con una ficha corta.",
+  "confianza": "baja (sin datos de rendimiento)",
+  "diferencia_flubberhome": "Flubberhome solo tiene ficha de producto.",
+  "adaptable": "Página explicativa honesta (no disfrazada de noticia).",
+  "no_replicar": "Formato periodístico engañoso, 'termina a medianoche', claims médicos.",
+  "propuesta_original": "Página 'Cómo es la rutina ScalpCare en 5 minutos' con preguntas reales, para quién sí y para quién no.",
+  "ejemplo": "Secciones: qué hace y qué no hace; qué tónico usar; cuánto dura la batería; cómo se limpia.",
+  "recursos": "Redacción + página en Shopify.",
+  "costos_riesgos": "Riesgo de dividir tráfico sin volumen suficiente para medir.",
+  "metrica": "Conversión de la página puente vs ficha directa (test A/B cuando haya tráfico).",
+  "proximo_paso": "Postergar hasta tener tráfico pago activo.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 2,
+   "facilidad": 2,
+   "costo": 2,
+   "riesgo": 3,
+   "urgencia": 1
+  },
+  "score": 2.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "creada"
+   }
+  ]
+ }
+}

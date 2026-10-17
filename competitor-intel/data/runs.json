@@ -1,1 +1,43 @@
-[]
+[
+ {
+  "run_id": "2026-10-17T15-27",
+  "foco": "Anuncios, creatividades y demanda (franja 11:54; primera ejecución, iniciada 15:27)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "Exa search/fetch",
+   "WebFetch",
+   "Mercado Libre AR/MX/CO (listados públicos vía Exa)",
+   "Amazon US/MX/AE (vía Exa)",
+   "TikTok Shop US (vía Exa)",
+   "tikwm/YouTube (vía Exa)"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch: ROBOTS_DISALLOWED)",
+   "TikTok Creative Center Top Ads (cargó sin resultados)"
+  ],
+  "competidores_revisados": [
+   "anyra-us",
+   "hairrova-us",
+   "nordic-biolabs-us",
+   "amazon-generics-us",
+   "glokore-us",
+   "breo-us",
+   "inia-us",
+   "ml-electricos-ar",
+   "cepillos-manuales-ar"
+  ],
+  "novedades": [
+   "Nuevos: glokore-us, breo-us, inia-us, ml-electricos-ar, cepillos-manuales-ar",
+   "Sin cambios de precio en los 3 directos de EE. UU.",
+   "Patrón de reseñas sobre goteo del depósito"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-001-demo-aplicacion-sin-goteo",
+   "OPP-002-angulo-upgrade-cepillo-manual-AR",
+   "OPP-003-garantia-publicada",
+   "OPP-004-embudo-explicativo"
+  ],
+  "oportunidades_actualizadas": [],
+  "privacidad": "repo PÚBLICO (gh api .private = false): sin datos internos"
+ }
+]

@@ -1,1 +1,204 @@
-{}
+{
+ "anyra-us:red-light-comb": {
+  "id": "anyra-us:red-light-comb",
+  "problema": "Aplicar aceite sin ensuciar + masaje + luz",
+  "variantes": "1 unidad (no se vieron packs)",
+  "precio": {
+   "1u": "USD 50,95 (tachado 158,95)"
+  },
+  "promos": "'SAVE 68%', urgencia de agotado",
+  "garantia": "No vista",
+  "devolucion": "No vista",
+  "envio": "Despacho 48 h, entrega 7–14 días hábiles",
+  "beneficios": [
+   "72 puntas",
+   "depósito 6 ml con 8 bolillas",
+   "3 modos",
+   "bolso de viaje"
+  ],
+  "objeciones_resueltas": [
+   "manos grasosas",
+   "desperdicio de sérum"
+  ],
+  "diferenciadores": "Prueba social masiva (no verificable)",
+  "merece_investigar": false,
+  "por_que": "Producto casi idéntico; poco aprendizaje adicional más allá de la plantilla.",
+  "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   }
+  ]
+ },
+ "hairrova-us:rootglow": {
+  "id": "hairrova-us:rootglow",
+  "problema": "Pelo fino / caída (claim)",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "USD 89,99 (tachado 149,99)"
+  },
+  "promos": "'SAVE 40%'",
+  "garantia": "1 año",
+  "devolucion": "30 días",
+  "envio": "Express gratis, 7–12 días hábiles",
+  "beneficios": [
+   "luz 630 nm",
+   "masaje",
+   "aplicador",
+   "IPX7"
+  ],
+  "objeciones_resueltas": [
+   "¿es seguro?",
+   "¿cómo se limpia?"
+  ],
+  "diferenciadores": "Garantía y devolución visibles arriba",
+  "merece_investigar": false,
+  "por_que": "Sus claims médicos no son replicables.",
+  "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+   }
+  ]
+ },
+ "nordic-biolabs-us:applicator": {
+  "id": "nordic-biolabs-us:applicator",
+  "problema": "Aplicar su sérum",
+  "variantes": "Aparato (se empuja junto con el sérum propio)",
+  "precio": {
+   "1u": "USD 79 (tachado 158)"
+  },
+  "promos": "'SAVE 50%', stock bajo",
+  "garantia": "No vista en el extracto",
+  "devolucion": "'Free & Easy Returns'; 120 días según registro anterior",
+  "envio": "Gratis",
+  "beneficios": [
+   "655 nm",
+   "tanque 6 ml",
+   "10.000 vibraciones/min"
+  ],
+  "objeciones_resueltas": [
+   "aplicación despareja"
+  ],
+  "diferenciadores": "Aparato + consumible propio",
+  "merece_investigar": true,
+  "por_que": "El modelo con consumible da recompra; evaluar si un tónico propio sin claims tiene sentido (requiere proveedor y regulación).",
+  "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+   }
+  ]
+ },
+ "glokore-us:red-light-scalp-massager": {
+  "id": "glokore-us:red-light-scalp-massager",
+  "problema": "Cuero cabelludo seco / caída (claim)",
+  "variantes": "1 unidad; garantía extendida 1 año como agregado",
+  "precio": {
+   "1u": "USD 119,99 (tachado 219,98)"
+  },
+  "promos": "Código 'hasta 55% OFF' con cuenta regresiva",
+  "garantia": "60 días de devolución; plan de reemplazo pago",
+  "devolucion": "60 días menos envío",
+  "envio": "No visto",
+  "beneficios": [
+   "660 nm",
+   "bolillas",
+   "cámara de sérum",
+   "apagado a los 10 min"
+  ],
+  "objeciones_resueltas": [
+   "qué aceites usar (livianos, no ricino puro)",
+   "frecuencia de uso"
+  ],
+  "diferenciadores": "Embudo con advertorial",
+  "merece_investigar": true,
+  "por_que": "Estructura de embudo y venta adicional de garantía.",
+  "source": "https://glokore.com/scalpmassager/checkout4",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://glokore.com/scalpmassager/checkout4"
+   }
+  ]
+ },
+ "breo-us:scalp3": {
+  "id": "breo-us:scalp3",
+  "problema": "Masaje de cuero cabelludo + aceite",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "USD 159,99 (Amazon)"
+  },
+  "promos": "No vistas",
+  "garantia": "365 días",
+  "devolucion": "Política de Amazon",
+  "envio": "Amazon",
+  "beneficios": [
+   "shiatsu 360°",
+   "cabina 3 ml",
+   "IPX7"
+  ],
+  "objeciones_resueltas": [
+   "portabilidad",
+   "limpieza"
+  ],
+  "diferenciadores": "Marca establecida, techo de precio",
+  "merece_investigar": false,
+  "por_que": "Referencia de precio alto.",
+  "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K"
+   }
+  ]
+ },
+ "cepillos-manuales-ar:coony-scalp-therapy": {
+  "id": "cepillos-manuales-ar:coony-scalp-therapy",
+  "problema": "Masaje y limpieza en la ducha",
+  "variantes": "Colores",
+  "precio": {
+   "1u": "ARS 9.281 (tachado 11.599)"
+  },
+  "promos": "19% OFF",
+  "garantia": "ML",
+  "devolucion": "ML",
+  "envio": "Gratis primera compra",
+  "beneficios": [
+   "silicona",
+   "manual"
+  ],
+  "objeciones_resueltas": [],
+  "diferenciadores": "Precio",
+  "merece_investigar": true,
+  "por_que": "Mayor indicador de ventas de la categoría en ML AR (+5mil vendidos): define el ancla de precio.",
+  "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T15-27",
+    "change": "Alta / precio verificado",
+    "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+   }
+  ]
+ }
+}
