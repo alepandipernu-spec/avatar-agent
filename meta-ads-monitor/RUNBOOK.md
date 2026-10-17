@@ -30,6 +30,8 @@ Lo sigue la tarea programada cada 8 horas (07:46, 15:46 y 23:46, hora de Buenos 
 **Shopify**:
 - `run-analytics-query`: `FROM sessions SHOW sessions, sessions_with_cart_additions, sessions_that_reached_checkout, sessions_that_completed_checkout SINCE <inicio> UNTIL <fin> COMPARE TO previous_period`; sesiones por país y por `referrer_source, referrer_name`.
 - `FROM sales SHOW orders, total_sales SINCE <inicio> UNTIL <fin>`.
+- Pedidos de prueba: los listados en `config.test_orders` y los que tienen tag `test-claude` NO cuentan como ventas. Restalos de `orders` y anotalo en `data_quality`. Si el borrador #D1 ya se completó, registrá en el snapshot qué opciones de envío y qué medio de pago usó (`list-orders query: "tag:test-claude"`).
+- Pausa intencional (`config.campaigns_paused_intentionally`): si aparece gasto o una campaña activa, es alerta P1 (la genera el script). No la reactives.
 - `graphql_query` de productos activos: precio, `compareAtPrice`, `inventoryItem.unitCost`.
 
 **Meta directo** (Ads Manager, Pixel, Facturación, Biblioteca de anuncios): hoy NO accesible desde la nube (`facebook.com` y `graph.facebook.com` bloqueados por la política de red; el conector Adspirer falla con 403). Intentá una vez `WebFetch` a la Biblioteca; si falla, `status: blocked` y seguí. No lo reemplaces con datos supuestos.

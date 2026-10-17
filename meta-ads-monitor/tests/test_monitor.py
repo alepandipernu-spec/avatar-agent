@@ -78,10 +78,23 @@ class MonitorTest(unittest.TestCase):
         cfg = self.m.load_json(self.m.CONFIG)
         rules = {f["rule"]: f for f in self.m.rule_findings(base_snapshot(), cfg, None)}
         self.assertIn("spend_no_purchase", rules)
-        self.assertIn("no_active_campaigns", rules)
+        self.assertIn("paused_intentionally", rules)  # config records the owner's decision
+        self.assertEqual(rules["paused_intentionally"]["priority"], "P3")
         self.assertIn("low_lpv_ratio", rules)  # US: 40 clicks → 4 LPV
         self.assertIn("compare_at_price", rules)
         self.assertIn("intermittent_delivery", rules)
+
+    def test_pause_rules(self):
+        cfg = self.m.load_json(self.m.CONFIG)
+        snap = base_snapshot()
+        snap["daily"].append({"date": "2026-10-18", "spend": 4})
+        rules = {f["rule"]: f for f in self.m.rule_findings(snap, cfg, None)}
+        self.assertEqual(rules["spend_during_pause"]["priority"], "P1")
+        self.assertNotIn("paused_intentionally", rules)
+        cfg = copy.deepcopy(cfg)
+        cfg.pop("campaigns_paused_intentionally")
+        rules = {f["rule"]: f for f in self.m.rule_findings(base_snapshot(), cfg, None)}
+        self.assertEqual(rules["no_active_campaigns"]["priority"], "P2")
 
     def test_run_writes_report_with_all_sections(self):
         code, out, err = self.run_quiet(self.write(base_snapshot()))

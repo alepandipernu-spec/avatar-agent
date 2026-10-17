@@ -207,8 +207,24 @@ def rule_findings(snap, cfg, prev_snap):
 
     objs = snap["objects"]
     campaigns = [o for o in objs if o.get("level") == "campaign"]
-    if campaigns and not any(o.get("state") == "active" for o in campaigns):
-        last = max((d["date"] for d in snap.get("daily", []) if (d.get("spend") or 0) > 0), default=None)
+    pause = cfg.get("campaigns_paused_intentionally")
+    active = [o for o in campaigns if o.get("state") == "active"]
+    last = max((d["date"] for d in snap.get("daily", []) if (d.get("spend") or 0) > 0), default=None)
+    if pause:
+        spent_since = sum(d.get("spend") or 0 for d in snap.get("daily", []) if d["date"] >= pause["since"])
+        if active or spent_since > 0:
+            add("spend_during_pause", "account", "P1", "anomalia",
+                "Hay gasto o campañas activas durante la pausa intencional",
+                f"Pausa decidida el {pause['since']}. Campañas activas: {len(active)}. Gasto desde esa fecha: {fmt(spent_since, 'usd')}.",
+                "Alguien reactivó algo o hay una campaña que no se pausó. Contradice la decisión del dueño.",
+                "alta", "Gasto no aprobado.", "Confirmar con el dueño quién lo activó y si estaba aprobado.", True, spent_since)
+        elif campaigns:
+            add("paused_intentionally", "account", "P3", "anomalia",
+                "Campañas en pausa intencional (decisión del dueño)",
+                f"{len(campaigns)} campañas pausadas desde antes del {pause['since']}. Último día con gasto: {last or 'sin gasto en el período'}. Motivo: {pause['reason']}.",
+                "Es una decisión, no una falla.", "alta", "Sin aprendizaje nuevo de anuncios mientras dure.",
+                "Reactivar solo con un experimento aprobado.", False)
+    elif campaigns and not active:
         add("no_active_campaigns", "account", "P2", "anomalia",
             "No hay campañas activas en la cuenta",
             f"{len(campaigns)} campañas, todas en estado pausado. Último día con gasto: {last or 'sin gasto en el período'}.",

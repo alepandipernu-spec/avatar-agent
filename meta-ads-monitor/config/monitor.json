@@ -41,5 +41,41 @@
   "notification": {
     "channel": "push al terminar la tarea programada (notificaciones de Claude Code)",
     "fallback": "registro en data/state/alerts.json y en el informe"
-  }
+  },
+  "campaigns_paused_intentionally": {
+    "since": "2026-10-17",
+    "reason": "El dueño decidió no gastar hasta revisar y resolver tienda, envíos, pago y medición.",
+    "decided_by": "dueño, 17/10/2026"
+  },
+  "test_orders": [
+    {
+      "draft_order": "gid://shopify/DraftOrder/1226291150902",
+      "name": "#D1",
+      "created": "2026-10-17",
+      "note": "Pedido de prueba USD 0 (100% descuento). Excluir de métricas; cancelar después de verificar."
+    }
+  ],
+  "changes_log": [
+    {
+      "date": "2026-10-17",
+      "system": "Escalafy",
+      "change": "Costo manual 'Meta Ads · Ventajas - Septiembre': rates 07–16/09 retirados (duplicaban ARS 126.277,25 del gasto sincronizado). Quedan 03–05/09.",
+      "approved_by": "dueño",
+      "revert": "reactivar rates 9731–9738"
+    },
+    {
+      "date": "2026-10-17",
+      "system": "Shopify",
+      "change": "compareAtPrice quitado de las 6 variantes de ScalpCare Pro (antes 59,90 / 119,80 / 179,70).",
+      "approved_by": "dueño",
+      "revert": "volver a cargar esos valores"
+    },
+    {
+      "date": "2026-10-17",
+      "system": "Shopify",
+      "change": "'· Más elegido' quitado de la descripción de ScalpCare Pro y del título del borrador Pack Dúo.",
+      "approved_by": "dueño (plan aprobado)",
+      "revert": "restaurar texto"
+    }
+  ]
 }
