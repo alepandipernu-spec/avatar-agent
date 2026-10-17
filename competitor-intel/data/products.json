@@ -142,11 +142,12 @@
   "problema": "Masaje de cuero cabelludo + aceite",
   "variantes": "1 unidad",
   "precio": {
-   "1u": "USD 159,99 (Amazon)"
+   "1u": "USD 159,99 (Amazon)",
+   "1u_web_oficial": "USD 161,99 (tachado 239,99) en us.breo.com, 17/10/2026"
   },
   "promos": "No vistas",
-  "garantia": "365 días",
-  "devolucion": "Política de Amazon",
+  "garantia": "1 año por defectos (web oficial); 365 días (Amazon)",
+  "devolucion": "30 días 'sin riesgo' en la web oficial; política de Amazon en Amazon",
   "envio": "Amazon",
   "beneficios": [
    "shiatsu 360°",
@@ -168,6 +169,12 @@
     "run_id": "2026-10-17T15-27",
     "change": "Alta / precio verificado",
     "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Web oficial: USD 161,99, envío gratis 3–7 días, 30 días de devolución, garantía 1 año.",
+    "source": "https://us.breo.com/products/scalp3-trilogy-massager"
    }
   ]
  },
@@ -280,6 +287,109 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "alta del registro"
+   }
+  ]
+ },
+ "holy-cosmetics-co:luxury": {
+  "id": "holy-cosmetics-co:luxury",
+  "problema": "Masaje + limpieza + aplicación de sérum",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "COP 149.990 (tachado 199.990)"
+  },
+  "promos": "-25% / 'COP 50.000 OFF'",
+  "garantia": "No vista en el extracto",
+  "devolucion": "No vista",
+  "envio": "No visto",
+  "beneficios": [
+   "masaje de amasamiento",
+   "dispensador de rodillos",
+   "LED 3 colores",
+   "5 velocidades",
+   "batería 1.500 mAh"
+  ],
+  "objeciones_resueltas": [
+   "prueba social (27 reseñas)",
+   "contacto humano (WhatsApp, horario)"
+  ],
+  "diferenciadores": "Reseñas visibles y marca local de cosmética",
+  "merece_investigar": true,
+  "por_que": "Revisar en la ejecución de las 03:54: envío, garantía, medios de pago y si las reseñas tienen fecha.",
+  "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Alta",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   }
+  ]
+ },
+ "nihlo-co:masajeador": {
+  "id": "nihlo-co:masajeador",
+  "problema": "Aplicar aceite capilar con masaje",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "COP 89.900"
+  },
+  "promos": "No vistas",
+  "garantia": "1 año por defectos de fabricación",
+  "devolucion": "No vista",
+  "envio": "No visto",
+  "beneficios": [
+   "depósito 6 ml",
+   "dosis de 1 ml",
+   "rodillo que no se atasca (según el vendedor)",
+   "carga USB-C 1 h"
+  ],
+  "objeciones_resueltas": [
+   "dosificación",
+   "durabilidad (garantía)"
+  ],
+  "diferenciadores": "Garantía larga a precio bajo; ecosistema con sus aceites",
+  "merece_investigar": false,
+  "por_que": "Referencia de garantía; producto distinto en tamaño.",
+  "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Alta",
+    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+   }
+  ]
+ },
+ "beltronic-ar:py008": {
+  "id": "beltronic-ar:py008",
+  "problema": "Masaje + luz + aplicación de tónico",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "ARS 149.900 (tachado 179.990); 15% off efectivo solo retiro/CABA"
+  },
+  "promos": "Tachado; 3 cuotas sin interés",
+  "garantia": "No vista",
+  "devolucion": "No vista",
+  "envio": "Envío gratis desde un monto no visible",
+  "beneficios": [
+   "luz roja 630 nm",
+   "3 modos",
+   "depósito 6 ml",
+   "USB-C"
+  ],
+  "objeciones_resueltas": [],
+  "diferenciadores": "Posicionamiento 'uso profesional'",
+  "merece_investigar": false,
+  "por_que": "Precio alto con claims de caída; referencia de techo en AR.",
+  "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/",
+  "fecha": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Alta",
+    "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
    }
   ]
  }

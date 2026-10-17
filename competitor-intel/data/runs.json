@@ -105,5 +105,53 @@
   "oportunidades_actualizadas": [],
   "privacidad": "repo PÚBLICO: sin datos internos",
   "incidencia": "Tres sesiones de la misma tarea corrieron en paralelo; hubo conflictos de git resueltos sin borrar historial."
+ },
+ {
+  "run_id": "2026-10-17T19-55",
+  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad)",
+   "Exa search/fetch",
+   "WebSearch",
+   "WebFetch (tipo de cambio)",
+   "tiendas Lena/Microshop/Anyra/Holy/Breo/Beltronic",
+   "Amazon US/MX (vía Exa)",
+   "Yaxa (reseñas replicadas)"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (no se intentó: no es la franja de anuncios y está bloqueada desde la nube)",
+   "Mercado Libre: no se leyeron reseñas dentro de las publicaciones (solo listados vía Exa)"
+  ],
+  "competidores_revisados": [
+   "lena-vegetal-ar",
+   "microshop-ar",
+   "anyra-us",
+   "breo-us",
+   "beltronic-ar"
+  ],
+  "competidores_nuevos": [
+   "holy-cosmetics-co",
+   "nihlo-co",
+   "co-dtc-tiendas",
+   "mx-tiendas",
+   "ar-tiendas-chicas"
+  ],
+  "novedades": [
+   "Primer relevamiento de CO y MX",
+   "Patrón nuevo: durabilidad/fallas de fábrica (6 fuentes)",
+   "Sin cambios de precio en Lena, Microshop ni Anyra",
+   "Breo web oficial USD 161,99 + 1 año de garantía"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-009-precio-por-mercado-mx-co",
+   "OPP-010-control-funcionamiento-y-cuidado-bateria",
+   "OPP-011-demo-pelo-largo"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-003-garantia-publicada (8→11)",
+   "OPP-005-sensorial-en-seco (12→18)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

@@ -78,7 +78,7 @@
   "id": "OPP-003-garantia-publicada",
   "competidor_observado": "Gadnic (12 meses), Hairrova (1 año + 30 días), Breo (365 días), Glokore (60 días + plan pago), Nordic (devolución)",
   "producto_estrategia": "Garantía visible como argumento de confianza",
-  "fuente_evidencia": "competitors.json / products.json (17/10/2026)",
+  "fuente_evidencia": "competitors.json / products.json (17/10/2026) | 19-55: patrón de fallas de fábrica (6 fuentes); Breo 30 días + 1 año (us.breo.com); NIHLO CO 1 año a COP 89.900; Smartjoys CO 2 meses; En Tu Sitio CO 30 días.",
   "hallazgo": "[HECHO] 5 de los competidores relevados publican garantía o devolución extendida; Flubberhome solo cambios 30 días sin abrir y defectos en 72 h.",
   "explicacion": "[HIPÓTESIS] En una marca nueva sin reseñas, la garantía reemplaza parte de la prueba social que falta.",
   "confianza": "alta en el hecho, media en el efecto",
@@ -92,20 +92,25 @@
   "metrica": "Conversión de la página antes/después; reclamos por garantía.",
   "proximo_paso": "Pedir al proveedor (el dueño) la tasa de defectos y calcular el costo esperado antes de decidir.",
   "puntajes": {
-   "impacto": 4,
+   "impacto": 5,
    "confianza": 4,
    "facilidad": 3,
    "costo": 3,
    "riesgo": 2,
-   "urgencia": 3
+   "urgencia": 4
   },
-  "score": 8.0,
+  "score": 11.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Score 8.0→11.0: la durabilidad pasa a tendencia y en CO ya hay garantía de 1 año a precio bajo. Impacto 4→5, urgencia 3→4."
    }
   ]
  },
@@ -148,7 +153,7 @@
   "id": "OPP-005-sensorial-en-seco",
   "competidor_observado": "Contenido orgánico/afiliados de la categoría",
   "producto_estrategia": "Formato creativo sensorial (planos lentos, sonido real, sin claims)",
-  "fuente_evidencia": "Guías públicas https://videoideas.org/blogs/scalp-massager-satisfying-video-ideas (29/09/2026) y https://videoideas.org/blogs/21-hair-care-video-ideas-sell-shampoo-oils-treatments-2026 (15/10/2026). Fuente secundaria, NO Biblioteca de Meta.",
+  "fuente_evidencia": "Guías públicas https://videoideas.org/blogs/scalp-massager-satisfying-video-ideas (29/09/2026) y https://videoideas.org/blogs/21-hair-care-video-ideas-sell-shampoo-oils-treatments-2026 (15/10/2026). Fuente secundaria, NO Biblioteca de Meta. | 19-55: casi todos los competidores de CO/MX y Breo promueven uso en la ducha (IPX7); reseñas reportan fallas por agua en el puerto.",
   "hallazgo": "[HECHO] Las guías recomiendan movimiento continuo sin cortes y sonido real; casi todas las ideas pasan en la ducha.",
   "explicacion": "[HIPÓTESIS] Retención por sensación sin necesidad de claims.",
   "confianza": "baja (sin datos de rendimiento)",
@@ -163,19 +168,24 @@
   "proximo_paso": "1 pieza de prueba en el próximo ciclo quincenal.",
   "puntajes": {
    "impacto": 3,
-   "confianza": 2,
+   "confianza": 3,
    "facilidad": 4,
    "costo": 2,
    "riesgo": 1,
    "urgencia": 2
   },
-  "score": 12.0,
+  "score": 18.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Score 12.0→18.0: el uso en la ducha es la norma de la competencia, así que el ritual en seco necesita encuadre propio para no parecer una limitación."
    }
   ]
  },
@@ -280,6 +290,111 @@
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28-b",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-009-precio-por-mercado-mx-co": {
+  "id": "OPP-009-precio-por-mercado-mx-co",
+  "competidor_observado": "Tiendas DTC de CO (Holy Cosmetics y genéricas) y de MX (pidehoy.mx, OC Market)",
+  "producto_estrategia": "Precio local frente al precio base de Flubberhome",
+  "fuente_evidencia": "competitors.json: holy-cosmetics-co, co-dtc-tiendas, mx-tiendas (17/10/2026); TRM 3.170,46 (dolar-colombia.com, 16/10/2026); 17,98 MXN/USD (Publimetro, 07/10/2026)",
+  "hallazgo": "[ESTIMACIÓN] El precio base de USD 41,93 equivale a ≈ COP 133 mil (tercio superior en CO, solo Holy está por encima con reseñas) y ≈ MXN 754 (por debajo de las 2 tiendas DTC mexicanas vistas).",
+  "explicacion": "[HIPÓTESIS] En MX Flubberhome sería competitivo en precio frente a lo local; en CO compite contra genéricos más baratos con contraentrega y necesita justificar el valor.",
+  "confianza": "baja-media (conversión simple; no se verificaron los precios por mercado en Shopify; muestra MX chica)",
+  "diferencia_flubberhome": "Hoy un solo precio en USD para los 4 mercados (según la búsqueda en Shopify).",
+  "adaptable": "Pensar precio y mensaje por país, no copiar precios.",
+  "no_replicar": "Precios tachados inflados y claims médicos de las tiendas colombianas.",
+  "propuesta_original": "Antes de reactivar campañas: revisar (solo lectura) los precios por mercado en Shopify; en CO, llevar al frente la garantía y el envío; en MX, destacar envío rápido frente a la espera de 7–20 días de los vendedores transfronterizos.",
+  "ejemplo": "Ficha CO: bloque 'Garantía + envío en X días' junto al precio; ficha MX: 'Llega en X días, no en tres semanas' (solo si el plazo es real).",
+  "recursos": "Revisión de Shopify Markets y del plazo real de envío por país",
+  "costos_riesgos": "Bajo; riesgo de prometer plazos que la logística no cumple",
+  "metrica": "Tasa de conversión por país cuando se reactiven las campañas",
+  "proximo_paso": "Confirmar precios por mercado y plazos reales de envío a MX y CO (tarea del dueño o próxima ejecución de las 03:54).",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 2,
+   "urgencia": 3
+  },
+  "score": 16.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-010-control-funcionamiento-y-cuidado-bateria": {
+  "id": "OPP-010-control-funcionamiento-y-cuidado-bateria",
+  "competidor_observado": "Genéricos con fallas (Yaxa 3 en 1, JIODTMER MX, HEREE, Zinnor)",
+  "producto_estrategia": "Reseñas de fallas de fábrica y de carga",
+  "fuente_evidencia": "reviews.json, patrón 'Durabilidad y fallas de fábrica' (6 fuentes, 17/10/2026)",
+  "hallazgo": "Que el aparato no encienda al llegar o deje de andar en semanas es la segunda queja más repetida de la categoría.",
+  "explicacion": "[HIPÓTESIS] Es el mismo producto genérico de fábrica con control de calidad variable; el comprador lo vive como estafa.",
+  "confianza": "media (6 fuentes, ninguna sobre el producto exacto de Flubberhome)",
+  "diferencia_flubberhome": "No se sabe si hoy hay control antes del despacho ni cuál es la tasa de fallas del proveedor.",
+  "adaptable": "Responder a la objeción con un proceso real, no con una promesa.",
+  "no_replicar": "Afirmar 'probado uno por uno' si no se hace.",
+  "propuesta_original": "Si la logística lo permite, encender y probar cada unidad antes de despachar y poner una tarjeta en la caja; sumar a la Guía una página de cuidado (carga con cable original, secar antes de cargar, nunca bajo el agua).",
+  "ejemplo": "Tarjeta: 'Este ScalpCare se encendió y se probó antes de salir' + QR a la Guía (solo si el proceso existe).",
+  "recursos": "Consultar con el proveedor/depósito si es viable y cuánto cuesta por unidad",
+  "costos_riesgos": "Costo operativo por unidad desconocido",
+  "metrica": "Tasa de reclamos por defecto en los primeros 30 días",
+  "proximo_paso": "Preguntar al proveedor la tasa de defectos y si el depósito puede hacer la prueba (lo decide el dueño; no se contactó a nadie).",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 3,
+   "facilidad": 3,
+   "costo": 2,
+   "riesgo": 1,
+   "urgencia": 3
+  },
+  "score": 18.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-011-demo-pelo-largo": {
+  "id": "OPP-011-demo-pelo-largo",
+  "competidor_observado": "Zinnor y reseñas de Amazon citadas por el blog de Alibaba",
+  "producto_estrategia": "Quejas de tirones con pelo largo",
+  "fuente_evidencia": "https://juicer.deals/review-item/28926386/ ; https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com",
+  "hallazgo": "El pelo largo es una objeción que casi nadie muestra resuelta en video.",
+  "explicacion": "[HIPÓTESIS] Las demos usan modelos de pelo corto o pelo suelto sin mover el aparato.",
+  "confianza": "baja (2 fuentes, una secundaria)",
+  "diferencia_flubberhome": "Puntas redondeadas; sin prueba documentada en pelo largo.",
+  "adaptable": "Mostrar la técnica por secciones.",
+  "no_replicar": "Nada específico.",
+  "propuesta_original": "Episodio del Edificio Flubber con un personaje de pelo largo que lo usa por secciones, sin arrastrar, en seco.",
+  "ejemplo": "15 s: raya al medio, apoya, masajea en el lugar, levanta y pasa a la siguiente sección.",
+  "recursos": "Prueba real con pelo largo + guion",
+  "costos_riesgos": "Si el aparato tira el pelo, no publicar y ajustar la Guía",
+  "metrica": "Comentarios sobre enredos; retención del Reel",
+  "proximo_paso": "Probar el aparato en pelo largo junto con la prueba de goteo de OPP-001.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 24.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
     "change": "creada"
    }
   ]

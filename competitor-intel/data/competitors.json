@@ -89,6 +89,12 @@
     "run_id": "2026-10-17T15-28",
     "change": "Precio sin cambios (ARS 25.600; 20.480 transferencia). Nuevo: +70 vendidos, stock bajo, cupón 10%. Relevancia media→alta.",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Precio sin cambios (ARS 25.600; 20.480 transferencia; +70 vendidos). La ficha muestra a la vez la etiqueta 'Sin stock' y 'quedan 3': stock agotado o casi agotado, sin confirmar.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -108,7 +114,8 @@
   "channels": [],
   "ads": "Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.",
   "facts": [
-   "Precio alto apoyado en un activo nombrado (Capixyl)."
+   "Precio alto apoyado en un activo nombrado (Capixyl).",
+   "Masajeador dosificador eléctrico PY008 (luz roja 630 nm, depósito 6 ml) a ARS 149.900 (tachado 179.990), 15% off en efectivo solo retiro/CABA; la tienda muestra 94 en stock. También vende dosificadores manuales a ARS 15.990 y 39.990."
   ],
   "inferences": [
    "Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar."
@@ -118,7 +125,8 @@
    "Anuncios, ventas."
   ],
   "sources": [
-   "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
+   "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/",
+   "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
   ],
   "relevance": "media",
   "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
@@ -128,6 +136,12 @@
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Producto suelto PY008 visto a ARS 149.900 (antes solo se tenía el kit con serum a ARS 175.890). Claims 'anticaída' y 'estimula el crecimiento'.",
+    "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
    }
   ]
  },
@@ -170,6 +184,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "Chequeo de precio: sin cambios (ARS 45.780, tachado 60.000, 24% OFF, envío gratis, 10% transferencia).",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Precio sin cambios (ARS 45.780, tachado 60.000, envío gratis).",
     "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
    }
   ]
@@ -260,6 +280,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "Chequeo de precio: sin cambios (USD 50,95). Detectado bloque de otro producto en la página.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Precio sin cambios (USD 50,95, tachado 158,95). Envío 7–14 días hábiles; mantiene 'Sold out 3 times'.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
@@ -477,10 +503,13 @@
   "ads": "No obtenido.",
   "facts": [
    "4,0★ con 232 reseñas en Amazon US.",
-   "Garantía de 365 días y atención 'de por vida' en el listado."
+   "Garantía de 365 días y atención 'de por vida' en el listado.",
+   "Web oficial (17/10/2026): USD 161,99 (tachado 239,99), envío gratis 3–7 días, 30 días de devolución 'si no estás conforme', garantía de 1 año por defectos (reemplazo por reacondicionado o nuevo).",
+   "La web oficial afirma 'clínicamente probado' para crecimiento en 56 días y promueve uso en la ducha (IPX7); su FAQ, en cambio, dice que no es un dispositivo de recrecimiento."
   ],
   "inferences": [
-   "Techo de precio de la categoría (~USD 160) con marca reconocida."
+   "Techo de precio de la categoría (~USD 160) con marca reconocida.",
+   "[HIPÓTESIS] La contradicción entre la ficha (crecimiento) y la FAQ (no es de recrecimiento) sugiere que hasta la marca premium cuida el riesgo legal del claim."
   ],
   "hypotheses": [],
   "unknowns": [
@@ -488,7 +517,8 @@
   ],
   "sources": [
    "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
-   "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
+   "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light",
+   "https://us.breo.com/products/scalp3-trilogy-massager"
   ],
   "relevance": "media",
   "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
@@ -505,6 +535,12 @@
     "run_id": "2026-10-17T15-28-b",
     "change": "Complemento: EUR 179,95 en reseña FR (30/09/2025); reseñas reportan dosificación irregular y tapa que pierde.",
     "source": "https://www.inthemiddle.fr/test-breo-scalp3-brosse-shiatsu-etanche-et-portable ; https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/"
+   },
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Web oficial revisada: USD 161,99 (Amazon 159,99); 30 días de devolución + 1 año de garantía.",
+    "source": "https://us.breo.com/products/scalp3-trilogy-massager ; https://us.breo.com/pages/faq ; https://us.breo.com/pages/breo-warranty"
    }
   ]
  },
@@ -766,5 +802,238 @@
     "run_id": "2026-10-17T15-28-b"
    }
   ]
+ },
+ "holy-cosmetics-co": {
+  "facts": [
+   "4,9★ con 27 reseñas en la propia ficha (17/10/2026).",
+   "Batería 1.500 mAh, 5 velocidades, IPX6 en especificaciones pese a decir IPX7 en la descripción."
+  ],
+  "inferences": [
+   "[HIPÓTESIS] Es el primer competidor DTC colombiano con prueba social visible: fija un ancla de precio local (~COP 150 mil) por encima del precio base de Flubberhome.",
+   "[HIPÓTESIS] La reseña con claim médico publicada en la ficha es un riesgo regulatorio para ellos (INVIMA/SIC); Flubberhome no debe imitarlo."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios activos, tasa de devoluciones."
+  ],
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ],
+  "id": "holy-cosmetics-co",
+  "name": "Holy Cosmetics",
+  "domain": "holycosmetics.com.co",
+  "market": "CO",
+  "category": "A_directo",
+  "product_focus": "Cepillo masajeador eléctrico 'Luxury' con dispensador de sérum de rodillos y LED de 3 colores",
+  "relevant_products": [
+   "Cepillo Masajeador Capilar Eléctrico Luxury"
+  ],
+  "price_visible": "COP 149.990 (tachado COP 199.990, '-25%') el 17/10/2026. [ESTIMACIÓN] ≈ USD 47 con TRM 3.170,46 del 16/10/2026.",
+  "value_prop": "Masaje + limpieza + aplicación de aceites en un aparato; marca de cosmética local con atención por WhatsApp y horario.",
+  "claims_observed": "Título 'Estimulador de Crecimiento'; texto principal más de bienestar. IPX7 'para usar durante tu rutina de lavado'. Entre las reseñas publicadas hay una que atribuye recrecimiento a un caso de quimioterapia.",
+  "channels": [
+   "Tienda propia (Shopify)",
+   "WhatsApp"
+  ],
+  "ads": "No obtenido (Biblioteca de Meta no consultable desde la nube).",
+  "sources": [
+   "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+  ],
+  "relevance": "alta",
+  "follow_reason": "Competidor directo en CO con reseñas reales visibles y precio similar o superior al de Flubberhome; referencia de cómo se ve la prueba social local."
+ },
+ "nihlo-co": {
+  "facts": [
+   "Garantía de 1 año por defectos de fabricación publicada en la ficha.",
+   "Batería 150 mAh, autonomía de hasta 1 hora."
+  ],
+  "inferences": [
+   "[HIPÓTESIS] Vende el aparato como accesorio de su aceite: el modelo 'aparato + líquido propio' (como Lena en AR) aparece también en CO."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios activos, tasa de devoluciones."
+  ],
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ],
+  "id": "nihlo-co",
+  "name": "NIHLO",
+  "domain": "nihlo.com.co",
+  "market": "CO",
+  "category": "A_directo",
+  "product_focus": "Masajeador capilar compacto con rodillo aplicador (depósito 6 ml, 1 ml por aplicación)",
+  "relevant_products": [
+   "Masajeador Capilar NIHLO"
+  ],
+  "price_visible": "COP 89.900 (17/10/2026). [ESTIMACIÓN] ≈ USD 28.",
+  "value_prop": "Complemento de su propia línea de aceites capilares; garantía de 1 año por defectos.",
+  "claims_observed": "Luz roja 655 nm para 'reactivar folículos', microcorriente; claims de tratamiento.",
+  "channels": [
+   "Tienda propia"
+  ],
+  "sources": [
+   "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+  ],
+  "relevance": "media",
+  "follow_reason": "Garantía de 1 año a precio bajo: sube la vara de lo que un comprador colombiano espera ver publicado."
+ },
+ "co-dtc-tiendas": {
+  "facts": [
+   "Garantías publicadas cortas: Smartjoys 2 meses por defecto de fábrica; En Tu Sitio 30 días por mal funcionamiento y 10 días para pedido incompleto/roto.",
+   "En Tu Sitio aclara que su modelo es 'resistente a salpicaduras, NO sumergible'."
+  ],
+  "inferences": [
+   "[HIPÓTESIS] El mercado colombiano de DTC está saturado del mismo producto genérico con claims médicos: el ángulo honesto de masaje + aplicación y una garantía más larga son diferenciales reales."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios activos, tasa de devoluciones."
+  ],
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ],
+  "id": "co-dtc-tiendas",
+  "name": "Tiendas DTC genéricas de Colombia (Smartjoys, Karamelo, SK Glam, Tiendas Cosmo, En Tu Sitio, 911 Hair)",
+  "domain": "varios (.co)",
+  "market": "CO",
+  "category": "A_directo",
+  "product_focus": "El mismo masajeador genérico con depósito y luz roja, revendido con nombres propios",
+  "relevant_products": [
+   "Smartjoys cepillo terapia capilar",
+   "Karamelo cepillo masajeador",
+   "SK Glam cepillo dispensador",
+   "VitaHair (Tiendas Cosmo)",
+   "En Tu Sitio cepillo masajeador",
+   "911 Hair masajeador recargable"
+  ],
+  "price_visible": "COP 55.900 – 109.900 (17/10/2026): Smartjoys 64.900 (tachado 116.000), Karamelo 89.900 (tachado 150.000), SK Glam 109.900, VitaHair 79.900, En Tu Sitio 79.000, 911 Hair 55.900 (tachado 79.900). [ESTIMACIÓN] ≈ USD 18–35.",
+  "value_prop": "Precio bajo, contraentrega/WhatsApp, copy de 'tratamiento profesional en casa'.",
+  "claims_observed": "Fuertes: 'reduce caída extrema', 'activa raíces dormidas', 'estimula el crecimiento'; casi todos promueven uso en la ducha (IPX7).",
+  "channels": [
+   "Tiendas propias (WooCommerce/Shopify)",
+   "WhatsApp"
+  ],
+  "sources": [
+   "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/",
+   "https://karamelovirtual.com/products/cepillo-masajeador-capilar-electrico",
+   "https://www.skglam.store/products/cepillo-masajeador-y-dispensador-de-aceites",
+   "https://tiendascosmo.com/products/vitahair%E2%84%A2-masajeador-de-cuero-cabelludo-y-aplicador-de-aceite",
+   "https://www.entusitio.com.co/products/cepillo-masajeador-de-cuero-cabelludo",
+   "https://911hair.com.co/collections/masajeadores"
+  ],
+  "relevance": "media",
+  "follow_reason": "Definen el piso de precio y el estándar de claims en CO; útiles para ver qué NO hacer y dónde está el hueco de confianza."
+ },
+ "mx-tiendas": {
+  "facts": [
+   "Joinet (mayorista) muestra 'cantidad vendida: 17' y 29 unidades en una sucursal.",
+   "Un vendedor de ML MX (EGMYMX) tiene la publicación pausada y avisa entregas de 7–20 días y que no se aceptan cambios de color."
+  ],
+  "inferences": [
+   "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios activos, tasa de devoluciones."
+  ],
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ],
+  "id": "mx-tiendas",
+  "name": "Tiendas y vendedores de México (pidehoy.mx, OC Market, Joinet mayorista, vendedores transfronterizos de ML MX)",
+  "domain": "varios (.mx)",
+  "market": "MX",
+  "category": "A_directo",
+  "product_focus": "Masajeador/aplicador eléctrico de aceite genérico",
+  "relevant_products": [
+   "pidehoy.mx peine eléctrico multifunción",
+   "OC Market cepillo masajeador 2 en 1",
+   "Joinet KS-918 (mayorista)",
+   "ML MX aplicadores 2 en 1 de vendedores en China"
+  ],
+  "price_visible": "MXN 990 (pidehoy.mx) · MXN 1.038 (OC Market, agotado) · MXN 345 por unidad en mayorista Joinet (Guadalajara), desde MXN 297 por 12+ (17/10/2026). [ESTIMACIÓN] ≈ USD 55–58 en DTC y ≈ USD 19 en mayorista, con 17,98 MXN/USD (07/10/2026).",
+  "value_prop": "DTC: copy de bienestar y aplicación pareja. ML: envío internacional gratis, entrega 7–20 días desde China.",
+  "claims_observed": "OC Market: bienestar ('estimula la circulación', 'reduce el estrés'), sin claims fuertes. ML: 'crecimiento del cabello'.",
+  "channels": [
+   "Tiendas propias (Shopify)",
+   "Mercado Libre MX",
+   "mayorista físico"
+  ],
+  "sources": [
+   "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum",
+   "https://www.ocmarket.mx/products/cepillo-masajeador-electrico",
+   "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/",
+   "https://articulo.mercadolibre.com.mx/MLM-2843105018-aplicador-electrico-de-aceite-capilar-w-2-en-1-masajeador-d-_JM"
+  ],
+  "relevance": "media",
+  "follow_reason": "Primera foto del mercado MX: DTC escaso y caro, mucha oferta transfronteriza lenta. Posible hueco para un vendedor con envío rápido y trato cercano."
+ },
+ "ar-tiendas-chicas": {
+  "facts": [
+   "Precios muy dispares para productos parecidos (ARS 19.800 a 83.316)."
+  ],
+  "inferences": [
+   "[HIPÓTESIS] En AR no hay un precio de referencia claro para el eléctrico: quien explique mejor el valor puede fijarlo."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas, anuncios activos, tasa de devoluciones."
+  ],
+  "last_reviewed": "2026-10-17",
+  "history": [
+   {
+    "date": "2026-10-17",
+    "run_id": "2026-10-17T19-55",
+    "change": "Competidor nuevo registrado",
+    "source": "Exa"
+   }
+  ],
+  "id": "ar-tiendas-chicas",
+  "name": "Tiendas chicas de Argentina (Sofia Cosmetics, Tulivegan)",
+  "domain": "varios (Empretienda / Tiendanube)",
+  "market": "AR",
+  "category": "A_directo",
+  "product_focus": "Cepillo con spray + LED (Sofia) y cepillo eléctrico sin depósito (Tulivegan)",
+  "relevant_products": [
+   "Sofia Cosmetics NanoFog spray + LED",
+   "Tulivegan cepillo eléctrico"
+  ],
+  "price_visible": "Sofia Cosmetics ARS 19.800 (lista 22.000); Tulivegan ARS 83.316,67 (17/10/2026).",
+  "value_prop": "Tiendas de cosmética que suman el aparato a su catálogo.",
+  "claims_observed": "Sofia: 'cuero cabelludo más sano'; Tulivegan: 'estimula la circulación... promoviendo el crecimiento'.",
+  "channels": [
+   "Tiendas propias"
+  ],
+  "sources": [
+   "https://sofiacosmetics.empretienda.com.ar/accesorios/cepillo-masajeador-nanofog-con-sprayfototerapia-led",
+   "https://tulivegan.mitiendanube.com/ar/productos/cepillo-electrico-masajeador-capilar-tulivegan/"
+  ],
+  "relevance": "baja",
+  "follow_reason": "Muestra la dispersión de precios en AR; seguimiento ligero."
  }
 }

@@ -37,3 +37,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 ## Cambios
 - 17/10/2026: archivo creado.
 - 17/10/2026 15:27 (run 2026-10-17T15-27): precios y variantes verificados en Shopify, sin cambios (6 variantes: verde/rojo × 1 u / Dúo / Familiar).
+- 17/10/2026 19:55 (run 2026-10-17T19-55): precios y variantes verificados en Shopify, sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85).

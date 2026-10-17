@@ -1,159 +1,144 @@
-# Inteligencia competitiva — run 2026-10-17T15-27
+# Inteligencia competitiva — run 2026-10-17T19-55
 
-**Foco:** Anuncios, creatividades y demanda (franja 11:54; es la primera ejecución y arrancó a las 15:27 de Buenos Aires).
-**Modo:** solo lectura. **Repo:** público, así que este informe no incluye datos internos (gasto, ventas, costos ni margen).
+**Foco:** Reseñas, competidores nuevos y oportunidades (franja 19:54).
+**Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome (gasto, ventas, costos ni margen).
 **Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas se hicieron el 17/10/2026.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Demanda en Argentina.** [HECHO: indicador de Mercado Libre] Lo que más se vende en ML AR son los **cepillos manuales de silicona**: Coony "+5mil vendidos" a ARS 9.281; Gadnic, Hairfy y MAFEZ "+1000". Los **eléctricos** solo muestran "+5" a "+50 vendidos", con precios de ARS 37.692 a 69.999. [HIPÓTESIS] La gente ya tiene la costumbre de masajearse el cuero cabelludo, pero con una herramienta de 5 a 10 dólares. El precio de ScalpCare Pro hay que justificarlo frente a ese cepillo, no frente a otros eléctricos.
-- **Objeción repetida.** [HECHO] Varias reseñas y una prueba en video de productos parecidos se quejan de **cómo sale el líquido**: gotea, la tapa queda floja, las salidas se tapan o no se entiende cuánto apretar. Hay 4 fuentes y 4 productos distintos.
-- **Competidor nuevo relevante: Glokore (EE. UU.).** Vende a USD 119,99 (tachado 219,98) con un embudo de respuesta directa completo: un artículo pago con formato de reseña de noticia, un código de descuento con cuenta regresiva y la venta de una garantía extendida en el checkout.
-- **Precios de los 3 competidores directos de EE. UU.:** sin cambios (Anyra 50,95 · Hairrova 89,99 · Nordic 79).
-- **Oportunidad nº 1 (puntaje 60):** mostrar en la página, en la guía y en un video corto **cómo se carga y aplica el tónico sin gotear**.
+- **Primer relevamiento de Colombia y México.**
+  - En CO hay muchas tiendas DTC con el mismo aparato genérico entre COP 55.900 y 149.990. Casi todas usan claims médicos y promueven el uso en la ducha.
+  - **Competidor nuevo relevante: Holy Cosmetics (CO).** Cobra COP 149.990 (tachado 199.990) y muestra 27 reseñas con 4,9★ en su ficha. Es el primer competidor colombiano con prueba social visible.
+  - En MX se vieron solo 2 tiendas DTC (MXN 990 y 1.038). El resto son vendedores de China en Mercado Libre, con entregas de 7 a 20 días.
+- **Patrón nuevo de reseñas: durabilidad y fallas de fábrica.** Aparece en 6 fuentes y 5 productos: no enciende al llegar, botón que no anda, deja de funcionar a las semanas, se derrite al cargar o entra agua por el puerto. Pasa a ser la segunda queja de la categoría, detrás del goteo del depósito (que ya suma 14 fuentes).
+- **Chequeo de precios (Lena, Microshop, Anyra):** sin cambios. La ficha de Lena muestra a la vez "Sin stock" y "quedan 3".
+- **Oportunidad nº 1:** sigue siendo **OPP-001, la demo de carga y aplicación sin goteo (score 80)**. De lo nuevo, lo que más sube es la **garantía publicada (OPP-003, de 8 a 11)**.
 
 ## B. Competidores analizados
-| id | Marca | Dominio / canal | Mercado | Cat. | Fuentes |
+| id | Marca | Mercado | Cat. | Relevancia | Novedad |
 |---|---|---|---|---|---|
-| anyra-us | Anyra | shopanyra.com | US | A | [ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator) |
-| hairrova-us | Hairrova RootGlow | hairrova.com | US | A | [ficha](https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush) |
-| nordic-biolabs-us | Nordic Biolabs | nordic-biolabs.com | US | A | [ficha](https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum) |
-| amazon-generics-us | mriya, ZUTESU, Satorix y otros | amazon.com | US | A | listados B0DLWC7WXC, B0CW99YTS7, B0GW9G41D4, B0DX1T6RNV |
-| **glokore-us** (nuevo) | Glokore | glokore.com | US | A | [tienda](https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager), [checkout](https://glokore.com/scalpmassager/checkout4), [advertorial](https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976) |
-| **breo-us** (nuevo) | Breo Scalp3 | Amazon / TikTok Shop | US | A | [Amazon](https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K) |
-| **inia-us** (nuevo) | INIA VIBRA 4 en 1 | TikTok Shop / Amazon | US | A | [TikTok Shop](https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250), [Amazon](https://www.amazon.com/INIA-Hair-Scalp-Massager-Rechargeable/dp/B0F62NQWXP) |
-| **ml-electricos-ar** (nuevo) | MegaCuper y otros vendedores de ML | Mercado Libre | AR | A | [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo) |
-| **cepillos-manuales-ar** (nuevo) | Coony, Gadnic, Hairfy, Scher, MAFEZ | Mercado Libre | AR | B | [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo) |
+| **holy-cosmetics-co** | Holy Cosmetics | CO | A | alta | nuevo |
+| **nihlo-co** | NIHLO | CO | A | media | nuevo |
+| **co-dtc-tiendas** | Smartjoys, Karamelo, SK Glam, Tiendas Cosmo, En Tu Sitio, 911 Hair | CO | A | media | nuevo |
+| **mx-tiendas** | pidehoy.mx, OC Market, Joinet (mayorista), vendedores transfronterizos de ML MX | MX | A | media | nuevo |
+| **ar-tiendas-chicas** | Sofia Cosmetics, Tulivegan | AR | A | baja | nuevo |
+| breo-us | Breo Scalp3 | US | A | media | web oficial revisada |
+| beltronic-ar | Beltronic | AR | A | media | producto suelto PY008 |
+| lena-vegetal-ar / microshop-ar / anyra-us | | AR/US | A | | chequeo de precio |
 
-Los competidores de AR y CO del registro inicial (Gadnic/Bidcom, Lena, Beltronic, Microshop, AUREVIA) no se revisaron en esta ejecución. Último dato: 17/10/2026, importado del monitor de Meta Ads.
+Las fuentes de cada uno están en `data/competitors.json`.
 
 ## C. Productos y ofertas
-Este run solo hizo el chequeo rápido de precios. El catálogo completo le toca a la ejecución de las 03:54.
-- [HECHO] **Flubberhome (Shopify):** 1 unidad USD 41,93 · Pack Dúo USD 71,88 · Pack Familiar USD 89,85, en verde y rojo. Sin cambios.
-- [HECHO] **Rango de precios en EE. UU. (1 unidad):**
-
-  | Tipo | Productos | Precio (USD) |
-  |---|---|---|
-  | Genéricos de Amazon | | 21,99 a 29,99 |
-  | Marcas DTC con precio tachado | Anyra, Nordic, Hairrova | 50,95 a 89,99 |
-  | Glokore | | 119,99 |
-  | Techo de la categoría | Breo | 159,99 |
-
-- [HECHO] **Garantías publicadas:** Hairrova 1 año + 30 días de devolución; Breo 365 días; Glokore 60 días de devolución + plan de reemplazo pago; Gadnic 12 meses (dato anterior).
+Fuera del foco de esta ejecución. Solo hubo chequeo rápido. Último dato completo: 17/10/2026.
+- [HECHO] **Flubberhome (Shopify):** 1 unidad USD 41,93 · Pack Dúo USD 71,88 · Pack Familiar USD 89,85. Sin cambios.
+- [HECHO] **Precios sin cambios:**
+  - Lena: ARS 25.600 ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)).
+  - Microshop: ARS 45.780 ([ficha](https://www.microshop.com.ar/productos/micro-masajeador-capilar/)).
+  - Anyra: USD 50,95 ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)).
+- [HECHO] **Breo, web oficial:** USD 161,99 (tachado 239,99), 30 días de devolución y 1 año de garantía ([ficha](https://us.breo.com/products/scalp3-trilogy-massager), [garantía](https://us.breo.com/pages/breo-warranty)). La ficha habla de crecimiento "clínicamente probado". Su FAQ, en cambio, dice que no es un dispositivo de recrecimiento.
+- [HECHO] **Beltronic PY008 suelto:** ARS 149.900 (tachado 179.990) ([ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/)).
+- [ESTIMACIÓN] **Precio base de Flubberhome en moneda local:**
+  - ≈ COP 133 mil, con la TRM de 3.170,46 del 16/10/2026 ([fuente](https://www.dolar-colombia.com/en/2026-10-16)).
+  - ≈ MXN 754, con 17,98 MXN/USD del 07/10/2026 ([fuente](https://www.publimetro.com.mx/noticias/2026/10/07/dolar-vuelve-a-subir-pero-cierra-debajo-de-18-pesos/)).
+  - Método: conversión simple del precio en USD. No se verificó si Shopify tiene precios distintos por mercado.
 
 ## D. Análisis publicitario
-**La Biblioteca de anuncios de Meta no se pudo consultar** (ROBOTS_DISALLOWED desde la nube). Tampoco dio resultados TikTok Creative Center. Nada de lo que sigue viene de la Biblioteca.
-- **Glokore, advertorial del 24/04/2026** (AccessNewswire, marcado "Advertorial"):
-  - Abre con un titular de advertencia y le habla a quien "ya vio el anuncio" con imágenes de antes y después.
-  - Sigue una estructura de reseña honesta: para quién sí, para quién no, comparación con cascos de luz y un paso a paso.
-  - Cierra con un código de descuento.
-  - [INTERPRETACIÓN] Busca bajar la preocupación del lector y comparar alternativas.
-- **Anyra:** su página afirma "+4,5 M de vistas en TikTok e Instagram" y muestra una galería de 5 videos. Solo se ven las miniaturas. Es una afirmación del vendedor y no está verificada.
-- **TikTok Shop / afiliados:**
-  - Un video de un vendedor de Malasia (29/08/2026) usa el gancho "adiós al pelo fino, spa de salón en casa" (paráfrasis).
-  - INIA usa ventas en vivo ("LIVE EXCLUSIVE").
-  - En TikTok Shop US hay más de 20 listados de este tipo de producto.
-- **Reseña de una creadora en YouTube Shorts** ("probando el masajeador 3 en 1 de TikTok"):
-  - Formato: unboxing, prueba del masaje, prueba con sérum y veredicto.
-  - Muestra el aceite bajando hacia las sienes y duda de que la luz atraviese el pelo.
-  - [INTERPRETACIÓN] Las pruebas honestas en cámara dejan ver las objeciones reales del producto.
-- **Patrón creativo observado:** casi todos combinan "masaje + luz + aceite = spa en casa" con promesas de crecimiento. El ángulo de **masaje y aplicación pareja sin promesas** casi no está ocupado. Ese ángulo es el que Flubberhome ya puede usar.
+Sin revisión en esta ejecución. Último dato: 17/10/2026 (run 15-27). La Biblioteca de Meta no se intentó: está fuera de la franja de anuncios y sigue bloqueada desde la nube.
 
 ## E. Demanda y señales de ventas
 | Señal | Valor | Tipo |
 |---|---|---|
-| ML AR: manuales vs eléctricos | Manuales de +500 a +5mil vendidos; eléctricos de +5 a +50 | HECHO (indicador de ML, acumulado y redondeado) |
-| Amazon US: líder manual (HEETA) | 154.436 calificaciones | HECHO |
-| Amazon US: eléctricos con depósito | Breo 232; ZUTESU 55; 2 en 1 IPX7 47; INIA 34; mriya 19; Satorix 0 (a la venta desde 04/2026) | HECHO |
-| Contadores que publican las marcas | Anyra "12.319 clientes"; Nordic "2.387"; Hairrova "1.100+"; Glokore "2.541 compras en 30 días" | Afirmación del vendedor, sin verificar |
-| Blog de dropshipping (ASTools, mayo 2026) | Señala el eléctrico como tendencia en TikTok | Fuente secundaria de baja confiabilidad |
+| Precios DTC en CO | COP 55.900 – 149.990 (≈ USD 18–47); Holy es el más caro y el único con reseñas | HECHO + ESTIMACIÓN |
+| Oferta en MX | 2 tiendas DTC (MXN 990 y 1.038, una agotada); mayorista a MXN 297–345 con "17 vendidos"; ML con envíos desde China de 7–20 días | HECHO (búsqueda no exhaustiva) |
+| Blog de vendedores de Alibaba (22/03/2026) | Dice que el 68% abandona el aparato en 1–2 meses, que el 23% de las reseñas negativas habla de enredos y el 18% de agua en el puerto | Estimación de terceros, sin método publicado. **No usar las cifras** |
 
-- **Qué indican:** la categoría madre (masaje de cuero cabelludo) es grande. La subcategoría "eléctrico con depósito" es joven y está fragmentada, sin un líder claro.
-- **Qué no indican:** ventas mensuales ni rentabilidad de nadie.
+**Qué no indican:** ventas ni rentabilidad de nadie.
 
 ## F. Experiencia de compra
-Sin revisión completa en esta ejecución (le toca a la de las 03:54). Al pasar se vio lo siguiente:
-- [HECHO] La página de Anyra incluye un bloque de **otro producto** (un cojín para el coxis). Es una plantilla reciclada que resta confianza.
-- [HECHO] Glokore explica en su contenido qué aceites usar (livianos, no ricino puro) y cuánto tiempo.
+Sin revisión en esta ejecución (le toca a la de las 03:54). Se vio al pasar:
+- [HECHO] Holy Cosmetics muestra WhatsApp y horario de atención en la ficha.
+- [HECHO] En Tu Sitio (CO) publica plazos de garantía claros: 10 días para pedido incompleto o roto y 30 días por mal funcionamiento.
 
 ## G. Reseñas y debilidades competitivas
-- **Tendencia (4 fuentes y 4 productos): problemas con el líquido.**
-  - Tapa floja con derrames (2 en 1 IPX7, Amazon).
-  - Salidas que se tapan con líquidos espesos (manual de mriya).
-  - Aceite que se concentra y gotea (reseña en YouTube).
-  - Hay que apretar para que salga, y no es obvio (Breo).
-- **Aislado (1 fuente):** dudas sobre la luz roja. Flubberhome no comunica luz roja, así que no corresponde usarlo como ataque.
-- Ver `data/reviews.json`.
+| Problema | Fuentes / productos | Clasificación | Detalle |
+|---|---|---|---|
+| Goteo, dosificación y limpieza del depósito | 14 / 10 | tendencia | +2 en esta ejecución: con aceites espesos no fluye y hay que sostenerlo vertical (JIODTMER, MINOZOOS) |
+| **Durabilidad y fallas de fábrica** | 6 / 5 | **tendencia (nueva)** | Ver detalle abajo |
+| Enredos con pelo largo | 2 / 2 | incipiente | Zinnor; blog de Alibaba |
+| Instrucciones pobres (qué hace cada modo o luz) | 2 / 2 | incipiente | Yaxa 3 en 1; Breo |
+
+**Detalle de durabilidad y fallas de fábrica:**
+- Deja de funcionar a los ~30 usos (Yaxa, 23/05/2026).
+- No enciende al llegar, y el comprador no pudo devolverlo porque había roto la caja (Yaxa).
+- Llega sin el accesorio (Yaxa).
+- Botón que no funciona desde el primer día (JIODTMER, Amazon MX, 14/07/2025).
+- Se derrite al cargar (HEREE, Amazon US).
+- Agua que entra por el puerto (blog de Alibaba).
+
+[HIPÓTESIS] Es el mismo producto de fábrica revendido con control de calidad variable. Las reseñas citadas están parafraseadas y la lista completa está en `data/reviews.json`.
+
+**Mercado (no son reseñas):** casi todos los competidores de CO y MX, y también Breo, promueven el uso en la ducha. Flubberhome no puede hacerlo por regla de uso.
+- [HIPÓTESIS] Esa regla puede leerse como una limitación si no tiene un encuadre propio.
+- Las fallas por agua en el puerto juegan a favor de la regla.
 
 ## H. Estrategias adaptables
-1. **Responder la objeción del líquido con una demostración real** (INIA y Glokore la abordan en texto; nadie la muestra bien en video). Ver OPP-001.
-2. **Partir del hábito del cepillo manual en AR** para justificar el salto de precio: reparto parejo del tónico y menos esfuerzo de mano, sin desprestigiar el manual. Ver OPP-002.
-3. **Garantía visible** como reemplazo parcial de la prueba social que Flubberhome todavía no tiene. Ver OPP-003.
-4. **Contenido explicativo antes del checkout,** en versión honesta (no disfrazado de noticia). Postergado. Ver OPP-004.
+1. **Garantía publicada como respuesta a la falla de fábrica.**
+   - En CO, NIHLO ya publica 1 año de garantía a COP 89.900, y Breo da 30 días + 1 año en EE. UU.
+   - No publicar garantía queda por debajo del estándar. Ver OPP-003.
+2. **El ritual en seco como elección, no como limitación.** Frente a la competencia que se usa en la ducha, presentarlo como "el minuto de alivio en el sillón". Ver OPP-005.
+3. **Mensaje por país** (OPP-009):
+   - En MX, destacar el envío rápido frente a los vendedores transfronterizos.
+   - En CO, destacar la garantía y la atención frente a los genéricos baratos.
 
 **No replicar:**
-- Precios tachados inflados ("SAVE 68%").
-- Porcentajes de "resultados" sin método.
-- Urgencia falsa ("termina a medianoche", "agotado 3 veces").
-- Claims de crecimiento o la etiqueta de grado médico.
+- Reseñas con claims médicos publicadas en la ficha (Holy).
+- "Reduce caída extrema" (Smartjoys).
+- Precios tachados inflados.
 
 ## I. Oportunidades priorizadas
 Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si la urgencia es 4 o más.
 
-| # | id | Puntaje | I/C/F/Co/R/U | Acción concreta |
+| # | id | Score | Estado | Acción concreta |
 |---|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | **60** | 4/3/5/1/1/3 | Probar el aparato con 2–3 tónicos livianos, documentar y sumar el bloque "Cargarlo en 20 segundos" a la ficha y a la Guía, más un video de 15 s del Edificio Flubber (pelo seco, fuera de la ducha). |
-| 2 | OPP-002 salto desde el cepillo manual (AR) | 36 | 3/3/4/1/1/2 | Ángulo creativo para el próximo ciclo de AR: "tu cepillito, versión siguiente". |
-| 3 | OPP-003 garantía publicada | 8 | 4/4/3/3/2/3 | Conseguir la tasa de defectos del proveedor y calcular el costo esperado antes de decidir los meses. |
-| 4 | OPP-004 página explicativa | 2 | 3/2/2/2/3/1 | Postergar hasta que haya tráfico pago. |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Probar el depósito con tónicos livianos **y espesos**, y grabar la demo |
+| 2 | OPP-002 salto desde el cepillo manual (AR) | 36 | nueva | Ángulo para AR |
+| 3 | OPP-007 precio honesto y ahorro por unidad | 30 | nueva | — |
+| 4 | OPP-008 hábito / OPP-011 demo con pelo largo (**nueva**) | 24 / 24 | nueva | Sumar la prueba con pelo largo a la de OPP-001 |
+| 5 | OPP-005 ritual en seco | 18 (antes 12) | nueva | Encuadre frente a la competencia que se usa en la ducha |
+| 6 | OPP-010 control de funcionamiento y cuidado de batería (**nueva**) | 18 | nueva | Preguntar al proveedor la tasa de defectos y si se puede probar cada unidad (lo decide el dueño) |
+| 7 | OPP-009 precio y mensaje por mercado MX/CO (**nueva**) | 16 | nueva | Confirmar en Shopify (solo lectura) los precios por mercado y los plazos reales de envío |
+| 8 | OPP-003 garantía publicada | 11 (antes 8) | nueva | Definir los meses con la tasa de defectos; publicarla junto al botón de compra |
 
-- **Evidencia de OPP-001:** patrón de 4 reseñas.
-- **Confianza de OPP-001:** media. Hay pocas reseñas por producto, y no se sabe si el depósito de ScalpCare gotea. Hay que probarlo primero.
-- **Métrica de OPP-001:** tasa de agregar al carrito, cuando se reactiven las campañas (experimento EXP-001).
+- **OPP-010:**
+  - **Evidencia:** 6 reseñas de fallas.
+  - **Interpretación:** el miedo a que el aparato llegue roto es real en la categoría.
+  - **Confianza:** media (ninguna reseña es del producto exacto de Flubberhome).
+  - **Métrica:** reclamos por defecto en los primeros 30 días.
+  - **Advertencia:** no afirmar "probado antes de salir" si el proceso no existe.
 
 ## J. Próximas acciones
-- **Run de las 19:54** (reseñas y nuevos competidores):
-  - Leer reseñas de ML AR/MX de los eléctricos con depósito.
-  - Revisar Breo e INIA en sus webs propias.
-  - Buscar competidores DTC en MX y CO.
 - **Run de las 03:54** (catálogo y precios):
-  - Revisar las fichas de los competidores de AR (Gadnic/Bidcom, Lena, Beltronic, Microshop) y de AUREVIA en CO.
-  - Analizar el checkout de Glokore sin comprar.
-- **Para el dueño (Flubberhome):** probar el depósito propio con tónicos livianos. Es la condición para avanzar con OPP-001.
+  - Holy Cosmetics: envío, garantía, medios de pago y fecha de las reseñas.
+  - Precios por mercado en Shopify, solo lectura.
+  - Checkout de Glokore, sin comprar.
+- **Run de las 11:54** (anuncios): perfiles públicos de Holy Cosmetics y de las tiendas de CO.
+- **Para el dueño** (no se contactó a nadie):
+  - Pedir al proveedor la tasa de defectos.
+  - Probar el ScalpCare con aceite espeso y en pelo largo.
 
 ## K. Nuevos hallazgos
-- Es la primera ejecución con informe, así que todo es nuevo respecto de la base importada.
-- Altas:
-  - 5 competidores nuevos: Glokore, Breo, INIA, eléctricos de ML AR y cepillos manuales de AR.
-  - 6 productos.
-  - 5 piezas de contenido.
-  - 6 señales de demanda.
-  - 5 reseñas y 2 patrones.
-  - 4 oportunidades y 1 experimento.
-- Sin cambios de precio en Anyra, Hairrova ni Nordic. Hairrova muestra la etiqueta "Sold out" en la ficha; puede ser texto de plantilla, sin verificar.
+- 5 competidores nuevos: Holy Cosmetics, NIHLO, tiendas DTC de CO, tiendas de MX y tiendas chicas de AR.
+- 3 productos nuevos.
+- 3 señales de demanda nuevas.
+- 9 reseñas nuevas y 3 patrones nuevos.
+- 3 oportunidades nuevas (OPP-009, OPP-010, OPP-011) y 2 actualizadas (OPP-003, OPP-005).
+- Sin cambios fuertes de precio en los competidores directos.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** inaccesible desde la nube (ROBOTS_DISALLOWED). No hay datos de anuncios activos, fechas ni repeticiones.
-- **TikTok Creative Center:** cargó sin resultados.
-- **Mercado Libre:** se leyó solo a través de los resultados de búsqueda de Exa, sin entrar a cada publicación. "+N vendidos" es acumulado y redondeado, no son ventas mensuales.
-- **Contadores de clientes y compras** de Anyra, Nordic, Hairrova y Glokore: son afirmaciones de cada marca y no se pueden verificar.
-- **Repo público:** no se escriben costos, márgenes ni métricas internas de Flubberhome. Conviene volverlo privado.
-- **Fuera del foco** de esta ejecución: competidores de AR/CO del registro inicial y análisis completo de páginas de producto.
-
----
-## Complemento 2026-10-17T15-28
-Ejecución paralela de la misma tarea, con el mismo foco. Detalle completo en `2026-10-17T15-28.md`.
-- Lena Vegetal (AR): "+70 vendidos" y stock bajo [HECHO: indicador de Tiendanube]. Relevancia → alta.
-- Microshop, Lena y Anyra: sin cambios de precio.
-- El patrón de goteo, obstrucción y limpieza difícil del depósito pasa de 4 a 9 fuentes. OPP-001 sube a score **80**.
-- Oportunidades nuevas: OPP-005 sensorial en seco (score 12) y OPP-006 kit con líquido (score 1,3, en evaluación).
-- Biblioteca de Meta: tampoco se pudo consultar en esta ejecución.
-
-
-## Complemento 2026-10-17T15-28-b
-Ver [2026-10-17T15-28-b.md](2026-10-17T15-28-b.md). Lo que suma:
-- Competidores nuevos: Xiaomi Mijia (CN, B), Ondavu (C) y clones DTC de EE. UU. (USD 50–90).
-- 3 reseñas más del patrón de goteo (incluye Breo premium).
-- Oportunidades nuevas: OPP-007 (precio honesto, 30) y OPP-008 (ángulo de hábito, 24).
-- La tarea corrió en 3 sesiones paralelas.
+- **Mercado Libre:** no se leyeron reseñas dentro de las publicaciones de AR/MX/CO, solo listados vía Exa. Queda pendiente.
+- **Biblioteca de Meta:** no se intentó (fuera de franja; bloqueada desde la nube).
+- **Muestra MX:** chica, una sola búsqueda. Las conversiones de moneda son aproximadas y usan el precio base en USD.
+- **Reseñas publicadas en tiendas propias** (Holy, 27): no se pueden verificar.
+- **Blog de Alibaba:** fuente secundaria con interés comercial.
+- **Repo público:** sin datos internos. Conviene volverlo privado.

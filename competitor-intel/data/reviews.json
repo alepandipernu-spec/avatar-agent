@@ -2,8 +2,8 @@
  "patterns": [
   {
    "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 12,
-   "n_competidores": 9,
+   "n_fuentes": 14,
+   "n_competidores": 10,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
    "fecha": "2026-10-17",
@@ -18,6 +18,11 @@
      "date": "2026-10-17",
      "run_id": "2026-10-17T15-28-b",
      "change": "+3 fuentes (Breo premium x2, mercilia); el patrón alcanza también al segmento premium."
+    },
+    {
+     "date": "2026-10-17",
+     "run_id": "2026-10-17T19-55",
+     "change": "+2 fuentes (JIODTMER B0CDLT9ZZH, MINOZOOS): líquidos espesos no fluyen; sostener vertical."
     }
    ]
   },
@@ -29,6 +34,36 @@
    "oportunidad": "Flubberhome ya no comunica luz roja: refuerza el posicionamiento de masaje + aplicación. No usarlo como ataque.",
    "fecha": "2026-10-17",
    "run_id": "2026-10-17T15-27"
+  },
+  {
+   "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
+   "n_fuentes": 6,
+   "n_competidores": 5,
+   "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
+   "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
+   "fecha": "2026-10-17",
+   "run_id": "2026-10-17T19-55",
+   "historial": []
+  },
+  {
+   "problema": "Enredos o tirones con pelo largo",
+   "n_fuentes": 2,
+   "n_competidores": 2,
+   "clasificacion": "incipiente (2 fuentes, una secundaria)",
+   "oportunidad": "Probar ScalpCare Pro en pelo largo y, si no tira, mostrarlo; si tira, explicar la técnica (por secciones, sin arrastrar). Ver OPP-011.",
+   "fecha": "2026-10-17",
+   "run_id": "2026-10-17T19-55",
+   "historial": []
+  },
+  {
+   "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
+   "n_fuentes": 2,
+   "n_competidores": 2,
+   "clasificacion": "incipiente (Yaxa 3 en 1 + Breo en ejecuciones anteriores)",
+   "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
+   "fecha": "2026-10-17",
+   "run_id": "2026-10-17T19-55",
+   "historial": []
   }
  ],
  "items": [
@@ -138,6 +173,87 @@
    "parafrasis": "El propio vendedor avisa que si no se limpia, el líquido cristaliza y deja de salir.",
    "fecha_consulta": "2026-10-17",
    "run_id": "2026-10-17T15-28-b"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (reseñas de Amazon replicadas por Yaxa, 3,4★/21)",
+   "problema": "durabilidad",
+   "fecha": "2026-05-23",
+   "parafrasis": "Dejó de masajear después de unos 30 usos; solo seguían las luces.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (Yaxa)",
+   "problema": "calidad / dificultad de devolución",
+   "fecha": "2024-12-12",
+   "parafrasis": "No funcionó al encenderlo por primera vez y no pudo devolverlo porque ya había roto la caja.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (Yaxa)",
+   "problema": "diferencia entre lo anunciado y lo recibido",
+   "fecha": "2025-02-21",
+   "parafrasis": "Le llegó el aparato sin el accesorio aplicador de aceite.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (Yaxa)",
+   "problema": "falta de instrucciones / expectativas",
+   "fecha": "2025-04-21",
+   "parafrasis": "Vibración débil, puntas incómodas y no entiende qué hace cada modo y cada luz; el depósito sí le resultó fácil.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://www.amazon.com.mx/JIODTMER-aplicador-el%C3%A9ctrico-masajeador-cabelludo/dp/B0F67FB5Y1",
+   "producto": "JIODTMER 2 en 1 (Amazon MX, 2,0★/2)",
+   "problema": "calidad",
+   "fecha": "2025-07-14",
+   "parafrasis": "Uno de los botones no funcionaba desde el primer día y eso le hizo desconfiar del resto.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://www.amazon.com/dp/B08XY841R6",
+   "producto": "HEREE eléctrico (Amazon US, 3,5★/3)",
+   "problema": "seguridad / calidad",
+   "fecha": "sin fecha visible",
+   "parafrasis": "Reseña destacada: el aparato se derritió mientras cargaba.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
+   "producto": "JIODTMER 2 en 1 (Amazon US, 4,0★/59)",
+   "problema": "dificultad de uso",
+   "fecha": "sin fecha visible",
+   "parafrasis": "Funciona, pero con aceites espesos se traba, hay que sostenerlo vertical y los restos gotean si no se vacía.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBMH36J",
+   "producto": "MINOZOOS (Amazon US, 3,6★/30)",
+   "problema": "dificultad de uso",
+   "fecha": "sin fecha visible",
+   "parafrasis": "Bien con aceites livianos; los espesos no fluyen.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://juicer.deals/review-item/28926386/",
+   "producto": "Zinnor eléctrico (resumen de 13 reseñas)",
+   "problema": "dificultad de uso / durabilidad",
+   "fecha": "resumen sin fecha",
+   "parafrasis": "Varias reseñas dicen que tira y enreda el pelo largo, y algunas unidades fallaron.",
+   "fecha_consulta": "2026-10-17",
+   "run_id": "2026-10-17T19-55"
   }
  ]
 }

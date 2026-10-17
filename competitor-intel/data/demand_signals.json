@@ -118,5 +118,41 @@
   "no_indica": "Volumen de demanda",
   "id": "us-dtc-clones-rango",
   "run_id": "2026-10-17T15-28-b"
+ },
+ "co-dtc-rango-precios": {
+  "id": "co-dtc-rango-precios",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T19-55",
+  "senal": "Rango de precios de tiendas DTC en Colombia para el masajeador eléctrico con depósito",
+  "valor": "COP 55.900 – 149.990 (≈ USD 18–47 con TRM 3.170,46 del 16/10/2026). Holy Cosmetics es el más caro y el único con reseñas visibles (27).",
+  "fuente": "fichas citadas en competitors.json (holy-cosmetics-co, nihlo-co, co-dtc-tiendas); TRM: https://www.dolar-colombia.com/en/2026-10-16",
+  "alcance": "CO, 8 tiendas propias",
+  "tipo": "HECHO (precios) + ESTIMACIÓN (conversión)",
+  "indica": "Oferta abundante y precio de referencia bajo; el precio base de Flubberhome (≈ COP 133 mil) queda en el tercio superior.",
+  "no_indica": "Ventas; precios por mercado de Shopify pueden ser distintos al precio base en USD."
+ },
+ "mx-dtc-escaso": {
+  "id": "mx-dtc-escaso",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T19-55",
+  "senal": "Oferta DTC en México",
+  "valor": "2 tiendas DTC vistas (MXN 990 y 1.038, una agotada); mayorista a MXN 297–345; ML MX con vendedores transfronterizos (7–20 días).",
+  "fuente": "fichas citadas en competitors.json (mx-tiendas)",
+  "alcance": "MX, búsqueda Exa (no exhaustiva)",
+  "tipo": "HECHO",
+  "indica": "Pocas tiendas locales con envío rápido; precio DTC por encima del precio base de Flubberhome (≈ MXN 754).",
+  "no_indica": "Que haya demanda suficiente; una búsqueda no es un censo del mercado."
+ },
+ "alibaba-abandono-reddit": {
+  "id": "alibaba-abandono-reddit",
+  "fecha": "2026-10-17",
+  "run_id": "2026-10-17T19-55",
+  "senal": "Blog de vendedores de Alibaba (22/03/2026) sobre la categoría",
+  "valor": "Afirma que el 68% de usuarios de Reddit abandona el masajeador en 1–2 meses, que el 23% de reseñas negativas en Amazon habla de enredos con pelo largo y el 18% de puertos USB que dejan entrar agua. Mercado global estimado USD 1.400 M a 2035.",
+  "fuente": "https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com",
+  "alcance": "Global, fuente secundaria con interés comercial",
+  "tipo": "ESTIMACIÓN de terceros, método no publicado (confiabilidad baja)",
+  "indica": "Los mismos problemas de hábito, enredo y agua que vemos en reseñas directas.",
+  "no_indica": "Porcentajes confiables; no usar las cifras en piezas propias."
  }
 }
