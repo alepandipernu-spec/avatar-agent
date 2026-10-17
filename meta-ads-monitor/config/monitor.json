@@ -1,0 +1,45 @@
+{
+  "project": "Flubberhome",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "report_currency": "USD",
+  "mode": "read_only",
+  "ids": {
+    "escalafy_org": "org_3K1Cwjp3nWWIMwkEanxcexXN2NU",
+    "meta_ad_account": "3984236798375831",
+    "shopify_store": "hfymza-82.myshopify.com",
+    "store_domain": "flubberhomme.com"
+  },
+  "windows": {
+    "current_days": 30,
+    "baseline_days": 30,
+    "settling_days": 3
+  },
+  "approved_spend": {
+    "daily_limit_usd": null,
+    "monthly_limit_usd": null,
+    "note": "Sin límite aprobado documentado. Mientras sea null no se generan alertas P0 por 'gasto fuera de límite'; se reporta como dato faltante."
+  },
+  "thresholds": {
+    "_note": "Umbrales provisionales derivados del historial del 2026-08-01 al 2026-10-17 (gasto USD 310, 0 compras). Revisar cuando haya ventas.",
+    "spend_without_purchase_usd": 50,
+    "lpv_per_link_click_min": 0.5,
+    "min_link_clicks_for_ratio": 30,
+    "cpm_outlier_multiplier": 4,
+    "min_impressions_for_cpm": 300,
+    "daily_spend_spike_multiplier": 3,
+    "pixel_vs_shopify_atc_ratio_max": 3,
+    "min_spend_for_judgement_usd": 15,
+    "material_change_pct": 0.25
+  },
+  "economics": {
+    "shipping_cost_per_order_usd": null,
+    "payment_fee_pct": null,
+    "tax_pct": null,
+    "returns_pct": null,
+    "note": "Costos no documentados. El script los trata como DESCONOCIDOS y calcula escenarios etiquetados como estimación."
+  },
+  "notification": {
+    "channel": "push al terminar la tarea programada (notificaciones de Claude Code)",
+    "fallback": "registro en data/state/alerts.json y en el informe"
+  }
+}
