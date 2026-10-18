@@ -1,32 +1,34 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-17T14:21-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-17T23:46-03:00
 
 Período: 2026-09-18 → 2026-10-17 · comparado con 2026-08-19 → 2026-09-17 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Meta Ads está APAGADO: las 4 campañas (AR, CO, MX, US) están pausadas; último gasto el 14/10. En 30 días se gastaron USD 227,93 con 0 compras; en 365 días la tienda no registra ningún pedido.
-- El problema principal no está en el clic: hubo 607 visitas a la página a USD 0,38 cada una. El embudo se corta después: 786 sesiones → 10 con carrito (1,3%) → 6 llegaron al checkout → 0 compras.
-- EE. UU. consumió el 42% del gasto (USD 95,65) para 12 visitas (USD 7,97 cada una), contra USD 0,15–0,19 en Colombia y Argentina.
-- Escalafy cuenta dos veces USD ~103 de gasto de septiembre (costo manual que repite el gasto sincronizado): ROAS y ganancia del panel combinado están mal hasta corregirlo.
-- Los videos 'Pack Dúo (V10)' y 'Demo (V02)' en AR y CO traen visitas a USD 0,08–0,23; son los únicos candidatos a volver a probar, pero no hay ninguna señal de compra todavía.
-- Alertas abiertas: 12 (3 P0/P1). Nuevas o con cambio en esta ejecución: 12. Resueltas: 0.
+- Sin cambios en Meta: 4 campañas en pausa intencional, sin gasto desde el 14/10. Últimos 30 días: USD 227,93, 0 compras.
+- Correcciones aplicadas hoy: costo duplicado de Escalafy retirado, precios tachados y 'Más elegido' quitados.
+- Pendiente del dueño: completar el pedido de prueba #D1 y hacer compras reales con Mercado Pago y PayPal (posible cobro en ARS del monto en USD).
+- Pendiente de aprobación: quitar el método 'Envío Gratis Prioritario' (USD 0 sin condiciones) y publicar la política de devoluciones que cumple la Ley 24.240 (faltan razón social, CUIT y domicilio).
+- Límite de gasto aprobado por la arena: USD 6/día y USD 180/mes, solo cuando se cumpla la lista previa.
+- Alertas abiertas: 9 (5 P0/P1). Nuevas o con cambio en esta ejecución: 4. Resueltas: 7.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome (admin, advanced_features true). Cuenta Meta 3984236798375831: catálogo, reporte por anuncio, dashboard diario, costos. |
+| escalafy | ok | Org flubberhome OK. Catálogo, dashboard diario y costos leídos. Por anuncio: no se volvió a pedir; los totales del período coinciden exactamente con la ejecución anterior y no hubo gasto desde el 14/10, se reutilizan esas filas. |
 | shopify | ok | Tienda hfymza-82 / flubberhomme.com: sesiones, embudo, pedidos, productos y costos. |
-| competencia_web | partial | Exa: páginas públicas; 9 fichas de competidores (12 vendedores). Sin datos de anuncios. |
+| competencia_web | partial | No se actualizó en esta ejecución (la revisión diaria de competencia toca en la de 15:46, que se entregó tarde). Registro sin cambios. |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | blocked | graph.facebook.com rechazado por el proxy (403) y conector Adspirer caído (403). Sin estado de facturación, revisión de anuncios, ventana de atribución ni eventos del Pixel. |
 
 - los últimos días hasta 2026-10-17 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
-- Gasto de Meta = meta_ad_spend de Escalafy (sincronizado). El 'ad_spend' combinado de Escalafy está inflado por un costo manual duplicado (ver alerta).
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
 - El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).
 - Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.
 - Moneda: tienda en USD; cuenta publicitaria en ARS; métricas convertidas por Escalafy a USD con su tasa diaria.
+- Gasto de Meta = meta_ad_spend. El ad_spend combinado ya no está inflado: el costo manual duplicado se corrigió el 17/10 (1–17/09: ARS 158.144,39).
+- La ejecución programada de las 15:46 se entregó a esta sesión recién a las 23:46; esta corrida cubre ambas.
+- Pedido de prueba #D1 (USD 0) todavía abierto: no cuenta como venta.
 - Métricas no disponibles en esta ejecución: frecuencia por anuncio, CTR de enlace nativo de Meta, retención de video 25/50/75/95%, ventana de atribución, estado de revisión de anuncios, estado de facturación, historial de cambios de configuración, desglose por ubicación, dispositivo, edad.
 
 ## C. Rendimiento publicitario
@@ -108,120 +110,26 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 **DEBILIDAD**
 
 - [P1] Tráfico sin ventas: 0 pedidos en 365 días — Evidencia: 30 días: 786 sesiones, 10 con carrito, 6 en checkout, 0 completadas. 30 días previos: 1.633 sesiones, 14, 7, 0. Shopify 365 días: 0 pedidos, USD 0. Diagnóstico: La fuga está en la tienda y la oferta, no en el anuncio. Sin una compra de prueba no se puede descartar una falla técnica del checkout o del pago. Confianza: alta (hecho) / media (causa). Acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. (requiere aprobación)
+- [P1] La política de devoluciones no cumple la Ley 24.240 — Evidencia: Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025). Diagnóstico: Riesgo legal y de confianza; los competidores ofrecen 6–12 meses. Confianza: alta. Acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). (requiere aprobación)
 - [P1] USD 227.93 gastados en el período sin compras — Evidencia: Gasto Meta USD 227.93; compras Shopify 0; compras atribuidas por Meta 0. Diagnóstico: El embudo no llega a compra. No alcanza para culpar al anuncio: también pueden fallar oferta, precio, confianza o checkout. Confianza: media. Acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
 - [P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita — Evidencia: US: USD 95,65, 875 impresiones (CPM USD 109), 18 clics en enlace, 12 visitas → USD 7,97 por visita. AR: USD 0,19; CO: USD 0,15; MX: USD 0,56. US - VID Demo (V02) solo: USD 60,13 por 4 visitas. Diagnóstico: Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días. Confianza: media. Acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. (requiere aprobación)
 - [P2] 'US - VID Demo (V02)': CPM 20× la mediana — Evidencia: CPM USD 137.29 vs mediana USD 6.94. Diagnóstico: Audiencia o mercado caro (p. ej. US) o entrega con poca competencia por presupuesto bajo. Confianza: media. Acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. (requiere aprobación)
-- [P2] Precio tachado en 'ScalpCare Pro 1 unidad' sin precio anterior verificable — Evidencia: Precio USD 41.93, 'antes' USD 59.90, con 0 ventas registradas. Diagnóstico: Un precio de referencia que nunca se cobró puede leerse como engañoso y contradice la regla de la marca (sin precio tachado). Confianza: alta. Acción: Decidir si se quita el compare-at price en Shopify. (requiere aprobación)
-- [P2] Precio tachado en 'ScalpCare Pro Pack Dúo' sin precio anterior verificable — Evidencia: Precio USD 71.88, 'antes' USD 119.80, con 0 ventas registradas. Diagnóstico: Un precio de referencia que nunca se cobró puede leerse como engañoso y contradice la regla de la marca (sin precio tachado). Confianza: alta. Acción: Decidir si se quita el compare-at price en Shopify. (requiere aprobación)
-- [P2] Precio tachado en 'ScalpCare Pro Pack Familiar' sin precio anterior verificable — Evidencia: Precio USD 89.85, 'antes' USD 179.70, con 0 ventas registradas. Diagnóstico: Un precio de referencia que nunca se cobró puede leerse como engañoso y contradice la regla de la marca (sin precio tachado). Confianza: alta. Acción: Decidir si se quita el compare-at price en Shopify. (requiere aprobación)
-- [P3] Afirmación sin respaldo en el catálogo: 'Pack Dúo · Más elegido - ScalpCare Pro' — Evidencia: Título con "Más elegido" sin ventas registradas (producto en borrador). Diagnóstico: Afirmación no verificable. Confianza: alta. Acción: Renombrar antes de publicar ese producto. (requiere aprobación)
 
 **ANOMALIA**
 
-- [P1] Escalafy cuenta dos veces el gasto de Meta del 7 al 16/09 — Evidencia: Costo manual 'Meta Ads · Ventajas - ScalpCare Pro - Septiembre (cuenta 3984236798375831)', marcado como inversión publicitaria, con montos diarios idénticos al gasto sincronizado (p. ej. 12/09: ARS 34.236,83 en ambos). Duplicado: ARS 126.277,25 (≈ USD 103). Del 3 al 5/09 el costo manual suma ARS 31.867,14 sin gasto sincronizado. Diagnóstico: La carga manual se hizo antes de que la sincronización trajera esos días. El ad_spend combinado del 1 al 17/09 es ARS 284.421,64 en vez de 158.144,39. Confianza: alta. Acción: Borrar en Escalafy los tramos del 7 al 16/09 del costo manual (dejar 3–5/09 si ese gasto no aparece sincronizado). Tenemos el permiso costs:write, pero es una modificación: requiere tu aprobación. (requiere aprobación)
-- [P2] No hay campañas activas en la cuenta — Evidencia: 4 campañas, todas en estado pausado. Último día con gasto: 2026-10-14. Diagnóstico: Sin entrega no hay datos nuevos. Si la pausa fue intencional (decisión del dueño), no es un problema. Confianza: alta. Acción: Confirmar si la pausa es intencional. Reactivar solo con un experimento aprobado. (requiere aprobación)
+- [P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare — Evidencia: Perfil 'cj dropshiping', grupo 'Sucursal de la tienda': método 'Envío Gratis Prioritario' USD 0 sin condiciones para AR/CO/MX y US. La ficha y la política dicen USD 10 bajo USD 70. Diagnóstico: PROBABLE: el checkout ofrece envío gratis a todos (la tienda absorbe ~USD 10 por pedido de 1 unidad) o muestra opciones contradictorias. Se confirma con el pedido #D1. Confianza: media. Acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). (requiere aprobación)
+- [P1] Posible cobro en pesos del monto en dólares con Mercado Pago — Evidencia: Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial. Diagnóstico: PROBABLE causa de 6 checkouts y 0 compras, o de ventas a pérdida. No verificado. Confianza: baja. Acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. (requiere aprobación)
 - [P2] Entrega intermitente: el gasto se prende y se apaga — Evidencia: 9 de 30 días con gasto; 10 cortes en el período. Diagnóstico: Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje. Confianza: media. Acción: Revisar el historial de actividad y Facturación en Ads Manager.
 - [P3] Campaña de agosto–septiembre que ya no existe: clics sin visitas registradas — Evidencia: Campaña 52604677081664 (10 anuncios, sin nombre en el catálogo): USD 82,50 del 7 al 16/09, 1.289 clics en enlace, 0 visitas a la página; el 12/09 tuvo 984 clics en 8.940 impresiones (11%). Shopify contó 913 sesiones esa semana. Diagnóstico: Probablemente la campaña 'Ventajas' (Advantage+) que se borró. Los clics llegaron a la tienda; Meta no registró la visita a la página (evento no configurado o campaña de tráfico). Un CTR de 11% en un día sugiere clics accidentales (Audience Network). Confianza: baja. Acción: Ninguna ahora. Si se reactiva una campaña de tráfico, excluir Audience Network.
+- [P3] Campañas en pausa intencional (decisión del dueño) — Evidencia: 4 campañas pausadas desde antes del 2026-10-17. Último día con gasto: 2026-10-14. Motivo: El dueño decidió no gastar hasta revisar y resolver tienda, envíos, pago y medición.. Diagnóstico: Es una decisión, no una falla. Confianza: alta. Acción: Reactivar solo con un experimento aprobado.
 
 **OPORTUNIDAD**
 
-- [P2] Garantía más débil que la de la competencia — Evidencia: Flubberhome (según bible/product al 01/10): cambios 30 días sin abrir, defectos dentro de 72 h. Gadnic: 12 meses de garantía de fábrica + envío gratis. Hairrova: 30 días de devolución + 1 año. Nordic Biolabs: 120 días. Diagnóstico: Hipótesis: con una marca nueva y sin reseñas reales, la política de cambios 'sin abrir' frena la compra de un producto que hay que probar. Confianza: baja. Acción: Decisión del dueño sobre la política (ver EXP-003). No cambiar textos de la tienda sin aprobación. (requiere aprobación)
 - [P3] Casi todos los competidores prometen crecimiento o anticaída: hay lugar para una marca honesta — Evidencia: Ver sección F: Lena Vegetal ('control caída'), Beltronic ('anticaída y densidad'), AUREVIA ('frenar la caída'), Hairrova ('clinically proven… 56 days'), Anyra ('93% saw thicker hair growth'). Diagnóstico: Esas promesas atraen clics pero son riesgo de rechazo en Meta y de desconfianza. Flubberhome no puede ni debe usarlas. Confianza: media. Acción: Probar ángulo 'aplicá tu tónico sin ensuciarte las manos' (EXP-004). (requiere aprobación)
 
 ## F. Inteligencia competitiva
 
-**Gadnic (vía Bidcom)** (nuevo) · bidcom.com.ar · mercado AR · verificado 2026-10-17
-- Precio/oferta: No visible en la página consultada; preventa ('disponible en 26 días'), envío gratis a todo el país, 10 disponibles.
-- Propuesta: Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.
-- Mensajes: Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.
-- Formatos: No obtenido (sin acceso a la Biblioteca de anuncios).
-- Hecho observado: Ofrece 12 meses de garantía y envío gratis.
-- Hecho observado: Ficha técnica completa y medible (batería, potencia, tiempos).
-- Inferencia: Compite en confianza de marca local y garantía, no en precio.
-- Hipótesis: La garantía larga es un argumento que Flubberhome no puede igualar hoy.
-- No obtenible: Anuncios activos, presupuesto, ventas.
-- Fuentes: https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c
-
-**Lena Vegetal** (nuevo) · lenacosmetica.com.ar · mercado AR · verificado 2026-10-17
-- Precio/oferta: ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia.
-- Propuesta: Kit masajeador + tónico de romero y salvia (60 ml).
-- Mensajes: 'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.
-- Formatos: No obtenido.
-- Hecho observado: Vende el aparato junto con un tónico propio.
-- Hecho observado: Descuento extra por transferencia.
-- Inferencia: El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'.
-- Hipótesis: Un kit con tónico podría subir el valor percibido; requiere proveedor y verificar claims.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/
-
-**Beltronic Beauty Tools** (nuevo) · beltronic.com.ar · mercado AR · verificado 2026-10-17
-- Precio/oferta: Kit ARS 175.890 (lista ARS 185.990); 10% off por transferencia.
-- Propuesta: Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.
-- Mensajes: 'Anticaída y densidad', 'reduce la caída'.
-- Formatos: Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.
-- Hecho observado: Precio alto apoyado en un activo nombrado (Capixyl).
-- Inferencia: Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/
-
-**Microshop** (nuevo) · microshop.com.ar · mercado AR · verificado 2026-10-17
-- Precio/oferta: ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.
-- Propuesta: Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').
-- Mensajes: 'Revitaliza tu cabello', 'placentero masaje'.
-- Formatos: No obtenido.
-- Hecho observado: Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.microshop.com.ar/productos/micro-masajeador-capilar/
-
-**AUREVIA (en Farmatodo)** (nuevo) · farmatodo.com.co · mercado CO · verificado 2026-10-17
-- Precio/oferta: COP 37.425 (lista COP 49.900); despacho 4–5 días.
-- Propuesta: Venta dentro de una cadena de farmacias (confianza del canal).
-- Mensajes: 'Rejuvenecedor de folículos', 'ideal para frenar la caída'.
-- Formatos: No obtenido.
-- Hecho observado: Producto similar vendido en farmacia en Colombia.
-- Inferencia: En CO el canal farmacia da confianza que una tienda nueva no tiene.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1
-
-**Anyra** (nuevo) · shopanyra.com · mercado US · verificado 2026-10-17
-- Precio/oferta: USD 50,95 (tachado USD 158,95, 'SAVE 68%').
-- Propuesta: DTC con prueba social masiva y estadísticas de 'clientes'.
-- Mensajes: 'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.
-- Formatos: No obtenido.
-- Hecho observado: Usa porcentajes de satisfacción y conteo de clientes en la página.
-- No obtenible: Si las cifras de clientes y reseñas son verificables.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator
-
-**Hairrova RootGlow** (nuevo) · hairrova.com · mercado US · verificado 2026-10-17
-- Precio/oferta: USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.
-- Propuesta: Promesa de resultado con plazo.
-- Mensajes: 'Clinically proven… visible hair growth in 56 days'.
-- Formatos: No obtenido.
-- Hecho observado: Garantía de devolución explícita y destacada.
-- No obtenible: Respaldo del 'clinically proven'.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush
-
-**Nordic Biolabs** (nuevo) · nordic-biolabs.com · mercado US · verificado 2026-10-17
-- Precio/oferta: USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.
-- Propuesta: Aparato como vehículo de un consumible propio (recompra).
-- Mensajes: 'Hair regrowth', testimonios y cita profesional.
-- Formatos: No obtenido.
-- Hecho observado: Modelo aparato + consumible.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum
-
-**Genéricos en Amazon (mriya, Satorix, UniiSuui, ABVOT)** (nuevo) · amazon.com · mercado US · verificado 2026-10-17
-- Precio/oferta: USD 21,99 – 49,99.
-- Propuesta: 'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.
-- Mensajes: Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.
-- Formatos: Listados de Amazon.
-- Hecho observado: El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.
-- Inferencia: En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido.
-- No obtenible: Anuncios.
-- Fuentes: https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC, https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4
-
+- No se examinaron competidores en esta ejecución.
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -233,19 +141,18 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 | # | Acción | Impacto | Confianza | Urgencia | Costo | Dificultad | Aprobación |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Aprobar la corrección del costo duplicado en Escalafy (7–16/09) | medio (métricas correctas) | alta | alta | 0 | baja | sí |
-| 2 | Hacer la compra de prueba EXP-001 y confirmar el evento Purchase | alto | alta | alta | ≈ USD 42 reembolsable | baja | sí |
-| 3 | Quitar el precio tachado (compare-at) de las 3 variantes | medio (confianza, riesgo de rechazo) | media | media | 0 | baja | sí |
-| 4 | Cargar en config los costos reales: envío por pedido, comisión de pago, impuestos, y un límite de gasto aprobado | medio (rentabilidad real y alertas P0) | alta | media | 0 | baja | no |
-| 5 | Decidir la política de garantía y el bloque de uso (EXP-003) | medio | baja | media | 0 | media | sí |
-| 6 | Recién después: EXP-002 (AR+CO, solo video, USD 60) con EXP-004 como segundo anuncio | alto | media | baja | USD 60 | media | sí |
-| 7 | Habilitar acceso a facebook.com / graph.facebook.com o reconectar Adspirer para ver Pixel, facturación y Biblioteca de anuncios | medio (cobertura) | alta | media | 0 | baja | sí |
+| 1 | Completar el pedido de prueba #D1 y anotar envío y medios de pago | alto | alta | alta | 0 | baja | no |
+| 2 | Compras reales reembolsables con Mercado Pago y PayPal; verificar Purchase en Events Manager | alto | alta | alta | ≈ USD 42 c/u, reembolsable | baja | sí |
+| 3 | Quitar 'Envío Gratis Prioritario' y dejar USD 10 bajo USD 70 / gratis desde 70 | alto (margen) | media | alta | 0 | baja | sí |
+| 4 | Publicar la política nueva + Botón de Arrepentimiento | medio | alta | alta | ~6% de reserva por pedido (estimado) | media | sí |
+| 5 | Pedir a CJ la cotización real de envío por país y por 1/2/3 unidades | medio | alta | media | 0 | baja | no |
+| 6 | Recién después: EXP-002 (CO+MX, USD 6/día) | alto | media | baja | hasta USD 180/mes | media | sí |
 
 ## H. Experimentos
 
-**EXP-001 · Compra de prueba de punta a punta** (nuevo) — estado: pendiente de aprobación · prioridad P1
+**EXP-001 · Compra de prueba de punta a punta** (actualizado) — estado: en ejecución · prioridad P1
 - Problema: 0 compras con 6 checkouts en 30 días; no sabemos si el checkout o el pago funcionan.
-- Evidencia: Shopify: 6 sesiones llegaron al checkout, 0 completaron; 0 pedidos en 365 días.
+- Evidencia: Pedido de prueba #D1 (USD 0) creado el 17/10, link enviado al dueño; todavía abierto.
 - Hipótesis: Si el checkout o un medio de pago falla para compradores de AR/CO, ninguna mejora de anuncio va a vender.
 - Variable: Ninguna (diagnóstico).
 - Constantes: Tienda, precios y campañas pausadas.
@@ -258,26 +165,26 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 - Inconcluso: No aplica.
 - Riesgos: Ninguno sobre la cuenta publicitaria. Lo hace el dueño: Claude no carga tarjetas.
 
-**EXP-002 · Reactivación controlada solo AR + CO con los videos ganadores** (nuevo) — estado: propuesto · prioridad P2
+**EXP-002 · Reactivación controlada CO + MX con los videos ganadores** (actualizado) — estado: propuesto · prioridad P2
 - Problema: Cuando hubo gasto, 42% se fue a EE. UU. con USD 7,97 por visita.
 - Evidencia: AR USD 0,19 y CO USD 0,15 por visita; videos V10/V02 los mejores.
 - Hipótesis: Con el mismo presupuesto en AR+CO y solo video, conseguimos suficientes carritos e inicios de pago para saber si la tienda convierte.
-- Variable: Mercados (solo AR y CO) y formato (solo video V10 y V02).
+- Variable: Mercados (CO y MX; AR después de resolver Mercado Pago) y formato (V10 y V02)
 - Constantes: Objetivo Ventas/Compra, oferta, página de destino.
 - Métrica principal: Inicios de pago (Shopify) por cada USD 10.
 - Protección: Costo por visita ≤ USD 0,40; visitas/clic ≥ 70%; carritos ≥ 1,5% de las sesiones.
-- Presupuesto máximo (sujeto a aprobación): 60 en total (aprox. USD 8,5 por día durante 7 días), sujeto a aprobación.
+- Presupuesto máximo (sujeto a aprobación): USD 6/día, tope USD 180/mes (arena 17/10), sujeto a aprobación
 - Duración: 7 días seguidos sin pausar (las pausas reinician el aprendizaje).
-- Éxito: ≥ 1 compra o ≥ 5 inicios de pago.
-- Fracaso: ≥ 400 visitas con 0 inicios de pago: el problema es la tienda/oferta, parar.
+- Éxito: ≥ 3 compras con CPA ≤ USD 10
+- Fracaso: USD 50 con ≥ 3 checkouts y 0 compras (revisar pago) o USD 120 con < 3 compras (pausar todo)
 - Inconcluso: Menos de 400 visitas.
 - Riesgos: Gastar sin resolver EXP-001. Solo después de EXP-001.
 
-**EXP-003 · Confianza en la página: garantía clara y uso real** (nuevo) — estado: propuesto · prioridad P2
+**EXP-003 · Política legal y garantía clara** (actualizado) — estado: pendiente de aprobación · prioridad P2
 - Problema: 786 sesiones → 10 carritos (1,3%).
 - Evidencia: Competidores destacan garantía de 12 meses / 1 año / 120 días; Flubberhome ofrece cambios 30 días sin abrir.
-- Hipótesis: Una política de prueba clara ('probalo 30 días') y un bloque de 'cómo se usa' con el video V02 suben el paso visita → carrito.
-- Variable: Bloque de garantía y uso en la página de producto (un solo cambio).
+- Hipótesis: Una política que cumple la ley (10 días de arrepentimiento sin costo, 6 meses de garantía) y una línea clara en la ficha suben el paso visita → carrito.
+- Variable: Política de reembolso + línea de garantía en la ficha
 - Constantes: Precio, anuncios, tráfico.
 - Métrica principal: Sesiones con carrito / sesiones.
 - Protección: Llegada al checkout; consultas por WhatsApp/Instagram.
@@ -288,7 +195,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 - Inconcluso: Menos sesiones.
 - Riesgos: Comparación antes/después, no A/B: estacionalidad. La política la decide el dueño.
 
-**EXP-004 · Ángulo creativo: 'tu tónico en la raíz, no en tus manos'** (nuevo) — estado: propuesto · prioridad P3
+**EXP-004 · Ángulo creativo: 'tu tónico en la raíz, no en tus manos'** — estado: propuesto · prioridad P3
 - Problema: Necesitamos un mensaje diferenciado sin claims médicos.
 - Evidencia: Competidores prometen crecimiento; los genéricos de Amazon venden 'zero mess'. Nuestro producto tiene depósito real (bible/product).
 - Hipótesis: Mostrar el problema cotidiano (aplicar el tónico con los dedos, se ensucia el pelo y las manos) genera clics con más intención que 'masaje relajante'.
@@ -314,52 +221,49 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 | Producto | Precio | Costo unitario | Margen bruto | CPA máx. (costos conocidos) | CPA máx. (escenario) | ROAS de equilibrio (escenario) |
 | --- | --- | --- | --- | --- | --- | --- |
-| ScalpCare Pro 1 unidad | USD 41.93 | USD 18.91 | USD 23.02 | USD 23.02 | USD 18.83 | 2.23 |
-| ScalpCare Pro Pack Dúo | USD 71.88 | USD 37.82 | USD 34.06 | USD 34.06 | USD 18.87 | 3.81 |
-| ScalpCare Pro Pack Familiar | USD 89.85 | USD 56.73 | USD 33.12 | USD 33.12 | USD 16.13 | 5.57 |
+| ScalpCare Pro 1 unidad | USD 41.93 | USD 18.91 | USD 23.02 | USD 17.82 | USD 18.83 | 2.23 |
+| ScalpCare Pro Pack Dúo | USD 71.88 | USD 37.82 | USD 34.06 | USD 15.15 | USD 18.87 | 3.81 |
+| ScalpCare Pro Pack Familiar | USD 89.85 | USD 56.73 | USD 33.12 | USD 11.98 | USD 16.13 | 5.57 |
 
 - Escenario = ESTIMACIÓN: 10% de comisiones e impuestos sobre el precio y USD 8 de envío cuando el envío es gratis. No es un dato.
-- Costos faltantes (no documentados): payment_fee_pct, shipping_cost_per_order_usd, tax_pct. Ninguna conclusión de rentabilidad es definitiva.
 - Ventas verificadas Shopify en el período: 0 pedidos, USD 0.00. Ingresos atribuidos por Meta: USD 0.00.
 
 ## J. Alertas
 
-- **[P1] USD 227.93 gastados en el período sin compras** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Escalafy cuenta dos veces el gasto de Meta del 7 al 16/09** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: ROAS, CPA y ganancia del panel combinado de Escalafy subestimados; comparaciones de período engañosas. · acción: Borrar en Escalafy los tramos del 7 al 16/09 del costo manual (dejar 3–5/09 si ese gasto no aparece sincronizado). Tenemos el permiso costs:write, pero es una modificación: requiere tu aprobación. · requiere aprobación
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P2] No hay campañas activas en la cuenta** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: Cero aprendizaje mientras siga así. · acción: Confirmar si la pausa es intencional. Reactivar solo con un experimento aprobado. · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] Precio tachado en 'ScalpCare Pro 1 unidad' sin precio anterior verificable** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: Riesgo de confianza y de rechazo de anuncios. · acción: Decidir si se quita el compare-at price en Shopify. · requiere aprobación
-- **[P2] Precio tachado en 'ScalpCare Pro Pack Dúo' sin precio anterior verificable** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: Riesgo de confianza y de rechazo de anuncios. · acción: Decidir si se quita el compare-at price en Shopify. · requiere aprobación
-- **[P2] Precio tachado en 'ScalpCare Pro Pack Familiar' sin precio anterior verificable** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: Riesgo de confianza y de rechazo de anuncios. · acción: Decidir si se quita el compare-at price en Shopify. · requiere aprobación
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] Garantía más débil que la de la competencia** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza baja · impacto: Puede explicar parte de la fuga carrito → compra. · acción: Decisión del dueño sobre la política (ver EXP-003). No cambiar textos de la tienda sin aprobación. · requiere aprobación
-- **[P3] Afirmación sin respaldo en el catálogo: 'Pack Dúo · Más elegido - ScalpCare Pro'** · nueva · detectada 2026-10-17T14:21-03:00 · veces: 1 · confianza alta · impacto: Riesgo de confianza si se publica. · acción: Renombrar antes de publicar ese producto. · requiere aprobación
+- **[P1] USD 227.93 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- RESUELTA: No hay campañas activas en la cuenta (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Precio tachado en 'ScalpCare Pro 1 unidad' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Precio tachado en 'ScalpCare Pro Pack Dúo' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Precio tachado en 'ScalpCare Pro Pack Familiar' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Afirmación sin respaldo en el catálogo: 'Pack Dúo · Más elegido - ScalpCare Pro' (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Escalafy cuenta dos veces el gasto de Meta del 7 al 16/09 (abierta desde 2026-10-17T14:21-03:00)
+- RESUELTA: Garantía más débil que la de la competencia (abierta desde 2026-10-17T14:21-03:00)
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
-1. Corregir en Escalafy el costo manual 'Meta Ads · Ventajas - Septiembre': borrar los tramos del 7 al 16/09 (ARS 126.277,25 duplicados). ¿Lo hago?
-2. EXP-001: hacer vos una compra de prueba (Claude no carga tarjetas) o activar la pasarela en modo prueba.
-3. Quitar los precios 'antes' (59,90 / 119,80 / 179,70 USD) de ScalpCare Pro en Shopify.
-4. Confirmar si la pausa de las 4 campañas es intencional (el monitor no reactiva nada).
-5. Dar un límite de gasto diario y mensual aprobado, y los costos de envío, comisiones e impuestos.
-6. Política de garantía/cambios (EXP-003).
-7. Red del entorno: permitir facebook.com y graph.facebook.com, o reconectar Adspirer.
+1. Quitar el método 'Envío Gratis Prioritario' (USD 0 sin condiciones) del perfil 'cj dropshiping'.
+2. Publicar la política de garantía y devoluciones de la arena: pasar razón social, CUIT, domicilio legal, dirección de devoluciones y horario.
+3. Completar el pedido de prueba #D1 (link enviado el 17/10).
+4. Compras reales con Mercado Pago y PayPal, y reembolsarlas.
+5. Permitir facebook.com y graph.facebook.com en la red del entorno, o reconectar Adspirer.
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-17T14:21:25-03:00 · Fin del análisis: 2026-10-17T14:27:40-03:00
-- Completado: Conexiones verificadas (Escalafy, Shopify, Exa)
-- Completado: Estado de campañas, conjuntos y anuncios
-- Completado: Métricas 30 días vs 30 días previos, por anuncio y diarias
-- Completado: Embudo Shopify
-- Completado: Costos de producto, envío, impuestos y costos adicionales en Escalafy
-- Completado: Investigación pública: 9 fichas de competidores
-- Completado: Backlog de experimentos
-- Parcial: Competencia: sin anuncios (Biblioteca de anuncios bloqueada)
-- Parcial: Rentabilidad: faltan costos de envío, comisiones e impuestos
-- Falló: Meta directo (Ads Manager, Pixel, Facturación): bloqueado por la red del entorno
-- Falló: Conector Adspirer: 403
-- Próxima ejecución programada: 2026-10-17 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-17T14-21-03-00.json
+- Inicio: 2026-10-17T23:46:55-03:00 · Fin del análisis: 2026-10-17T23:48:16-03:00
+- Completado: Escalafy: campañas, dashboard diario 30+30 días y costos adicionales
+- Completado: Shopify: embudo 30+30 días, pedidos, precios y pedido de prueba
+- Completado: Verificación de las correcciones del 17/10
+- Parcial: Por anuncio: filas reutilizadas de la ejecución anterior (totales idénticos, sin gasto nuevo)
+- Parcial: Competencia: sin actualizar en esta ejecución
+- Falló: Meta directo (Ads Manager, Pixel, Facturación): bloqueado por la red
+- Falló: Ejecución de las 15:46: no corrió a su hora (se entregó a las 23:46)
+- Próxima ejecución programada: 2026-10-18 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-17T23-46-03-00.json

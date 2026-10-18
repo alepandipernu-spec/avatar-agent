@@ -577,7 +577,15 @@ def run(snapshot_path, force=False):
                                                  "source": "analista", "rule": "analista", "object": ""}
                                              for f in snap.get("findings", []) if f["priority"] in ("P0", "P1", "P2")],
                                      run_id, cfg["thresholds"])
-    open_alerts = [a for a in load_json(STATE / "alerts.json", {}).values() if a["status"] == "abierta"]
+    # Analyst findings only close when the snapshot says so, with the key they were opened under.
+    alerts_state = load_json(STATE / "alerts.json", {})
+    for key in snap.get("resolved_findings", []):
+        fp = hashlib.sha1(f"agent|{key}".encode()).hexdigest()[:12]
+        if alerts_state.get(fp, {}).get("status") == "abierta":
+            alerts_state[fp].update(status="resuelta", resolved_at=run_id)
+            resolved.append(alerts_state[fp])
+    save_json(STATE / "alerts.json", alerts_state)
+    open_alerts = [a for a in alerts_state.values() if a["status"] == "abierta"]
     deltas = {a["fingerprint"]: a.get("delta") for a in notify}
     for a in open_alerts:
         a["delta"] = deltas.get(a["fingerprint"], "ya conocida")

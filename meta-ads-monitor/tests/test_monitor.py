@@ -144,6 +144,16 @@ class MonitorTest(unittest.TestCase):
         self.assertEqual(exp["estado"], "aprobado")
         self.assertEqual(exp["history"][0]["before"], {"estado": "propuesto"})
 
+    def test_analyst_finding_resolved_by_key(self):
+        snap = base_snapshot()
+        snap["findings"] = [{"key": "dup", "category": "anomalia", "priority": "P1", "title": "Duplicado",
+                             "evidence": "e", "diagnosis": "d", "confidence": "alta", "impact": "i", "action": "a"}]
+        self.run_quiet(self.write(snap))
+        second = base_snapshot("2026-10-17T15:46-03:00")
+        second["resolved_findings"] = ["dup"]
+        _, out, _ = self.run_quiet(self.write(second, "s2.json"))
+        self.assertIn("Duplicado", json.loads(out)["resolved"])
+
     def test_invalid_snapshot_writes_nothing(self):
         snap = base_snapshot()
         snap["ads"][0]["metrics"]["spend"] = "12"

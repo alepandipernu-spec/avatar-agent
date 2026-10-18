@@ -27,5 +27,34 @@
       "meta_ad_library": "blocked",
       "meta_ads_manager_pixel_facturacion": "blocked"
     }
+  },
+  {
+    "run_id": "2026-10-17T23:46-03:00",
+    "started_at": "2026-10-17T23:46:55-03:00",
+    "finished_at": "2026-10-17T23:48:16-03:00",
+    "report": "2026-10-17T23-46-03-00.md",
+    "alerts_open": 9,
+    "alerts_notify": [
+      "[P3] Campañas en pausa intencional (decisión del dueño) (nueva)",
+      "[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare (nueva)",
+      "[P1] Posible cobro en pesos del monto en dólares con Mercado Pago (nueva)",
+      "[P1] La política de devoluciones no cumple la Ley 24.240 (nueva)"
+    ],
+    "resolved": [
+      "No hay campañas activas en la cuenta",
+      "Precio tachado en 'ScalpCare Pro 1 unidad' sin precio anterior verificable",
+      "Precio tachado en 'ScalpCare Pro Pack Dúo' sin precio anterior verificable",
+      "Precio tachado en 'ScalpCare Pro Pack Familiar' sin precio anterior verificable",
+      "Afirmación sin respaldo en el catálogo: 'Pack Dúo · Más elegido - ScalpCare Pro'",
+      "Escalafy cuenta dos veces el gasto de Meta del 7 al 16/09",
+      "Garantía más débil que la de la competencia"
+    ],
+    "sources": {
+      "escalafy": "ok",
+      "shopify": "ok",
+      "competencia_web": "partial",
+      "meta_ad_library": "blocked",
+      "meta_ads_manager_pixel_facturacion": "blocked"
+    }
   }
 ]

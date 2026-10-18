@@ -15,9 +15,9 @@
     "value": 227.9331,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -36,8 +36,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "e33d78498902": {
     "fingerprint": "e33d78498902",
@@ -55,9 +56,9 @@
     "value": 137.2880593607306,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -75,9 +76,9 @@
     "value": 10,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -96,8 +97,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "4118efa00e06": {
     "fingerprint": "4118efa00e06",
@@ -116,8 +118,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "f363be3809f6": {
     "fingerprint": "f363be3809f6",
@@ -136,8 +139,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "20042621085f": {
     "fingerprint": "20042621085f",
@@ -156,8 +160,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "4fa717e5ddfa": {
     "key": "escalafy-double-count-sep",
@@ -176,8 +181,9 @@
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
-    "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
   },
   "3cc2a372dd59": {
     "key": "us-market-cost",
@@ -195,9 +201,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -215,9 +221,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -236,7 +242,88 @@
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 1,
+    "status": "resuelta",
+    "last_seen": "2026-10-17T14:21-03:00",
+    "resolved_at": "2026-10-17T23:46-03:00"
+  },
+  "ab70f62f3d45": {
+    "fingerprint": "ab70f62f3d45",
+    "rule": "paused_intentionally",
+    "object": "account",
+    "priority": "P3",
+    "category": "anomalia",
+    "title": "Campañas en pausa intencional (decisión del dueño)",
+    "evidence": "4 campañas pausadas desde antes del 2026-10-17. Último día con gasto: 2026-10-14. Motivo: El dueño decidió no gastar hasta revisar y resolver tienda, envíos, pago y medición..",
+    "diagnosis": "Es una decisión, no una falla.",
+    "confidence": "alta",
+    "impact": "Sin aprendizaje nuevo de anuncios mientras dure.",
+    "action": "Reactivar solo con un experimento aprobado.",
+    "needs_approval": false,
+    "value": null,
+    "source": "regla",
+    "first_seen": "2026-10-17T23:46-03:00",
+    "occurrences": 1,
     "status": "abierta",
-    "last_seen": "2026-10-17T14:21-03:00"
+    "last_seen": "2026-10-17T23:46-03:00"
+  },
+  "47a7339447da": {
+    "key": "shipping-free-unconditional",
+    "category": "anomalia",
+    "priority": "P1",
+    "title": "Envío gratis sin condiciones en el perfil de envío de ScalpCare",
+    "evidence": "Perfil 'cj dropshiping', grupo 'Sucursal de la tienda': método 'Envío Gratis Prioritario' USD 0 sin condiciones para AR/CO/MX y US. La ficha y la política dicen USD 10 bajo USD 70.",
+    "diagnosis": "PROBABLE: el checkout ofrece envío gratis a todos (la tienda absorbe ~USD 10 por pedido de 1 unidad) o muestra opciones contradictorias. Se confirma con el pedido #D1.",
+    "confidence": "media",
+    "impact": "Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe.",
+    "action": "Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena).",
+    "needs_approval": true,
+    "fingerprint": "47a7339447da",
+    "source": "analista",
+    "rule": "analista",
+    "object": "",
+    "first_seen": "2026-10-17T23:46-03:00",
+    "occurrences": 1,
+    "status": "abierta",
+    "last_seen": "2026-10-17T23:46-03:00"
+  },
+  "4b8ebd031e42": {
+    "key": "mp-currency-risk",
+    "category": "anomalia",
+    "priority": "P1",
+    "title": "Posible cobro en pesos del monto en dólares con Mercado Pago",
+    "evidence": "Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial.",
+    "diagnosis": "PROBABLE causa de 6 checkouts y 0 compras, o de ventas a pérdida. No verificado.",
+    "confidence": "baja",
+    "impact": "Bloquea o arruina las ventas en Argentina.",
+    "action": "Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo.",
+    "needs_approval": true,
+    "fingerprint": "4b8ebd031e42",
+    "source": "analista",
+    "rule": "analista",
+    "object": "",
+    "first_seen": "2026-10-17T23:46-03:00",
+    "occurrences": 1,
+    "status": "abierta",
+    "last_seen": "2026-10-17T23:46-03:00"
+  },
+  "22f9e5d57bc7": {
+    "key": "refund-policy-legal",
+    "category": "debilidad",
+    "priority": "P1",
+    "title": "La política de devoluciones no cumple la Ley 24.240",
+    "evidence": "Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025).",
+    "diagnosis": "Riesgo legal y de confianza; los competidores ofrecen 6–12 meses.",
+    "confidence": "alta",
+    "impact": "Multas, reclamos y menor conversión.",
+    "action": "Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio).",
+    "needs_approval": true,
+    "fingerprint": "22f9e5d57bc7",
+    "source": "analista",
+    "rule": "analista",
+    "object": "",
+    "first_seen": "2026-10-17T23:46-03:00",
+    "occurrences": 1,
+    "status": "abierta",
+    "last_seen": "2026-10-17T23:46-03:00"
   }
 }

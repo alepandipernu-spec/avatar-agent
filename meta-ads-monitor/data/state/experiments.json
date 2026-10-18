@@ -3,9 +3,9 @@
     "id": "EXP-001",
     "titulo": "Compra de prueba de punta a punta",
     "prioridad": "P1",
-    "estado": "pendiente de aprobación",
+    "estado": "en ejecución",
     "problema": "0 compras con 6 checkouts en 30 días; no sabemos si el checkout o el pago funcionan.",
-    "evidencia": "Shopify: 6 sesiones llegaron al checkout, 0 completaron; 0 pedidos en 365 días.",
+    "evidencia": "Pedido de prueba #D1 (USD 0) creado el 17/10, link enviado al dueño; todavía abierto.",
     "hipotesis": "Si el checkout o un medio de pago falla para compradores de AR/CO, ninguna mejora de anuncio va a vender.",
     "variable": "Ninguna (diagnóstico).",
     "constantes": "Tienda, precios y campañas pausadas.",
@@ -18,40 +18,59 @@
     "inconcluso": "No aplica.",
     "riesgos": "Ninguno sobre la cuenta publicitaria. Lo hace el dueño: Claude no carga tarjetas.",
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-17T23:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-17T23:46-03:00",
+        "before": {
+          "estado": "pendiente de aprobación",
+          "evidencia": "Shopify: 6 sesiones llegaron al checkout, 0 completaron; 0 pedidos en 365 días."
+        }
+      }
+    ]
   },
   "EXP-002": {
     "id": "EXP-002",
-    "titulo": "Reactivación controlada solo AR + CO con los videos ganadores",
+    "titulo": "Reactivación controlada CO + MX con los videos ganadores",
     "prioridad": "P2",
     "estado": "propuesto",
     "problema": "Cuando hubo gasto, 42% se fue a EE. UU. con USD 7,97 por visita.",
     "evidencia": "AR USD 0,19 y CO USD 0,15 por visita; videos V10/V02 los mejores.",
     "hipotesis": "Con el mismo presupuesto en AR+CO y solo video, conseguimos suficientes carritos e inicios de pago para saber si la tienda convierte.",
-    "variable": "Mercados (solo AR y CO) y formato (solo video V10 y V02).",
+    "variable": "Mercados (CO y MX; AR después de resolver Mercado Pago) y formato (V10 y V02)",
     "constantes": "Objetivo Ventas/Compra, oferta, página de destino.",
     "metrica_principal": "Inicios de pago (Shopify) por cada USD 10.",
     "metricas_secundarias": "Costo por visita ≤ USD 0,40; visitas/clic ≥ 70%; carritos ≥ 1,5% de las sesiones.",
-    "presupuesto_max_usd": "60 en total (aprox. USD 8,5 por día durante 7 días), sujeto a aprobación.",
+    "presupuesto_max_usd": "USD 6/día, tope USD 180/mes (arena 17/10), sujeto a aprobación",
     "duracion": "7 días seguidos sin pausar (las pausas reinician el aprendizaje).",
-    "exito": "≥ 1 compra o ≥ 5 inicios de pago.",
-    "fracaso": "≥ 400 visitas con 0 inicios de pago: el problema es la tienda/oferta, parar.",
+    "exito": "≥ 3 compras con CPA ≤ USD 10",
+    "fracaso": "USD 50 con ≥ 3 checkouts y 0 compras (revisar pago) o USD 120 con < 3 compras (pausar todo)",
     "inconcluso": "Menos de 400 visitas.",
     "riesgos": "Gastar sin resolver EXP-001. Solo después de EXP-001.",
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-17T23:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-17T23:46-03:00",
+        "before": {
+          "titulo": "Reactivación controlada solo AR + CO con los videos ganadores",
+          "variable": "Mercados (solo AR y CO) y formato (solo video V10 y V02).",
+          "presupuesto_max_usd": "60 en total (aprox. USD 8,5 por día durante 7 días), sujeto a aprobación.",
+          "exito": "≥ 1 compra o ≥ 5 inicios de pago.",
+          "fracaso": "≥ 400 visitas con 0 inicios de pago: el problema es la tienda/oferta, parar."
+        }
+      }
+    ]
   },
   "EXP-003": {
     "id": "EXP-003",
-    "titulo": "Confianza en la página: garantía clara y uso real",
+    "titulo": "Política legal y garantía clara",
     "prioridad": "P2",
-    "estado": "propuesto",
+    "estado": "pendiente de aprobación",
     "problema": "786 sesiones → 10 carritos (1,3%).",
     "evidencia": "Competidores destacan garantía de 12 meses / 1 año / 120 días; Flubberhome ofrece cambios 30 días sin abrir.",
-    "hipotesis": "Una política de prueba clara ('probalo 30 días') y un bloque de 'cómo se usa' con el video V02 suben el paso visita → carrito.",
-    "variable": "Bloque de garantía y uso en la página de producto (un solo cambio).",
+    "hipotesis": "Una política que cumple la ley (10 días de arrepentimiento sin costo, 6 meses de garantía) y una línea clara en la ficha suben el paso visita → carrito.",
+    "variable": "Política de reembolso + línea de garantía en la ficha",
     "constantes": "Precio, anuncios, tráfico.",
     "metrica_principal": "Sesiones con carrito / sesiones.",
     "metricas_secundarias": "Llegada al checkout; consultas por WhatsApp/Instagram.",
@@ -62,8 +81,18 @@
     "inconcluso": "Menos sesiones.",
     "riesgos": "Comparación antes/después, no A/B: estacionalidad. La política la decide el dueño.",
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-17T23:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-17T23:46-03:00",
+        "before": {
+          "titulo": "Confianza en la página: garantía clara y uso real",
+          "estado": "propuesto",
+          "hipotesis": "Una política de prueba clara ('probalo 30 días') y un bloque de 'cómo se usa' con el video V02 suben el paso visita → carrito.",
+          "variable": "Bloque de garantía y uso en la página de producto (un solo cambio)."
+        }
+      }
+    ]
   },
   "EXP-004": {
     "id": "EXP-004",
