@@ -1,33 +1,29 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-17T23:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-18T07:46-03:00
 
-Período: 2026-09-18 → 2026-10-17 · comparado con 2026-08-19 → 2026-09-17 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
+Período: 2026-09-19 → 2026-10-18 · comparado con 2026-08-20 → 2026-09-18 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Sin cambios en Meta: 4 campañas en pausa intencional, sin gasto desde el 14/10. Últimos 30 días: USD 227,93, 0 compras.
-- Correcciones aplicadas hoy: costo duplicado de Escalafy retirado, precios tachados y 'Más elegido' quitados.
-- Pendiente del dueño: completar el pedido de prueba #D1 y hacer compras reales con Mercado Pago y PayPal (posible cobro en ARS del monto en USD).
-- Pendiente de aprobación: quitar el método 'Envío Gratis Prioritario' (USD 0 sin condiciones) y publicar la política de devoluciones que cumple la Ley 24.240 (faltan razón social, CUIT y domicilio).
-- Límite de gasto aprobado por la arena: USD 6/día y USD 180/mes, solo cuando se cumpla la lista previa.
-- Alertas abiertas: 9 (5 P0/P1). Nuevas o con cambio en esta ejecución: 4. Resueltas: 7.
+- Sin cambios en Meta ni en la tienda desde las 23:46: campañas en pausa intencional, 0 ventas, 778 sesiones en 30 días.
+- Siguen pendientes del dueño: completar el pedido de prueba #D1, compras reales con Mercado Pago y PayPal, OK para quitar 'Envío Gratis Prioritario' (sigue activo) y datos legales para publicar la política (la actual es del 31/08).
+- Alertas abiertas: 9 (5 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Catálogo, dashboard diario y costos leídos. Por anuncio: no se volvió a pedir; los totales del período coinciden exactamente con la ejecución anterior y no hubo gasto desde el 14/10, se reutilizan esas filas. |
-| shopify | ok | Tienda hfymza-82 / flubberhomme.com: sesiones, embudo, pedidos, productos y costos. |
-| competencia_web | partial | No se actualizó en esta ejecución (la revisión diaria de competencia toca en la de 15:46, que se entregó tarde). Registro sin cambios. |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto). |
+| shopify | ok | Embudo, pedidos, precios, perfiles de envío y políticas leídos. |
+| competencia_web | partial | No se actualizó (toca en la ejecución de 15:46). |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | blocked | graph.facebook.com rechazado por el proxy (403) y conector Adspirer caído (403). Sin estado de facturación, revisión de anuncios, ventana de atribución ni eventos del Pixel. |
 
-- los últimos días hasta 2026-10-17 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
+- los últimos días hasta 2026-10-18 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
 - El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).
 - Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.
 - Moneda: tienda en USD; cuenta publicitaria en ARS; métricas convertidas por Escalafy a USD con su tasa diaria.
 - Gasto de Meta = meta_ad_spend. El ad_spend combinado ya no está inflado: el costo manual duplicado se corrigió el 17/10 (1–17/09: ARS 158.144,39).
-- La ejecución programada de las 15:46 se entregó a esta sesión recién a las 23:46; esta corrida cubre ambas.
 - Pedido de prueba #D1 (USD 0) todavía abierto: no cuenta como venta.
 - Métricas no disponibles en esta ejecución: frecuencia por anuncio, CTR de enlace nativo de Meta, retención de video 25/50/75/95%, ventana de atribución, estado de revisión de anuncios, estado de facturación, historial de cambios de configuración, desglose por ubicación, dispositivo, edad.
 
@@ -88,8 +84,8 @@ Por anuncio (ordenado por gasto):
 | Impresiones (Meta) | 27,157 | no disponible |
 | Clics en enlace (Meta) | 773 | 2.85% |
 | Visitas a la página de destino (Meta) | 607 | 78.53% |
-| Sesiones de la tienda (Shopify, todas las fuentes) | 786 | 129.49% |
-| Sesiones con agregado al carrito (Shopify) | 10 | 1.27% |
+| Sesiones de la tienda (Shopify, todas las fuentes) | 778 | 128.17% |
+| Sesiones con agregado al carrito (Shopify) | 10 | 1.29% |
 | Sesiones que llegaron al checkout (Shopify) | 6 | 60.00% |
 | Compras (Shopify) | 0 | 0.00% |
 
@@ -150,7 +146,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## H. Experimentos
 
-**EXP-001 · Compra de prueba de punta a punta** (actualizado) — estado: en ejecución · prioridad P1
+**EXP-001 · Compra de prueba de punta a punta** — estado: en ejecución · prioridad P1
 - Problema: 0 compras con 6 checkouts en 30 días; no sabemos si el checkout o el pago funcionan.
 - Evidencia: Pedido de prueba #D1 (USD 0) creado el 17/10, link enviado al dueño; todavía abierto.
 - Hipótesis: Si el checkout o un medio de pago falla para compradores de AR/CO, ninguna mejora de anuncio va a vender.
@@ -165,7 +161,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 - Inconcluso: No aplica.
 - Riesgos: Ninguno sobre la cuenta publicitaria. Lo hace el dueño: Claude no carga tarjetas.
 
-**EXP-002 · Reactivación controlada CO + MX con los videos ganadores** (actualizado) — estado: propuesto · prioridad P2
+**EXP-002 · Reactivación controlada CO + MX con los videos ganadores** — estado: propuesto · prioridad P2
 - Problema: Cuando hubo gasto, 42% se fue a EE. UU. con USD 7,97 por visita.
 - Evidencia: AR USD 0,19 y CO USD 0,15 por visita; videos V10/V02 los mejores.
 - Hipótesis: Con el mismo presupuesto en AR+CO y solo video, conseguimos suficientes carritos e inicios de pago para saber si la tienda convierte.
@@ -180,7 +176,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 - Inconcluso: Menos de 400 visitas.
 - Riesgos: Gastar sin resolver EXP-001. Solo después de EXP-001.
 
-**EXP-003 · Política legal y garantía clara** (actualizado) — estado: pendiente de aprobación · prioridad P2
+**EXP-003 · Política legal y garantía clara** — estado: pendiente de aprobación · prioridad P2
 - Problema: 786 sesiones → 10 carritos (1,3%).
 - Evidencia: Competidores destacan garantía de 12 meses / 1 año / 120 días; Flubberhome ofrece cambios 30 días sin abrir.
 - Hipótesis: Una política que cumple la ley (10 días de arrepentimiento sin costo, 6 meses de garantía) y una línea clara en la ficha suben el paso visita → carrito.
@@ -230,22 +226,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 227.93 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 2 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · nueva · detectada 2026-10-17T23:46-03:00 · veces: 1 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
-- RESUELTA: No hay campañas activas en la cuenta (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Precio tachado en 'ScalpCare Pro 1 unidad' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Precio tachado en 'ScalpCare Pro Pack Dúo' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Precio tachado en 'ScalpCare Pro Pack Familiar' sin precio anterior verificable (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Afirmación sin respaldo en el catálogo: 'Pack Dúo · Más elegido - ScalpCare Pro' (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Escalafy cuenta dos veces el gasto de Meta del 7 al 16/09 (abierta desde 2026-10-17T14:21-03:00)
-- RESUELTA: Garantía más débil que la de la competencia (abierta desde 2026-10-17T14:21-03:00)
+- **[P1] USD 227.93 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 3 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 3 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 2 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 2 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 2 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 3 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 3 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 3 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 2 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -257,13 +246,12 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-17T23:46:55-03:00 · Fin del análisis: 2026-10-17T23:48:16-03:00
+- Inicio: 2026-10-18T07:46:50-03:00 · Fin del análisis: 2026-10-18T07:47:28-03:00
 - Completado: Escalafy: campañas, dashboard diario 30+30 días y costos adicionales
 - Completado: Shopify: embudo 30+30 días, pedidos, precios y pedido de prueba
 - Completado: Verificación de las correcciones del 17/10
 - Parcial: Por anuncio: filas reutilizadas de la ejecución anterior (totales idénticos, sin gasto nuevo)
 - Parcial: Competencia: sin actualizar en esta ejecución
 - Falló: Meta directo (Ads Manager, Pixel, Facturación): bloqueado por la red
-- Falló: Ejecución de las 15:46: no corrió a su hora (se entregó a las 23:46)
-- Próxima ejecución programada: 2026-10-18 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-17T23-46-03-00.json
+- Próxima ejecución programada: 2026-10-18 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-18T07-46-03-00.json

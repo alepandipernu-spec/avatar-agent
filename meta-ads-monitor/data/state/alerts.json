@@ -15,9 +15,9 @@
     "value": 227.9331,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -56,9 +56,9 @@
     "value": 137.2880593607306,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -76,9 +76,9 @@
     "value": 10,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -201,9 +201,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -221,9 +221,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -262,9 +262,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -282,9 +282,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "4b8ebd031e42": {
     "key": "mp-currency-risk",
@@ -302,9 +302,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -322,8 +322,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-17T23:46-03:00"
+    "last_seen": "2026-10-18T07:46-03:00"
   }
 }
