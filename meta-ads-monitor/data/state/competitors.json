@@ -36,14 +36,15 @@
     "domain": "lenacosmetica.com.ar",
     "category": "Kit masajeador + tónico capilar",
     "market": "AR",
-    "verified_at": "2026-10-17",
-    "price": "ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia.",
+    "verified_at": "2026-10-18",
+    "price": "Sin stock al 18/10 (antes ARS 25.600, tachado ARS 32.000). Envío gratis desde ARS 60.000.",
     "value_prop": "Kit masajeador + tónico de romero y salvia (60 ml).",
     "claims": "'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.",
     "formats": "No obtenido.",
     "facts": [
       "Vende el aparato junto con un tónico propio.",
-      "Descuento extra por transferencia."
+      "Descuento extra por transferencia.",
+      "18/10: la página muestra 'no tenemos más stock'."
     ],
     "inferences": [
       "El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'."
@@ -58,8 +59,20 @@
       "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-18T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-18T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17",
+          "price": "ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia.",
+          "facts": [
+            "Vende el aparato junto con un tónico propio.",
+            "Descuento extra por transferencia."
+          ]
+        }
+      }
+    ]
   },
   "beltronic-ar": {
     "id": "beltronic-ar",
@@ -95,7 +108,7 @@
     "domain": "microshop.com.ar",
     "category": "Masajeador capilar recargable",
     "market": "AR",
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-18",
     "price": "ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.",
     "value_prop": "Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').",
     "claims": "'Revitaliza tu cabello', 'placentero masaje'.",
@@ -112,8 +125,15 @@
       "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-18T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-18T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17"
+        }
+      }
+    ]
   },
   "aurevia-co": {
     "id": "aurevia-co",
@@ -149,13 +169,14 @@
     "domain": "shopanyra.com",
     "category": "Peine masajeador eléctrico con luz roja y depósito",
     "market": "US",
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-18",
     "price": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
     "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
-    "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.",
+    "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.; 'NOTE: We Already Sold Out 3 Times, Don't Wait!'",
     "formats": "No obtenido.",
     "facts": [
-      "Usa porcentajes de satisfacción y conteo de clientes en la página."
+      "Usa porcentajes de satisfacción y conteo de clientes en la página.",
+      "18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -167,8 +188,19 @@
       "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-18T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-18T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17",
+          "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.",
+          "facts": [
+            "Usa porcentajes de satisfacción y conteo de clientes en la página."
+          ]
+        }
+      }
+    ]
   },
   "hairrova-us": {
     "id": "hairrova-us",
@@ -176,13 +208,14 @@
     "domain": "hairrova.com",
     "category": "Masajeador con luz roja y aplicador",
     "market": "US",
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-18",
     "price": "USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.",
     "value_prop": "Promesa de resultado con plazo.",
     "claims": "'Clinically proven… visible hair growth in 56 days'.",
     "formats": "No obtenido.",
     "facts": [
-      "Garantía de devolución explícita y destacada."
+      "Garantía de devolución explícita y destacada.",
+      "18/10: figura 'Sold out'."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -194,8 +227,18 @@
       "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-18T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-18T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17",
+          "facts": [
+            "Garantía de devolución explícita y destacada."
+          ]
+        }
+      }
+    ]
   },
   "nordic-biolabs-us": {
     "id": "nordic-biolabs-us",
