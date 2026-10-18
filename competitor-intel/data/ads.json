@@ -53,8 +53,8 @@
    "prueba social"
   ],
   "primera_vez_visto": "2026-10-17",
-  "ultima_vez_visto": "2026-10-17",
-  "repeticiones": 1
+  "ultima_vez_visto": "2026-10-18",
+  "repeticiones": 2
  },
  "generico:tiktok-amirdeals4u-2026-08-29": {
   "id": "generico:tiktok-amirdeals4u-2026-08-29",
@@ -163,5 +163,23 @@
   "oferta": "COP 83.480 (6 cuotas sin interés)",
   "vistas_visibles": 259,
   "motivaciones": "[INTERPRETACIÓN] comodidad / mejora de rutina"
+ },
+ "generico:ml-co-clip-2024-08-15": {
+  "id": "generico:ml-co-clip-2024-08-15",
+  "run_id": "2026-10-18T11-54",
+  "competidor": "Rainbow Castle Online (vendedor de ML Colombia)",
+  "fuente": "Clip de video de Mercado Libre Colombia (NO es la Biblioteca)",
+  "url": "https://www.mercadolibre.com.co/shorts/clips/jK3Nf3/mini-masajeador-aplicador-minoxidil-tratamiento-capilar",
+  "fecha_vista": "2026-10-18",
+  "fecha_publicacion": "2024-08-15",
+  "formato": "Clip corto dentro de ML",
+  "gancho": "Aplicar tratamientos capilares con masaje suave (paráfrasis)",
+  "problema": "Aplicación de tratamientos",
+  "oferta": "No vista",
+  "vistas_visibles": 285,
+  "motivaciones": "[INTERPRETACIÓN] facilidad de uso",
+  "primera_vez_visto": "2026-10-18",
+  "ultima_vez_visto": "2026-10-18",
+  "repeticiones": 1
  }
 }

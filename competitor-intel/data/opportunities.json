@@ -43,10 +43,10 @@
   "id": "OPP-002-angulo-upgrade-cepillo-manual-AR",
   "competidor_observado": "cepillos-manuales-ar (Coony, Gadnic, Hairfy, Scher)",
   "producto_estrategia": "Demanda local concentrada en cepillos manuales de silicona",
-  "fuente_evidencia": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo (17/10/2026)",
-  "hallazgo": "[HECHO: indicador ML] Manuales con +500 a +5mil vendidos a ARS 3–12 mil; eléctricos con +5 a +50 a ARS 37–70 mil.",
-  "explicacion": "[HIPÓTESIS] El hábito ya existe; lo que falta es una razón para pagar 5–8 veces más.",
-  "confianza": "media",
+  "fuente_evidencia": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo (17/10/2026) ; https://shop.tiktok.com/us/k/hair-oil-and-massager (18/10/2026)",
+  "hallazgo": "[HECHO: indicador ML] Manuales con +500 a +5mil vendidos a ARS 3–12 mil; eléctricos con +5 a +50 a ARS 37–70 mil. [HECHO: indicador TikTok Shop US, 18/10/2026] El kit manual aplicador + aceite de romero (USD 19) muestra 43,6 mil vendidos; el eléctrico más vendido, 9,3 mil.",
+  "explicacion": "[HIPÓTESIS] En AR y en US el hábito (cepillar o aceitar) ya existe en formato manual y barato; falta una razón concreta para pasar al eléctrico.",
+  "confianza": "media-alta (mismo patrón en 2 mercados y 2 plataformas)",
   "diferencia_flubberhome": "Flubberhome vende a USD 41,93 sin explicar por qué conviene frente al cepillo manual.",
   "adaptable": "Usar el hábito existente como punto de partida.",
   "no_replicar": "Comparaciones con marcas nombradas; desprestigiar al cepillo manual.",
@@ -58,19 +58,24 @@
   "proximo_paso": "Incluir el ángulo en el próximo ciclo creativo de AR (cuando se reactive la campaña).",
   "puntajes": {
    "impacto": 3,
-   "confianza": 3,
+   "confianza": 4,
    "facilidad": 4,
    "costo": 1,
    "riesgo": 1,
    "urgencia": 2
   },
-  "score": 36.0,
+  "score": 48.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Evidencia de US (TikTok Shop): el patrón manual→eléctrico se repite; confianza 3→4, score 36→48. Aplica también a US con el aplicador manual de aceite."
    }
   ]
  },
@@ -440,6 +445,41 @@
    {
     "date": "2026-10-18",
     "run_id": "2026-10-18T03-55",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-013-angulo-regalo-temporada": {
+  "id": "OPP-013-angulo-regalo-temporada",
+  "competidor_observado": "INIA (TikTok Shop), eléctrico \"con caja de regalo\" (TikTok Shop), Glokore (BF26)",
+  "producto_estrategia": "Ángulo de regalo de autocuidado para la temporada (CyberMonday AR, Black Friday, fiestas)",
+  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026)",
+  "hallazgo": "[HECHO] INIA titula su listado como regalo navideño; el eléctrico con más vendidos del listado se presenta con caja de regalo (9,3 mil, contador acumulado); Glokore tiene \"BF26\" cargado. CyberMonday AR es el 2–4/11/2026.",
+  "explicacion": "[HIPÓTESIS] En noviembre-diciembre el comprador también es quien regala; el Pack Dúo (\"uno para vos, uno para regalar\") encaja sin bajar el precio.",
+  "confianza": "media (ángulo visible en la competencia; efecto no medido)",
+  "diferencia_flubberhome": "Flubberhome no tiene ángulo de regalo ni presentación de regalo; sí tiene Pack Dúo y Familiar con envío gratis.",
+  "adaptable": "Usar la temporada como contexto, no como descuento.",
+  "no_replicar": "Descuentos inflados o códigos con cuenta regresiva falsa; claims de crecimiento.",
+  "propuesta_original": "Microdrama del Edificio Flubber: un vecino no sabe qué regalar y termina armando la rutina de a dos con el Pack Dúo. En la ficha: línea \"ideal para regalar\" junto al Pack Dúo y fecha límite de pedido para que llegue antes de las fiestas (según plazos reales).",
+  "ejemplo": "\"Uno para vos, otro para quien siempre se queja de la cabeza tensa\" (texto propio, sin claims).",
+  "recursos": "1 episodio corto + 1 línea en la ficha; confirmar fecha límite con logística.",
+  "costos_riesgos": "Bajo. Riesgo: prometer llegada antes de fiestas con 10–20 días hábiles a LatAm; sin datos de margen no se recomienda descuento.",
+  "metrica": "Proporción de Pack Dúo sobre el total de pedidos y CTR del ángulo regalo frente al ángulo base, cuando se reactiven las campañas.",
+  "proximo_paso": "El dueño confirma la fecha límite de pedido por país; preparar el episodio para principios de noviembre.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 3,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 4
+  },
+  "score": 37.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
     "change": "creada"
    }
   ]

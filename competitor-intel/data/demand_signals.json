@@ -178,5 +178,29 @@
   "tipo": "HECHO",
   "indica": "En LatAm Flubberhome compite con condiciones de compra transfronteriza (plazo, moneda, posibles impuestos) frente a locales con entrega en días y pago local.",
   "no_indica": "Cuánto afecta a la conversión: no hay datos de ventas."
+ },
+ "tiktok-shop-us-contadores-vendidos": {
+  "id": "tiktok-shop-us-contadores-vendidos",
+  "fecha": "2026-10-18",
+  "run_id": "2026-10-18T11-54",
+  "senal": "Contadores \"sold\" de TikTok Shop US en la búsqueda \"hair oil and massager\"",
+  "valor": "Kit manual Kitsch aplicador + aceite USD 19: 43,6 mil; eléctrico con caja de regalo USD 35,98: 9,3 mil; eléctrico 3 modos USD 35,98: 2,0 mil; Breo Scalp3 USD 239,99: 1,2 mil; eléctrico con luz USD 22,73: 991; INIA USD 139,99: 816; varios eléctricos nuevos: 2–187.",
+  "fuente": "https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250",
+  "alcance": "US, TikTok Shop",
+  "tipo": "HECHO: indicador de la plataforma (acumulado, sin período)",
+  "indica": "La necesidad de aceitar el cuero cabelludo se vende mucho en formato manual y barato; entre los eléctricos, el volumen se concentra en USD 23–36 y la marca premium sostiene USD 240 con menos unidades.",
+  "no_indica": "Ventas mensuales, facturación ni rentabilidad; los contadores pueden sumar variantes o períodos largos."
+ },
+ "temporada-regalo-2026": {
+  "id": "temporada-regalo-2026",
+  "fecha": "2026-10-18",
+  "run_id": "2026-10-18T11-54",
+  "senal": "Ángulo de regalo y fiestas ya visible en la categoría",
+  "valor": "INIA titula \"Perfect Holiday Gift\"; el eléctrico más vendido del listado se ofrece \"con caja de regalo\"; Glokore tiene \"BF26\" cargado; CyberMonday AR 2–4/11/2026.",
+  "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 ; https://www.tiendanube.com/blog/cybermonday-argentina",
+  "alcance": "US, AR",
+  "tipo": "HECHO (oferta visible)",
+  "indica": "Los competidores se preparan para la temporada de regalos.",
+  "no_indica": "Que el ángulo regalo convierta mejor."
  }
 }

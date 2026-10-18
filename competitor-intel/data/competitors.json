@@ -305,6 +305,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Precio sin cambios (USD 50,95, tachado 158,95).",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Precio sin cambios (USD 50,95, tachado 158,95). Sigue el bloque \"4,5 M de vistas en TikTok e Instagram\" y \"Sold out 3 times\".",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -408,6 +414,12 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T03-55",
     "change": "Precio sin cambios (USD 79, tachado 158).",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Precio sin cambios (USD 79, tachado 158); 120 días de devolución; \"Low Stock Alert\".",
     "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
    }
   ]
@@ -517,6 +529,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Embudo checkout4: aparece el código 'BF26' en el selector de packs (antes se vio 'hasta 55% OFF' con cuenta regresiva). Ofrece plan de reemplazo pago de 1 año como agregado y 60 días de devolución menos envío. Precios por pack no visibles (plantilla sin renderizar).",
     "source": "https://glokore.com/scalpmassager/checkout4"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Embudo checkout4 sin cambios: sigue \"BF26\", plantilla sin precios, 60 días de devolución y plan de reemplazo pago.",
+    "source": "https://glokore.com/scalpmassager/checkout4"
    }
   ]
  },
@@ -542,7 +560,8 @@
    "4,0★ con 232 reseñas en Amazon US.",
    "Garantía de 365 días y atención 'de por vida' en el listado.",
    "Web oficial (17/10/2026): USD 161,99 (tachado 239,99), envío gratis 3–7 días, 30 días de devolución 'si no estás conforme', garantía de 1 año por defectos (reemplazo por reacondicionado o nuevo).",
-   "La web oficial afirma 'clínicamente probado' para crecimiento en 56 días y promueve uso en la ducha (IPX7); su FAQ, en cambio, dice que no es un dispositivo de recrecimiento."
+   "La web oficial afirma 'clínicamente probado' para crecimiento en 56 días y promueve uso en la ducha (IPX7); su FAQ, en cambio, dice que no es un dispositivo de recrecimiento.",
+   "TikTok Shop US: Breo Scalp3 a USD 239,99 con \"1.2K sold\" (indicador de la plataforma, 18/10/2026), por encima del precio de su web y de Amazon."
   ],
   "inferences": [
    "Techo de precio de la categoría (~USD 160) con marca reconocida.",
@@ -555,11 +574,12 @@
   "sources": [
    "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
    "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light",
-   "https://us.breo.com/products/scalp3-trilogy-massager"
+   "https://us.breo.com/products/scalp3-trilogy-massager",
+   "https://shop.tiktok.com/us/k/hair-oil-and-massager"
   ],
   "relevance": "media",
   "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-  "last_reviewed": "2026-10-17",
+  "last_reviewed": "2026-10-18",
   "history": [
    {
     "date": "2026-10-17",
@@ -578,6 +598,12 @@
     "run_id": "2026-10-17T19-55",
     "change": "Web oficial revisada: USD 161,99 (Amazon 159,99); 30 días de devolución + 1 año de garantía.",
     "source": "https://us.breo.com/products/scalp3-trilogy-massager ; https://us.breo.com/pages/faq ; https://us.breo.com/pages/breo-warranty"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "TikTok Shop US: USD 239,99, \"1.2K sold\", 4,1★ (listado de búsqueda).",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
    }
   ]
  },
@@ -591,7 +617,7 @@
   "relevant_products": [
    "INIA VIBRA 4-in-1"
   ],
-  "price_visible": "No se vio en TikTok Shop; una reseña de Amazon menciona alrededor de USD 100 (no verificado).",
+  "price_visible": "USD 139,99 (tachado USD 199,99, -30%) en TikTok Shop \"INIA Official\" (18/10/2026).",
   "value_prop": "Posicionamiento 'spa en casa' y regalo; aplicador removible 'que no gotea'.",
   "claims_observed": "Mezcla de bienestar y crecimiento.",
   "channels": [
@@ -601,14 +627,17 @@
   "ads": "Usa ventas en vivo en TikTok Shop (título 'LIVE EXCLUSIVE').",
   "facts": [
    "4,3★ con 34 reseñas en Amazon US.",
-   "Destaca el aplicador removible y lavable como diferencial frente a cepillos que 'acumulan residuos'."
+   "Destaca el aplicador removible y lavable como diferencial frente a cepillos que 'acumulan residuos'.",
+   "TikTok Shop: 4,7★ con 61 reseñas y \"816 sold\" (indicador de la plataforma, 18/10/2026).",
+   "El título del listado incluye \"Perfect Holiday Gift\"."
   ],
   "inferences": [
    "Responde de forma explícita a la objeción de limpieza y goteo del depósito."
   ],
   "hypotheses": [],
   "unknowns": [
-   "Precio actual, ventas."
+   "Ventas reales por período (el contador es acumulado)",
+   "Anuncios y gasto."
   ],
   "sources": [
    "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250",
@@ -616,13 +645,19 @@
   ],
   "relevance": "baja",
   "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
-  "last_reviewed": "2026-10-17",
+  "last_reviewed": "2026-10-18",
   "history": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "Competidor nuevo registrado",
     "source": "Exa"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Precio visible por primera vez: USD 139,99 (tachado 199,99) en TikTok Shop oficial; 816 vendidos (contador acumulado), 61 reseñas; título con ángulo de regalo navideño.",
+    "source": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250"
    }
   ]
  },
@@ -852,13 +887,16 @@
    "Batería 1.500 mAh, 5 velocidades, IPX6 en especificaciones pese a decir IPX7 en la descripción.",
    "Entrega prometida 3–8 días hábiles con Servientrega; envío gratis solo desde COP 200.000 (18/10/2026).",
    "Pago contra entrega disponible; también menciona PSE, transferencia Bancolombia y ADDI (18/10/2026).",
-   "Cambios dentro de 5 días hábiles; no devuelve dinero fuera de la garantía legal (Ley 1480) (18/10/2026)."
+   "Cambios dentro de 5 días hábiles; no devuelve dinero fuera de la garantía legal (Ley 1480) (18/10/2026).",
+   "Segundo modelo eléctrico \"Essential\": COP 79.990 (tachado 99.990, -20%), figura Agotado (18/10/2026)."
   ],
   "inferences": [
    "[HIPÓTESIS] Es el primer competidor DTC colombiano con prueba social visible: fija un ancla de precio local (~COP 150 mil) por encima del precio base de Flubberhome.",
    "[HIPÓTESIS] La reseña con claim médico publicada en la ficha es un riesgo regulatorio para ellos (INVIMA/SIC); Flubberhome no debe imitarlo."
   ],
-  "hypotheses": [],
+  "hypotheses": [
+   "[HIPÓTESIS] Arma una escalera de precio (Essential ~COP 80 mil / Luxury ~COP 150 mil). \"Agotado\" no prueba éxito: puede ser falta de reposición."
+  ],
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
@@ -875,6 +913,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Precio sin cambios (COP 149.990, tachado 199.990). Políticas revisadas: Servientrega, entrega prometida 3–8 días hábiles, envío gratis desde COP 200.000 (o sea, el masajeador solo paga envío), pago contra entrega disponible; cambios dentro de 5 días hábiles, sin devolución de dinero salvo garantía legal; daños de transporte se reportan dentro de 48 h. Ficha: 'IPX7' en la descripción e 'IPX6' en especificaciones; el modo de uso dice cuero cabelludo seco mientras la descripción habla de usarlo al lavar.",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar ; https://holycosmetics.com.co/policies/shipping-policy ; https://holycosmetics.com.co/policies/refund-policy"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Precio Luxury sin cambios (COP 149.990, 27 reseñas). Se detecta modelo Essential COP 79.990 (tachado 99.990), agotado. Perfil público de TikTok con 10,8 mil seguidores; no se pudieron ver videos individuales.",
+    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento ; https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
   "id": "holy-cosmetics-co",
@@ -884,20 +928,24 @@
   "category": "A_directo",
   "product_focus": "Cepillo masajeador eléctrico 'Luxury' con dispensador de sérum de rodillos y LED de 3 colores",
   "relevant_products": [
-   "Cepillo Masajeador Capilar Eléctrico Luxury"
+   "Cepillo Masajeador Capilar Eléctrico Luxury",
+   "Cepillo Masajeador Capilar Eléctrico Essential"
   ],
   "price_visible": "COP 149.990 (tachado COP 199.990, '-25%') el 17/10/2026. [ESTIMACIÓN] ≈ USD 47 con TRM 3.170,46 del 16/10/2026.",
   "value_prop": "Masaje + limpieza + aplicación de aceites en un aparato; marca de cosmética local con atención por WhatsApp y horario.",
   "claims_observed": "Título 'Estimulador de Crecimiento'; texto principal más de bienestar. IPX7 'para usar durante tu rutina de lavado'. Entre las reseñas publicadas hay una que atribuye recrecimiento a un caso de quimioterapia.",
   "channels": [
    "Tienda propia (Shopify)",
-   "WhatsApp"
+   "WhatsApp",
+   "TikTok @holycosmetics (10,8 mil seguidores, 85,7 mil me gusta; 18/10/2026)"
   ],
   "ads": "No obtenido (Biblioteca de Meta no consultable desde la nube).",
   "sources": [
    "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar",
    "https://holycosmetics.com.co/policies/shipping-policy",
-   "https://holycosmetics.com.co/policies/refund-policy"
+   "https://holycosmetics.com.co/policies/refund-policy",
+   "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento",
+   "https://www.tiktok.com/@holycosmetics"
   ],
   "relevance": "alta",
   "follow_reason": "Competidor directo en CO con reseñas reales visibles y precio similar o superior al de Flubberhome; referencia de cómo se ve la prueba social local."
@@ -1141,6 +1189,50 @@
     "run_id": "2026-10-18T03-55",
     "change": "Competidor nuevo registrado (inspiracional)",
     "source": "Exa"
+   }
+  ]
+ },
+ "kitsch-us": {
+  "id": "kitsch-us",
+  "name": "Kitsch",
+  "domain": "mykitsch.com / TikTok Shop US",
+  "market": "US (vende también en AR vía mykitsch.com/es-ar)",
+  "category": "B_indirecto",
+  "product_focus": "Aplicador manual de aceite (botella con peine) + aceite de romero",
+  "relevant_products": [
+   "Scalp & Hair Oil Applicator + Rosemary Oil Set"
+  ],
+  "price_visible": "USD 19 (\"Limited time deal\") en TikTok Shop US (18/10/2026).",
+  "value_prop": "Aceitado del cuero cabelludo preciso, parejo y sin enchastre, en un kit barato.",
+  "claims_observed": "Precisión y prolijidad en la aplicación (título del listado).",
+  "channels": [
+   "TikTok Shop US (tienda con 310,7 mil seguidores)",
+   "Tienda propia internacional"
+  ],
+  "ads": "No obtenido.",
+  "facts": [
+   "TikTok Shop US: kit aplicador + aceite con \"43.6K sold\" y 4,2★; tienda con \"2.0M Sold\" en total (indicadores de la plataforma, 18/10/2026)."
+  ],
+  "inferences": [
+   "[HIPÓTESIS] El hábito de \"aceitar\" el cuero cabelludo tiene más volumen en TikTok Shop US que los aparatos eléctricos (máximo visto: 9,3 mil vendidos)."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Ventas por período; qué parte es el aplicador y qué parte el aceite."
+  ],
+  "sources": [
+   "https://shop.tiktok.com/us/k/hair-oil-and-massager",
+   "https://www.mykitsch.com/es-ar/collections/best-sellers-old/products/scalp-oil-applicator"
+  ],
+  "relevance": "media",
+  "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
+  "last_reviewed": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Competidor indirecto nuevo",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
    }
   ]
  }

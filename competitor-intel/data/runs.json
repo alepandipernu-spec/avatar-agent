@@ -204,5 +204,48 @@
    "OPP-006 (1,33→2)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-18T11-54",
+  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad)",
+   "Exa search/fetch",
+   "WebSearch",
+   "TikTok Shop US (vía Exa)",
+   "fichas Holy/Anyra/Nordic/Glokore",
+   "perfil TikTok de Holy (solo cabecera)",
+   "clip ML CO"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido)",
+   "TikTok: videos individuales del perfil de Holy no visibles sin login"
+  ],
+  "competidores_revisados": [
+   "holy-cosmetics-co",
+   "anyra-us",
+   "nordic-biolabs-us",
+   "glokore-us",
+   "breo-us",
+   "inia-us"
+  ],
+  "competidores_nuevos": [
+   "kitsch-us"
+  ],
+  "novedades": [
+   "Contadores de TikTok Shop US: manual barato 43,6 mil vs eléctrico máx. 9,3 mil",
+   "INIA: precio visible USD 139,99 y 816 vendidos",
+   "Breo en TikTok Shop USD 239,99",
+   "Holy: modelo Essential COP 79.990 agotado",
+   "Sin cambios de precio en Holy, Anyra, Nordic y Glokore"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-013-angulo-regalo-temporada"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-002 (36→48)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

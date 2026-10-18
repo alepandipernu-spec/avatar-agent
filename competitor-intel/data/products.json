@@ -432,5 +432,68 @@
     "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064"
    }
   ]
+ },
+ "holy-cosmetics-co:essential": {
+  "id": "holy-cosmetics-co:essential",
+  "problema": "Masaje vibratorio + aplicación de aceites",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "COP 79.990 (tachado 99.990)"
+  },
+  "promos": "-20% / COP 20.000 OFF",
+  "garantia": "No revisada",
+  "devolucion": "Política general de Holy (5 días hábiles)",
+  "envio": "Política general de Holy",
+  "beneficios": [
+   "3 intensidades",
+   "recargable",
+   "aplicación de aceites"
+  ],
+  "objeciones_resueltas": [],
+  "diferenciadores": "Modelo de entrada de la marca",
+  "merece_investigar": true,
+  "por_que": "Ver si vuelve a stock y a qué precio: marca la escalera de precios en CO.",
+  "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento",
+  "fecha": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Alta (Agotado)",
+    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+   }
+  ]
+ },
+ "kitsch-us:oil-applicator-rosemary-set": {
+  "id": "kitsch-us:oil-applicator-rosemary-set",
+  "problema": "Aplicar aceite en el cuero cabelludo sin enchastre",
+  "variantes": "Kit aplicador + aceite de romero",
+  "precio": {
+   "kit": "USD 19 (TikTok Shop US)"
+  },
+  "promos": "Limited time deal",
+  "garantia": "No revisada",
+  "devolucion": "Política de TikTok Shop",
+  "envio": "No revisado",
+  "beneficios": [
+   "precisión",
+   "prolijidad"
+  ],
+  "objeciones_resueltas": [
+   "enchastre de manos"
+  ],
+  "diferenciadores": "Precio bajo y kit con líquido",
+  "merece_investigar": false,
+  "por_que": "Es manual; sirve como referencia de demanda y ancla, no como producto a sumar.",
+  "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager",
+  "fecha": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T11-54",
+    "change": "Alta",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   }
+  ]
  }
 }
