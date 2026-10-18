@@ -1,144 +1,166 @@
-# Inteligencia competitiva — run 2026-10-17T19-55
+# Inteligencia competitiva — run 2026-10-18T03-55
 
-**Foco:** Reseñas, competidores nuevos y oportunidades (franja 19:54).
+**Foco:** Catálogo, tiendas y precios (franja 03:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome (gasto, ventas, costos ni margen).
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas se hicieron el 17/10/2026.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas se hicieron el 18/10/2026, entre las 03:55 y las 04:30 (Buenos Aires).
 
 ---
 
 ## A. Resumen ejecutivo
-- **Primer relevamiento de Colombia y México.**
-  - En CO hay muchas tiendas DTC con el mismo aparato genérico entre COP 55.900 y 149.990. Casi todas usan claims médicos y promueven el uso en la ducha.
-  - **Competidor nuevo relevante: Holy Cosmetics (CO).** Cobra COP 149.990 (tachado 199.990) y muestra 27 reseñas con 4,9★ en su ficha. Es el primer competidor colombiano con prueba social visible.
-  - En MX se vieron solo 2 tiendas DTC (MXN 990 y 1.038). El resto son vendedores de China en Mercado Libre, con entregas de 7 a 20 días.
-- **Patrón nuevo de reseñas: durabilidad y fallas de fábrica.** Aparece en 6 fuentes y 5 productos: no enciende al llegar, botón que no anda, deja de funcionar a las semanas, se derrite al cargar o entra agua por el puerto. Pasa a ser la segunda queja de la categoría, detrás del goteo del depósito (que ya suma 14 fuentes).
-- **Chequeo de precios (Lena, Microshop, Anyra):** sin cambios. La ficha de Lena muestra a la vez "Sin stock" y "quedan 3".
-- **Oportunidad nº 1:** sigue siendo **OPP-001, la demo de carga y aplicación sin goteo (score 80)**. De lo nuevo, lo que más sube es la **garantía publicada (OPP-003, de 8 a 11)**.
+- **Lo más importante es de Flubberhome.** Lo verificado en Shopify (solo lectura) y en la ficha pública:
+  - Cobra en USD en los 4 países y las entregas a Latinoamérica tardan **10 a 20 días hábiles**.
+  - Los competidores locales cobran en moneda local, con cuotas, descuento por transferencia o pago contra entrega, y entregan en 1 a 8 días.
+  - [ESTIMACIÓN] En Argentina, 1 unidad + envío ≈ ARS 79.500. Es más caro que cualquier eléctrico local relevado.
+- **Corrección de OPP-009.** El ángulo "en MX llega más rápido que los vendedores de China" **no sirve**: el plazo propio es igual o más lento.
+- **Oportunidad nueva: OPP-012, costo total y plazo claros en LatAm (score 37, nº 2).**
+- **Sin cambios de precio** en 7 competidores directos: Holy, Lena, Microshop, NIHLO, Anyra, Hairrova y Nordic.
+  - Glokore suma el código **"BF26"** a su embudo. [HIPÓTESIS] Es una promo de Black Friday ya cargada.
+- **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (score 80).
 
 ## B. Competidores analizados
-| id | Marca | Mercado | Cat. | Relevancia | Novedad |
-|---|---|---|---|---|---|
-| **holy-cosmetics-co** | Holy Cosmetics | CO | A | alta | nuevo |
-| **nihlo-co** | NIHLO | CO | A | media | nuevo |
-| **co-dtc-tiendas** | Smartjoys, Karamelo, SK Glam, Tiendas Cosmo, En Tu Sitio, 911 Hair | CO | A | media | nuevo |
-| **mx-tiendas** | pidehoy.mx, OC Market, Joinet (mayorista), vendedores transfronterizos de ML MX | MX | A | media | nuevo |
-| **ar-tiendas-chicas** | Sofia Cosmetics, Tulivegan | AR | A | baja | nuevo |
-| breo-us | Breo Scalp3 | US | A | media | web oficial revisada |
-| beltronic-ar | Beltronic | AR | A | media | producto suelto PY008 |
-| lena-vegetal-ar / microshop-ar / anyra-us | | AR/US | A | | chequeo de precio |
+| id | Mercado | Cat. | Qué se revisó |
+|---|---|---|---|
+| holy-cosmetics-co | CO | A | Ficha + políticas de envío y cambios (pendiente del run anterior) |
+| lena-vegetal-ar, microshop-ar | AR | A | Precio y condiciones |
+| nihlo-co | CO | A | Precio y garantía |
+| anyra-us, hairrova-us, nordic-biolabs-us | US | A | Precio |
+| glokore-us | US | A | Embudo checkout4 (sin comprar) |
+| ml-electricos-ar | AR | A | Listado público (copia de Exa) |
+| co-dtc-tiendas (Smartjoys) | CO | A | Garantía |
+| **mount-lai-us** | US | C | **Nuevo, inspiracional:** kit de aparato + aceite en Ulta |
 
 Las fuentes de cada uno están en `data/competitors.json`.
 
 ## C. Productos y ofertas
-Fuera del foco de esta ejecución. Solo hubo chequeo rápido. Último dato completo: 17/10/2026.
-- [HECHO] **Flubberhome (Shopify):** 1 unidad USD 41,93 · Pack Dúo USD 71,88 · Pack Familiar USD 89,85. Sin cambios.
-- [HECHO] **Precios sin cambios:**
-  - Lena: ARS 25.600 ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)).
-  - Microshop: ARS 45.780 ([ficha](https://www.microshop.com.ar/productos/micro-masajeador-capilar/)).
-  - Anyra: USD 50,95 ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)).
-- [HECHO] **Breo, web oficial:** USD 161,99 (tachado 239,99), 30 días de devolución y 1 año de garantía ([ficha](https://us.breo.com/products/scalp3-trilogy-massager), [garantía](https://us.breo.com/pages/breo-warranty)). La ficha habla de crecimiento "clínicamente probado". Su FAQ, en cambio, dice que no es un dispositivo de recrecimiento.
-- [HECHO] **Beltronic PY008 suelto:** ARS 149.900 (tachado 179.990) ([ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/)).
-- [ESTIMACIÓN] **Precio base de Flubberhome en moneda local:**
-  - ≈ COP 133 mil, con la TRM de 3.170,46 del 16/10/2026 ([fuente](https://www.dolar-colombia.com/en/2026-10-16)).
-  - ≈ MXN 754, con 17,98 MXN/USD del 07/10/2026 ([fuente](https://www.publimetro.com.mx/noticias/2026/10/07/dolar-vuelve-a-subir-pero-cierra-debajo-de-18-pesos/)).
-  - Método: conversión simple del precio en USD. No se verificó si Shopify tiene precios distintos por mercado.
+**Flubberhome** ([HECHO], Shopify en modo lectura y [ficha](https://flubberhomme.com/products/flubberhomme-scalp-topical-applicator-roller-electric-scalp-massage-comb)):
+- Precios: 1 unidad USD 41,93 + USD 10 de envío; Pack Dúo USD 71,88; Pack Familiar USD 89,85. Sin precio tachado. Sin cambios.
+- Mercados de Shopify: "Estados Unidos" y "Latinoamérica" (AR, MX y CO). El precio es USD 41,93 en los 4 países.
+- El producto figura modificado el 18/10/2026 a las 02:45 (BA). No se identificó qué cambió: precios y variantes siguen iguales.
+
+**Competidores** ([HECHO], 18/10/2026):
+
+| Competidor | Precio | Envío | Garantía / cambios | Pago |
+|---|---|---|---|---|
+| Holy Cosmetics (CO) | COP 149.990 (tachado 199.990) | Servientrega 3–8 días hábiles; gratis solo desde COP 200.000 | Cambio en 5 días hábiles; reembolso solo por garantía legal | Contra entrega, PSE, Bancolombia, ADDI |
+| Lena (AR) | ARS 25.600 (ARS 20.480 por transferencia) | Gratis desde ARS 60.000 | — | 3 cuotas sin interés |
+| Microshop (AR) | ARS 45.780 | Gratis | — | 10% por transferencia |
+| NIHLO (CO) | COP 89.900 | — | 1 año por defectos | — |
+| Smartjoys (CO) | COP 64.900 | — | 2 meses por defectos | — |
+| Glokore (US) | Packs no visibles | — | 60 días de devolución (menos envío) + plan de reemplazo pago | Código "BF26" |
+| Mount Lai (Ulta) | Kit USD 148 ("valor USD 175") | Gratis desde USD 35 | — | — |
+
+Notas de las fichas:
+- **Lena:** sigue con "+70 vendidos" y "Sin stock / quedan 3" a la vez.
+- **Holy:** mezcla IPX7 e IPX6, y uso en seco con uso durante el lavado.
+
+Fuentes: [Holy](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar) ([envíos](https://holycosmetics.com.co/policies/shipping-policy), [cambios](https://holycosmetics.com.co/policies/refund-policy)), [Lena](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/), [Microshop](https://www.microshop.com.ar/productos/micro-masajeador-capilar/), [NIHLO](https://www.nihlo.com.co/products/masajeador-capilar-nihlo), [Smartjoys](https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/), [Glokore](https://glokore.com/scalpmassager/checkout4), [Mount Lai](https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064).
+
+**Precios de EE. UU. sin cambios:**
+- Anyra: USD 50,95 ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)).
+- Hairrova: USD 89,99, sigue "Sold out" ([ficha](https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush)).
+- Nordic: USD 79 ([ficha](https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum)).
+
+**Formato kit (aparato + líquido), [HECHO]:**
+- Mount Lai: USD 148 en Ulta.
+- YENNYE: USD 35,99 con aceite de batana ([Amazon](https://www.amazon.com/YENNYE-Electric-Scalp-Oil-Applicator/dp/B0GHPCCR2P)).
+- warmyard: GBP 26,99 con aceite de romero ([UK](https://www.warmyard.co.uk/products/3-in-1-scalp-massager-oil-bundle)).
+- Lena: masajeador + tónico.
+
+Son 4 mercados. Esto refuerza OPP-006, que de todos modos sigue con score bajo por costo y riesgo.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 17/10/2026 (run 15-27). La Biblioteca de Meta no se intentó: está fuera de la franja de anuncios y sigue bloqueada desde la nube.
+Sin revisión en esta ejecución (le toca a la de las 11:54). Último dato: 17/10/2026.
 
 ## E. Demanda y señales de ventas
 | Señal | Valor | Tipo |
 |---|---|---|
-| Precios DTC en CO | COP 55.900 – 149.990 (≈ USD 18–47); Holy es el más caro y el único con reseñas | HECHO + ESTIMACIÓN |
-| Oferta en MX | 2 tiendas DTC (MXN 990 y 1.038, una agotada); mayorista a MXN 297–345 con "17 vendidos"; ML con envíos desde China de 7–20 días | HECHO (búsqueda no exhaustiva) |
-| Blog de vendedores de Alibaba (22/03/2026) | Dice que el 68% abandona el aparato en 1–2 meses, que el 23% de las reseñas negativas habla de enredos y el 18% de agua en el puerto | Estimación de terceros, sin método publicado. **No usar las cifras** |
+| ML AR, eléctrico líder | MegaCuper ARS 37.692, "+50 vendidos", sin cambios ([listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo), copia de Exa) | HECHO: indicador de ML |
+| ML AR, otros eléctricos | ARS 58.006–69.999 con "+5" a "+25 vendidos". Los envíos desde China van de ARS 28.709 a 58.037 | HECHO: indicador de ML |
+| Kits aparato + líquido | Vistos en US, UK y AR | HECHO (oferta visible) |
+| CyberMonday Argentina | 2, 3 y 4 de noviembre de 2026 ([Tiendanube](https://www.tiendanube.com/blog/cybermonday-argentina)) | HECHO |
 
-**Qué no indican:** ventas ni rentabilidad de nadie.
+**Qué no indican:** ventas mensuales ni rentabilidad de nadie.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución (le toca a la de las 03:54). Se vio al pasar:
-- [HECHO] Holy Cosmetics muestra WhatsApp y horario de atención en la ficha.
-- [HECHO] En Tu Sitio (CO) publica plazos de garantía claros: 10 días para pedido incompleto o roto y 30 días por mal funcionamiento.
+Comparación de condiciones visibles, sin comprar ni iniciar ningún checkout:
+- [HECHO] **Flubberhome** informa en la ficha:
+  - Plazo de entrega y despacho.
+  - Que el precio está en USD y que pueden aplicar impuestos de importación.
+  - Reemplazo o reembolso si el producto falla (aviso dentro de 72 h).
+  - Email y teléfono de contacto.
+  - Esto ya es más transparente que la mayoría de los competidores. Lo que falta es tenerlo **junto al botón** y **en moneda local**.
+- [HECHO] **Los locales** ponen la forma de pago al lado del precio:
+  - Cuotas sin interés (Lena).
+  - Descuento por transferencia (Lena y Microshop).
+  - Contra entrega (Holy).
+- [HECHO] **Glokore** ofrece un plan de reemplazo pago como agregado, después de los datos de envío.
+  - [HIPÓTESIS] Monetiza el miedo a la falla de fábrica, que en reseñas aparece en 6 fuentes.
+  - Para Flubberhome es más coherente publicar una garantía clara (OPP-003) que vender una.
+- No se verificó si el checkout de ningún competidor funciona.
 
 ## G. Reseñas y debilidades competitivas
-| Problema | Fuentes / productos | Clasificación | Detalle |
-|---|---|---|---|
-| Goteo, dosificación y limpieza del depósito | 14 / 10 | tendencia | +2 en esta ejecución: con aceites espesos no fluye y hay que sostenerlo vertical (JIODTMER, MINOZOOS) |
-| **Durabilidad y fallas de fábrica** | 6 / 5 | **tendencia (nueva)** | Ver detalle abajo |
-| Enredos con pelo largo | 2 / 2 | incipiente | Zinnor; blog de Alibaba |
-| Instrucciones pobres (qué hace cada modo o luz) | 2 / 2 | incipiente | Yaxa 3 en 1; Breo |
-
-**Detalle de durabilidad y fallas de fábrica:**
-- Deja de funcionar a los ~30 usos (Yaxa, 23/05/2026).
-- No enciende al llegar, y el comprador no pudo devolverlo porque había roto la caja (Yaxa).
-- Llega sin el accesorio (Yaxa).
-- Botón que no funciona desde el primer día (JIODTMER, Amazon MX, 14/07/2025).
-- Se derrite al cargar (HEREE, Amazon US).
-- Agua que entra por el puerto (blog de Alibaba).
-
-[HIPÓTESIS] Es el mismo producto de fábrica revendido con control de calidad variable. Las reseñas citadas están parafraseadas y la lista completa está en `data/reviews.json`.
-
-**Mercado (no son reseñas):** casi todos los competidores de CO y MX, y también Breo, promueven el uso en la ducha. Flubberhome no puede hacerlo por regla de uso.
-- [HIPÓTESIS] Esa regla puede leerse como una limitación si no tiene un encuadre propio.
-- Las fallas por agua en el puerto juegan a favor de la regla.
+Sin revisión en esta ejecución. Último dato: 17/10/2026 (run 19-55).
+- La garantía de Smartjoys es de solo 2 meses. Encaja con el patrón de fallas de fábrica.
 
 ## H. Estrategias adaptables
-1. **Garantía publicada como respuesta a la falla de fábrica.**
-   - En CO, NIHLO ya publica 1 año de garantía a COP 89.900, y Breo da 30 días + 1 año en EE. UU.
-   - No publicar garantía queda por debajo del estándar. Ver OPP-003.
-2. **El ritual en seco como elección, no como limitación.** Frente a la competencia que se usa en la ducha, presentarlo como "el minuto de alivio en el sillón". Ver OPP-005.
-3. **Mensaje por país** (OPP-009):
-   - En MX, destacar el envío rápido frente a los vendedores transfronterizos.
-   - En CO, destacar la garantía y la atención frente a los genéricos baratos.
+1. **Condiciones de pago y plazo junto al precio**, como hacen los locales, sin copiar sus precios. Ver OPP-012.
+2. **"Valor del kit" en vez de precio tachado** (Mount Lai). Es una forma honesta de mostrar ahorro, coherente con OPP-007, si algún día existe un kit.
 
 **No replicar:**
-- Reseñas con claims médicos publicadas en la ficha (Holy).
-- "Reduce caída extrema" (Smartjoys).
-- Precios tachados inflados.
+- Precios tachados inflados (Holy, Smartjoys, Anyra, Hairrova, Nordic).
+- Planes de garantía pagos como reemplazo de una garantía básica.
+- Especificaciones contradictorias.
 
 ## I. Oportunidades priorizadas
 Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si la urgencia es 4 o más.
 
 | # | id | Score | Estado | Acción concreta |
 |---|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Probar el depósito con tónicos livianos **y espesos**, y grabar la demo |
-| 2 | OPP-002 salto desde el cepillo manual (AR) | 36 | nueva | Ángulo para AR |
-| 3 | OPP-007 precio honesto y ahorro por unidad | 30 | nueva | — |
-| 4 | OPP-008 hábito / OPP-011 demo con pelo largo (**nueva**) | 24 / 24 | nueva | Sumar la prueba con pelo largo a la de OPP-001 |
-| 5 | OPP-005 ritual en seco | 18 (antes 12) | nueva | Encuadre frente a la competencia que se usa en la ducha |
-| 6 | OPP-010 control de funcionamiento y cuidado de batería (**nueva**) | 18 | nueva | Preguntar al proveedor la tasa de defectos y si se puede probar cada unidad (lo decide el dueño) |
-| 7 | OPP-009 precio y mensaje por mercado MX/CO (**nueva**) | 16 | nueva | Confirmar en Shopify (solo lectura) los precios por mercado y los plazos reales de envío |
-| 8 | OPP-003 garantía publicada | 11 (antes 8) | nueva | Definir los meses con la tasa de defectos; publicarla junto al botón de compra |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Probar el depósito con líquidos livianos y espesos; grabar la demo |
+| 2 | **OPP-012 costo total y plazo claros en LatAm (nueva)** | **37** | nueva | Ver detalle abajo |
+| 3 | OPP-002 salto desde el cepillo manual (AR) | 36 | nueva | — |
+| 4 | OPP-007 precio honesto | 30 | nueva | — |
+| 5 | OPP-009 precio y mensaje por mercado | **24 (antes 16)** | nueva | **Corregida:** se descarta "envío rápido" en MX |
+| 6 | OPP-008 / OPP-011 | 24 / 24 | nueva | — |
 
-- **OPP-010:**
-  - **Evidencia:** 6 reseñas de fallas.
-  - **Interpretación:** el miedo a que el aparato llegue roto es real en la categoría.
-  - **Confianza:** media (ninguna reseña es del producto exacto de Flubberhome).
-  - **Métrica:** reclamos por defecto en los primeros 30 días.
-  - **Advertencia:** no afirmar "probado antes de salir" si el proceso no existe.
+**OPP-012, costo total y plazo claros en LatAm:**
+- **Evidencia:**
+  - Shopify cobra USD en los 4 países.
+  - La ficha informa 10–20 días hábiles a LatAm y USD 10 de envío por 1 unidad.
+  - Los locales entregan en 1–8 días, en moneda local y con pago local.
+- **Estimación** (conversión simple, sin percepciones de tarjeta ni impuestos):
+  - Argentina: 1 unidad + envío ≈ ARS 79.500, con el oficial del BNA de ARS 1.530 del 15/10/2026 ([fuente](https://eleconomista.com.ar/economia/dolar-hoy-cuanto-cotiza-viernes-16-octubre-n98903)). Los eléctricos locales relevados van de ARS 25.600 a 69.999.
+  - Colombia: ≈ COP 164.600, con una TRM de 3.170,46. Holy cobra COP 149.990 + envío.
+  - México: ≈ MXN 934, con 17,98 MXN/USD. Las tiendas locales cobran MXN 990–1.038.
+- **Interpretación** [HIPÓTESIS]: la fricción en LatAm es la incertidumbre sobre el total final y el plazo, no el precio de lista.
+- **Confianza:** media.
+- **Acción:** poner junto al botón, por país, el precio aproximado en moneda local, una fecha estimada de llegada y los impuestos posibles. Presentar el Pack Dúo como la opción que absorbe el envío.
+- **Para decidir el dueño:** stock local o precio en moneda local para AR. No se recomienda sin datos de costos.
+- **Métrica:** tasa de checkout iniciado → compra por país, y consultas a soporte sobre plazo o impuestos.
 
 ## J. Próximas acciones
-- **Run de las 03:54** (catálogo y precios):
-  - Holy Cosmetics: envío, garantía, medios de pago y fecha de las reseñas.
-  - Precios por mercado en Shopify, solo lectura.
-  - Checkout de Glokore, sin comprar.
-- **Run de las 11:54** (anuncios): perfiles públicos de Holy Cosmetics y de las tiendas de CO.
+- **Run de las 11:54** (anuncios):
+  - Intentar la Biblioteca de Meta.
+  - Revisar perfiles públicos de Holy y de las tiendas de CO.
+  - Ver si Glokore u otros ya muestran creatividades de Black Friday.
+- **Run de las 19:54:** reseñas de Mercado Libre dentro de las publicaciones (pendiente).
 - **Para el dueño** (no se contactó a nadie):
-  - Pedir al proveedor la tasa de defectos.
-  - Probar el ScalpCare con aceite espeso y en pelo largo.
+  - Confirmar los plazos reales por país.
+  - Ver qué percepciones o impuestos paga un comprador argentino con tarjeta en USD.
+  - Decidir si se participa del CyberMonday AR (2 al 4 de noviembre). Sin datos de margen no se recomienda ningún descuento.
 
 ## K. Nuevos hallazgos
-- 5 competidores nuevos: Holy Cosmetics, NIHLO, tiendas DTC de CO, tiendas de MX y tiendas chicas de AR.
-- 3 productos nuevos.
-- 3 señales de demanda nuevas.
-- 9 reseñas nuevas y 3 patrones nuevos.
-- 3 oportunidades nuevas (OPP-009, OPP-010, OPP-011) y 2 actualizadas (OPP-003, OPP-005).
+- 1 competidor nuevo (Mount Lai, inspiracional).
+- 1 producto nuevo.
+- 2 señales de demanda nuevas.
+- 1 oportunidad nueva (OPP-012) y 2 actualizadas (OPP-009 de 16 a 24, OPP-006 de 1,33 a 2).
+- Políticas de Holy completadas.
 - Sin cambios fuertes de precio en los competidores directos.
 
 ## L. Limitaciones
-- **Mercado Libre:** no se leyeron reseñas dentro de las publicaciones de AR/MX/CO, solo listados vía Exa. Queda pendiente.
-- **Biblioteca de Meta:** no se intentó (fuera de franja; bloqueada desde la nube).
-- **Muestra MX:** chica, una sola búsqueda. Las conversiones de moneda son aproximadas y usan el precio base en USD.
-- **Reseñas publicadas en tiendas propias** (Holy, 27): no se pueden verificar.
-- **Blog de Alibaba:** fuente secundaria con interés comercial.
+- **Biblioteca de Meta:** no se intentó (fuera de la franja de anuncios; bloqueada desde la nube).
+- **Mercado Libre:** el listado directo pide login, así que se usó la copia de Exa, que puede estar desfasada.
+- **Glokore:** los precios por pack no se ven porque la plantilla no se renderiza.
+- **Conversiones de moneda:** aproximadas y sin impuestos. Los plazos de Flubberhome son los que publica la ficha, no tiempos medidos.
+- **Shopify:** no se pudo identificar qué cambió en el producto a las 02:45.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

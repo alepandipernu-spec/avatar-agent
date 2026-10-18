@@ -154,5 +154,29 @@
   "tipo": "ESTIMACIÓN de terceros, método no publicado (confiabilidad baja)",
   "indica": "Los mismos problemas de hábito, enredo y agua que vemos en reseñas directas.",
   "no_indica": "Porcentajes confiables; no usar las cifras en piezas propias."
+ },
+ "kits-aparato-mas-liquido": {
+  "id": "kits-aparato-mas-liquido",
+  "fecha": "2026-10-18",
+  "run_id": "2026-10-18T03-55",
+  "senal": "Kits que venden el aparato junto con un líquido",
+  "valor": "Mount Lai en Ulta (USD 148, aparato + aceite); YENNYE en Amazon US (USD 35,99, aplicador + aceite de batana 60 ml, disponible desde 19/01/2026); warmyard UK (GBP 26,99, aplicador + aceite de romero); Lena AR (masajeador + tónico 60 ml, ARS 25.600)",
+  "fuente": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064 ; https://www.amazon.com/YENNYE-Electric-Scalp-Oil-Applicator/dp/B0GHPCCR2P ; https://www.warmyard.co.uk/products/3-in-1-scalp-massager-oil-bundle",
+  "alcance": "US, UK, AR",
+  "tipo": "HECHO (oferta visible)",
+  "indica": "El formato kit existe en varios mercados y rangos de precio, incluido retail de belleza.",
+  "no_indica": "Que el kit venda más que el aparato solo."
+ },
+ "flubberhome-vs-local-entrega": {
+  "id": "flubberhome-vs-local-entrega",
+  "fecha": "2026-10-18",
+  "run_id": "2026-10-18T03-55",
+  "senal": "Plazo y moneda de Flubberhome frente a competidores locales de LatAm",
+  "valor": "Flubberhome: USD en todos los mercados (Shopify: mercado 'Latinoamérica' AR/MX/CO sin moneda local), entrega 10–20 días hábiles en LatAm, envío USD 10 en 1 unidad. Locales: Holy CO 3–8 días hábiles en COP con contra entrega; Lena/Microshop AR en ARS con cuotas y descuento por transferencia; ML AR 'llega hoy/mañana'.",
+  "fuente": "Shopify (lectura) ; https://flubberhomme.com/products/flubberhomme-scalp-topical-applicator-roller-electric-scalp-massage-comb ; https://holycosmetics.com.co/policies/shipping-policy ; https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/",
+  "alcance": "AR, MX, CO",
+  "tipo": "HECHO",
+  "indica": "En LatAm Flubberhome compite con condiciones de compra transfronteriza (plazo, moneda, posibles impuestos) frente a locales con entrega en días y pago local.",
+  "no_indica": "Cuánto afecta a la conversión: no hay datos de ventas."
  }
 }

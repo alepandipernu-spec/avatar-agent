@@ -153,5 +153,56 @@
    "OPP-005-sensorial-en-seco (12→18)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-18T03-55",
+  "foco": "Catálogo, tiendas y precios (franja 03:54)",
+  "fuentes_ok": [
+   "Shopify (lectura: producto, mercados, precios contextuales)",
+   "GitHub (privacidad)",
+   "Exa search/fetch",
+   "WebSearch",
+   "WebFetch (CyberMonday AR, tipo de cambio)",
+   "fichas Holy/Lena/Microshop/NIHLO/Anyra/Hairrova/Nordic/Glokore",
+   "políticas de Holy",
+   "ficha propia de Flubberhome",
+   "listado ML AR (vía Exa)",
+   "Ulta"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (no se intentó: fuera de la franja de anuncios)",
+   "Glokore: precios por pack no visibles (plantilla sin renderizar)",
+   "Mercado Libre: listado directo pide login; se usó la copia de Exa"
+  ],
+  "competidores_revisados": [
+   "holy-cosmetics-co",
+   "lena-vegetal-ar",
+   "microshop-ar",
+   "nihlo-co",
+   "anyra-us",
+   "hairrova-us",
+   "nordic-biolabs-us",
+   "glokore-us",
+   "ml-electricos-ar",
+   "co-dtc-tiendas"
+  ],
+  "competidores_nuevos": [
+   "mount-lai-us"
+  ],
+  "novedades": [
+   "Sin cambios de precio en 7 competidores directos",
+   "Glokore muestra código 'BF26' en su embudo",
+   "Shopify: USD en los 4 países, mercado único Latinoamérica; ficha propia con 10–20 días hábiles a LatAm",
+   "Holy: 3–8 días, contra entrega, cambios 5 días",
+   "CyberMonday AR 2–4/11/2026"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-012-costo-total-y-plazo-claros-latam"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-009 (16→24, se descarta 'envío rápido' en MX)",
+   "OPP-006 (1,33→2)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

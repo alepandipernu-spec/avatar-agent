@@ -298,9 +298,9 @@
    "1u": "COP 149.990 (tachado 199.990)"
   },
   "promos": "-25% / 'COP 50.000 OFF'",
-  "garantia": "No vista en el extracto",
-  "devolucion": "No vista",
-  "envio": "No visto",
+  "garantia": "Garantía legal (Ley 1480); control de calidad en devoluciones",
+  "devolucion": "Cambio dentro de 5 días hábiles, sin devolución de dinero salvo garantía",
+  "envio": "Servientrega 3–8 días hábiles; gratis desde COP 200.000; contra entrega disponible",
   "beneficios": [
    "masaje de amasamiento",
    "dispensador de rodillos",
@@ -313,8 +313,8 @@
    "contacto humano (WhatsApp, horario)"
   ],
   "diferenciadores": "Reseñas visibles y marca local de cosmética",
-  "merece_investigar": true,
-  "por_que": "Revisar en la ejecución de las 03:54: envío, garantía, medios de pago y si las reseñas tienen fecha.",
+  "merece_investigar": false,
+  "por_que": "Pendientes resueltos el 18/10/2026; las reseñas publicadas no muestran fecha en el extracto.",
   "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar",
   "fecha": "2026-10-17",
   "history": [
@@ -323,6 +323,12 @@
     "run_id": "2026-10-17T19-55",
     "change": "Alta",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T03-55",
+    "change": "Envío, devolución y medios de pago completados",
+    "source": "https://holycosmetics.com.co/policies/shipping-policy"
    }
   ]
  },
@@ -390,6 +396,40 @@
     "run_id": "2026-10-17T19-55",
     "change": "Alta",
     "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+   }
+  ]
+ },
+ "mount-lai-us:vitality-qi-duo": {
+  "id": "mount-lai-us:vitality-qi-duo",
+  "problema": "Ritual de masaje + aceite para el cuero cabelludo",
+  "variantes": "Kit (masajeador + aceite)",
+  "precio": {
+   "kit": "USD 148 ('valor USD 175')"
+  },
+  "promos": "Ninguna; ahorro mostrado como valor del kit",
+  "garantia": "No vista",
+  "devolucion": "No vista",
+  "envio": "Gratis desde USD 35 (Ulta)",
+  "beneficios": [
+   "LED rojo",
+   "calor suave",
+   "vibración",
+   "aceite botánico"
+  ],
+  "objeciones_resueltas": [
+   "qué líquido usar"
+  ],
+  "diferenciadores": "Kit cerrado con aceite propio, en retail de belleza",
+  "merece_investigar": false,
+  "por_que": "Inspiración de formato de kit; otra categoría de precio.",
+  "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064",
+  "fecha": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T03-55",
+    "change": "Alta",
+    "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064"
    }
   ]
  }

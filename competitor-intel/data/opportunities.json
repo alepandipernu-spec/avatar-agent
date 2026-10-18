@@ -193,7 +193,7 @@
   "id": "OPP-006-kit-liquido-compatible",
   "competidor_observado": "Lena Vegetal (AR), Nordic Biolabs (US), Beltronic (AR)",
   "producto_estrategia": "Modelo aparato + líquido propio",
-  "fuente_evidencia": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/ (+70 vendidos, stock bajo, 17/10/2026)",
+  "fuente_evidencia": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/ (+70 vendidos, stock bajo, 17/10/2026) ; +3 kits vistos el 18/10/2026 (Mount Lai/Ulta, YENNYE/Amazon, warmyard/UK) — demand_signals 'kits-aparato-mas-liquido'",
   "hallazgo": "[HECHO] El único kit AR con contador público vende aparato + tónico.",
   "explicacion": "[HIPÓTESIS] Responde \"¿qué le pongo?\" y abre recompra.",
   "confianza": "baja (una señal, chica)",
@@ -208,19 +208,24 @@
   "proximo_paso": "Seguir el contador de Lena en próximas ejecuciones.",
   "puntajes": {
    "impacto": 4,
-   "confianza": 2,
+   "confianza": 3,
    "facilidad": 2,
    "costo": 4,
    "riesgo": 3,
    "urgencia": 1
   },
-  "score": 1.33,
+  "score": 2.0,
   "estado": "en evaluación",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T03-55",
+    "change": "Más evidencia de formato kit (4 mercados); confianza 2→3; score 1,33→2. Sigue costoso: requiere líquido propio, registro y logística"
    }
   ]
  },
@@ -299,13 +304,13 @@
   "competidor_observado": "Tiendas DTC de CO (Holy Cosmetics y genéricas) y de MX (pidehoy.mx, OC Market)",
   "producto_estrategia": "Precio local frente al precio base de Flubberhome",
   "fuente_evidencia": "competitors.json: holy-cosmetics-co, co-dtc-tiendas, mx-tiendas (17/10/2026); TRM 3.170,46 (dolar-colombia.com, 16/10/2026); 17,98 MXN/USD (Publimetro, 07/10/2026)",
-  "hallazgo": "[ESTIMACIÓN] El precio base de USD 41,93 equivale a ≈ COP 133 mil (tercio superior en CO, solo Holy está por encima con reseñas) y ≈ MXN 754 (por debajo de las 2 tiendas DTC mexicanas vistas).",
+  "hallazgo": "[ESTIMACIÓN] El precio base de USD 41,93 equivale a ≈ COP 133 mil (tercio superior en CO, solo Holy está por encima con reseñas) y ≈ MXN 754 (por debajo de las 2 tiendas DTC mexicanas vistas). [HECHO 18/10/2026, Shopify lectura] Hay 2 mercados: 'Estados Unidos' y 'Latinoamérica' (AR, MX, CO); el precio contextual es USD 41,93 en los 4 países, sin moneda local. La ficha publica entrega de 10–20 días hábiles en LatAm y envío de USD 10 para 1 unidad.",
   "explicacion": "[HIPÓTESIS] En MX Flubberhome sería competitivo en precio frente a lo local; en CO compite contra genéricos más baratos con contraentrega y necesita justificar el valor.",
-  "confianza": "baja-media (conversión simple; no se verificaron los precios por mercado en Shopify; muestra MX chica)",
+  "confianza": "media (precios por mercado verificados; plazos según la ficha propia, no medidos)",
   "diferencia_flubberhome": "Hoy un solo precio en USD para los 4 mercados (según la búsqueda en Shopify).",
   "adaptable": "Pensar precio y mensaje por país, no copiar precios.",
   "no_replicar": "Precios tachados inflados y claims médicos de las tiendas colombianas.",
-  "propuesta_original": "Antes de reactivar campañas: revisar (solo lectura) los precios por mercado en Shopify; en CO, llevar al frente la garantía y el envío; en MX, destacar envío rápido frente a la espera de 7–20 días de los vendedores transfronterizos.",
+  "propuesta_original": "CORREGIDA 18/10/2026: en MX no se puede vender 'llega rápido' (10–20 días hábiles es igual o más lento que los vendedores transfronterizos de ML MX, 7–20 días). Ver OPP-012 para el costo total y el plazo. En CO, la garantía y la atención siguen siendo el eje.",
   "ejemplo": "Ficha CO: bloque 'Garantía + envío en X días' junto al precio; ficha MX: 'Llega en X días, no en tres semanas' (solo si el plazo es real).",
   "recursos": "Revisión de Shopify Markets y del plazo real de envío por país",
   "costos_riesgos": "Bajo; riesgo de prometer plazos que la logística no cumple",
@@ -313,19 +318,24 @@
   "proximo_paso": "Confirmar precios por mercado y plazos reales de envío a MX y CO (tarea del dueño o próxima ejecución de las 03:54).",
   "puntajes": {
    "impacto": 4,
-   "confianza": 2,
+   "confianza": 3,
    "facilidad": 4,
    "costo": 1,
    "riesgo": 2,
    "urgencia": 3
   },
-  "score": 16.0,
+  "score": 24.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T03-55",
+    "change": "Precios por mercado verificados en Shopify; se descarta el ángulo 'envío rápido' en MX; score 16→24"
    }
   ]
  },
@@ -395,6 +405,41 @@
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
+    "change": "creada"
+   }
+  ]
+ },
+ "OPP-012-costo-total-y-plazo-claros-latam": {
+  "id": "OPP-012-costo-total-y-plazo-claros-latam",
+  "competidor_observado": "Locales de AR y CO (Lena, Microshop, Holy Cosmetics, Mercado Libre AR)",
+  "producto_estrategia": "Condiciones de compra: moneda, costo total, plazo y forma de pago",
+  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega'",
+  "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales.",
+  "explicacion": "[HIPÓTESIS] En LatAm la fricción principal no es el precio de lista sino la incertidumbre sobre cuánto se paga al final y cuándo llega. Una ficha que lo deja claro antes del checkout reduce abandonos; no aclararlo puede generar reclamos.",
+  "confianza": "media (condiciones verificadas; impacto en conversión no medido; tipo de cambio aproximado)",
+  "diferencia_flubberhome": "La ficha ya informa plazo, moneda y posibles impuestos más abajo del precio; no muestra el precio aproximado en moneda local ni la fecha estimada de llegada junto al botón.",
+  "adaptable": "Claridad de condiciones como hacen los locales (cuotas, plazo y medio de pago visibles junto al precio), sin copiar sus precios.",
+  "no_replicar": "Prometer plazos que la logística no cumple; mostrar 'envío gratis' que esconde impuestos.",
+  "propuesta_original": "Bloque corto junto al botón, por país: 'Pagás en USD; con tarjeta son aprox. $X de tu moneda' + 'Llega entre el <fecha> y el <fecha>' + qué impuestos pueden aplicar. Empujar el Pack Dúo como el que absorbe el envío. Decisión aparte del dueño (no se recomienda sin datos de costos): evaluar stock local o precio en moneda local para AR.",
+  "ejemplo": "Debajo del precio: 'Llega aprox. del 5 al 19 de noviembre · Pagás en dólares; tu banco lo convierte'.",
+  "recursos": "Edición de la ficha o una app de conversión de moneda (lectura del dueño); verificar plazos reales con el proveedor logístico.",
+  "costos_riesgos": "Bajo costo; riesgo de mostrar una conversión desactualizada; el stock local tiene costo y riesgo altos.",
+  "metrica": "Tasa de checkout iniciado → compra por país y consultas a soporte sobre plazo o impuestos, cuando se reactiven las campañas.",
+  "proximo_paso": "El dueño confirma plazos reales por país y si existen percepciones o impuestos al pagar en USD desde AR; luego redactar el bloque.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 3,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 4
+  },
+  "score": 37.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T03-55",
     "change": "creada"
    }
   ]
