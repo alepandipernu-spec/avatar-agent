@@ -2,8 +2,8 @@
  "patterns": [
   {
    "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 14,
-   "n_competidores": 10,
+   "n_fuentes": 15,
+   "n_competidores": 11,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
    "fecha": "2026-10-17",
@@ -23,6 +23,11 @@
      "date": "2026-10-17",
      "run_id": "2026-10-17T19-55",
      "change": "+2 fuentes (JIODTMER B0CDLT9ZZH, MINOZOOS): líquidos espesos no fluyen; sostener vertical."
+    },
+    {
+     "date": "2026-10-18",
+     "run_id": "2026-10-18T19-54",
+     "change": "+1 fuente (Hello Magazine: sobrecarga y derrame por no vaciar). Contraejemplo: LeeRong indica cargar media carga por sesión."
     }
    ]
   },
@@ -37,13 +42,19 @@
   },
   {
    "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 6,
-   "n_competidores": 5,
+   "n_fuentes": 7,
+   "n_competidores": 6,
    "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
    "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
    "fecha": "2026-10-17",
    "run_id": "2026-10-17T19-55",
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-18",
+     "run_id": "2026-10-18T19-54",
+     "change": "+1 fuente (foro lipstickalley, 2020: deja de funcionar a los meses y no retiene carga). Fuente vieja."
+    }
+   ]
   },
   {
    "problema": "Enredos o tirones con pelo largo",
@@ -63,6 +74,21 @@
    "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
    "fecha": "2026-10-17",
    "run_id": "2026-10-17T19-55",
+   "historial": []
+  },
+  {
+   "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
+   "n_fuentes": 3,
+   "n_competidores": 3,
+   "clasificacion": "incipiente (3 fuentes de 3 productos; una es un resumen de reseñas)",
+   "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
+   "fecha": "2026-10-18",
+   "run_id": "2026-10-18T19-54",
+   "fuentes": [
+    "INIA (reseña vista en el run 2026-10-18T11-54)",
+    "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
+    "NAPRE (thehomeglow, 17/02/2026)"
+   ],
    "historial": []
   }
  ],
@@ -254,6 +280,42 @@
    "parafrasis": "Varias reseñas dicen que tira y enreda el pelo largo, y algunas unidades fallaron.",
    "fecha_consulta": "2026-10-17",
    "run_id": "2026-10-17T19-55"
+  },
+  {
+   "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
+   "producto": "NAPRE masajeador eléctrico de cabeza (US)",
+   "problema": "expectativas no satisfechas / sensación en el cuero cabelludo",
+   "fecha": "2026-02-17",
+   "parafrasis": "Funciona bien en el cuerpo, pero en la cabeza rebota en intensidad baja y molesta; en alta es demasiado. Peor con poco pelo.",
+   "fecha_consulta": "2026-10-18",
+   "run_id": "2026-10-18T19-54"
+  },
+  {
+   "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
+   "producto": "NAPRE masajeador eléctrico de cabeza (US)",
+   "problema": "dificultad de uso",
+   "fecha": "2026-02-17",
+   "parafrasis": "Los botones quedan donde se apoya la mano y se tocan sin querer.",
+   "fecha_consulta": "2026-10-18",
+   "run_id": "2026-10-18T19-54"
+  },
+  {
+   "fuente": "https://www.hellomagazine.com/shopping/515260/i-tried-an-led-hair-growth-massager-for-my-thinning-hair/",
+   "producto": "Aplicador eléctrico 2 en 1 genérico (Amazon UK)",
+   "problema": "falta de instrucciones / pérdida de líquido",
+   "fecha": "2024-03-13",
+   "parafrasis": "Las primeras veces puso demasiado aceite; al no vaciar el depósito, se derramó sobre la mesa de luz. Terminó dosificando con pipeta.",
+   "fecha_consulta": "2026-10-18",
+   "run_id": "2026-10-18T19-54"
+  },
+  {
+   "fuente": "https://www.lipstickalley.com/threads/electronic-scalp-massager-for-natural-hair.4217986/",
+   "producto": "Masajeador eléctrico de cuero cabelludo (Amazon, foro)",
+   "problema": "durabilidad",
+   "fecha": "2020-12-20",
+   "parafrasis": "Una usuaria cuenta que dejó de andar a los pocos meses y que antes ya no retenía la carga. Otra menciona miedo a los enredos. Fuente vieja.",
+   "fecha_consulta": "2026-10-18",
+   "run_id": "2026-10-18T19-54"
   }
  ]
 }

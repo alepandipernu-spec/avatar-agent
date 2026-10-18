@@ -36,6 +36,11 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "evidencia ampliada; confianza 3→4; score 60→80; suma gestión de expectativa ducha vs seco"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Más evidencia, score sin cambios (80). LeeRong (Amazon, 04/2026) indica cargar solo media carga por sesión, y una nota de Hello Magazine cuenta un derrame por sobrecarga. Sumar a la demo la dosis por sesión y cómo guardarlo vacío."
    }
   ]
  },
@@ -116,6 +121,11 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "Score 8.0→11.0: la durabilidad pasa a tendencia y en CO ya hay garantía de 1 año a precio bajo. Impacto 4→5, urgencia 3→4."
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Más evidencia, score sin cambios (11). LeeRong ofrece 12 meses de garantía a USD 49,99, cerca del precio de Flubberhome."
    }
   ]
  },
@@ -231,6 +241,11 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T03-55",
     "change": "Más evidencia de formato kit (4 mercados); confianza 2→3; score 1,33→2. Sigue costoso: requiere líquido propio, registro y logística"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Más evidencia, score sin cambios (2). LeeRong incluye 30 ml de aceite en la caja y La Milpa de María (MX) vende el aplicador como accesorio de sus aceites. Sigue sin datos de costo ni logística."
    }
   ]
  },
@@ -481,6 +496,41 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T11-54",
     "change": "creada"
+   }
+  ]
+ },
+ "OPP-014-expectativa-honesta-de-la-sensacion": {
+  "id": "OPP-014-expectativa-honesta-de-la-sensacion",
+  "competidor_observado": "INIA, Yaxa 3 en 1, NAPRE (reseñas públicas)",
+  "producto_estrategia": "Expectativa de la sensación de masaje",
+  "fuente_evidencia": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/ (17/02/2026); reseña de INIA en TikTok Shop (18/10/2026); Yaxa 3 en 1 (17/10/2026). Patrón en reviews.json.",
+  "hallazgo": "[HECHO] En 3 productos distintos hay quejas de que el masaje se siente débil, incómodo o que rebota en la cabeza.",
+  "explicacion": "[HIPÓTESIS] Los anuncios de la categoría venden \"masaje profundo\" o \"como un spa\", y la expectativa no coincide con la vibración real del aparato. La decepción aparece en las reseñas.",
+  "confianza": "media-baja (3 fuentes, una vieja y una de resumen)",
+  "diferencia_flubberhome": "Flubberhome ya comunica masaje y alivio, pero no explica qué se siente en cada intensidad ni cómo apoyarlo.",
+  "adaptable": "Explicar la sensación antes de la compra: qué se siente, cómo empezar, cómo apoyarlo.",
+  "no_replicar": "\"Masaje profundo\", \"como un spa\" o cualquier promesa de intensidad que el aparato no cumpla.",
+  "propuesta_original": "Un bloque \"Qué vas a sentir\" en la ficha y en la Guía Digital: intensidad 1 suave y continua, intensidad 3 más marcada; empezar en la 1 con el peine apoyado plano y sin presionar. Un microdrama del Edificio Flubber donde un vecino espera un masaje de spa, descubre que es más suave y lo disfruta así.",
+  "ejemplo": "Video de 15 s: 0–3 s el texto \"¿qué se siente?\"; 3–10 s tres pasadas lentas, una por intensidad, con el sonido real; 10–15 s el texto \"empezá suave, con el pelo seco\".",
+  "recursos": "Que el dueño pruebe las 3 intensidades y describa la sensación real. AI Creative Studio para la pieza y edición de la ficha.",
+  "costos_riesgos": "Costo bajo. Riesgo: describir una sensación sin probarla. Hay que redactarlo después de usar el producto real.",
+  "metrica": "Proporción de reclamos o devoluciones por \"no es lo que esperaba\" (cuando haya ventas) y retención a 3 s de la pieza frente a los microdramas actuales.",
+  "proximo_paso": "El dueño prueba el aparato y anota en una línea qué se siente en cada intensidad. Con eso se redacta el bloque.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 3,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 36.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta (score 36)"
    }
   ]
  }

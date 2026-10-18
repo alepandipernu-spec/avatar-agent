@@ -31,6 +31,12 @@
     "run_id": "2026-10-17T15-27",
     "change": "Alta / precio verificado",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios USD 50,95.",
+    "source": "chequeo rápido de precios (Exa fetch)"
    }
   ]
  },
@@ -247,6 +253,12 @@
     "run_id": "2026-10-17T15-28",
     "change": "alta del registro",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios ARS 25.600.",
+    "source": "chequeo rápido de precios (Exa fetch)"
    }
   ]
  },
@@ -329,6 +341,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Envío, devolución y medios de pago completados",
     "source": "https://holycosmetics.com.co/policies/shipping-policy"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios COP 149.990; 27 reseñas.",
+    "source": "chequeo rápido de precios (Exa fetch)"
    }
   ]
  },
@@ -461,6 +479,12 @@
     "run_id": "2026-10-18T11-54",
     "change": "Alta (Agotado)",
     "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios COP 79.990.",
+    "source": "chequeo rápido de precios (Exa fetch)"
    }
   ]
  },
@@ -493,6 +517,74 @@
     "run_id": "2026-10-18T11-54",
     "change": "Alta",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   }
+  ]
+ },
+ "leerong-us:3-in-1-comb": {
+  "id": "leerong-us:3-in-1-comb",
+  "problema": "Aplicar aceite o sérum en el cuero cabelludo con masaje y sin enchastre",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "USD 49,99"
+  },
+  "promos": "Ninguna visible",
+  "garantia": "12 meses de fábrica",
+  "devolucion": "Política de Amazon",
+  "envio": "Amazon",
+  "beneficios": [
+   "8 rodillos",
+   "72 puntas",
+   "3 modos",
+   "apagado a los 10 min",
+   "muestra de aceite de 30 ml"
+  ],
+  "objeciones_resueltas": [
+   "desborde (indica cargar media carga)",
+   "agua en el puerto (advertencia explícita)"
+  ],
+  "diferenciadores": "Kit completo con líquido y garantía al mismo precio de referencia de Flubberhome",
+  "merece_investigar": true,
+  "por_que": "Es el ejemplo más claro de cómo convertir las quejas de la categoría en instrucciones y contenido del kit.",
+  "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT",
+  "fecha": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta",
+    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+   }
+  ]
+ },
+ "la-milpa-de-maria-mx:aplicador": {
+  "id": "la-milpa-de-maria-mx:aplicador",
+  "problema": "Aplicar aceite en la raíz sin desperdicio",
+  "variantes": "Aplicador + 2 goteros",
+  "precio": {
+   "kit": "MXN 199"
+  },
+  "promos": "Ninguna visible",
+  "garantia": "No revisada",
+  "devolucion": "No revisada",
+  "envio": "No revisado",
+  "beneficios": [
+   "dosifica en la raíz",
+   "goteros para rellenar sin derrame"
+  ],
+  "objeciones_resueltas": [
+   "derrame al rellenar"
+  ],
+  "diferenciadores": "Accesorio de una marca de aceites",
+  "merece_investigar": false,
+  "por_que": "Es manual; sirve como evidencia del modelo de líquido más accesorio.",
+  "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador",
+  "fecha": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta",
+    "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
    }
   ]
  }

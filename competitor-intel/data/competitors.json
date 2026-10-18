@@ -101,6 +101,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Precio sin cambios (ARS 25.600; 20.480 transferencia; 3 cuotas sin interés; +70 vendidos). Sigue mostrando 'Sin stock' y 'quedan 3' a la vez. Envío gratis desde ARS 60.000.",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios (ARS 25.600; 20.480 transferencia; +70 vendidos). Sigue con 'Sin stock' y 'quedan 3' a la vez.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -310,6 +316,12 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T11-54",
     "change": "Precio sin cambios (USD 50,95, tachado 158,95). Sigue el bloque \"4,5 M de vistas en TikTok e Instagram\" y \"Sold out 3 times\".",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precio sin cambios (USD 50,95; tachado 158,95). Mantiene '12.319 clientes' y 'agotado 3 veces'.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
@@ -846,7 +858,10 @@
   "market": "US",
   "category": "A_directo",
   "relevant_products": [
-   "Peines masajeadores con luz roja / atomizador"
+   "Peines masajeadores con luz roja / atomizador",
+   "Cosvu (cosvu.com) USD 48",
+   "ScalpRevive (dovence.com) USD 59,99 tachado 89,99",
+   "Ryslnte 3 en 1 (Amazon) USD 34,84"
   ],
   "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
   "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
@@ -856,12 +871,16 @@
   "sources": [
    "https://thickroots.com/products/rootpulse-red-blue-light-head-massage-comb",
    "https://pilore.com/products/the-root-awakening-brush",
-   "https://monalisamedical.com/product/3-in-1-red-light-therapy-scalp-massager-hair-oil-applicator-waterproof-electric-comb/"
+   "https://monalisamedical.com/product/3-in-1-red-light-therapy-scalp-massager-hair-oil-applicator-waterproof-electric-comb/",
+   "https://cosvu.com/products/red-light-scalp-massager",
+   "https://dovence.com/products/electric-massage-comb-with-vibration-red-light-therapy-scalp-brush-hair-growth-anti-hair-loss-liquid-oil-applicator-hair-care",
+   "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/"
   ],
   "relevance": "baja",
   "follow_reason": "Señal de saturación de la oferta en US; Pilore introduce variante con atomizador (niebla) en lugar de rodillos.",
   "facts": [
-   "Precios USD 54,90–69,21 (17/10/2026, vía índice de Exa)."
+   "Precios USD 54,90–69,21 (17/10/2026, vía índice de Exa).",
+   "18/10/2026: 3 tiendas/listados más del mismo formato en US (Cosvu USD 48, publicado 06/2026; ScalpRevive USD 59,99 con promesas de crecimiento, 05/2026; Ryslnte USD 34,84 en Amazon desde 01/2026 con 5 reseñas)."
   ],
   "inferences": [
    "El rango DTC US se concentra en USD 50–90; Flubberhome (41,93) queda abajo."
@@ -871,13 +890,19 @@
    "Ventas, anuncios."
   ],
   "id": "dtc-clones-us",
-  "last_reviewed": "2026-10-17",
+  "last_reviewed": "2026-10-18",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Alta en la base",
     "source": "https://thickroots.com/products/rootpulse-red-blue-light-head-massage-comb",
     "run_id": "2026-10-17T15-28-b"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "+3 clones (Cosvu, ScalpRevive, Ryslnte): sigue la saturación del formato en US, entre USD 35 y 60.",
+    "source": "https://cosvu.com/products/red-light-scalp-massager"
    }
   ]
  },
@@ -919,6 +944,12 @@
     "run_id": "2026-10-18T11-54",
     "change": "Precio Luxury sin cambios (COP 149.990, 27 reseñas). Se detecta modelo Essential COP 79.990 (tachado 99.990), agotado. Perfil público de TikTok con 10,8 mil seguidores; no se pudieron ver videos individuales.",
     "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento ; https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Precios sin cambios (Luxury COP 149.990; Essential COP 79.990). Luxury 4,9★ con 27 reseñas, todas positivas en la ficha; la ficha de Luxury promueve uso durante el lavado (IPX7). En la copia de Exa de Essential no se ve la marca de agotado (no confirmado).",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
   "id": "holy-cosmetics-co",
@@ -1233,6 +1264,135 @@
     "run_id": "2026-10-18T11-54",
     "change": "Competidor indirecto nuevo",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   }
+  ]
+ },
+ "leerong-us": {
+  "id": "leerong-us",
+  "name": "LeeRong (Amazon US)",
+  "domain": "amazon.com",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Peine eléctrico 3 en 1 con depósito de 6 ml y 8 rodillos",
+  "relevant_products": [
+   "Electric Scalp Massager Comb 3-in-1 (ASIN B0GXXYKTBT)"
+  ],
+  "price_visible": "USD 49,99 (18/10/2026)",
+  "value_prop": "Aplicación prolija con instrucción de dosis concreta y kit completo (incluye muestra de aceite y garantía).",
+  "channels": [
+   "Amazon US"
+  ],
+  "ads": "No obtenido.",
+  "facts": [
+   "Disponible desde el 21/04/2026.",
+   "Incluye muestra de aceite de 30 ml, bolsa de guardado y garantía de fábrica de 12 meses.",
+   "El listado recomienda cargar solo la mitad del depósito por sesión para evitar desbordes.",
+   "Advierte no mojar el botón ni el puerto USB-C."
+  ],
+  "inferences": [
+   "[INTERPRETACIÓN] El listado responde de antemano a las quejas de goteo y desborde que se repiten en la categoría."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Reseñas, ventas, anuncios."
+  ],
+  "sources": [
+   "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+  ],
+  "relevance": "media",
+  "follow_reason": "Ejemplo de cómo un listado nuevo neutraliza la objeción principal de la categoría (dosis y goteo) y suma garantía al mismo precio que Flubberhome.",
+  "last_reviewed": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta en la base",
+    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+   }
+  ]
+ },
+ "sensse-uk": {
+  "id": "sensse-uk",
+  "name": "Sensse Aura Pro",
+  "domain": "sensse (tienda propia) / Lookfantastic / Currys",
+  "market": "UK (no disponible en US según la nota)",
+  "category": "C_inspiracional",
+  "product_focus": "Dispositivo premium de cuero cabelludo con láser, LED, EMS, vibración y dispensador automático de 10 ml",
+  "relevant_products": [
+   "Aura Pro Laser Hair Device"
+  ],
+  "price_visible": "GBP 159,99 (nota del 21/08/2026)",
+  "value_prop": "Tecnología múltiple con dosificación automática del sérum.",
+  "channels": [
+   "Tienda propia",
+   "Retail (Lookfantastic, Very, Currys)"
+  ],
+  "ads": "No obtenido.",
+  "facts": [
+   "Lanzado en agosto de 2026 con dispensador automático de 10 ml y temporizador de 10 minutos (nota de T3)."
+  ],
+  "inferences": [
+   "[INTERPRETACIÓN] La dosificación integrada empieza a aparecer en el segmento premium y en retail tradicional."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Precio actual, ventas, llegada a nuestros mercados."
+  ],
+  "sources": [
+   "https://www.t3.com/home-living/beauty/this-led-scalp-device-tackles-thinning-hair-and-excess-oil-in-10-minutes-a-day"
+  ],
+  "relevance": "baja",
+  "follow_reason": "Referencia de hacia dónde va el segmento premium; no compite en AR/CO/MX.",
+  "last_reviewed": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta en la base",
+    "source": "https://www.t3.com/home-living/beauty/this-led-scalp-device-tackles-thinning-hair-and-excess-oil-in-10-minutes-a-day"
+   }
+  ]
+ },
+ "la-milpa-de-maria-mx": {
+  "id": "la-milpa-de-maria-mx",
+  "name": "La Milpa de María",
+  "domain": "lamilpademaria.com",
+  "market": "MX",
+  "category": "B_indirecto",
+  "product_focus": "Marca de aceites capilares que vende un aplicador manual como accesorio",
+  "relevant_products": [
+   "Aplicador de Aceite con Masajeador (+ 2 goteros)"
+  ],
+  "price_visible": "MXN 199 (18/10/2026)",
+  "value_prop": "El aplicador como parte de su ritual de aceites propios (aplicar en la raíz sin desperdicio).",
+  "channels": [
+   "Tienda propia (Shopify)"
+  ],
+  "ads": "No obtenido.",
+  "facts": [
+   "El aplicador manual cuesta MXN 199 e incluye 2 goteros para rellenar sin derramar; se recomienda junto a sus aceites."
+  ],
+  "inferences": [
+   "[INTERPRETACIÓN] Del lado del líquido, las marcas de aceite ya venden el aplicador como accesorio: el líquido es el producto recurrente y el aparato, el complemento."
+  ],
+  "hypotheses": [
+   "[HIPÓTESIS] Las marcas locales de aceites o tónicos podrían ser un canal de alianza para un aparato eléctrico. Sin verificar; implica contacto y lo decide el dueño."
+  ],
+  "unknowns": [
+   "Ventas del aplicador."
+  ],
+  "sources": [
+   "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
+  ],
+  "relevance": "baja",
+  "follow_reason": "Muestra el modelo inverso al de Flubberhome (líquido + accesorio); suma evidencia a OPP-006.",
+  "last_reviewed": "2026-10-18",
+  "history": [
+   {
+    "date": "2026-10-18",
+    "run_id": "2026-10-18T19-54",
+    "change": "Alta en la base",
+    "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
    }
   ]
  }

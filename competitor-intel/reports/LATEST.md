@@ -1,134 +1,118 @@
-# Inteligencia competitiva — run 2026-10-18T11-54
+# Inteligencia competitiva — run 2026-10-18T19-54
 
-**Foco:** Anuncios, creatividades y demanda (franja 11:54).
+**Foco:** Reseñas, nuevos competidores y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 18/10/2026, 11:55–12:30 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 18/10/2026, 19:54–20:30 (Buenos Aires).
 
 ---
 
 ## A. Resumen ejecutivo
-- **La señal de demanda más fuerte de hoy es del formato manual, no del eléctrico.** En TikTok Shop US, un kit manual de aplicador + aceite de romero (Kitsch, USD 19) muestra **43,6 mil vendidos**. El eléctrico con más vendidos del mismo listado muestra **9,3 mil**. Son contadores acumulados de la plataforma, no ventas mensuales.
-  - Es el mismo patrón que se vio en Mercado Libre AR con los cepillos de silicona. **OPP-002** (pasar del manual al eléctrico) sube de 36 a **48** y queda nº 2.
-- **Los competidores ya están en modo regalo y Black Friday:** INIA dice "regalo navideño" en el título, el eléctrico más vendido viene "con caja de regalo" y Glokore sigue con "BF26". Oportunidad nueva: **OPP-013, ángulo regalo con el Pack Dúo (score 37)**.
-- **Holy Cosmetics (CO) suma un segundo eléctrico, "Essential":** COP 79.990, agotado. [HIPÓTESIS] Arma una escalera de precios (de entrada y premium).
-- **Sin cambios de precio** en Holy Luxury, Anyra, Nordic ni Glokore.
-- **Biblioteca de anuncios de Meta:** volvió a fallar desde la nube.
+- **Patrón nuevo (incipiente): el masaje se siente menos de lo que se espera.** Tres productos distintos (INIA, Yaxa 3 en 1 y NAPRE) reciben quejas de que la vibración es débil, incómoda o "rebota" en la cabeza. Sale **OPP-014, expectativa honesta de la sensación (score 36)**.
+- **Competidor nuevo a seguir: LeeRong (Amazon US, USD 49,99).** Ya responde en su listado a la queja principal de la categoría: indica cargar media carga del depósito por sesión, incluye 30 ml de aceite y da 12 meses de garantía. Suma evidencia a OPP-001, OPP-003 y OPP-006, sin cambiar sus puntajes.
+- **Siguen apareciendo copias del mismo aparato en US:** Cosvu (USD 48), ScalpRevive (USD 59,99) y Ryslnte (USD 34,84), todos lanzados en 2026.
+- **Sin cambios de precio** en Lena (AR), Holy Luxury y Essential (CO) ni Anyra (US).
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| holy-cosmetics-co | CO | A | Precio, modelo nuevo Essential, perfil de TikTok |
-| anyra-us, nordic-biolabs-us | US | A | Precio y bloques de prueba social de la ficha |
-| glokore-us | US | A | Embudo checkout4 (sin comprar) |
-| breo-us, inia-us | US | A | Precio y contadores en TikTok Shop |
-| **kitsch-us** | US | B | **Nuevo, indirecto:** aplicador manual + aceite |
+| lena-vegetal-ar | AR | A | Precio y stock |
+| holy-cosmetics-co | CO | A | Precio (Luxury y Essential) y reseñas de la ficha |
+| anyra-us | US | A | Precio y prueba social |
+| **leerong-us** | US | A | **Nuevo**: listado de Amazon |
+| dtc-clones-us | US | A | +3 copias (Cosvu, ScalpRevive, Ryslnte) |
+| **la-milpa-de-maria-mx** | MX | B | **Nuevo, indirecto**: marca de aceites que vende un aplicador manual |
+| **sensse-uk** | UK | C | **Nuevo, inspiracional**: aparato premium con dispensador automático |
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. USD 41,93 / 71,88 / 89,85, 6 variantes, sin precio tachado.
 
-**Competidores** ([HECHO], 18/10/2026):
-| Producto | Precio | Novedad |
+**Chequeo rápido de precios** ([HECHO], 18/10/2026):
+| Producto | Precio | Cambio |
 |---|---|---|
-| Holy Essential (CO) | COP 79.990 (tachado 99.990) | **Nuevo; agotado** ([ficha](https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento)) |
-| Holy Luxury (CO) | COP 149.990 (tachado 199.990) | Sin cambios; 27 reseñas ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)) |
-| INIA VIBRA (US, TikTok Shop) | USD 139,99 (tachado 199,99) | Precio visible por primera vez ([ficha](https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250)) |
-| Breo Scalp3 (US, TikTok Shop) | USD 239,99 | Más caro que en su web y en Amazon (~USD 160) ([listado](https://shop.tiktok.com/us/k/hair-oil-and-massager)) |
-| Kitsch kit manual (US, TikTok Shop) | USD 19 | Nuevo en la base ([listado](https://shop.tiktok.com/us/k/hair-oil-and-massager)) |
-| Anyra / Nordic | USD 50,95 / USD 79 | Sin cambios ([Anyra](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator), [Nordic](https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum)) |
+| Lena kit masajeador + tónico (AR) | ARS 25.600 (20.480 por transferencia) | Ninguno. Sigue mostrando "Sin stock" y "quedan 3" a la vez ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)) |
+| Holy Luxury (CO) | COP 149.990 | Ninguno; 4,9★ con 27 reseñas ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)) |
+| Holy Essential (CO) | COP 79.990 | Ninguno. No se ve la marca de agotado, pero no está confirmado ([ficha](https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento)) |
+| Anyra (US) | USD 50,95 | Ninguno ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)) |
+| **LeeRong 3 en 1 (US)** | USD 49,99 | Nuevo en la base ([Amazon](https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT)) |
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** no se pudo consultar (ver Limitaciones). Lo que sigue **no viene de la Biblioteca**.
-- [HECHO] **Holy** tiene un TikTok público ([@holycosmetics](https://www.tiktok.com/@holycosmetics)) con 10,8 mil seguidores y 85,7 mil me gusta. El tono es de consejos y "productos que usamos". No se pudieron ver los videos individuales.
-- [HECHO] **Anyra** mantiene en la ficha la galería de videos y el bloque "4,5 M de vistas en TikTok e Instagram", además de "agotado 3 veces". Es la segunda vez que se ve (antes, el 17/10).
-  - [INTERPRETACIÓN] La prueba social viene del alcance en redes, no de las reseñas.
-- [HECHO] **Glokore** sigue igual: testimonios de crecimiento, "BF26", plan de reemplazo pago y 60 días de devolución ([embudo](https://glokore.com/scalpmassager/checkout4)).
-- [HECHO] **Clip de ML Colombia** (Rainbow Castle, 15/08/2024, 285 vistas): vende un mini aplicador para tratamientos capilares ([clip](https://www.mercadolibre.com.co/shorts/clips/jK3Nf3/mini-masajeador-aplicador-minoxidil-tratamiento-capilar)). Es viejo y de poco alcance.
-- **Motivaciones repetidas en la categoría** [INTERPRETACIÓN]:
-  - Regalo y temporada: INIA, el eléctrico con caja de regalo y Glokore.
-  - Prolijidad al aceitar: Kitsch, Anyra y Nordic.
-  - Urgencia por stock: Anyra y Nordic.
-- **Evolución:** sin cambios de gancho ni de oferta frente al 17/10 en Anyra y Glokore. No hay fechas de inicio visibles para ningún anuncio.
+Sin revisión en esta ejecución. Último dato: 18/10/2026 11:54.
 
 ## E. Demanda y señales de ventas
-| Señal | Valor | Tipo |
-|---|---|---|
-| TikTok Shop US, "hair oil and massager" | Kit manual Kitsch USD 19: 43,6 mil · eléctrico con caja de regalo USD 35,98: 9,3 mil · eléctrico 3 modos USD 35,98: 2,0 mil · Breo USD 239,99: 1,2 mil · eléctrico con luz USD 22,73: 991 · INIA USD 139,99: 816 · eléctricos nuevos: 2–187 ([listado](https://shop.tiktok.com/us/k/hair-oil-and-massager)) | HECHO: indicador de la plataforma |
-| INIA en TikTok Shop | 4,7★ con 61 reseñas | HECHO |
-| Ángulo de regalo / Black Friday | INIA, eléctrico con caja de regalo, Glokore "BF26"; CyberMonday AR del 2 al 4/11 | HECHO (oferta visible) |
-
-- **Qué indica:**
-  - La necesidad de aceitar el cuero cabelludo se vende en volumen en formato manual y barato.
-  - Entre los eléctricos, el volumen se concentra entre USD 23 y 36.
-  - Breo sostiene un precio alto con menos unidades.
-- **Qué no indica:** ventas mensuales, facturación ni rentabilidad. Los contadores son acumulados, sin período, y pueden sumar variantes.
+Sin revisión en esta ejecución. Último dato: 18/10/2026 11:54. No hubo contadores nuevos: LeeRong y Cosvu no muestran ni reseñas ni vendidos en la copia consultada.
 
 ## F. Experiencia de compra
 Sin revisión en esta ejecución. Último dato: 18/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 17/10/2026 (run 19-55).
-- Al pasar se vio una reseña de INIA que dice que el masaje no se siente como tal. Encaja con OPP-005 (la sensación de masaje en seco).
+**Reseñas nuevas** (paráfrasis, [HECHO] con la fecha de la reseña):
+- **NAPRE**, 17/02/2026 ([fuente](https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/)):
+  - En intensidad baja rebota en la cabeza y molesta; en alta es demasiado. Funciona mejor en el cuerpo.
+  - Los botones se tocan sin querer.
+- **Aplicador genérico**, nota de Hello Magazine del 13/03/2024 ([fuente](https://www.hellomagazine.com/shopping/515260/i-tried-an-led-hair-growth-massager-for-my-thinning-hair/)): las primeras veces cargó demasiado aceite y se derramó por no vaciar el depósito.
+- **Masajeador eléctrico**, foro del 20/12/2020 ([fuente](https://www.lipstickalley.com/threads/electronic-scalp-massager-for-natural-hair.4217986/)): dejó de funcionar a los meses y ya no retenía la carga. Es una fuente vieja.
+
+**Patrones actualizados** (en `reviews.json`):
+| Problema | Fuentes / competidores | Clasificación | Cambio |
+|---|---|---|---|
+| Dispensado del líquido (goteo, tapa, obstrucción, limpieza) | 15 / 11 | Tendencia | +1 (derrame por sobrecarga) |
+| Durabilidad y fallas | 7 / 6 | Tendencia | +1 (fuente vieja) |
+| **Sensación por debajo de lo esperado** | **3 / 3** | **Incipiente (nuevo)** | INIA, Yaxa 3 en 1 y NAPRE |
+| Pelo largo / enredos | 2 / 2 | Incipiente | Sin cambios |
+| Instrucciones de modos | 2 / 2 | Incipiente | Sin cambios |
+
+**Holy Luxury (CO):** las reseñas visibles en la ficha son todas de 5★, y una atribuye crecimiento de pelo tras una enfermedad. [INTERPRETACIÓN] La ficha muestra solo reseñas positivas y algunas con promesas médicas. Flubberhome no debe replicar ninguna de las dos cosas.
 
 ## H. Estrategias adaptables
-1. **Partir de un hábito que ya existe** (aceitar o cepillar) en vez de vender la tecnología. Ver OPP-002.
-2. **La temporada como contexto, no como descuento.** Ver OPP-013.
-3. **Escalera de precios de Holy:** solo como observación. No se recomienda sumar un modelo de entrada sin datos de costos y de demanda propia.
+1. **Responder la objeción dentro del listado** (LeeRong): indicar la dosis por sesión, advertir sobre el puerto y sumar garantía. Es lo que OPP-001 y OPP-003 proponen; ahora hay un caso real al mismo precio que Flubberhome.
+2. **El líquido como producto recurrente y el aparato como accesorio** (La Milpa de María). [HIPÓTESIS] Una alianza con marcas locales de aceites o tónicos podría servir como canal. Implica contactar a terceros, así que lo decide el dueño; no se contactó a nadie.
 
 **No replicar:**
-- Testimonios de crecimiento (Glokore).
-- Urgencia por stock no verificable (Anyra, Nordic).
-- Precios tachados inflados.
+- "Masaje profundo" o "como un spa" (se contradice con las reseñas).
+- Mostrar solo reseñas de 5★ o reseñas con promesas médicas.
+- Uso en la ducha (regla de Flubberhome).
 
 ## I. Oportunidades priorizadas
 Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si la urgencia es 4 o más.
 
-| # | id | Score | Estado | Acción concreta |
+| # | id | Score | Estado | Cambio en este run |
 |---|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Probar el depósito con líquidos livianos y espesos; grabar la demo |
-| 2 | **OPP-002 pasar del manual al eléctrico (AR + US)** | **48 (antes 36)** | nueva | Ver detalle abajo |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Más evidencia: sumar dosis por sesión y guardado vacío |
+| 2 | OPP-002 pasar del manual al eléctrico | 48 | nueva | — |
 | 3 | OPP-012 costo total y plazo claros en LatAm | 37 | nueva | — |
-| 3 | **OPP-013 ángulo regalo con el Pack Dúo (nueva)** | **37** | nueva | Ver detalle abajo |
-| 5 | OPP-007 precio honesto | 30 | nueva | — |
+| 3 | OPP-013 ángulo regalo con el Pack Dúo | 37 | nueva | — |
+| 5 | **OPP-014 expectativa honesta de la sensación** | **36** | **nueva** | **Alta** |
 
-**OPP-002, actualizada:**
-- **Evidencia:**
-  - ML AR: los manuales marcan entre +500 y +5 mil vendidos; los eléctricos, entre +5 y +50 (17/10).
-  - TikTok Shop US: el kit manual marca 43,6 mil; el eléctrico más vendido, 9,3 mil (18/10).
-- **Interpretación** [HIPÓTESIS]: el hábito ya existe en los dos mercados; falta una razón concreta para pasar al eléctrico.
-- **Confianza:** media-alta (se repite en 2 mercados y 2 plataformas).
-- **Acción:** en US, plantear la pieza como "tu rutina de aceite, sin manos grasosas y con masaje incluido". Se puede combinar con la demo de OPP-001. Sin nombrar marcas.
-- **Métrica:** CTR y costo por clic frente al ángulo base, cuando se reactiven las campañas.
-
-**OPP-013, ángulo regalo con el Pack Dúo:**
-- **Evidencia:** la sección E. Los competidores ya usan el regalo y la temporada.
-- **Interpretación** [HIPÓTESIS]: entre noviembre y diciembre, quien compra también regala. El Pack Dúo ("uno para vos, uno para regalar") encaja sin bajar el precio.
-- **Confianza:** media.
+**OPP-014, expectativa honesta de la sensación:**
+- **Evidencia:** el patrón nuevo de la sección G (3 fuentes de 3 productos).
+- **Interpretación** [HIPÓTESIS]: la categoría promete un masaje intenso y el aparato vibra más suave. La decepción termina en reseñas negativas.
+- **Confianza:** media-baja.
 - **Acción:**
-  - Un microdrama del Edificio Flubber: un vecino no sabe qué regalar y termina armando la rutina de a dos.
-  - En la ficha, la línea "ideal para regalar" junto al Pack Dúo.
-  - Una fecha límite de pedido por país, con los plazos reales.
-- **Riesgo:** con 10 a 20 días hábiles hacia LatAm, no prometer llegada antes de las fiestas sin confirmarlo. Sin datos de margen no se recomienda ningún descuento.
-- **Métrica:** proporción de Pack Dúo sobre el total de pedidos y CTR del ángulo regalo frente al ángulo base.
+  - El dueño prueba las 3 intensidades y anota en una línea qué se siente en cada una.
+  - Con eso se redacta un bloque "Qué vas a sentir" para la ficha y la Guía Digital: empezar en la 1, con el peine apoyado plano, pelo seco.
+  - Una pieza de 15 s con las tres pasadas y el sonido real.
+- **Riesgo:** describir una sensación sin haberla probado.
+- **Métrica:** retención a 3 s frente a los microdramas actuales y, cuando haya ventas, reclamos por "no es lo que esperaba".
 
 ## J. Próximas acciones
-- **Run de las 19:54:**
-  - Reseñas de Mercado Libre dentro de las publicaciones (sigue pendiente).
-  - Reseñas de Holy Essential si vuelve a tener stock.
-- **Próximo run de anuncios:** volver a intentar la Biblioteca de Meta. Para que funcione hace falta que alguien apruebe el acceso a la URL o un navegador conectado.
-- **Para el dueño** (no se contactó a nadie):
-  - Confirmar la fecha límite de pedido por país para que llegue antes de las fiestas (necesario para OPP-013).
-  - Decidir si se participa del CyberMonday AR (2 al 4/11).
+- **Run de las 03:54:** precios y catálogo. Volver a mirar LeeRong (reseñas y precio) y Holy Essential (stock).
+- **Run de las 11:54:** volver a intentar la Biblioteca de anuncios de Meta.
+- **Pendiente:** opiniones dentro de las publicaciones de Mercado Libre. Exa no las trae; hace falta un navegador conectado.
+- **Para el dueño:**
+  - Probar las intensidades para OPP-014.
+  - Siguen abiertas la fecha límite de pedido para las fiestas (OPP-013) y la decisión sobre el CyberMonday AR (2 al 4/11).
 
 ## K. Nuevos hallazgos
-- 1 competidor nuevo (Kitsch, indirecto) y 2 productos nuevos (Holy Essential y el kit Kitsch).
-- 2 señales de demanda nuevas y 1 clip nuevo.
-- 1 oportunidad nueva (OPP-013) y 1 actualizada (OPP-002, de 36 a 48).
+- 3 competidores nuevos (LeeRong, La Milpa de María y Sensse) y 3 copias sumadas a un grupo existente.
+- 2 productos nuevos y 4 reseñas nuevas.
+- 1 patrón nuevo y 2 patrones actualizados.
+- 1 oportunidad nueva (OPP-014, 36) y 3 con más evidencia sin cambio de score.
 - Sin cambios fuertes de precio en los competidores directos.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** WebFetch pidió permiso para la URL y nadie lo respondió (la ejecución es desatendida). No se vio ningún anuncio de la Biblioteca.
-- **TikTok:** el perfil de Holy solo muestra la cabecera sin login; no se analizaron sus videos. Los datos de TikTok Shop vienen de la copia de Exa y pueden estar desfasados.
-- **Contadores "sold":** son acumulados y sin período; no equivalen a ventas mensuales.
-- **Holy Essential:** "agotado" no prueba éxito.
+- **Mercado Libre:** las fichas individuales (MX, CL) no traen las opiniones en la copia de Exa. El listado AR solo da calificaciones agregadas.
+- **Fuentes viejas:** dos de las reseñas nuevas son de 2020 y 2024. Se usan solo para sumar a patrones que ya existían.
+- **AND CREAGE / Scalp D** (Japón): lanzó un cepillo eléctrico para el cuero cabelludo el 15/10/2026. Solo se pudo ver el título del comunicado, en japonés. Queda pendiente.
+- **Biblioteca de Meta:** no se intentó en esta franja.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

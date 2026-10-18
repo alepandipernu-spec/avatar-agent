@@ -247,5 +247,50 @@
    "OPP-002 (36→48)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-18T19-54",
+  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Lena, Holy (Luxury y Essential), Anyra",
+   "Amazon US (listados vía Exa)",
+   "ML MX/CL (fichas vía Exa)",
+   "foros y notas públicas (Hello, thehomeglow, lipstickalley, T3)"
+  ],
+  "fuentes_fallidas": [
+   "Opiniones dentro de las publicaciones de Mercado Libre: las copias de Exa no traen los comentarios (sigue pendiente)",
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+   "Comunicado de AND CREAGE (Japón, 15/10/2026): solo se vio el título"
+  ],
+  "competidores_revisados": [
+   "lena-vegetal-ar",
+   "holy-cosmetics-co",
+   "anyra-us",
+   "dtc-clones-us",
+   "mx-tiendas"
+  ],
+  "competidores_nuevos": [
+   "leerong-us",
+   "sensse-uk",
+   "la-milpa-de-maria-mx"
+  ],
+  "novedades": [
+   "Sin cambios de precio en Lena, Holy (Luxury y Essential) ni Anyra",
+   "Patrón nuevo e incipiente: sensación de masaje por debajo de lo esperado (3 fuentes)",
+   "LeeRong: kit con aceite, garantía de 12 meses e instrucción de media carga a USD 49,99",
+   "+3 clones en US (Cosvu, ScalpRevive, Ryslnte)"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-014-expectativa-honesta-de-la-sensacion (36)"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-001 (más evidencia, 80)",
+   "OPP-003 (más evidencia, 11)",
+   "OPP-006 (más evidencia, 2)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]
