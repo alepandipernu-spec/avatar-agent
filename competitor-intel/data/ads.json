@@ -53,8 +53,8 @@
    "prueba social"
   ],
   "primera_vez_visto": "2026-10-17",
-  "ultima_vez_visto": "2026-10-18",
-  "repeticiones": 2
+  "ultima_vez_visto": "2026-10-19",
+  "repeticiones": 3
  },
  "generico:tiktok-amirdeals4u-2026-08-29": {
   "id": "generico:tiktok-amirdeals4u-2026-08-29",
@@ -181,5 +181,37 @@
   "primera_vez_visto": "2026-10-18",
   "ultima_vez_visto": "2026-10-18",
   "repeticiones": 1
+ },
+ "generico:youtube-shubuying-peine-spray": {
+  "id": "generico:youtube-shubuying-peine-spray",
+  "run_id": "2026-10-19T11-55",
+  "competidor": "genérico (canal shubuying, YouTube)",
+  "fuente": "Video público de YouTube en español (NO es la Biblioteca de Meta; no se sabe si corre como anuncio pago)",
+  "url": "https://www.youtube.com/watch?v=yTTx3Tl62gQ",
+  "fecha_vista": "2026-10-19",
+  "formato": "Video corto con voz en off y música",
+  "gancho": "Objeción invertida: la narradora cuenta que pensaba devolver el producto y que el resultado la sorprendió (paráfrasis).",
+  "primeros_segundos": "Cuenta regresiva y exclamación de sorpresa antes de mostrar el peine.",
+  "problema": "Ir a la peluquería es caro y los sueros se derraman al trasvasarlos.",
+  "demostracion": "Pulverización de niebla mientras peina (según el audio).",
+  "beneficio": "Tratamiento capilar en casa y ahorro frente a la peluquería.",
+  "objeciones": [
+   "no tira del pelo",
+   "limpieza con un botón",
+   "portátil"
+  ],
+  "estructura": "Gancho de duda → problema de costo → demo de función → lista de funciones → precio a la mitad.",
+  "texto_en_pantalla": "No verificado (solo transcripción)",
+  "cta": "Implícita: 'está a mitad de precio'",
+  "oferta": "50% (sin precio visible)",
+  "motivaciones_INTERPRETACION": [
+   "ahorro",
+   "reducción de una preocupación (¿funciona?)",
+   "comparación con la peluquería"
+  ],
+  "primera_vez_visto": "2026-10-19",
+  "ultima_vez_visto": "2026-10-19",
+  "repeticiones": 1,
+  "nota": "Producto adyacente (peine con spray y luz roja), no el mismo formato. Fecha de publicación no visible."
  }
 }

@@ -234,13 +234,14 @@
   "relevant_products": [
    "Aplicador de tónico vibratorio"
   ],
-  "price_visible": "COP 37.425 (lista COP 49.900); despacho 4–5 días.",
+  "price_visible": "COP 49.900 sin descuento visible (19/10/2026); antes COP 37.425 con lista 49.900 (17/10/2026). '9 unidades disponibles'; despacho 4–5 días; sin reseñas ni preguntas.",
   "value_prop": "Venta dentro de una cadena de farmacias (confianza del canal).",
   "claims_observed": "'Rejuvenecedor de folículos', 'ideal para frenar la caída'.",
   "channels": [],
   "ads": "No obtenido.",
   "facts": [
-   "Producto similar vendido en farmacia en Colombia."
+   "Producto similar vendido en farmacia en Colombia.",
+   "19/10/2026: COP 49.900 sin descuento, '9 unidades disponibles', 'Aún no hay opiniones'."
   ],
   "inferences": [
    "En CO el canal farmacia da confianza que una tienda nueva no tiene."
@@ -253,13 +254,19 @@
    "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
   ],
   "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-  "last_reviewed": "2026-10-17",
+  "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
+  "last_reviewed": "2026-10-19",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "Fin del descuento: pasa de COP 37.425 a COP 49.900 (+33%). Muestra '9 unidades disponibles' y cero reseñas.",
+    "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
    }
   ]
  },
@@ -340,6 +347,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (USD 50,95; tachado 158,95, 'SAVE 68%'). Mantiene '12.319 clientes', 'agotado 3 veces' y entrega 7–14 días hábiles. Sin promo de Black Friday visible.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "Sin cambios de precio ni de oferta (USD 50,95; tachado 158,95). La galería muestra 7 elementos (el 17/10 se registraron 5 videos; no se pudo ver si los nuevos son videos o fotos). Sigue sin promo de Black Friday.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
@@ -583,6 +596,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Embudo checkout4 sin cambios: código 'BF26' sigue cargado; precios por pack siguen sin renderizar; 60 días de devolución menos envío y plan de reemplazo pago.",
+    "source": "https://glokore.com/scalpmassager/checkout4"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "Embudo checkout4 sin cambios ('BF26', packs sin renderizar, 60 días de devolución).",
     "source": "https://glokore.com/scalpmassager/checkout4"
    }
   ]
@@ -904,7 +923,8 @@
    "Peines masajeadores con luz roja / atomizador",
    "Cosvu (cosvu.com) USD 48",
    "ScalpRevive (dovence.com) USD 59,99 tachado 89,99",
-   "Ryslnte 3 en 1 (Amazon) USD 34,84"
+   "Ryslnte 3 en 1 (Amazon) USD 34,84",
+   "Sunluxy 'Electric Scalp Massager Hair Oil Applicator' USD 29,99 (tachado 59,99), agotado"
   ],
   "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
   "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
@@ -946,6 +966,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "+3 clones (Cosvu, ScalpRevive, Ryslnte): sigue la saturación del formato en US, entre USD 35 y 60.",
     "source": "https://cosvu.com/products/red-light-scalp-massager"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "+1 clon: Sunluxy (sunluxy.com) USD 29,99, tachado 59,99, 'Out of stock'. La ficha mezcla nombres de otros productos (DayIn, Dayln, Scalpistry), promete frenar la caída y regenerar entradas, y se contradice: 30 días de devolución arriba y 60 días con 2 años de garantía abajo. Dice '20.000+ clientes' sin reseñas verificables.",
+    "source": "https://www.sunluxy.com/products/electric-scalp-massager-hair-oil-applicator"
    }
   ]
  },
@@ -998,6 +1024,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Luxury sin cambios (COP 149.990, tachado 199.990; 4,9★/27 reseñas). Essential COP 79.990 (tachado 99.990, -20%); en la copia consultada no aparece la marca 'Agotado' (stock sin confirmar). Ficha Luxury sigue indicando IPX7 y uso durante el lavado.",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "Luxury sin cambios (COP 149.990, tachado 199.990; 4,9★/27 reseñas).",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
@@ -1320,12 +1352,18 @@
   ],
   "relevance": "media",
   "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-  "last_reviewed": "2026-10-18",
+  "last_reviewed": "2026-10-19",
   "history": [
    {
     "date": "2026-10-18",
     "run_id": "2026-10-18T11-54",
     "change": "Competidor indirecto nuevo",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "TikTok Shop US: kit manual sigue en 43,6 mil vendidos (igual que el 18/10); la tienda muestra 2,0 M vendidos en total.",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
    }
   ]

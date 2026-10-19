@@ -189,7 +189,15 @@
   "alcance": "US, TikTok Shop",
   "tipo": "HECHO: indicador de la plataforma (acumulado, sin período)",
   "indica": "La necesidad de aceitar el cuero cabelludo se vende mucho en formato manual y barato; entre los eléctricos, el volumen se concentra en USD 23–36 y la marca premium sostiene USD 240 con menos unidades.",
-  "no_indica": "Ventas mensuales, facturación ni rentabilidad; los contadores pueden sumar variantes o períodos largos."
+  "no_indica": "Ventas mensuales, facturación ni rentabilidad; los contadores pueden sumar variantes o períodos largos.",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T11-55",
+    "change": "Mismos contadores que el 18/10 en los productos de referencia (43,6 mil / 9,3 mil / 2,0 mil / 1,2 mil / 991). Aparecen en el listado: un 3 en 1 con aplicador que se vende como 'regalo para mujeres y hombres' (555 vendidos, USD 32,96) y un masajeador ASMR con infusor (11 vendidos, USD 18,99). INIA no aparece en esta copia. Copia de Exa: puede estar desfasada.",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   }
+  ]
  },
  "temporada-regalo-2026": {
   "id": "temporada-regalo-2026",
@@ -226,5 +234,29 @@
   "tipo": "HECHO",
   "que_indica": "Ventana de alta intención de compra y alta competencia de descuentos en AR.",
   "que_no_indica": "No indica que la categoría venda más ni que convenga descontar."
+ },
+ "head-spa-cepillo-japones-ar-medios": {
+  "id": "head-spa-cepillo-japones-ar-medios",
+  "fecha": "2026-10-19",
+  "run_id": "2026-10-19T11-55",
+  "senal": "Nota de medio argentino sobre el cepillo japonés de cuero cabelludo como ritual tipo 'head spa'",
+  "valor": "Rosario3 (15/10/2026, basada en Vogue): presenta el cuidado del cuero cabelludo como ritual de bienestar y pide no esperar resultados milagrosos.",
+  "fuente": "https://www.rosario3.com/trendy/el-accesorio-que-quizas-te-falta-para-completar-tu-rutina-de-cuidado-del-pelo-20261015-0012.html",
+  "alcance": "AR (medio regional)",
+  "tipo": "HECHO (publicación); interés del público: HIPÓTESIS",
+  "que_indica": "El encuadre 'head spa / ritual en casa' llega a medios generales argentinos, con un tono de expectativa moderada.",
+  "que_no_indica": "No mide búsquedas ni ventas; es una sola nota sindicada y el producto es manual."
+ },
+ "aurevia-farmatodo-stock": {
+  "id": "aurevia-farmatodo-stock",
+  "fecha": "2026-10-19",
+  "run_id": "2026-10-19T11-55",
+  "senal": "Stock y reseñas visibles de AUREVIA en Farmatodo CO",
+  "valor": "'9 unidades disponibles'; 0 reseñas; 0 preguntas; precio COP 49.900 sin descuento.",
+  "fuente": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1",
+  "alcance": "CO",
+  "tipo": "HECHO",
+  "que_indica": "Sin prueba social pública en el canal farmacia.",
+  "que_no_indica": "Las unidades disponibles no indican ventas (no se conoce el stock inicial)."
  }
 }

@@ -341,5 +341,47 @@
    "OPP-013 (fecha confirmada, 37)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-19T11-55",
+  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "TikTok Shop US (copia de Exa)",
+   "fichas Anyra, Holy Luxury, Glokore checkout4, Sunluxy, Farmatodo (AUREVIA)",
+   "YouTube (transcripciones vía Exa)",
+   "Rosario3"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
+   "TikTok discover (contenido vacío vía Exa)",
+   "TikTok Creative Center Top Ads (la página carga sin resultados sin login)",
+   "Listado ML MX (no disponible vía Exa)",
+   "Amazon Best Sellers de masajeadores (la URL devolvió otra categoría)"
+  ],
+  "competidores_revisados": [
+   "anyra-us",
+   "holy-cosmetics-co",
+   "glokore-us",
+   "aurevia-co",
+   "kitsch-us",
+   "dtc-clones-us"
+  ],
+  "competidores_nuevos": [],
+  "novedades": [
+   "AUREVIA (Farmatodo CO) termina el descuento: COP 37.425 → 49.900 (+33%)",
+   "Sunluxy: nuevo clon US con ficha contradictoria, agotado",
+   "Contadores de TikTok Shop US sin cambios frente al 18/10",
+   "Video en español con gancho de 'casi lo devuelvo' (producto adyacente)",
+   "Nota de Rosario3 sobre ritual 'head spa' (15/10)"
+  ],
+  "oportunidades_nuevas": [],
+  "oportunidades_actualizadas": [
+   "OPP-013 (más evidencia, 37)",
+   "OPP-014 (más evidencia, 36)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

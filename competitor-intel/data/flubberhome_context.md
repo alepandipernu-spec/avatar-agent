@@ -42,3 +42,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 - 18/10/2026 11:54 (run 2026-10-18T11-54): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en el run anterior.
 - 18/10/2026 19:54 (run 2026-10-18T19-54): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los dos runs anteriores.
 - 19/10/2026 03:55 (run 2026-10-19T03-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los tres runs anteriores.
+- 19/10/2026 11:55 (run 2026-10-19T11-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los cuatro runs anteriores.
