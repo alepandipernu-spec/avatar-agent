@@ -126,6 +126,11 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T19-54",
     "change": "Más evidencia, score sin cambios (11). LeeRong ofrece 12 meses de garantía a USD 49,99, cerca del precio de Flubberhome."
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Más evidencia, score sin cambios (11): TYMO publica 1 año pero con una exclusión ambigua; NeXo (CO) 30 días; Smartjoys (CO) 2 meses; una reseña de Breo se queja de soporte automatizado."
    }
   ]
  },
@@ -476,7 +481,7 @@
   "id": "OPP-013-angulo-regalo-temporada",
   "competidor_observado": "INIA (TikTok Shop), eléctrico \"con caja de regalo\" (TikTok Shop), Glokore (BF26)",
   "producto_estrategia": "Ángulo de regalo de autocuidado para la temporada (CyberMonday AR, Black Friday, fiestas)",
-  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026)",
+  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026) ; https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools (Holiday Duo de TYMO, 19/10/2026)",
   "hallazgo": "[HECHO] INIA titula su listado como regalo navideño; el eléctrico con más vendidos del listado se presenta con caja de regalo (9,3 mil, contador acumulado); Glokore tiene \"BF26\" cargado. CyberMonday AR es el 2–4/11/2026.",
   "explicacion": "[HIPÓTESIS] En noviembre-diciembre el comprador también es quien regala; el Pack Dúo (\"uno para vos, uno para regalar\") encaja sin bajar el precio.",
   "confianza": "media (ángulo visible en la competencia; efecto no medido)",
@@ -491,13 +496,13 @@
   "proximo_paso": "El dueño confirma la fecha límite de pedido por país; preparar el episodio para principios de noviembre.",
   "puntajes": {
    "impacto": 3,
-   "confianza": 3,
+   "confianza": 4,
    "facilidad": 4,
    "costo": 1,
    "riesgo": 1,
    "urgencia": 4
   },
-  "score": 37.0,
+  "score": 49.0,
   "estado": "nueva",
   "historial": [
    {
@@ -509,6 +514,11 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T11-55",
     "change": "Más evidencia (score sin cambio, 37): otro eléctrico con aplicador en TikTok Shop US usa la palabra 'regalo' en el título (555 vendidos, USD 32,96)."
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Score 37→49 (confianza 3→4): una marca establecida (TYMO) lanza en Ulta un pack de regalo de dos aparatos para las fiestas. Confirma el formato 'dúo de regalo' fuera de los genéricos."
    }
   ],
   "history": [
@@ -557,6 +567,41 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T11-55",
     "change": "Más evidencia (score sin cambio): un medio argentino (Rosario3, 15/10) presenta el cuidado del cuero cabelludo como ritual 'head spa' y pide no esperar resultados milagrosos. Coincide con el tono honesto que propone esta oportunidad."
+   }
+  ]
+ },
+ "OPP-015-guia-en-espanol-visible-antes-de-comprar": {
+  "id": "OPP-015-guia-en-espanol-visible-antes-de-comprar",
+  "competidor_observado": "ZOKO LAB (TikTok Shop US), Yaxa 3 en 1, Breo",
+  "producto_estrategia": "Instrucciones del aparato",
+  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/1732414648709452528 (reseñas del 10 al 23/06/2026, consultado 19/10/2026); patrón 'Instrucciones pobres' en reviews.json",
+  "hallazgo": "[HECHO] En un listado con 1,3 mil reseñas, varias quejas son porque el manual vino solo en chino; en otros 2 productos, porque no se entiende qué hace cada modo.",
+  "explicacion": "[HIPÓTESIS] El comprador de un aparato importado teme no saber usarlo. Ver las instrucciones antes de pagar reduce esa duda.",
+  "confianza": "media (3 fuentes de 3 productos; uno es adyacente)",
+  "diferencia_flubberhome": "Flubberhome ya incluye una Guía Digital, pero la ficha no muestra cómo es ni qué explica.",
+  "adaptable": "Hacer visible la guía en español antes de la compra.",
+  "no_replicar": "Manuales traducidos a máquina o que prometen resultados.",
+  "propuesta_original": "Una vista previa de 2 páginas de la Guía Digital en la ficha (cómo cargar el depósito, qué se siente en cada intensidad, limpieza) y una línea junto al botón: 'Guía en español incluida'. Se puede combinar con OPP-001 y OPP-014.",
+  "ejemplo": "Carrusel de 3 imágenes: 1) 'Así llega tu guía'; 2) la página de carga del depósito; 3) la página de limpieza.",
+  "recursos": "La Guía Digital existente; AI Creative Studio o diseño simple; edición de la ficha en Shopify (la hace el dueño).",
+  "costos_riesgos": "Costo bajo. Riesgo: mostrar una guía incompleta. Revisarla antes de exponerla.",
+  "metrica": "Tasa de agregar al carrito de la ficha antes y después (cuando haya tráfico) y preguntas o reclamos por uso.",
+  "proximo_paso": "El dueño revisa que la Guía cubra carga, intensidades y limpieza; después se arma la vista previa.",
+  "puntajes": {
+   "impacto": 3,
+   "confianza": 3,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 2
+  },
+  "score": 36.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Alta (score 36)"
    }
   ]
  }

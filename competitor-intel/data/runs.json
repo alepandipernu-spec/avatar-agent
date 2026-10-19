@@ -383,5 +383,50 @@
    "OPP-014 (más evidencia, 36)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-19T19-54",
+  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Anyra, Holy Luxury, Lena, TYMO, NeXo",
+   "Ulta y Target (copias de Exa)",
+   "TikTok Shop US (copia de Exa)",
+   "Amazon US (listados vía Exa)",
+   "blogs de reseñas (claytonnotes, getsupplementreviews, balancedbrawn)"
+  ],
+  "fuentes_fallidas": [
+   "WebFetch de Ulta: permiso de URL no respondido (se usó la copia de Exa)",
+   "Opiniones dentro de Mercado Libre: las copias de Exa siguen sin traer comentarios",
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+  ],
+  "competidores_revisados": [
+   "anyra-us",
+   "holy-cosmetics-co",
+   "lena-vegetal-ar",
+   "breo-us",
+   "co-dtc-tiendas",
+   "amazon-generics-us",
+   "tymo-us"
+  ],
+  "competidores_nuevos": [
+   "tymo-us"
+  ],
+  "novedades": [
+   "TYMO TriThera: marca establecida con depósito para líquido en Ulta a USD 42,99 (lista 99,99) y Holiday Duo a USD 89,99",
+   "+2 tiendas CO (NeXo, Nuvitecno) y +1 genérico US (BFYCHYC)",
+   "Patrón 'instrucciones pobres' pasa a tendencia incipiente (3 fuentes)",
+   "Sin cambios de precio en Anyra, Holy Luxury ni Lena"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-015-guia-en-espanol-visible-antes-de-comprar (36)"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-013 (37→49)",
+   "OPP-003 (más evidencia, 11)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

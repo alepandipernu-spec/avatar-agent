@@ -113,6 +113,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (ARS 25.600; tachado 32.000; ARS 20.480 por transferencia; 3 cuotas sin interés). Sigue '+70 vendidos' y a la vez 'Sin stock' y 'quedan 3'. Cupón BIENVENIDA 10% sigue visible.",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Chequeo rápido: sin cambios de precio (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia). Muestra \"+70 vendidos\" y \"solo quedan 3 en stock\".",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -354,6 +360,12 @@
     "run_id": "2026-10-19T11-55",
     "change": "Sin cambios de precio ni de oferta (USD 50,95; tachado 158,95). La galería muestra 7 elementos (el 17/10 se registraron 5 videos; no se pudo ver si los nuevos son videos o fotos). Sigue sin promo de Black Friday.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95, 4,9 con 12.319 clientes declarados). Sigue el bloque reciclado del cojín de coxis.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -488,7 +500,8 @@
   "category": "A_directo",
   "product_focus": "Aplicador de aceite + masajeador",
   "relevant_products": [
-   "Aplicador de aceite + masajeador"
+   "Aplicador de aceite + masajeador",
+   "BFYCHYC 6 en 1 con atomizador (ASIN B09KXS4557), USD 46,89, disponible desde el 16/04/2026"
   ],
   "price_visible": "USD 21,99 – 49,99.",
   "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
@@ -509,11 +522,12 @@
   ],
   "sources": [
    "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
-   "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
+   "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4",
+   "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557"
   ],
   "relevance": "media",
   "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-  "last_reviewed": "2026-10-17",
+  "last_reviewed": "2026-10-19",
   "history": [
    {
     "date": "2026-10-17",
@@ -525,6 +539,12 @@
     "run_id": "2026-10-17T15-27",
     "change": "Precios y reseñas actualizados de 4 listados.",
     "source": "amazon.com (B0DLWC7WXC, B0GW9G41D4, B0CW99YTS7, B0DX1T6RNV)"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Se suma BFYCHYC (6 en 1 con atomizador, USD 46,89, claims médicos, sin reseñas visibles).",
+    "source": "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557"
    }
   ]
  },
@@ -647,7 +667,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-  "last_reviewed": "2026-10-18",
+  "last_reviewed": "2026-10-19",
   "history": [
    {
     "date": "2026-10-17",
@@ -672,6 +692,12 @@
     "run_id": "2026-10-18T11-54",
     "change": "TikTok Shop US: USD 239,99, \"1.2K sold\", 4,1★ (listado de búsqueda).",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Nueva reseña pública (claytonnotes, 12/04/2026): el masaje y el láser no funcionan a la vez, el sensor falla y la atención al cliente responde con mensajes automáticos.",
+    "source": "https://claytonnotes.com/breo-scalp-massager/"
    }
   ]
  },
@@ -1031,6 +1057,12 @@
     "run_id": "2026-10-19T11-55",
     "change": "Luxury sin cambios (COP 149.990, tachado 199.990; 4,9★/27 reseñas).",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Chequeo rápido: Luxury sin cambios (COP 149.990, tachado 199.990, 4,9 con 27 reseñas).",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
   "id": "holy-cosmetics-co",
@@ -1128,7 +1160,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-18",
+  "last_reviewed": "2026-10-19",
   "history": [
    {
     "date": "2026-10-17",
@@ -1141,6 +1173,12 @@
     "run_id": "2026-10-18T03-55",
     "change": "Smartjoys: COP 64.900 (tachado 116.000), garantía de 2 meses por defecto de fabricación, IPX7 'durante el baño'.",
     "source": "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Se suman NeXo Colombia (COP 79.900, tachado 139.900, agotado, pago contra entrega, garantía 30 días, claims de caída, 2 reseñas) y Nuvitecno (COP 79.000, depósito 3 ml, claims de caída). [ESTIMACIÓN] ≈ USD 25 con TRM 3.170,46 (16/10). Smartjoys sigue en COP 64.900 (tachado 116.000) con garantía de 2 meses.",
+    "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador"
    }
   ],
   "id": "co-dtc-tiendas",
@@ -1155,7 +1193,9 @@
    "SK Glam cepillo dispensador",
    "VitaHair (Tiendas Cosmo)",
    "En Tu Sitio cepillo masajeador",
-   "911 Hair masajeador recargable"
+   "911 Hair masajeador recargable",
+   "NeXo Colombia 'cepillo restaurador' (atomizador, depósito 15 ml)",
+   "Nuvitecno cepillo vibratorio (depósito 3 ml)"
   ],
   "price_visible": "COP 55.900 – 109.900 (17/10/2026): Smartjoys 64.900 (tachado 116.000), Karamelo 89.900 (tachado 150.000), SK Glam 109.900, VitaHair 79.900, En Tu Sitio 79.000, 911 Hair 55.900 (tachado 79.900). [ESTIMACIÓN] ≈ USD 18–35.",
   "value_prop": "Precio bajo, contraentrega/WhatsApp, copy de 'tratamiento profesional en casa'.",
@@ -1170,7 +1210,9 @@
    "https://www.skglam.store/products/cepillo-masajeador-y-dispensador-de-aceites",
    "https://tiendascosmo.com/products/vitahair%E2%84%A2-masajeador-de-cuero-cabelludo-y-aplicador-de-aceite",
    "https://www.entusitio.com.co/products/cepillo-masajeador-de-cuero-cabelludo",
-   "https://911hair.com.co/collections/masajeadores"
+   "https://911hair.com.co/collections/masajeadores",
+   "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador",
+   "https://nuvitecno.com/products/cepillo-masajeador-capilar-vibratoriocepillo-masajeador-capilar-vibratorio-cuero-cabelludo-cuero-cabelludo"
   ],
   "relevance": "media",
   "follow_reason": "Definen el piso de precio y el estándar de claims en CO; útiles para ver qué NO hacer y dónde está el hueco de confianza."
@@ -1550,6 +1592,66 @@
     "run_id": "2026-10-19T03-55",
     "change": "Competidor nuevo registrado (canal cross-border).",
     "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+   }
+  ]
+ },
+ "tymo-us": {
+  "id": "tymo-us",
+  "name": "TYMO Beauty — TriThera",
+  "domain": "tymobeauty.com",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Cepillo eléctrico con masaje, EMS, luz roja y depósito desmontable para líquidos",
+  "relevant_products": [
+   "TYMO TriThera (DTC, Ulta, Target)",
+   "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
+  ],
+  "price_visible": "DTC USD 99,99 (tachado 129,99) · Ulta USD 42,99 en oferta (lista 99,99), color Gold Blush agotado a 99,99 · Target USD 79,99 agotado (otra publicación) · Holiday Duo USD 89,99 (lista 159,99). Consulta 19/10/2026; las páginas de Ulta y Target vienen de la copia de Exa, sin fecha visible.",
+  "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
+  "claims_observed": [
+   "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
+   "Resultados en 4–8 semanas (FAQ DTC)"
+  ],
+  "channels": [
+   "DTC tymobeauty.com",
+   "Ulta (online)",
+   "Target (vendido por TYMO)",
+   "ShopMy (afiliados)"
+  ],
+  "ads": "No obtenido (Biblioteca de Meta no consultada en esta franja).",
+  "facts": [
+   "[HECHO] Depósito de líquido desmontable con rodillos; uso con o sin aceite (Ulta, 19/10/2026).",
+   "[HECHO] 3 niveles de EMS × 3 de masaje; apagado a los 10 min; IPX7; carga en 2 h.",
+   "[HECHO] DTC: 4 reseñas (4,5/5); una cuenta que dejó de encender. Ulta: 3,8★ con 4 reseñas en la lista de marca. Target: 4★ con 8 reseñas.",
+   "[HECHO] La garantía de 1 año de TYMO cubre 'hair styling tools' y excluye la serie 'Hair Care / Hair Accessories'; no queda claro en cuál cae el TriThera.",
+   "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo."
+  ],
+  "inferences": [
+   "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
+  ],
+  "hypotheses": [
+   "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio."
+  ],
+  "unknowns": [
+   "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon."
+  ],
+  "sources": [
+   "https://tymobeauty.com/products/tymo-trithera",
+   "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
+   "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools",
+   "https://www.target.com/p/tymo-trithera-scalp-therapy-red-light-massage-brush-hair-appliance-accessories-champagne-pink/-/A-94433316",
+   "https://www.target.com/p/tymo-trithera-trithera-scalp-massage-brush/-/A-1012761777",
+   "https://shopmy.us/shop/product/1763258"
+  ],
+  "relevance": "alta",
+  "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
+  "last_reviewed": "2026-10-19",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Alta en la base (competidor nuevo, relevancia alta)",
+    "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
    }
   ]
  }

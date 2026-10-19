@@ -675,5 +675,44 @@
     "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
    }
   ]
+ },
+ "tymo-us:trithera": {
+  "id": "tymo-us:trithera",
+  "problema": "Masaje del cuero cabelludo con aplicación de líquido, más luz roja y EMS",
+  "variantes": "Colores (Champagne Pink, Gold Blush, otros); Holiday Duo con plancha-peine",
+  "precio": {
+   "DTC": "USD 99,99 (tachado 129,99)",
+   "Ulta": "USD 42,99 en oferta (lista 99,99)",
+   "Target": "USD 79,99 (agotado)",
+   "Holiday Duo Ulta": "USD 89,99 (lista 159,99)"
+  },
+  "promos": "Oferta en Ulta y DTC; regalo aleatorio con algunas compras DTC",
+  "garantia": "1 año para 'hair styling tools'; excluye 'Hair Care / Hair Accessories' (ambiguo para este producto)",
+  "devolucion": "Target: 30 o 90 días según publicación",
+  "envio": "DTC EE. UU.: entrega estimada 23–25/10; Ulta: gratis desde USD 35",
+  "beneficios": [
+   "depósito desmontable",
+   "9 combinaciones de masaje/EMS",
+   "IPX7",
+   "apagado a 10 min",
+   "batería de ~7 días"
+  ],
+  "objeciones_resueltas": [
+   "limpieza (depósito desmontable)",
+   "aceites espesos (FAQ recomienda líquidos livianos)"
+  ],
+  "diferenciadores": "Marca conocida + retail grande + pack de regalo",
+  "merece_investigar": true,
+  "por_que": "Puede fijar el precio de referencia del formato en EE. UU. durante la temporada de regalos.",
+  "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
+  "fecha": "2026-10-19",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T19-54",
+    "change": "Alta",
+    "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
+   }
+  ]
  }
 }

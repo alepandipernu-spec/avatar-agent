@@ -2,8 +2,8 @@
  "patterns": [
   {
    "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 15,
-   "n_competidores": 11,
+   "n_fuentes": 17,
+   "n_competidores": 12,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
    "fecha": "2026-10-17",
@@ -28,6 +28,11 @@
      "date": "2026-10-18",
      "run_id": "2026-10-18T19-54",
      "change": "+1 fuente (Hello Magazine: sobrecarga y derrame por no vaciar). Contraejemplo: LeeRong indica cargar media carga por sesión."
+    },
+    {
+     "date": "2026-10-19",
+     "run_id": "2026-10-19T19-54",
+     "change": "+2 fuentes (Breo resumen 2025, MINOZOOS): dispensado irregular y aceites espesos que no pasan."
     }
    ]
   },
@@ -42,8 +47,8 @@
   },
   {
    "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 7,
-   "n_competidores": 6,
+   "n_fuentes": 9,
+   "n_competidores": 8,
    "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
    "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
    "fecha": "2026-10-17",
@@ -53,6 +58,11 @@
      "date": "2026-10-18",
      "run_id": "2026-10-18T19-54",
      "change": "+1 fuente (foro lipstickalley, 2020: deja de funcionar a los meses y no retiene carga). Fuente vieja."
+    },
+    {
+     "date": "2026-10-19",
+     "run_id": "2026-10-19T19-54",
+     "change": "+2 fuentes (TYMO TriThera: dejó de encender; ZOKO LAB: llega roto o no enciende)."
     }
    ]
   },
@@ -68,13 +78,19 @@
   },
   {
    "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
-   "n_fuentes": 2,
-   "n_competidores": 2,
-   "clasificacion": "incipiente (Yaxa 3 en 1 + Breo en ejecuciones anteriores)",
+   "n_fuentes": 3,
+   "n_competidores": 3,
+   "clasificacion": "tendencia incipiente (3 fuentes de 3 productos; ZOKO con muchas reseñas sobre manual solo en chino)",
    "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
    "fecha": "2026-10-17",
    "run_id": "2026-10-17T19-55",
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-19",
+     "run_id": "2026-10-19T19-54",
+     "change": "+1 fuente: ZOKO LAB (TikTok Shop US), varias quejas por manual solo en chino. Ver OPP-015."
+    }
+   ]
   },
   {
    "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
@@ -89,6 +105,26 @@
     "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
     "NAPRE (thehomeglow, 17/02/2026)"
    ],
+   "historial": []
+  },
+  {
+   "problema": "Diferencia entre lo anunciado en video y lo recibido",
+   "n_fuentes": 1,
+   "n_competidores": 1,
+   "clasificacion": "aislado (1 producto adyacente, pero con muchas reseñas coincidentes)",
+   "oportunidad": "Mostrar en los anuncios solo lo que el aparato hace de verdad (demo real, sin efectos), algo que la línea de Flubberhome ya exige.",
+   "fecha": "2026-10-19",
+   "run_id": "2026-10-19T19-54",
+   "historial": []
+  },
+  {
+   "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
+   "n_fuentes": 1,
+   "n_competidores": 1,
+   "clasificacion": "aislado (1 reseña de blog)",
+   "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
+   "fecha": "2026-10-19",
+   "run_id": "2026-10-19T19-54",
    "historial": []
   }
  ],
@@ -316,6 +352,51 @@
    "parafrasis": "Una usuaria cuenta que dejó de andar a los pocos meses y que antes ya no retenía la carga. Otra menciona miedo a los enredos. Fuente vieja.",
    "fecha_consulta": "2026-10-18",
    "run_id": "2026-10-18T19-54"
+  },
+  {
+   "fuente": "https://shop.tiktok.com/us/pdp/1732414648709452528",
+   "producto": "Peine eléctrico con spray y luz roja de ZOKO LAB (TikTok Shop US, producto adyacente)",
+   "problema": "diferencia entre lo anunciado y lo recibido; falta de instrucciones; calidad insuficiente",
+   "fecha": "2026-06-10 a 2026-06-23",
+   "parafrasis": "Varias compradoras dicen que no hace lo que mostraban los videos, que llegó roto o no enciende, y que el manual vino solo en chino. El listado muestra 2,8★ con 1,3 mil reseñas y 10,9 mil vendidos.",
+   "fecha_consulta": "2026-10-19",
+   "run_id": "2026-10-19T19-54"
+  },
+  {
+   "fuente": "https://tymobeauty.com/products/tymo-trithera",
+   "producto": "TYMO TriThera",
+   "problema": "durabilidad",
+   "fecha": "no visible",
+   "parafrasis": "Una compradora cuenta que funcionó al principio y después dejó de encender aunque lo cargó.",
+   "fecha_consulta": "2026-10-19",
+   "run_id": "2026-10-19T19-54"
+  },
+  {
+   "fuente": "https://claytonnotes.com/breo-scalp-massager/",
+   "producto": "Breo Scalp3",
+   "problema": "atención al cliente deficiente; expectativas no satisfechas",
+   "fecha": "2026-04-12",
+   "parafrasis": "La autora dice que el masaje y el láser no se pueden usar juntos, que el sensor dejó de activar la luz y que soporte solo respondió con textos automáticos. Es una reseña de blog, no de compra verificada.",
+   "fecha_consulta": "2026-10-19",
+   "run_id": "2026-10-19T19-54"
+  },
+  {
+   "fuente": "https://getsupplementreviews.com/breo-scalp-massager-review/",
+   "producto": "Breo Scalp3",
+   "problema": "dispensado del líquido",
+   "fecha": "2025-07-28",
+   "parafrasis": "Resumen de reseñas: el dispensador funciona de forma irregular y la tapa puede perder. Fuente secundaria.",
+   "fecha_consulta": "2026-10-19",
+   "run_id": "2026-10-19T19-54"
+  },
+  {
+   "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBL5JCB",
+   "producto": "MINOZOOS aplicador eléctrico (3,6★, 30 reseñas)",
+   "problema": "dispensado del líquido",
+   "fecha": "no visible",
+   "parafrasis": "La reseña destacada dice que funciona con aceites livianos y que los espesos no pasan bien.",
+   "fecha_consulta": "2026-10-19",
+   "run_id": "2026-10-19T19-54"
   }
  ]
 }
