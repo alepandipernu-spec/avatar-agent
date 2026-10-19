@@ -292,5 +292,54 @@
    "OPP-006 (más evidencia, 2)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-19T03-55",
+  "foco": "Catálogo, tiendas y precios (franja 03:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "WebSearch",
+   "WebFetch (Tiendanube)",
+   "fichas Lena, Holy (Luxury y Essential), Anyra, Microshop, NIHLO, Hairrova, Nordic, Glokore checkout4",
+   "Amazon US (LeeRong vía Exa)",
+   "listado ML AR (copia de Exa)",
+   "Frávega (vía Exa)"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+   "Mercado Libre AR directo: se usó la copia de Exa (puede estar desfasada)",
+   "Glokore: precios por pack sin renderizar"
+  ],
+  "competidores_revisados": [
+   "lena-vegetal-ar",
+   "holy-cosmetics-co",
+   "anyra-us",
+   "microshop-ar",
+   "nihlo-co",
+   "hairrova-us",
+   "nordic-biolabs-us",
+   "glokore-us",
+   "leerong-us",
+   "ml-electricos-ar",
+   "ar-tiendas-chicas"
+  ],
+  "competidores_nuevos": [
+   "nocnoc-crossborder-ar"
+  ],
+  "novedades": [
+   "Sin cambios de precio en 10 competidores directos",
+   "Frávega/nocnoc: aplicador importado con precio final en pesos ARS 93.302",
+   "Holy Essential sin marca de agotado (sin confirmar)",
+   "Nordic suma 'Stock Very Low'",
+   "CyberMonday AR confirmado 2–4/11"
+  ],
+  "oportunidades_nuevas": [],
+  "oportunidades_actualizadas": [
+   "OPP-012 (más evidencia, 37)",
+   "OPP-013 (fecha confirmada, 37)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

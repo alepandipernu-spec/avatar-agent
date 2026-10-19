@@ -202,5 +202,29 @@
   "tipo": "HECHO (oferta visible)",
   "indica": "Los competidores se preparan para la temporada de regalos.",
   "no_indica": "Que el ángulo regalo convierta mejor."
+ },
+ "ar-crossborder-precio-final": {
+  "id": "ar-crossborder-precio-final",
+  "fecha": "2026-10-19",
+  "run_id": "2026-10-19T03-55",
+  "senal": "Aparato importado de EE. UU. con precio final en pesos en un retailer grande de AR",
+  "valor": "MRIYA en Frávega (vendido por nocnoc): ARS 93.301,96 con impuestos, tasas y envío; ARS 77.109,06 sin impuestos nacionales. En Amazon US el mismo nombre de producto cuesta USD 21,99.",
+  "fuente": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/",
+  "alcance": "AR, 1 ficha",
+  "tipo": "HECHO (precio) / ESTIMACIÓN (≈ USD 61 todo incluido con BNA ARS 1.530 del 15/10/2026, ±5%)",
+  "que_indica": "Existe oferta importada del mismo formato, con el total final visible, a un precio comparable al de Flubberhome antes de impuestos.",
+  "que_no_indica": "No indica ventas ni demanda: la ficha no muestra vendidos ni reseñas."
+ },
+ "cybermonday-ar-2026-fecha": {
+  "id": "cybermonday-ar-2026-fecha",
+  "fecha": "2026-10-19",
+  "run_id": "2026-10-19T03-55",
+  "senal": "Fecha confirmada del CyberMonday AR 2026",
+  "valor": "2, 3 y 4 de noviembre de 2026 (14 días desde esta ejecución)",
+  "fuente": "https://www.tiendanube.com/blog/cuando-es-el-cybermonday",
+  "alcance": "AR",
+  "tipo": "HECHO",
+  "que_indica": "Ventana de alta intención de compra y alta competencia de descuentos en AR.",
+  "que_no_indica": "No indica que la categoría venda más ni que convenga descontar."
  }
 }

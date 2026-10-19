@@ -462,6 +462,14 @@
     "run_id": "2026-10-18T03-55",
     "change": "creada"
    }
+  ],
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Más evidencia, score sin cambios (37): Frávega/nocnoc vende en AR un aplicador eléctrico importado mostrando el total final en pesos (ARS 93.302 ≈ USD 61) y el precio sin impuestos nacionales. Demuestra que el formato 'total final visible' ya existe en AR para productos importados.",
+    "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+   }
   ]
  },
  "OPP-013-angulo-regalo-temporada": {
@@ -496,6 +504,14 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T11-54",
     "change": "creada"
+   }
+  ],
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Fecha del CyberMonday AR confirmada: 2–4/11/2026 (faltan 14 días). Con entrega de 10–20 días hábiles, un pedido del CyberMonday llegaría entre mediados y fines de noviembre. Sin cambio de score; la decisión sigue siendo del dueño.",
+    "source": "https://www.tiendanube.com/blog/cuando-es-el-cybermonday"
    }
   ]
  },

@@ -37,6 +37,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "Precio sin cambios USD 50,95.",
     "source": "chequeo rápido de precios (Exa fetch)"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Precio sin cambios USD 50,95.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -72,6 +78,12 @@
     "run_id": "2026-10-17T15-27",
     "change": "Alta / precio verificado",
     "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (USD 89,99; Sold out).",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
    }
   ]
  },
@@ -104,6 +116,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "Alta / precio verificado",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (USD 79); suma 'Stock Status: Very Low'.",
     "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
    }
   ]
@@ -139,6 +157,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-27",
     "change": "Alta / precio verificado",
+    "source": "https://glokore.com/scalpmassager/checkout4"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Código 'BF26' sigue cargado; precios por pack sin renderizar.",
     "source": "https://glokore.com/scalpmassager/checkout4"
    }
   ]
@@ -259,6 +283,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "Precio sin cambios ARS 25.600.",
     "source": "chequeo rápido de precios (Exa fetch)"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (ARS 25.600; 'Sin stock' + 'quedan 3').",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -299,6 +329,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28",
     "change": "alta del registro"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (ARS 45.780).",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
    }
   ]
  },
@@ -381,6 +417,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "Alta",
+    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (COP 89.900).",
     "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
    }
   ]
@@ -485,6 +527,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "Precio sin cambios COP 79.990.",
     "source": "chequeo rápido de precios (Exa fetch)"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "COP 79.990 (tachado 99.990). La copia consultada no muestra 'Agotado'; stock sin confirmar.",
+    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
    }
   ]
  },
@@ -553,6 +601,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "Alta",
     "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+   },
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Precio sin cambios USD 49,99; sin reseñas visibles.",
+    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
    }
   ]
  },
@@ -585,6 +639,40 @@
     "run_id": "2026-10-18T19-54",
     "change": "Alta",
     "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
+   }
+  ]
+ },
+ "nocnoc-crossborder-ar:mriya-fravega": {
+  "id": "nocnoc-crossborder-ar:mriya-fravega",
+  "problema": "Aplicar líquidos en la raíz con vibración, sin enchastre",
+  "variantes": "1 unidad",
+  "precio": {
+   "1u": "ARS 93.301,96 todo incluido (tachado 112.412,17); s/imp. nac. ARS 77.109,06"
+  },
+  "promos": "Precio tachado (-17%)",
+  "garantia": "No visible en Frávega (la descripción traducida menciona reemplazo vía Amazon)",
+  "devolucion": "No revisada",
+  "envio": "Incluido en el precio; no envía a CABA (CP 1406) ni retira en sucursal",
+  "beneficios": [
+   "depósito 6 ml con ventana graduada",
+   "apagado a los 10 min",
+   "USB-C",
+   "IPX5 (según descripción)"
+  ],
+  "objeciones_resueltas": [
+   "impuestos y envío (precio final visible)"
+  ],
+  "diferenciadores": "Total final en pesos dentro de un retailer conocido",
+  "merece_investigar": true,
+  "por_que": "Es el primer caso relevado de un aparato del mismo formato vendido en AR desde EE. UU. con el costo total visible: es la referencia práctica para OPP-012.",
+  "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/",
+  "fecha": "2026-10-19",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "run_id": "2026-10-19T03-55",
+    "change": "Alta",
+    "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
    }
   ]
  }

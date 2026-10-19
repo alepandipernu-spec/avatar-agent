@@ -1,118 +1,131 @@
-# Inteligencia competitiva — run 2026-10-18T19-54
+# Inteligencia competitiva — run 2026-10-19T03-55
 
-**Foco:** Reseñas, nuevos competidores y oportunidades (franja 19:54).
+**Foco:** Catálogo, tiendas y precios (franja 03:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 18/10/2026, 19:54–20:30 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 19/10/2026, 03:55–04:30 (Buenos Aires).
 
 ---
 
 ## A. Resumen ejecutivo
-- **Patrón nuevo (incipiente): el masaje se siente menos de lo que se espera.** Tres productos distintos (INIA, Yaxa 3 en 1 y NAPRE) reciben quejas de que la vibración es débil, incómoda o "rebota" en la cabeza. Sale **OPP-014, expectativa honesta de la sensación (score 36)**.
-- **Competidor nuevo a seguir: LeeRong (Amazon US, USD 49,99).** Ya responde en su listado a la queja principal de la categoría: indica cargar media carga del depósito por sesión, incluye 30 ml de aceite y da 12 meses de garantía. Suma evidencia a OPP-001, OPP-003 y OPP-006, sin cambiar sus puntajes.
-- **Siguen apareciendo copias del mismo aparato en US:** Cosvu (USD 48), ScalpRevive (USD 59,99) y Ryslnte (USD 34,84), todos lanzados en 2026.
-- **Sin cambios de precio** en Lena (AR), Holy Luxury y Essential (CO) ni Anyra (US).
+- **Ejecución tranquila: ningún competidor directo cambió el precio.** Se revisaron 10: Lena, Microshop, Holy (Luxury y Essential), NIHLO, Anyra, Hairrova, Nordic, Glokore y LeeRong, más el listado de ML AR.
+- **Hallazgo nuevo: competencia importada con precio final en pesos.** Frávega vende un aplicador eléctrico MRIYA, de EE. UU., a través de nocnoc. Lo publica a **ARS 93.302 con impuestos, tasas y envío incluidos**, y muestra aparte el precio sin impuestos nacionales.
+  - Suma evidencia a OPP-012 (costo total visible). El score no cambia.
+- **El CyberMonday AR es el 2, 3 y 4 de noviembre** (confirmado; faltan 14 días). La decisión de OPP-013 sigue abierta.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| lena-vegetal-ar | AR | A | Precio y stock |
-| holy-cosmetics-co | CO | A | Precio (Luxury y Essential) y reseñas de la ficha |
-| anyra-us | US | A | Precio y prueba social |
-| **leerong-us** | US | A | **Nuevo**: listado de Amazon |
-| dtc-clones-us | US | A | +3 copias (Cosvu, ScalpRevive, Ryslnte) |
-| **la-milpa-de-maria-mx** | MX | B | **Nuevo, indirecto**: marca de aceites que vende un aplicador manual |
-| **sensse-uk** | UK | C | **Nuevo, inspiracional**: aparato premium con dispensador automático |
+| lena-vegetal-ar, microshop-ar | AR | A | Precio, stock, condiciones |
+| holy-cosmetics-co | CO | A | Luxury y Essential (precio, stock) |
+| nihlo-co | CO | A | Precio y garantía |
+| anyra-us, hairrova-us, nordic-biolabs-us, leerong-us | US | A | Precio y stock |
+| glokore-us | US | A | Embudo checkout4 (sin comprar) |
+| ml-electricos-ar | AR | A | Listado público (copia de Exa) |
+| ar-tiendas-chicas | AR | A | Se suma Tecno Crazy (ACME) |
+| **nocnoc-crossborder-ar** | AR | A | **Nuevo:** compra internacional en Frávega y ML |
 
 ## C. Productos y ofertas
-**Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. USD 41,93 / 71,88 / 89,85, 6 variantes, sin precio tachado.
+**Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado. Última modificación del producto: 18/10/2026 02:45 (BA).
 
-**Chequeo rápido de precios** ([HECHO], 18/10/2026):
+**Chequeo de precios** ([HECHO], 19/10/2026):
 | Producto | Precio | Cambio |
 |---|---|---|
-| Lena kit masajeador + tónico (AR) | ARS 25.600 (20.480 por transferencia) | Ninguno. Sigue mostrando "Sin stock" y "quedan 3" a la vez ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)) |
+| Lena kit + tónico (AR) | ARS 25.600 (20.480 por transferencia) | Ninguno; sigue "Sin stock" y "quedan 3" a la vez ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)) |
+| Microshop (AR) | ARS 45.780, envío gratis | Ninguno ([ficha](https://www.microshop.com.ar/productos/micro-masajeador-capilar/)) |
 | Holy Luxury (CO) | COP 149.990 | Ninguno; 4,9★ con 27 reseñas ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)) |
-| Holy Essential (CO) | COP 79.990 | Ninguno. No se ve la marca de agotado, pero no está confirmado ([ficha](https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento)) |
-| Anyra (US) | USD 50,95 | Ninguno ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)) |
-| **LeeRong 3 en 1 (US)** | USD 49,99 | Nuevo en la base ([Amazon](https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT)) |
+| Holy Essential (CO) | COP 79.990 (tachado 99.990) | Precio igual. No aparece "Agotado"; stock sin confirmar ([ficha](https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento)) |
+| NIHLO (CO) | COP 89.900 | Ninguno; 1 año de garantía ([ficha](https://www.nihlo.com.co/products/masajeador-capilar-nihlo)) |
+| Anyra (US) | USD 50,95 | Ninguno; sin promo de Black Friday ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)) |
+| Hairrova (US) | USD 89,99 | Ninguno; sigue "Sold out" ([ficha](https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush)) |
+| Nordic (US) | USD 79 | Precio igual; suma el cartel "Stock Status: Very Low" ([ficha](https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum)) |
+| LeeRong (US) | USD 49,99 | Ninguno; todavía sin reseñas ([Amazon](https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT)) |
+| Glokore (US) | Packs no visibles | Sigue el código "BF26" ([embudo](https://glokore.com/scalpmassager/checkout4)) |
+
+**Nuevos en la base** ([HECHO], 19/10/2026):
+- **MRIYA en Frávega (vendido por nocnoc)** ([ficha](https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/)):
+  - ARS 93.301,96 (tachado ARS 112.412,17). Sin impuestos nacionales: ARS 77.109,06.
+  - La ficha aclara que el precio incluye impuestos, tasas y envío.
+  - No envía a CABA (CP 1406) ni permite retirar en sucursal.
+  - En Amazon US, un producto con el mismo nombre cuesta USD 21,99 (dato del 17/10/2026). No está confirmado que sea el mismo modelo.
+- **Tecno Crazy (AR):** masajeador recargable ACME a ARS 27.200 por transferencia o ARS 39.440 en 6 cuotas, con entrega inmediata ([ficha](https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105)). No queda claro si tiene depósito.
+- **ML AR:** el listado sigue igual en los de referencia. MegaCuper ARS 37.692 (+50 vendidos) y Relextech ARS 58.006 (+25 vendidos), según el indicador de ML. Aparecen también ofertas con "Envío desde China" a ARS 28.709 y 58.037 ([listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo), copia de Exa).
+
+[ESTIMACIÓN] Con el dólar oficial del BNA a ARS 1.530 (15/10/2026, [fuente](https://eleconomista.com.ar/economia/dolar-hoy-cuanto-cotiza-viernes-16-octubre-n98903)), por división simple y con un margen de ±5% por tipo de cambio:
+- MRIYA en Frávega ≈ **USD 61 todo incluido**, o ≈ USD 50 sin impuestos nacionales.
+- Flubberhome, 1 unidad + envío: USD 51,93, antes de impuestos argentinos.
+- Las dos condiciones no son del todo comparables: el total de Flubberhome con impuestos no está publicado.
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 18/10/2026 11:54.
 
 ## E. Demanda y señales de ventas
-Sin revisión en esta ejecución. Último dato: 18/10/2026 11:54. No hubo contadores nuevos: LeeRong y Cosvu no muestran ni reseñas ni vendidos en la copia consultada.
+Sin revisión de fondo. Último dato: 18/10/2026 11:54. Se registraron dos señales:
+- La ficha de Frávega/nocnoc ([HECHO]). No muestra vendidos ni reseñas, así que no indica demanda.
+- La fecha del CyberMonday AR, del 2 al 4/11/2026 ([Tiendanube](https://www.tiendanube.com/blog/cuando-es-el-cybermonday)).
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 18/10/2026 03:55.
+- **Frávega/nocnoc** ([HECHO]): muestra el total final en pesos y el precio sin impuestos en la misma ficha, y aclara las restricciones de envío. [INTERPRETACIÓN] Es el estándar de transparencia que el comprador argentino ya ve en un retailer grande para productos importados.
+- **Glokore:** la plantilla de packs sigue sin renderizar en la copia. No se verificó si el checkout funciona.
+- No se hicieron compras ni se completaron checkouts.
 
 ## G. Reseñas y debilidades competitivas
-**Reseñas nuevas** (paráfrasis, [HECHO] con la fecha de la reseña):
-- **NAPRE**, 17/02/2026 ([fuente](https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/)):
-  - En intensidad baja rebota en la cabeza y molesta; en alta es demasiado. Funciona mejor en el cuerpo.
-  - Los botones se tocan sin querer.
-- **Aplicador genérico**, nota de Hello Magazine del 13/03/2024 ([fuente](https://www.hellomagazine.com/shopping/515260/i-tried-an-led-hair-growth-massager-for-my-thinning-hair/)): las primeras veces cargó demasiado aceite y se derramó por no vaciar el depósito.
-- **Masajeador eléctrico**, foro del 20/12/2020 ([fuente](https://www.lipstickalley.com/threads/electronic-scalp-massager-for-natural-hair.4217986/)): dejó de funcionar a los meses y ya no retenía la carga. Es una fuente vieja.
-
-**Patrones actualizados** (en `reviews.json`):
-| Problema | Fuentes / competidores | Clasificación | Cambio |
-|---|---|---|---|
-| Dispensado del líquido (goteo, tapa, obstrucción, limpieza) | 15 / 11 | Tendencia | +1 (derrame por sobrecarga) |
-| Durabilidad y fallas | 7 / 6 | Tendencia | +1 (fuente vieja) |
-| **Sensación por debajo de lo esperado** | **3 / 3** | **Incipiente (nuevo)** | INIA, Yaxa 3 en 1 y NAPRE |
-| Pelo largo / enredos | 2 / 2 | Incipiente | Sin cambios |
-| Instrucciones de modos | 2 / 2 | Incipiente | Sin cambios |
-
-**Holy Luxury (CO):** las reseñas visibles en la ficha son todas de 5★, y una atribuye crecimiento de pelo tras una enfermedad. [INTERPRETACIÓN] La ficha muestra solo reseñas positivas y algunas con promesas médicas. Flubberhome no debe replicar ninguna de las dos cosas.
+Sin revisión en esta ejecución. Último dato: 18/10/2026 19:54.
 
 ## H. Estrategias adaptables
-1. **Responder la objeción dentro del listado** (LeeRong): indicar la dosis por sesión, advertir sobre el puerto y sumar garantía. Es lo que OPP-001 y OPP-003 proponen; ahora hay un caso real al mismo precio que Flubberhome.
-2. **El líquido como producto recurrente y el aparato como accesorio** (La Milpa de María). [HIPÓTESIS] Una alianza con marcas locales de aceites o tónicos podría servir como canal. Implica contactar a terceros, así que lo decide el dueño; no se contactó a nadie.
+1. **Total final visible antes del checkout** (Frávega/nocnoc): mostrar en la misma ficha el precio con y sin impuestos, más las restricciones de envío. Para Flubberhome sería un bloque por país con el total aproximado en moneda local. Ver OPP-012. No se copia su precio ni su texto.
 
 **No replicar:**
-- "Masaje profundo" o "como un spa" (se contradice con las reseñas).
-- Mostrar solo reseñas de 5★ o reseñas con promesas médicas.
-- Uso en la ducha (regla de Flubberhome).
+- Precios tachados inflados (Frávega/nocnoc, Holy, Microshop, Anyra, Nordic, Hairrova).
+- Carteles de stock bajo que no se pueden verificar (Nordic, Lena).
+- Las descripciones traducidas con claims de crecimiento.
 
 ## I. Oportunidades priorizadas
-Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si la urgencia es 4 o más.
+Fórmula: score = impacto × confianza × facilidad ÷ (costo × riesgo), +1 si la urgencia es 4 o más. Ningún score cambió.
 
 | # | id | Score | Estado | Cambio en este run |
 |---|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Más evidencia: sumar dosis por sesión y guardado vacío |
-| 2 | OPP-002 pasar del manual al eléctrico | 48 | nueva | — |
-| 3 | OPP-012 costo total y plazo claros en LatAm | 37 | nueva | — |
-| 3 | OPP-013 ángulo regalo con el Pack Dúo | 37 | nueva | — |
-| 5 | **OPP-014 expectativa honesta de la sensación** | **36** | **nueva** | **Alta** |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | — |
+| 2 | OPP-002 pasar del manual al eléctrico (AR) | 48 | nueva | — |
+| 3 | OPP-012 costo total y plazo claros en LatAm | 37 | nueva | Más evidencia: caso Frávega/nocnoc |
+| 3 | OPP-013 ángulo regalo con el Pack Dúo | 37 | nueva | CyberMonday AR confirmado: 2–4/11 |
+| 5 | OPP-014 expectativa honesta de la sensación | 36 | nueva | — |
 
-**OPP-014, expectativa honesta de la sensación:**
-- **Evidencia:** el patrón nuevo de la sección G (3 fuentes de 3 productos).
-- **Interpretación** [HIPÓTESIS]: la categoría promete un masaje intenso y el aparato vibra más suave. La decepción termina en reseñas negativas.
-- **Confianza:** media-baja.
-- **Acción:**
-  - El dueño prueba las 3 intensidades y anota en una línea qué se siente en cada una.
-  - Con eso se redacta un bloque "Qué vas a sentir" para la ficha y la Guía Digital: empezar en la 1, con el peine apoyado plano, pelo seco.
-  - Una pieza de 15 s con las tres pasadas y el sonido real.
-- **Riesgo:** describir una sensación sin haberla probado.
-- **Métrica:** retención a 3 s frente a los microdramas actuales y, cuando haya ventas, reclamos por "no es lo que esperaba".
+**OPP-012 con la evidencia nueva:**
+- **Evidencia:** un competidor importado vende el mismo formato en AR mostrando el total final en pesos (≈ USD 61 todo incluido).
+- **Interpretación** [HIPÓTESIS]: si Flubberhome muestra solo USD 41,93, el comprador argentino compara contra un total que no conoce. Un aproximado en pesos con los impuestos posibles reduce esa duda.
+- **Confianza:** media.
+- **Acción concreta:** el dueño confirma qué impuestos o percepciones paga un comprador argentino con tarjeta en USD. Con eso se redacta el bloque "pagás aprox. $X en total" junto al botón.
+- **Métrica:** checkout iniciado → compra en AR y consultas sobre impuestos, cuando se reactiven las campañas.
+
+**OPP-013 con la fecha confirmada:**
+- [ESTIMACIÓN] Con los 10–20 días hábiles que publica la ficha, un pedido del 2/11 llegaría entre el 16 y el 30/11 aproximadamente (sin contar feriados).
+- Sirve para regalos de fin de año, no para entrega inmediata.
+- Sin datos de margen no se recomienda ningún descuento.
 
 ## J. Próximas acciones
-- **Run de las 03:54:** precios y catálogo. Volver a mirar LeeRong (reseñas y precio) y Holy Essential (stock).
-- **Run de las 11:54:** volver a intentar la Biblioteca de anuncios de Meta.
-- **Pendiente:** opiniones dentro de las publicaciones de Mercado Libre. Exa no las trae; hace falta un navegador conectado.
-- **Para el dueño:**
-  - Probar las intensidades para OPP-014.
-  - Siguen abiertas la fecha límite de pedido para las fiestas (OPP-013) y la decisión sobre el CyberMonday AR (2 al 4/11).
+- **Run de las 11:54:**
+  - Intentar la Biblioteca de anuncios de Meta.
+  - Buscar creatividades de Black Friday o CyberMonday en Glokore, Anyra y Holy.
+- **Run de las 19:54:** reseñas de LeeRong (todavía sin reseñas) y opiniones dentro de ML (necesitan navegador).
+- **Próximo run de catálogo:**
+  - Ver si Holy Essential volvió a stock.
+  - Ver si aparecen precios de CyberMonday en Lena y Microshop.
+  - Comprobar si nocnoc tiene más modelos de este formato en ML AR.
+- **Para el dueño** (no se contactó a nadie):
+  - Impuestos reales al pagar en USD desde AR (OPP-012).
+  - Decidir si se participa del CyberMonday (2–4/11).
 
 ## K. Nuevos hallazgos
-- 3 competidores nuevos (LeeRong, La Milpa de María y Sensse) y 3 copias sumadas a un grupo existente.
-- 2 productos nuevos y 4 reseñas nuevas.
-- 1 patrón nuevo y 2 patrones actualizados.
-- 1 oportunidad nueva (OPP-014, 36) y 3 con más evidencia sin cambio de score.
-- Sin cambios fuertes de precio en los competidores directos.
+- 1 competidor nuevo (nocnoc cross-border, AR) y 1 tienda sumada a un grupo existente (Tecno Crazy).
+- 1 producto nuevo y 2 señales nuevas.
+- 2 oportunidades con más evidencia, sin cambio de score.
+- Sin cambios de precio en los competidores directos.
 
 ## L. Limitaciones
-- **Mercado Libre:** las fichas individuales (MX, CL) no traen las opiniones en la copia de Exa. El listado AR solo da calificaciones agregadas.
-- **Fuentes viejas:** dos de las reseñas nuevas son de 2020 y 2024. Se usan solo para sumar a patrones que ya existían.
-- **AND CREAGE / Scalp D** (Japón): lanzó un cepillo eléctrico para el cuero cabelludo el 15/10/2026. Solo se pudo ver el título del comunicado, en japonés. Queda pendiente.
-- **Biblioteca de Meta:** no se intentó en esta franja.
+- **Mercado Libre AR:** se usó la copia de Exa del listado, que puede estar desfasada. El listado directo pide login.
+- **Holy Essential:** el stock no está confirmado (la copia no muestra "Agotado", pero tampoco confirma que haya disponibilidad).
+- **Frávega/nocnoc:** no está confirmado que el MRIYA sea el mismo modelo que el de Amazon. Plazos de entrega y ventas desconocidos.
+- **Conversiones:** el tipo de cambio es del 15/10/2026, sin percepciones de tarjeta.
+- **Biblioteca de Meta:** no se intentó (no es la franja de anuncios).
 - **Repo público:** sin datos internos. Conviene volverlo privado.
