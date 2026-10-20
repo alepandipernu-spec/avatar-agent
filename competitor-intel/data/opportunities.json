@@ -41,6 +41,12 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T19-54",
     "change": "Más evidencia, score sin cambios (80). LeeRong (Amazon, 04/2026) indica cargar solo media carga por sesión, y una nota de Hello Magazine cuenta un derrame por sobrecarga. Sumar a la demo la dosis por sesión y cómo guardarlo vacío."
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Más evidencia, score sin cambios (80): DHactive y BERNOVAS también prometen aplicación limpia y sin desperdicio. La promesa ya es común; lo que diferencia es demostrarla en video (carga, pasada, mano limpia) en lugar de afirmarla.",
+    "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
    }
   ]
  },
@@ -88,7 +94,7 @@
   "id": "OPP-003-garantia-publicada",
   "competidor_observado": "Gadnic (12 meses), Hairrova (1 año + 30 días), Breo (365 días), Glokore (60 días + plan pago), Nordic (devolución)",
   "producto_estrategia": "Garantía visible como argumento de confianza",
-  "fuente_evidencia": "competitors.json / products.json (17/10/2026) | 19-55: patrón de fallas de fábrica (6 fuentes); Breo 30 días + 1 año (us.breo.com); NIHLO CO 1 año a COP 89.900; Smartjoys CO 2 meses; En Tu Sitio CO 30 días.",
+  "fuente_evidencia": "competitors.json / products.json (17/10/2026) | 19-55: patrón de fallas de fábrica (6 fuentes); Breo 30 días + 1 año (us.breo.com); NIHLO CO 1 año a COP 89.900; Smartjoys CO 2 meses; En Tu Sitio CO 30 días. | 11-57 (20/10): Gadnic ya con stock y 12 meses; DHactive (US) devolución 60 días (https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)",
   "hallazgo": "[HECHO] 5 de los competidores relevados publican garantía o devolución extendida; Flubberhome solo cambios 30 días sin abrir y defectos en 72 h.",
   "explicacion": "[HIPÓTESIS] En una marca nueva sin reseñas, la garantía reemplaza parte de la prueba social que falta.",
   "confianza": "alta en el hecho, media en el efecto",
@@ -131,6 +137,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Más evidencia, score sin cambios (11): TYMO publica 1 año pero con una exclusión ambigua; NeXo (CO) 30 días; Smartjoys (CO) 2 meses; una reseña de Breo se queja de soporte automatizado."
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Más evidencia, score sin cambios (11): Gadnic sale de preventa con 12 meses de garantía visible junto al precio; DHactive publica 60 días de devolución.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  },
@@ -206,6 +218,12 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "Score 12.0→18.0: el uso en la ducha es la norma de la competencia, así que el ritual en seco necesita encuadre propio para no parecer una limitación."
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Más evidencia, score sin cambios (18): la copia de Ulta de TYMO TriThera la vende como apta para la ducha (IPX7). Se confirma que el uso en seco necesita encuadre de ritual propio.",
+    "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
    }
   ]
  },
@@ -443,7 +461,7 @@
   "id": "OPP-012-costo-total-y-plazo-claros-latam",
   "competidor_observado": "Locales de AR y CO (Lena, Microshop, Holy Cosmetics, Mercado Libre AR)",
   "producto_estrategia": "Condiciones de compra: moneda, costo total, plazo y forma de pago",
-  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega'",
+  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega' | 11-57 (20/10): Gadnic AR ARS 97.299, 3 cuotas, envío en el día AMBA (https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)",
   "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales.",
   "explicacion": "[HIPÓTESIS] En LatAm la fricción principal no es el precio de lista sino la incertidumbre sobre cuánto se paga al final y cuándo llega. Una ficha que lo deja claro antes del checkout reduce abandonos; no aclararlo puede generar reclamos.",
   "confianza": "media (condiciones verificadas; impacto en conversión no medido; tipo de cambio aproximado)",
@@ -479,6 +497,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Más evidencia, score sin cambios (37): Frávega/nocnoc vende en AR un aplicador eléctrico importado mostrando el total final en pesos (ARS 93.302 ≈ USD 61) y el precio sin impuestos nacionales. Demuestra que el formato 'total final visible' ya existe en AR para productos importados.",
     "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Más evidencia, score sin cambios (37): Gadnic, marca local, vende el mismo formato a ARS 97.299 (≈ USD 63,6 al BNA de 15/10), por encima de la estimación de Flubberhome (≈ ARS 79.500 sin percepciones). El rango local relevado pasa a ARS 25.600–97.299. La diferencia de Flubberhome en AR ya no es solo precio: es plazo (10–20 días hábiles frente a entrega en el día) y garantía.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  },
@@ -486,7 +510,7 @@
   "id": "OPP-013-angulo-regalo-temporada",
   "competidor_observado": "INIA (TikTok Shop), eléctrico \"con caja de regalo\" (TikTok Shop), Glokore (BF26)",
   "producto_estrategia": "Ángulo de regalo de autocuidado para la temporada (CyberMonday AR, Black Friday, fiestas)",
-  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026) ; https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools (Holiday Duo de TYMO, 19/10/2026)",
+  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026) ; https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools (Holiday Duo de TYMO, 19/10/2026) | 11-57 (20/10): demand_signals regalo-en-listados-us-2026",
   "hallazgo": "[HECHO] INIA titula su listado como regalo navideño; el eléctrico con más vendidos del listado se presenta con caja de regalo (9,3 mil, contador acumulado); Glokore tiene \"BF26\" cargado. CyberMonday AR es el 2–4/11/2026.",
   "explicacion": "[HIPÓTESIS] En noviembre-diciembre el comprador también es quien regala; el Pack Dúo (\"uno para vos, uno para regalar\") encaja sin bajar el precio.",
   "confianza": "media (ángulo visible en la competencia; efecto no medido)",
@@ -537,6 +561,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Fecha del CyberMonday AR confirmada: 2–4/11/2026 (faltan 14 días). Con entrega de 10–20 días hábiles, un pedido del CyberMonday llegaría entre mediados y fines de noviembre. Sin cambio de score; la decisión sigue siendo del dueño.",
     "source": "https://www.tiendanube.com/blog/cuando-es-el-cybermonday"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Más evidencia, score sin cambios (49): 4 listados de EE. UU. ya usan el regalo como argumento (caja o set de regalo). El ángulo 'es un buen regalo' no diferencia; sí lo hacen la fecha límite de pedido y el Pack Dúo como 'uno para vos y uno para regalar'.",
+    "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
    }
   ]
  },

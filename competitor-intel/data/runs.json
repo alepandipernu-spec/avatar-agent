@@ -476,5 +476,50 @@
    "OPP-007 (más evidencia, 30)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-20T11-57",
+  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Gadnic, DHactive, TYMO DTC",
+   "Ulta (copia de Exa)",
+   "TikTok Shop US (búsqueda de tienda TYMO, copia de Exa)",
+   "Amazon US (listados vía Exa)",
+   "listado ML AR (copia de Exa)",
+   "YouTube (transcripciones vía Exa)"
+  ],
+  "fuentes_fallidas": [
+   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
+   "TikTok Creative Center Top Ads (WebFetch: permiso de URL no respondido)",
+   "Cotización del dólar del día (la búsqueda devolvió notas viejas; se usó BNA 15/10/2026)"
+  ],
+  "competidores_revisados": [
+   "gadnic-ar",
+   "tymo-us",
+   "dtc-clones-us",
+   "amazon-generics-us",
+   "inia-us",
+   "microshop-ar",
+   "ml-electricos-ar"
+  ],
+  "competidores_nuevos": [],
+  "novedades": [
+   "Gadnic AR sale de preventa: ARS 97.299 (35% OFF), 3 cuotas, envío en el día AMBA, 12 meses de garantía; relevancia media → alta",
+   "Sin creatividades de TYMO TriThera; DTC con 4 reseñas, ausente en TikTok Shop US",
+   "DHactive (US) abre con el problema del sérum desperdiciado; menciona minoxidil",
+   "4 listados US con encuadre de regalo (BERNOVAS, Dexmary, DFYXO, INIA)"
+  ],
+  "oportunidades_nuevas": [],
+  "oportunidades_actualizadas": [
+   "OPP-001 (80)",
+   "OPP-013 (49)",
+   "OPP-012 (37)",
+   "OPP-005 (18)",
+   "OPP-003 (11)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

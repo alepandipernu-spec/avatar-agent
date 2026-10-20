@@ -768,6 +768,52 @@
     "run_id": "2026-10-20T03-56",
     "change": "Ulta sigue USD 42,99 (copia de Exa); se suman Best Buy USD 79,99 y Macy's USD 99,99. Mismo modelo HC132SP.",
     "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "DTC USD 99,99 (tachado 129,99) con 4 reseñas; Ulta (copia de Exa) la presenta como apta para la ducha (IPX7).",
+    "source": "https://tymobeauty.com/products/tymo-trithera"
+   }
+  ]
+ },
+ "gadnic-ar:masajeador-deposito": {
+  "id": "gadnic-ar:masajeador-deposito",
+  "problema": "Rutina de masaje capilar en casa con aplicación de líquido",
+  "variantes": [
+   "1 unidad (SKU LEDMAS55)"
+  ],
+  "precio": "ARS 97.299 (tachado 149.691); sin impuestos nacionales ARS 80.412",
+  "promos": "35% OFF; 3 cuotas sin interés con todos los bancos; planes de 9–18 cuotas en bancos seleccionados",
+  "garantia": "12 meses de fábrica",
+  "devolucion": "No relevada",
+  "envio": "Gratis a todo el país; en el día en AMBA (Bidcom)",
+  "beneficios": [
+   "3 modos + luz infrarroja",
+   "temporizador 10 min",
+   "depósito < 6 ml",
+   "USB-C, 1400 mAh, ~3 h"
+  ],
+  "objeciones_resueltas": [
+   "cuánto dura la batería",
+   "cuánto líquido cargar",
+   "limpieza del depósito"
+  ],
+  "diferenciadores": [
+   "marca local",
+   "garantía 12 meses",
+   "entrega en el día"
+  ],
+  "merece_investigar": true,
+  "por_que": "Primer competidor local de marca con el mismo formato y precio por encima de la estimación en pesos de Flubberhome.",
+  "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+  "fecha": "2026-10-20",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Alta (antes figuraba solo como competidor en preventa)",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  }

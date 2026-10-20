@@ -108,8 +108,8 @@
    "honestidad/escepticismo"
   ],
   "primera_vez_visto": "2026-10-17",
-  "ultima_vez_visto": "2026-10-17",
-  "repeticiones": 1
+  "ultima_vez_visto": "2026-10-20",
+  "repeticiones": 2
  },
  "generico:ml-co-clip-2026-05-14": {
   "id": "generico:ml-co-clip-2026-05-14",
@@ -210,8 +210,75 @@
    "comparación con la peluquería"
   ],
   "primera_vez_visto": "2026-10-19",
-  "ultima_vez_visto": "2026-10-19",
-  "repeticiones": 1,
+  "ultima_vez_visto": "2026-10-20",
+  "repeticiones": 2,
   "nota": "Producto adyacente (peine con spray y luz roja), no el mismo formato. Fecha de publicación no visible."
+ },
+ "dhactive-us:pdp-serum-desperdiciado": {
+  "id": "dhactive-us:pdp-serum-desperdiciado",
+  "run_id": "2026-10-20T11-57",
+  "competidor": "dtc-clones-us (DHactive)",
+  "fuente": "Página de producto (NO es la Biblioteca de Meta)",
+  "url": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator",
+  "fecha_vista": "2026-10-20",
+  "formato": "Landing larga con bloques de problema, tecnología y beneficios",
+  "gancho": "Dejar de desperdiciar el sérum (paráfrasis)",
+  "primeros_segundos": "No aplica (página)",
+  "problema": "El sérum aplicado con la mano queda en el pelo y no llega al cuero cabelludo; manos grasosas",
+  "demostracion": "No verificable (sin video leído)",
+  "beneficio": "Aplicación directa a la raíz sin ensuciar",
+  "objeciones": [
+   "desorden",
+   "desperdicio de producto",
+   "recarga difícil"
+  ],
+  "estructura": "Problema → agitación con porcentaje de desperdicio sin fuente → tres tecnologías → garantía",
+  "texto_en_pantalla": "No aplica",
+  "cta": "Comprar",
+  "oferta": "60% OFF sobre precio de lista; devolución de 60 días; envío gratis desde USD 59",
+  "motivaciones_INTERPRETACION": [
+   "solución de un problema",
+   "ahorro (no desperdiciar producto caro)",
+   "reducción de una preocupación"
+  ],
+  "observaciones_verificables": [
+   "Cifra de desperdicio sin fuente",
+   "Menciona minoxidil como líquido compatible",
+   "Claims de crecimiento"
+  ],
+  "primera_vez_visto": "2026-10-20",
+  "ultima_vez_visto": "2026-10-20",
+  "repeticiones": 1
+ },
+ "bernovas-us:listado-set-regalo": {
+  "id": "bernovas-us:listado-set-regalo",
+  "run_id": "2026-10-20T11-57",
+  "competidor": "amazon-generics-us (BERNOVAS)",
+  "fuente": "Listado de Amazon (NO es un anuncio de la Biblioteca de Meta)",
+  "url": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5",
+  "fecha_vista": "2026-10-20",
+  "formato": "Listado con título largo y viñetas",
+  "gancho": "Head spa en casa 4 en 1 como set de regalo",
+  "primeros_segundos": "No aplica",
+  "problema": "Rutina de cuero cabelludo incompleta",
+  "demostracion": "No verificable",
+  "beneficio": "Ritual completo listo para regalar",
+  "objeciones": [
+   "aceites espesos (sugiere diluirlos)",
+   "ruido",
+   "compras extra"
+  ],
+  "estructura": "Tecnología → ritual → compatibilidad de líquidos → silencio → caja de regalo",
+  "texto_en_pantalla": "No aplica",
+  "cta": "Agregar al carrito",
+  "oferta": "USD 48,99 con peine de sándalo y bolsa",
+  "motivaciones_INTERPRETACION": [
+   "regalo",
+   "comodidad",
+   "ritual de autocuidado"
+  ],
+  "primera_vez_visto": "2026-10-20",
+  "ultima_vez_visto": "2026-10-20",
+  "repeticiones": 1
  }
 }

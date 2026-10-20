@@ -63,6 +63,12 @@
      "date": "2026-10-19",
      "run_id": "2026-10-19T19-54",
      "change": "+2 fuentes (TYMO TriThera: dejó de encender; ZOKO LAB: llega roto o no enciende)."
+    },
+    {
+     "date": "2026-10-20",
+     "run_id": "2026-10-20T11-57",
+     "change": "+1 fuente: reseña de TYMO TriThera (dejó de encender).",
+     "source": "https://tymobeauty.com/products/tymo-trithera"
     }
    ]
   },
@@ -397,6 +403,15 @@
    "parafrasis": "La reseña destacada dice que funciona con aceites livianos y que los espesos no pasan bien.",
    "fecha_consulta": "2026-10-19",
    "run_id": "2026-10-19T19-54"
+  },
+  {
+   "fuente": "https://tymobeauty.com/products/tymo-trithera",
+   "producto": "TYMO TriThera (DTC, 4 reseñas)",
+   "problema": "durabilidad / falla de fábrica",
+   "fecha": "no visible",
+   "parafrasis": "Una compradora cuenta que al principio funcionaba y después dejó de encender aunque lo cargara.",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T11-57"
   }
  ]
 }

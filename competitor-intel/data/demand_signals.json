@@ -310,5 +310,65 @@
     "source": "https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003"
    }
   ]
+ },
+ "regalo-en-listados-us-2026": {
+  "id": "regalo-en-listados-us-2026",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T11-57",
+  "senal": "El regalo aparece como argumento en listados nuevos con depósito en EE. UU.",
+  "valor": "BERNOVAS (set de regalo, USD 48,99), Dexmary (caja de regalo, USD 24,99), DFYXO (regalo en viñetas, USD 29,41), INIA (“Perfect Holiday” en el título, USD 139,99)",
+  "fuente": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5 ; https://www.amazon.com/Dexmary-Massager-Electric-Applicator-Nourishment/dp/B0G43SSTHX ; https://www.amazon.com/DFYXO-Electric-Massager-Applicator-Travel/dp/B0GG8BYS9Y ; https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250",
+  "alcance": "US",
+  "tipo": "HECHO (texto visible en listados; copias de Exa sin fecha)",
+  "indica": "Los vendedores ya posicionan el formato para la temporada de regalos; el ángulo regalo por sí solo no diferencia.",
+  "no_indica": "Que el regalo venda más, ni volumen de ventas de ninguno (pocas reseñas cada uno).",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Alta",
+    "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
+   }
+  ]
+ },
+ "gadnic-ar-stock-y-oferta": {
+  "id": "gadnic-ar-stock-y-oferta",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T11-57",
+  "senal": "Gadnic pasa de preventa a stock con oferta",
+  "valor": "ARS 97.299 (35% OFF), 3 cuotas sin interés, 10 disponibles en Bidcom, envío en el día AMBA",
+  "fuente": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c ; https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+  "alcance": "AR",
+  "tipo": "HECHO (copias de Exa sin fecha visible)",
+  "indica": "Una marca local conocida apuesta al formato con depósito antes de la temporada.",
+  "no_indica": "Ventas (el contador de 10 disponibles puede ser un tope por publicación).",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Alta",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   }
+  ]
+ },
+ "tymo-trithera-traccion-propia-baja": {
+  "id": "tymo-trithera-traccion-propia-baja",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T11-57",
+  "senal": "Poca prueba social propia de TYMO TriThera",
+  "valor": "4 reseñas en la ficha DTC; no aparece en la búsqueda de la tienda TYMO en TikTok Shop US",
+  "fuente": "https://tymobeauty.com/products/tymo-trithera ; https://shop.tiktok.com/us/k/tiktok-shop-tymo",
+  "alcance": "US",
+  "tipo": "HECHO",
+  "indica": "La distribución en retail no viene acompañada de tracción visible propia.",
+  "no_indica": "Ventas en Ulta, Best Buy o Target.",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Alta",
+    "source": "https://tymobeauty.com/products/tymo-trithera"
+   }
+  ]
  }
 }

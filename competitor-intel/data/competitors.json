@@ -9,35 +9,45 @@
   "relevant_products": [
    "Masajeador capilar eléctrico con depósito e infrarrojo"
   ],
-  "price_visible": "No visible en la página consultada; preventa ('disponible en 26 días'), envío gratis a todo el país, 10 disponibles.",
+  "price_visible": "ARS 97.299 (tachado ARS 149.691, 35% OFF; sin impuestos nacionales ARS 80.412), 3 cuotas sin interés con todos los bancos (gadnic.com.ar, copia de Exa 20/10/2026). Bidcom: envío en el día en AMBA, envío gratis a todo el país, 10 disponibles, 12 meses de garantía.",
   "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
   "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
   "channels": [],
   "ads": "No obtenido (sin acceso a la Biblioteca de anuncios).",
   "facts": [
    "Ofrece 12 meses de garantía y envío gratis.",
-   "Ficha técnica completa y medible (batería, potencia, tiempos)."
+   "Ficha técnica completa y medible (batería, potencia, tiempos).",
+   "20/10/2026: ya no figura en preventa; precio visible ARS 97.299 con 35% OFF y 3 cuotas sin interés; envío en el día en AMBA (copias de Exa sin fecha visible)."
   ],
   "inferences": [
-   "Compite en confianza de marca local y garantía, no en precio."
+   "Compite en confianza de marca local y garantía, no en precio.",
+   "[ESTIMACIÓN] Con el oficial BNA de ARS 1.530 (15/10/2026, el mismo de OPP-012) equivale a ≈ USD 63,6; Flubberhome 1 u + envío ≈ USD 51,93 ≈ ARS 79.500 sin percepciones ni impuestos. Margen: el tipo de cambio y las percepciones al pagar en USD pueden cerrar o invertir la diferencia."
   ],
   "hypotheses": [
-   "La garantía larga es un argumento que Flubberhome no puede igualar hoy."
+   "La garantía larga es un argumento que Flubberhome no puede igualar hoy.",
+   "Gadnic compite con marca local, garantía de 12 meses, cuotas y entrega en el día; Flubberhome no puede ganarle en plazo ni en garantía, sí en claridad de uso y packs."
   ],
   "unknowns": [
    "Anuncios activos, presupuesto, ventas."
   ],
   "sources": [
-   "https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   "https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+   "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
   ],
-  "relevance": "media",
-  "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-  "last_reviewed": "2026-10-17",
+  "relevance": "alta",
+  "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
     "change": "Importado desde meta-ads-monitor/data/state/competitors.json",
     "source": "migración"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Sale de preventa: precio visible ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, envío en el día AMBA, 12 meses de garantía. Relevancia media → alta.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  },
@@ -531,7 +541,10 @@
   "product_focus": "Aplicador de aceite + masajeador",
   "relevant_products": [
    "Aplicador de aceite + masajeador",
-   "BFYCHYC 6 en 1 con atomizador (ASIN B09KXS4557), USD 46,89, disponible desde el 16/04/2026"
+   "BFYCHYC 6 en 1 con atomizador (ASIN B09KXS4557), USD 46,89, disponible desde el 16/04/2026",
+   "BERNOVAS 4 en 1 set de regalo con peine de sándalo USD 48,99 (4,2★, 26 reseñas, desde 13/12/2025)",
+   "Dexmary 3 en 1 en caja de regalo USD 24,99 (3★, 5 reseñas)",
+   "DFYXO 3 en 1 USD 29,41 (3,2★, 6 reseñas, desde 11/01/2026)"
   ],
   "price_visible": "USD 21,99 – 49,99.",
   "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
@@ -540,7 +553,8 @@
   "ads": "Listados de Amazon.",
   "facts": [
    "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
-   "17/10/2026: mriya USD 21,99 (4,5★, 19 reseñas); ZUTESU USD 25,99 (4,7★, 55 reseñas); Satorix USD 29,99 (sin reseñas visibles, disponible desde 06/04/2026); modelo 2 en 1 IPX7 USD 79,99 (4,3★, 47 reseñas)."
+   "17/10/2026: mriya USD 21,99 (4,5★, 19 reseñas); ZUTESU USD 25,99 (4,7★, 55 reseñas); Satorix USD 29,99 (sin reseñas visibles, disponible desde 06/04/2026); modelo 2 en 1 IPX7 USD 79,99 (4,3★, 47 reseñas).",
+   "20/10/2026: varios listados nuevos con depósito usan el regalo como argumento en el título o las viñetas (BERNOVAS, Dexmary, DFYXO)."
   ],
   "inferences": [
    "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido.",
@@ -553,11 +567,14 @@
   "sources": [
    "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
    "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4",
-   "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557"
+   "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557",
+   "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5",
+   "https://www.amazon.com/Dexmary-Massager-Electric-Applicator-Nourishment/dp/B0G43SSTHX",
+   "https://www.amazon.com/DFYXO-Electric-Massager-Applicator-Travel/dp/B0GG8BYS9Y"
   ],
   "relevance": "media",
   "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -575,6 +592,12 @@
     "run_id": "2026-10-19T19-54",
     "change": "Se suma BFYCHYC (6 en 1 con atomizador, USD 46,89, claims médicos, sin reseñas visibles).",
     "source": "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "+3 listados (BERNOVAS, Dexmary, DFYXO), todos con encuadre de regalo.",
+    "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
    }
   ]
  },
@@ -986,7 +1009,8 @@
    "Cosvu (cosvu.com) USD 48",
    "ScalpRevive (dovence.com) USD 59,99 tachado 89,99",
    "Ryslnte 3 en 1 (Amazon) USD 34,84",
-   "Sunluxy 'Electric Scalp Massager Hair Oil Applicator' USD 29,99 (tachado 59,99), agotado"
+   "Sunluxy 'Electric Scalp Massager Hair Oil Applicator' USD 29,99 (tachado 59,99), agotado",
+   "DHactive 3 en 1 USD 39,99 (tachado 99,99), garantía de devolución de 60 días, envío gratis desde USD 59"
   ],
   "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
   "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
@@ -999,7 +1023,8 @@
    "https://monalisamedical.com/product/3-in-1-red-light-therapy-scalp-massager-hair-oil-applicator-waterproof-electric-comb/",
    "https://cosvu.com/products/red-light-scalp-massager",
    "https://dovence.com/products/electric-massage-comb-with-vibration-red-light-therapy-scalp-brush-hair-growth-anti-hair-loss-liquid-oil-applicator-hair-care",
-   "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/"
+   "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/",
+   "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
   ],
   "relevance": "baja",
   "follow_reason": "Señal de saturación de la oferta en US; Pilore introduce variante con atomizador (niebla) en lugar de rodillos.",
@@ -1015,7 +1040,7 @@
    "Ventas, anuncios."
   ],
   "id": "dtc-clones-us",
-  "last_reviewed": "2026-10-18",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -1034,6 +1059,12 @@
     "run_id": "2026-10-19T11-55",
     "change": "+1 clon: Sunluxy (sunluxy.com) USD 29,99, tachado 59,99, 'Out of stock'. La ficha mezcla nombres de otros productos (DayIn, Dayln, Scalpistry), promete frenar la caída y regenerar entradas, y se contradice: 30 días de devolución arriba y 60 días con 2 años de garantía abajo. Dice '20.000+ clientes' sin reseñas verificables.",
     "source": "https://www.sunluxy.com/products/electric-scalp-massager-hair-oil-applicator"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Alta DHactive: abre la ficha con el problema del sérum desperdiciado y la aplicación sucia; menciona minoxidil como líquido compatible.",
+    "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
    }
   ]
  },
@@ -1688,13 +1719,15 @@
    "[HECHO] DTC: 4 reseñas (4,5/5); una cuenta que dejó de encender. Ulta: 3,8★ con 4 reseñas en la lista de marca. Target: 4★ con 8 reseñas.",
    "[HECHO] La garantía de 1 año de TYMO cubre 'hair styling tools' y excluye la serie 'Hair Care / Hair Accessories'; no queda claro en cuál cae el TriThera.",
    "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo.",
-   "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC."
+   "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC.",
+   "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída."
   ],
   "inferences": [
    "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
   ],
   "hypotheses": [
-   "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio."
+   "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio.",
+   "TriThera parece un producto secundario para TYMO: mucha distribución en retail, poca tracción visible propia. No hay señales de una campaña fuerte en este run."
   ],
   "unknowns": [
    "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon.",
@@ -1725,6 +1758,12 @@
     "run_id": "2026-10-20T03-56",
     "change": "Se suman Best Buy (USD 79,99) y Macy's (USD 99,99, vía BeyondStyle). Ulta sigue a USD 42,99 en la copia de Exa de la ficha (sin fecha). No aparece en MX/CO.",
     "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T11-57",
+    "change": "Sin creatividades de TriThera encontradas; DTC con 4 reseñas; no aparece en TikTok Shop US; Ulta (copia de Exa) sigue a USD 42,99.",
+    "source": "https://tymobeauty.com/products/tymo-trithera"
    }
   ]
  },
