@@ -2,8 +2,8 @@
  "patterns": [
   {
    "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 17,
-   "n_competidores": 12,
+   "n_fuentes": 20,
+   "n_competidores": 14,
    "clasificacion": "tendencia (varias fuentes y productos)",
    "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
    "fecha": "2026-10-17",
@@ -33,6 +33,12 @@
      "date": "2026-10-19",
      "run_id": "2026-10-19T19-54",
      "change": "+2 fuentes (Breo resumen 2025, MINOZOOS): dispensado irregular y aceites espesos que no pasan."
+    },
+    {
+     "date": "2026-10-20",
+     "run_id": "2026-10-20T19-54",
+     "change": "+3 fuentes: Alverela (hay que apretar la tapa), mriya (se tapa y pierde; 2.ª unidad), VOEAIN (limpieza con aceites espesos).",
+     "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     }
    ]
   },
@@ -47,8 +53,8 @@
   },
   {
    "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 9,
-   "n_competidores": 8,
+   "n_fuentes": 10,
+   "n_competidores": 9,
    "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
    "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
    "fecha": "2026-10-17",
@@ -69,6 +75,12 @@
      "run_id": "2026-10-20T11-57",
      "change": "+1 fuente: reseña de TYMO TriThera (dejó de encender).",
      "source": "https://tymobeauty.com/products/tymo-trithera"
+    },
+    {
+     "date": "2026-10-20",
+     "run_id": "2026-10-20T19-54",
+     "change": "+1 fuente: LUMILUX (llegó sin funcionar bien).",
+     "source": "https://loox.io/sr/RoSxewWRga"
     }
    ]
   },
@@ -125,13 +137,20 @@
   },
   {
    "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
-   "n_fuentes": 1,
-   "n_competidores": 1,
-   "clasificacion": "aislado (1 reseña de blog)",
+   "n_fuentes": 2,
+   "n_competidores": 2,
+   "clasificacion": "incipiente (2 fuentes de 2 productos)",
    "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
    "fecha": "2026-10-19",
    "run_id": "2026-10-19T19-54",
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-20",
+     "run_id": "2026-10-20T19-54",
+     "change": "+1 fuente: LUMILUX, mails sin respuesta ante una falla. Pasa de aislado a incipiente.",
+     "source": "https://loox.io/sr/RoSxewWRga"
+    }
+   ]
   }
  ],
  "items": [
@@ -412,6 +431,51 @@
    "parafrasis": "Una compradora cuenta que al principio funcionaba y después dejó de encender aunque lo cargara.",
    "fecha_consulta": "2026-10-20",
    "run_id": "2026-10-20T11-57"
+  },
+  {
+   "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+   "producto": "Alverela NUVÉA™ (CO)",
+   "problema": "dispensado del líquido",
+   "fecha": "no visible",
+   "parafrasis": "El comprador dice que el aceite no sale si no se aprieta la tapa de silicona; igual le pone 5 estrellas.",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T19-54"
+  },
+  {
+   "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+   "producto": "Alverela NUVÉA™ (CO)",
+   "problema": "expectativas / primer uso",
+   "fecha": "no visible",
+   "parafrasis": "Llegó sin carga y hubo que cargarlo 2–3 horas antes del primer uso.",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T19-54"
+  },
+  {
+   "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
+   "producto": "mriya 70 ml (US, 3,2★ con 88 reseñas)",
+   "problema": "dispensado del líquido",
+   "fecha": "no visible",
+   "parafrasis": "La reseña destacada dice que se tapó el primer día, que pierde líquido y que era la segunda unidad fallada.",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T19-54"
+  },
+  {
+   "fuente": "https://www.amazon.com/VOEAIN-Electric-Massager-Applicator-Waterproof/dp/B0GGN6MRRQ",
+   "producto": "VOEAIN 3 en 1 (US, 3,1★ con 5 reseñas)",
+   "problema": "limpieza",
+   "fecha": "no visible",
+   "parafrasis": "Una reseña positiva advierte que limpiar el depósito y las puntas exige atención con aceites espesos.",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T19-54"
+  },
+  {
+   "fuente": "https://loox.io/sr/RoSxewWRga",
+   "producto": "LUMILUX 3 en 1 (tienda Loox, 2★)",
+   "problema": "entrega + durabilidad + atención",
+   "fecha": "2026-06-17",
+   "parafrasis": "Llegó tarde, no funcionaba bien y los mails no tuvieron respuesta (reseña del 17/06/2026).",
+   "fecha_consulta": "2026-10-20",
+   "run_id": "2026-10-20T19-54"
   }
  ]
 }

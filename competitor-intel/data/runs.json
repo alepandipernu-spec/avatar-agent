@@ -521,5 +521,53 @@
    "OPP-003 (11)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-20T19-54",
+  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Gadnic, Lena, Alverela, Holy (copia de Exa)",
+   "Bidcom (copia de Exa)",
+   "Amazon US (listados vía Exa)",
+   "Loox (reseña pública)",
+   "Falabella CO (copia de Exa)",
+   "Gleva (ficha vía Exa)"
+  ],
+  "fuentes_fallidas": [
+   "Opiniones de Gadnic en Mercado Libre AR: no apareció el listado (ML redirige a verificación de cuenta)",
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+  ],
+  "competidores_revisados": [
+   "gadnic-ar",
+   "lena-vegetal-ar",
+   "holy-cosmetics-co",
+   "co-dtc-tiendas",
+   "amazon-generics-us",
+   "alverela-co",
+   "gleva-in"
+  ],
+  "competidores_nuevos": [
+   "alverela-co",
+   "gleva-in"
+  ],
+  "novedades": [
+   "Sin cambios de precio en Gadnic, Lena y Holy",
+   "Alta de Alverela (CO): combo aparato + aceite de argán a COP 117.700; reseñas de credibilidad dudosa",
+   "Alta de Gleva (IN, inspiracional): ficha que dice que no hace crecer el pelo y compara de forma justa con la mano",
+   "Patrón de dispensado: 20 fuentes; atención al cliente pasa de aislado a incipiente"
+  ],
+  "oportunidades_nuevas": [
+   "OPP-016-respuestas-honestas-y-comparacion-justa (32)"
+  ],
+  "oportunidades_actualizadas": [
+   "OPP-001 (evidencia, 80)",
+   "OPP-015 (evidencia, 36)",
+   "OPP-003 (evidencia, 11)",
+   "OPP-006 (evidencia, 2)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

@@ -816,5 +816,80 @@
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
+ },
+ "alverela-co:nuvea-combo": {
+  "id": "alverela-co:nuvea-combo",
+  "problema": "Rutina capilar en casa con aplicación de aceite",
+  "variantes": [
+   "Combo masajeador + aceite de argán"
+  ],
+  "precio": "COP 117.700 (tachado 147.700)",
+  "promos": "Precio tachado ~20%",
+  "garantia": "No visible",
+  "devolucion": "No relevada",
+  "envio": "No relevado",
+  "beneficios": [
+   "3 modos (lento, rápido, alternado)",
+   "luz roja",
+   "depósito trasero",
+   "estuche de terciopelo (según reseña)"
+  ],
+  "objeciones_resueltas": [
+   "qué cargar en el depósito (trae el aceite)"
+  ],
+  "diferenciadores": [
+   "combo con líquido incluido"
+  ],
+  "merece_investigar": true,
+  "por_que": "Primer combo aparato + líquido en CO; prueba si el kit es un formato que se repite fuera de AR (OPP-006).",
+  "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+  "fecha": "2026-10-20",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+   }
+  ]
+ },
+ "gleva-in:electric-scalp-massager": {
+  "id": "gleva-in:electric-scalp-massager",
+  "problema": "Aplicar el aceite capilar sin ensuciarse las manos",
+  "variantes": [
+   "1 unidad"
+  ],
+  "precio": "INR 1.499",
+  "promos": "Envío gratis desde INR 890",
+  "garantia": "Reposición por daño o faltante con video del unboxing en 48 h",
+  "devolucion": "No relevada",
+  "envio": "Despacho en 2 días hábiles; entrega 4–7 días",
+  "beneficios": [
+   "tanque recargable con visor",
+   "3 intensidades",
+   "USB"
+  ],
+  "objeciones_resueltas": [
+   "¿hace crecer el pelo? (no)",
+   "¿cómo sale el aceite?",
+   "¿lo puede usar mi mamá sola?",
+   "¿cuándo gana la mano?"
+  ],
+  "diferenciadores": [
+   "honestidad explícita",
+   "comparación justa con la mano"
+  ],
+  "merece_investigar": true,
+  "por_que": "Modelo de ficha aplicable a Flubberhome sin claims médicos (OPP-016).",
+  "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator",
+  "fecha": "2026-10-20",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta",
+    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+   }
+  ]
  }
 }

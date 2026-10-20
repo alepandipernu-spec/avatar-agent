@@ -370,5 +370,45 @@
     "source": "https://tymobeauty.com/products/tymo-trithera"
    }
   ]
+ },
+ "gleva-pedidos-declarados": {
+  "id": "gleva-pedidos-declarados",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T19-54",
+  "senal": "Pedidos declarados por Gleva (India)",
+  "valor": "\"70,000+ orders delivered\" en la ficha",
+  "fuente": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator",
+  "alcance": "IN",
+  "tipo": "HECHO (afirmación de la marca, no verificada)",
+  "indica": "Que la marca usa el volumen como prueba social junto con una comunicación honesta.",
+  "no_indica": "Ventas reales, ni demanda en AR/CO/MX/US.",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta",
+    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+   }
+  ]
+ },
+ "alverela-resenas-credibilidad": {
+  "id": "alverela-resenas-credibilidad",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T19-54",
+  "senal": "Reseñas en la ficha de Alverela (CO)",
+  "valor": "23 reseñas, 87% de 5★",
+  "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+  "alcance": "CO",
+  "tipo": "HECHO (conteo) + HIPÓTESIS (posible importación de reseñas)",
+  "indica": "Que la tienda muestra prueba social desde el lanzamiento.",
+  "no_indica": "Ventas: los nombres sugieren reseñas importadas, así que no sirven como indicador de unidades.",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+   }
+  ]
  }
 }

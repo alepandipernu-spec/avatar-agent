@@ -1,30 +1,30 @@
-# Inteligencia competitiva — run 2026-10-20T11-57
+# Inteligencia competitiva — run 2026-10-20T19-54
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54).
+**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 20/10/2026, 11:57–12:30 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 20/10/2026, 19:55–20:30 (Buenos Aires).
 
 ---
 
 ## A. Resumen ejecutivo
-- **Gadnic (AR) sale de preventa con precio y oferta visibles.** Es una marca local conocida y vende el mismo formato con depósito.
-  - [HECHO] Cuesta ARS 97.299 (tachado 149.691, 35% OFF), con 3 cuotas sin interés, envío gratis, **entrega en el día en AMBA** y **12 meses de garantía** ([gadnic.com.ar](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c), [Bidcom](https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)). El 17/10 figuraba en preventa y sin precio.
-  - [ESTIMACIÓN] Son ≈ USD 63,6 al oficial BNA de ARS 1.530 (15/10/2026, el mismo que usa OPP-012). Flubberhome con envío queda en ≈ ARS 79.500, sin contar percepciones ni impuestos. Es la primera vez que un eléctrico local relevado cuesta más que Flubberhome.
-  - [HIPÓTESIS] En AR la desventaja de Flubberhome ya no es tanto el precio: es el plazo (10–20 días hábiles contra entrega en el día) y la garantía.
-- **TYMO TriThera: no se encontraron creatividades.** La ficha propia tiene solo 4 reseñas y el producto no aparece en la tienda de TYMO en TikTok Shop US. [HIPÓTESIS] Es un producto secundario de la marca y no parece haber una campaña fuerte.
-- **El regalo ya es un argumento común en EE. UU.** Cuatro listados nuevos lo usan (BERNOVAS, Dexmary, DFYXO, INIA).
-- **La promesa de "aplicación limpia, sin desperdicio" también se está volviendo común** (por ejemplo, DHactive). Esto refuerza OPP-001: lo que diferencia es mostrarlo en video, no decirlo.
-- **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80). No hay oportunidades nuevas.
+- **No hubo cambios de precio** en los 3 directos principales: Gadnic (ARS 97.299), Lena (ARS 25.600) y Holy (COP 149.990).
+- **Nuevo inspiracional, Gleva (India):** la ficha dice desde la primera pregunta que el aparato no hace crecer el pelo, y lo compara de forma justa con aplicar a mano.
+  - [HIPÓTESIS] Flubberhome puede convertir su restricción (sin claims médicos) en un argumento de confianza. De ahí sale la oportunidad nueva **OPP-016 (score 32)**.
+- **Nuevo directo en CO, Alverela:** vende un combo aparato + aceite de argán a COP 117.700.
+  - [HIPÓTESIS] Sus reseñas parecen importadas. No se usan como señal de ventas.
+- **El dispensado sigue siendo el problema nº 1 de la categoría:** 3 reseñas nuevas, 20 fuentes en total. Refuerza OPP-001.
+- **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| gadnic-ar | AR | A | Ficha, precio, stock y garantía. Relevancia: media → **alta** |
-| tymo-us | US | A | Ficha propia (DTC), Ulta, TikTok Shop; búsqueda de creatividades |
-| dtc-clones-us | US | A | Se suma DHactive |
-| amazon-generics-us | US | A | Se suman BERNOVAS, Dexmary y DFYXO |
-| inia-us | US | A | Título del listado en TikTok Shop |
-| ml-electricos-ar / microshop-ar | AR | A | Listado de ML y ficha (sin cambios) |
+| gadnic-ar | AR | A | Precio (sin cambios), manual descargable, reseñas (no se encontraron) |
+| lena-vegetal-ar | AR | A | Precio (sin cambios) |
+| holy-cosmetics-co | CO | A | Precio y reseñas (sin cambios: 4,9★ con 27) |
+| co-dtc-tiendas | CO | A | Se suma un genérico de Falabella |
+| amazon-generics-us | US | A | Reseñas de mriya y VOEAIN |
+| **alverela-co** (nuevo) | CO | A | Ficha y reseñas. Relevancia media |
+| **gleva-in** (nuevo) | IN | C | Ficha. Relevancia media (no vende en los mercados de Flubberhome) |
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
@@ -32,96 +32,93 @@
 **Novedades** ([HECHO], 20/10/2026):
 | Producto | Precio / oferta | Fuente |
 |---|---|---|
-| Gadnic masajeador con depósito (AR) | ARS 97.299 (tachado 149.691), 3 cuotas, 12 meses de garantía | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| DHactive 3 en 1 (US) | USD 39,99 (tachado 99,99), devolución en 60 días | [ficha](https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator) |
-| BERNOVAS set de regalo (US, Amazon) | USD 48,99 con peine de sándalo; 4,2★ con 26 reseñas | [listado](https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5) |
-| TYMO TriThera DTC (US) | USD 99,99 (tachado 129,99); 4 reseñas | [ficha](https://tymobeauty.com/products/tymo-trithera) |
+| Alverela NUVÉA™ combo + aceite de argán (CO) | COP 117.700 (tachado 147.700) | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
+| Genérico en Falabella CO | COP 122.900 (-56%). Garantía del proveedor: 1 mes; en el detalle dice "Sin garantía" | [listado](https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132) |
+| Gleva (IN, referencia) | INR 1.499; despacho en 2 días hábiles | [ficha](https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator) |
 
 ## D. Análisis publicitario
-**Biblioteca de anuncios de Meta:** no accesible (ver L). Lo que sigue viene de fichas, listados y videos públicos, **no de anuncios verificados**.
-
-1. **DHactive: la ficha arranca por el problema** ([ficha](https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)).
-   - [HECHO] El orden es:
-     1. El sérum aplicado con la mano no llega al cuero cabelludo y deja las manos grasosas.
-     2. Un porcentaje de "desperdicio" sin fuente.
-     3. Tres tecnologías.
-     4. La garantía.
-   - [HECHO] Nombra el minoxidil como líquido compatible y promete crecimiento.
-   - [INTERPRETACIÓN] Las motivaciones son resolver un problema y no desperdiciar un producto caro.
-   - **No replicar:** cifras sin fuente, minoxidil, claims de crecimiento.
-2. **BERNOVAS: set de regalo** ([listado](https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5)).
-   - [HECHO] Lo presenta como un "head spa" en casa que viene en caja de regalo con un peine de sándalo.
-   - [HECHO] Responde de antemano una objeción concreta: sugiere diluir los aceites espesos para que fluyan.
-   - [INTERPRETACIÓN] Motivaciones: regalo y ritual de autocuidado.
-3. **TYMO TriThera.** No se encontraron videos ni anuncios propios.
-   - [HECHO] En la copia de Ulta se vende como apto para la ducha (IPX7), con promesas sobre caída del pelo ([Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264)).
-4. **Videos ya registrados que siguen visibles:** la reseña de Honeysuckle y el video de shubuying con el gancho "iba a devolverlo". Se suma 1 repetición a cada uno; no hay creatividades nuevas.
-
-**Patrón** [HIPÓTESIS]: en la categoría se repiten tres mensajes: aplicación sin ensuciar, uso en la ducha y regalo. Flubberhome puede usar el primero solo si lo demuestra en video, no puede usar el segundo, y el tercero solo le sirve con un ángulo propio.
+Sin revisión en esta ejecución. Último dato: 20/10/2026 11:57.
 
 ## E. Demanda y señales de ventas
 | Señal | Valor | Tipo |
 |---|---|---|
-| Gadnic con stock y oferta | Pasa de preventa a ARS 97.299 con 35% OFF; "10 disponibles" | HECHO (copias de Exa sin fecha) |
-| El regalo en los listados de EE. UU. | 4 listados con caja o set de regalo, o "holiday" en el título | HECHO |
-| TYMO TriThera, prueba social propia | 4 reseñas en la ficha propia; no aparece en TikTok Shop US | HECHO |
+| Gleva: pedidos que declara | "70,000+ orders delivered" | HECHO (lo dice la marca; no está verificado) |
+| Alverela: reseñas | 23, con 87% de 5★ | HECHO (conteo). [HIPÓTESIS] Varios nombres parecen datos de prueba, así que pueden ser reseñas importadas |
+| Gadnic en Bidcom | 4,5★, sin cantidad visible | HECHO |
 
-- **Qué indican:** marcas y vendedores se están preparando para la temporada de regalos.
-- **Qué no indican:** ventas de nadie. El "10 disponibles" de Gadnic puede ser un tope por publicación y no el stock real.
+- **Qué no indican:** ventas de nadie.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 20/10/2026 03:56. Solo un dato nuevo: [HECHO] Gadnic muestra la garantía y las cuotas al lado del precio.
+Sin revisión completa. Solo un dato nuevo: [HECHO] Gadnic publica el manual de usuario descargable en la ficha ([ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)). Es más evidencia para OPP-015.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión completa. [HECHO] Hay una reseña nueva de TYMO TriThera: dejó de encender aunque se cargara. Se suma al patrón de durabilidad.
+**Reseñas nuevas** ([HECHO], parafraseadas):
+- **Alverela (CO):** el aceite no sale si no se aprieta la tapa de silicona. Otra reseña dice que llegó sin carga ([ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento)).
+- **mriya 70 ml (US, 3,2★ con 88 reseñas):** la reseña destacada dice que se tapó el primer día, que pierde líquido y que era la segunda unidad fallada ([Amazon](https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC)).
+- **VOEAIN (US):** con aceites espesos, limpiar el depósito y las puntas exige atención ([Amazon](https://www.amazon.com/VOEAIN-Electric-Massager-Applicator-Waterproof/dp/B0GGN6MRRQ)).
+- **LUMILUX (tienda con reseñas de Loox, 17/06/2026):** llegó tarde, no funcionaba bien y los mails no tuvieron respuesta ([Loox](https://loox.io/sr/RoSxewWRga)).
+
+**Patrones:**
+| Problema | Fuentes | Clasificación |
+|---|---|---|
+| Dispensado y limpieza | 17 → **20** | Tendencia |
+| Durabilidad y fallas de fábrica | 9 → **10** | Tendencia |
+| Atención al cliente que no responde | 1 → **2** | Pasa de aislado a **incipiente** |
+
+**No se pudo revisar:** opiniones de Gadnic en Mercado Libre (ver L).
 
 ## H. Estrategias adaptables
-1. **Garantía y condiciones al lado del precio**, como hace Gadnic. Aplica a OPP-003 y OPP-012, siempre que el dueño defina una garantía que se pueda cumplir.
-2. **"Uno para vos, uno para regalar"** con el Pack Dúo, en lugar de una caja de regalo genérica (OPP-013). Es una propuesta original: ningún competidor relevado usa el pack de dos así.
+1. **Responder primero la pregunta difícil** (Gleva).
+   - **Adaptable:** decir con claridad qué no hace el producto y comparar de forma justa con la alternativa gratuita.
+   - **No replicar:** su texto, su tabla, la cifra de pedidos ni la exigencia de un video del unboxing.
+2. **Combo aparato + líquido** (Alverela). Es el segundo kit relevado, después de Lena en AR. No cambia la conclusión de OPP-006: solo conviene con demanda propia y un proveedor evaluado.
 
 **No replicar:**
-- Cifras de desperdicio sin fuente.
-- Mencionar medicamentos como líquido.
-- Mostrar uso en la ducha.
-- Claims de crecimiento.
+- Reseñas de origen dudoso.
+- Testimonios de crecimiento de pelo. Holy muestra uno vinculado a un tratamiento oncológico; no corresponde para Flubberhome.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Estado | Cambio en este run |
 |---|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Más evidencia: la promesa ya es común, así que lo que diferencia es la demo |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | nueva | Más evidencia: el regalo genérico ya está saturado |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | nueva | Más evidencia (20 fuentes de dispensado) |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | nueva | — |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) | 48 | nueva | — |
-| 4 | OPP-012 costo total y plazo claros en LatAm | 37 | nueva | Gadnic: el rango local llega a ARS 97.299 |
-| 5 | OPP-015 / OPP-014 | 36 | nueva | — |
-| — | OPP-005 sensorial en seco | 18 | nueva | TYMO también se vende como apto para la ducha |
-| — | OPP-003 garantía publicada | 11 | nueva | Gadnic 12 meses visibles; DHactive 60 días |
+| 4 | OPP-012 costo total y plazo claros en LatAm | 37 | nueva | — |
+| 5 | OPP-015 / OPP-014 | 36 | nueva | OPP-015: más evidencia (Gadnic publica su manual) |
+| 6 | **OPP-016 respuestas honestas y comparación justa** | **32** | **nueva** | Alta |
+| — | OPP-003 garantía publicada | 11 | nueva | Más evidencia en CO: 1 mes del genérico contra 1 año de NIHLO |
+| — | OPP-006 kit con líquido compatible | 2 | en evaluación | Más evidencia: combo de Alverela |
 
-**OPP-001, acción concreta:**
-- **Evidencia:** DHactive, BERNOVAS y los genéricos de Amazon ya prometen aplicación limpia.
-- **Interpretación** [HIPÓTESIS]: decirlo ya no alcanza.
-- **Acción:** un plano continuo de 10–15 s con pelo seco: cargar pocas gotas, hacer una pasada y mostrar la mano limpia, sin cortes que hagan dudar.
-- **Métrica:** retención a 3 s y clics a la ficha frente a los microdramas actuales.
-- **Confianza:** media.
+**OPP-016, acción concreta:**
+- **Evidencia:** [HECHO] la ficha de Gleva responde que no a la pregunta sobre crecimiento y admite en qué gana la mano.
+- **Interpretación** [HIPÓTESIS]: decir lo que el producto no hace genera confianza y filtra expectativas equivocadas.
+- **Propuesta propia:** un bloque "Lo que sí y lo que no" (no es un tratamiento; sí es masaje, alivio y tónico repartido parejo sin ensuciarse las manos) y una mini comparación de 3 filas: con la mano, con el cepillo manual y con ScalpCare Pro.
+- **En video:** un microdrama del Edificio Flubber donde un vecino pregunta "¿esto hace crecer el pelo?" y la respuesta es honesta, con una demo en seco.
+- **Métrica:** agregar al carrito, preguntas o reclamos por expectativas y comentarios del tipo "¿sirve para la caída?".
+- **Confianza:** baja-media.
+- **Próximo paso:** el dueño aprueba el enfoque y se redacta junto con OPP-014 y OPP-015 en una sola sección de la ficha.
 
 ## J. Próximas acciones
-- **Próximo run de reseñas (19:54):** buscar opiniones de Gadnic en Bidcom y ML, y comparar la sensación de masaje que se describe.
 - **Próximo run de catálogo (03:54):**
-  - Confirmar el precio de Gadnic con otra fuente (ML o Bidcom en producción).
-  - Volver a mirar Ulta.
-  - Conseguir la cotización actual del dólar para actualizar la estimación de OPP-012.
+  - Confirmar el precio de Gadnic con otra fuente.
+  - Conseguir la cotización del día para OPP-012.
+  - Volver a mirar Ulta (TYMO).
+- **Próximo run de reseñas:** volver a buscar opiniones de Gadnic (ML AR o Bidcom en producción).
 - **Para el dueño** (no se contactó a nadie):
-  - Decidir la garantía (OPP-003). En AR, una marca local muestra 12 meses junto al precio.
-  - Confirmar las fechas límite de pedido (OPP-013).
+  - Decidir la garantía (OPP-003).
+  - Aprobar el enfoque de OPP-016.
 
 ## K. Nuevos hallazgos
-- Gadnic pasa a relevancia alta: sale de preventa, con precio, oferta y entrega en el día.
-- Se suman 4 productos a grupos que ya existían (DHactive, BERNOVAS, Dexmary, DFYXO). No hay competidores nuevos.
-- No hay oportunidades nuevas. Se actualizaron 5: OPP-001, 013, 012, 005 y 003.
+- **Competidores nuevos:**
+  - **alverela-co** (A, relevancia media).
+  - **gleva-in** (C, relevancia media).
+- **Oportunidades:**
+  - Una nueva: OPP-016 (32).
+  - Cuatro actualizadas: OPP-001, OPP-015, OPP-003 y OPP-006. Ninguna cambia de score.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. No se vio ningún anuncio verificado.
-- **TikTok Creative Center:** lo mismo, permiso de URL no respondido.
-- **Datos sin fecha:** el precio y el stock de Gadnic, Ulta y Amazon salen de copias de Exa sin fecha visible.
-- **Tipo de cambio:** no se consiguió la cotización del día (la búsqueda devolvió notas de otros años). La conversión usa el BNA del 15/10/2026 y puede estar desactualizada.
-- **Pendiente:** no se revisaron reseñas de Gadnic.
+- **Opiniones de Gadnic:** no se encontró el listado en Mercado Libre AR (la búsqueda redirige a verificación de cuenta) y Bidcom muestra la nota sin texto de reseñas.
+- **Datos sin fecha:** las fichas de Alverela, Falabella y Holy salen de copias de Exa sin fecha visible.
+- **Reseñas de Alverela:** que sean importadas es solo una hipótesis; no se verificó.
+- **Biblioteca de anuncios de Meta:** no se intentó (no es la franja de anuncios).
 - **Repo público:** sin datos internos. Conviene volverlo privado.

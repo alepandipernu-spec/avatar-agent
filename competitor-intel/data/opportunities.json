@@ -47,6 +47,12 @@
     "run_id": "2026-10-20T11-57",
     "change": "Más evidencia, score sin cambios (80): DHactive y BERNOVAS también prometen aplicación limpia y sin desperdicio. La promesa ya es común; lo que diferencia es demostrarla en video (carga, pasada, mano limpia) en lugar de afirmarla.",
     "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Más evidencia: 3 reseñas nuevas de dispensado (Alverela, mriya, VOEAIN). El patrón llega a 20 fuentes. Sin cambio de score.",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
    }
   ]
  },
@@ -143,6 +149,12 @@
     "run_id": "2026-10-20T11-57",
     "change": "Más evidencia, score sin cambios (11): Gadnic sale de preventa con 12 meses de garantía visible junto al precio; DHactive publica 60 días de devolución.",
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Más evidencia CO: el genérico de Falabella tiene 1 mes de garantía del proveedor (\"Sin garantía\" en el detalle); NIHLO publica 1 año por defectos. La garantía separa marcas de genéricos. Sin cambio de score.",
+    "source": "https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132"
    }
   ]
  },
@@ -269,6 +281,12 @@
     "date": "2026-10-18",
     "run_id": "2026-10-18T19-54",
     "change": "Más evidencia, score sin cambios (2). LeeRong incluye 30 ml de aceite en la caja y La Milpa de María (MX) vende el aplicador como accesorio de sus aceites. Sigue sin datos de costo ni logística."
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Más evidencia: Alverela (CO) vende un combo aparato + aceite de argán a COP 117.700. Es el segundo kit relevado (después de Lena en AR). Sin cambio de score: falta evaluar proveedor y logística.",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
    }
   ]
  },
@@ -642,6 +660,48 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Alta (score 36)"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Más evidencia: Gadnic (marca local AR) publica el manual de usuario descargable en la ficha. Sin cambio de score.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   }
+  ]
+ },
+ "OPP-016-respuestas-honestas-y-comparacion-justa": {
+  "id": "OPP-016-respuestas-honestas-y-comparacion-justa",
+  "competidor_observado": "Gleva (India, inspiracional)",
+  "producto_estrategia": "Preguntas frecuentes y tabla comparativa en la ficha",
+  "fuente_evidencia": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator (consultado 20/10/2026)",
+  "hallazgo": "[HECHO] La primera pregunta frecuente responde que el aparato no hace crecer el pelo. La tabla compara el aparato con aplicar a mano e incluye una fila donde gana la mano.",
+  "explicacion": "[HIPÓTESIS] En una categoría donde casi todos prometen crecimiento, decir con claridad qué no hace genera confianza y filtra a quien espera otra cosa (menos reclamos).",
+  "confianza": "baja-media (1 fuente inspiracional; no hay datos de su conversión)",
+  "diferencia_flubberhome": "Flubberhome ya evita los claims médicos, pero la ficha no lo convierte en argumento: el silencio sobre crecimiento puede leerse como falta de información.",
+  "adaptable": "Responder primero la pregunta difícil y comparar de forma justa con la alternativa gratuita (la mano o el cepillo manual).",
+  "no_replicar": "Su texto, su tabla o su formato visual; cifras de pedidos sin verificar; el requisito del video de unboxing (agrega fricción).",
+  "propuesta_original": "Bloque \"Lo que sí y lo que no\" en la ficha y la Guía: \"No es un tratamiento ni promete crecimiento. Sí: masaje, alivio y el tónico repartido parejo sin ensuciarte las manos\". Y una mini comparación con 3 filas (aplicar con la mano / cepillo manual / ScalpCare Pro) que admita en qué gana cada uno.",
+  "ejemplo": "Microdrama del Edificio Flubber: la vecina pregunta si \"esto hace crecer el pelo\". El portero responde que no, que es para el masaje y para que el tónico no termine en la almohada, y lo muestra en seco.",
+  "recursos": "Texto (1 h), diseño simple, edición de la ficha en Shopify (la hace el dueño), 1 episodio en el AI Creative Studio.",
+  "costos_riesgos": "Costo bajo. Riesgo: perder a quien busca crecimiento (público que igual generaría reclamos). Revisar con la skill flubberhome-creative-engine.",
+  "metrica": "Agregar al carrito y tasa de preguntas o reclamos por expectativas (cuando haya tráfico); en anuncios, CTR y comentarios que pregunten \"¿sirve para la caída?\".",
+  "proximo_paso": "El dueño aprueba el enfoque; se redacta el bloque junto con OPP-014 (qué vas a sentir) y OPP-015 (vista previa de la guía) en una sola sección de la ficha.",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 3
+  },
+  "score": 32.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta (score 32)",
+    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
    }
   ]
  }

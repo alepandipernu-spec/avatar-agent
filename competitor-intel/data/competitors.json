@@ -48,6 +48,12 @@
     "run_id": "2026-10-20T11-57",
     "change": "Sale de preventa: precio visible ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, envío en el día AMBA, 12 meses de garantía. Relevancia media → alta.",
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691). Publica el manual de usuario descargable en la ficha. Bidcom muestra 4,5★ sin cantidad visible de opiniones. No se encontró el listado en ML AR.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  },
@@ -134,6 +140,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T03-56",
     "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia). Sigue '+70 vendidos' con 'Sin stock' y 'quedan 3' a la vez.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia; \"+70 vendidos\", \"Sin stock\" y \"quedan 3\" a la vez).",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
@@ -1136,6 +1148,12 @@
     "run_id": "2026-10-20T03-56",
     "change": "Sin cambios: Luxury COP 149.990 (tachado 199.990, 4,9★/27 reseñas); Essential COP 79.990 (tachado 99.990).",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo tras un tratamiento oncológico: no replicar ese tipo de testimonio.",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
   "id": "holy-cosmetics-co",
@@ -1265,6 +1283,12 @@
     "run_id": "2026-10-20T03-56",
     "change": "Se suma Smartjoys (COP 64.900; garantía 2 meses).",
     "source": "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Falabella CO (vendedor externo): genérico a COP 122.900 (-56%), garantía del proveedor 1 mes y \"Sin garantía\" en el detalle; Falabella excluye eléctricos de la devolución por arrepentimiento de 30 días.",
+    "source": "https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132"
    }
   ],
   "id": "co-dtc-tiendas",
@@ -1813,6 +1837,88 @@
     "run_id": "2026-10-20T03-56",
     "change": "Alta",
     "source": "https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003"
+   }
+  ]
+ },
+ "alverela-co": {
+  "id": "alverela-co",
+  "name": "Alverela (NUVÉA™)",
+  "domain": "alverela.com",
+  "market": "CO",
+  "category": "A_directo",
+  "relevant_products": [
+   "NUVÉA™ Ritual Capilar: masajeador con depósito trasero + aceite de argán (combo)"
+  ],
+  "price_visible": "COP 117.700 (tachado 147.700) el 20/10/2026, combo aparato + aceite de argán.",
+  "value_prop": "Vende un \"ritual\" en combo: el aparato junto con un aceite para cargar.",
+  "channels": [
+   "Tienda Shopify propia"
+  ],
+  "sources": [
+   "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+  ],
+  "last_reviewed": "2026-10-20",
+  "relevance": "media",
+  "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
+  "facts": [
+   "[HECHO] 23 reseñas visibles (20 de 5★). Una describe que el aceite no sale si no se presiona la tapa de silicona; otra, que llegó descargado (consultado 20/10/2026).",
+   "[HECHO] Usa luz roja y menciona \"caída visible\" y \"entradas\" como focos de la rutina."
+  ],
+  "inferences": [],
+  "hypotheses": [
+   "[HIPÓTESIS] Varios nombres de reseñantes tienen formato de datos de prueba en inglés (combinaciones poco comunes en CO), lo que sugiere reseñas importadas desde otra plataforma. No está verificado."
+  ],
+  "unknowns": [
+   "Ventas, tiempo de entrega, garantía, origen del aceite."
+  ],
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta en la base (run de nuevos competidores).",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+   }
+  ]
+ },
+ "gleva-in": {
+  "id": "gleva-in",
+  "name": "Gleva",
+  "domain": "glevacosmetics.com",
+  "market": "IN (no vende en los mercados de Flubberhome)",
+  "category": "C_inspiracional",
+  "relevant_products": [
+   "Electric Scalp Massager con tanque de aceite"
+  ],
+  "price_visible": "INR 1.499 (impuestos incluidos), consultado 20/10/2026.",
+  "value_prop": "Ficha que responde con honestidad: dice que no hace crecer el pelo y compara de forma justa el aparato con aplicar con la mano, incluso dónde gana la mano.",
+  "channels": [
+   "Tienda propia"
+  ],
+  "sources": [
+   "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+  ],
+  "last_reviewed": "2026-10-20",
+  "relevance": "media",
+  "follow_reason": "Convierte la ausencia de claims médicos en un argumento de confianza. Es justo la restricción que tiene Flubberhome. Ver OPP-016.",
+  "facts": [
+   "[HECHO] Primera pregunta frecuente: ¿hace crecer el pelo? Respuesta: no.",
+   "[HECHO] Tabla comparativa aparato vs. mano, con una fila donde gana la mano (no cuesta nada).",
+   "[HECHO] Muestra \"70,000+ orders delivered\" (afirmación de la marca, no verificada).",
+   "[HECHO] Reposición por daño o faltante solo con video del unboxing dentro de 48 h."
+  ],
+  "inferences": [
+   "[INTERPRETACIÓN] La honestidad explícita funciona como filtro de expectativas y reduce reclamos."
+  ],
+  "hypotheses": [],
+  "unknowns": [
+   "Conversión, devoluciones, si el número de pedidos es real."
+  ],
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T19-54",
+    "change": "Alta en la base como competidor inspiracional.",
+    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
    }
   ]
  }
