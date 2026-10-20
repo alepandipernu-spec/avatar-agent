@@ -428,5 +428,53 @@
    "OPP-003 (más evidencia, 11)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-20T03-56",
+  "foco": "Catálogo, tiendas y precios (franja 03:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Anyra, Holy (Luxury y Essential), Lena, Nordic, Hairrova, Microshop, NIHLO, Glokore, TYMO DTC",
+   "Ulta, Best Buy, Target (copias de Exa)",
+   "BeyondStyle (agregador de TJ Maxx y Macy's)",
+   "listados ML AR/MX y Amazon MX (copias de Exa)"
+  ],
+  "fuentes_fallidas": [
+   "WebFetch de Ulta: permiso de URL no respondido (segunda vez; se usó la copia de Exa)",
+   "Amazon US de TYMO: no apareció listado",
+   "Precio de Glokore: no aparece en la copia leída",
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+  ],
+  "competidores_revisados": [
+   "anyra-us",
+   "holy-cosmetics-co",
+   "lena-vegetal-ar",
+   "glokore-us",
+   "nordic-biolabs-us",
+   "hairrova-us",
+   "microshop-ar",
+   "nihlo-co",
+   "tymo-us",
+   "mx-tiendas",
+   "co-dtc-tiendas"
+  ],
+  "competidores_nuevos": [
+   "offprice-retail-us"
+  ],
+  "novedades": [
+   "TYMO TriThera: se suman Best Buy (USD 79,99) y Macy's (USD 99,99); Ulta sigue a USD 42,99 en la copia de Exa",
+   "Formato en TJ Maxx a USD 14,99–19,99",
+   "Sin cambios de precio en 8 competidores directos",
+   "+1 tienda MX (OC Market, agotado) y +1 CO (Smartjoys)",
+   "Fecha límite estimada de pedido para Navidad: LatAm ≈ 24/11, EE. UU. ≈ 01/12"
+  ],
+  "oportunidades_nuevas": [],
+  "oportunidades_actualizadas": [
+   "OPP-013 (fecha límite estimada, 49)",
+   "OPP-007 (más evidencia, 30)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

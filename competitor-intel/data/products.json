@@ -43,6 +43,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios USD 50,95.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (USD 50,95, tachado 158,95).",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -84,6 +90,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Sin cambios (USD 89,99; Sold out).",
     "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (USD 89,99; Sold out).",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
    }
   ]
  },
@@ -122,6 +134,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Sin cambios (USD 79); suma 'Stock Status: Very Low'.",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (USD 79, tachado 158).",
     "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
    }
   ]
@@ -289,6 +307,12 @@
     "run_id": "2026-10-19T03-55",
     "change": "Sin cambios (ARS 25.600; 'Sin stock' + 'quedan 3').",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (ARS 25.600).",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
  },
@@ -333,6 +357,12 @@
    {
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (ARS 45.780).",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
     "change": "Sin cambios (ARS 45.780).",
     "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
    }
@@ -383,6 +413,12 @@
     "run_id": "2026-10-18T19-54",
     "change": "Precio sin cambios COP 149.990; 27 reseñas.",
     "source": "chequeo rápido de precios (Exa fetch)"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (COP 149.990, tachado 199.990).",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ]
  },
@@ -422,6 +458,12 @@
    {
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
+    "change": "Sin cambios (COP 89.900).",
+    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
     "change": "Sin cambios (COP 89.900).",
     "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
    }
@@ -532,6 +574,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "COP 79.990 (tachado 99.990). La copia consultada no muestra 'Agotado'; stock sin confirmar.",
+    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (COP 79.990, tachado 99.990); la copia no muestra 'Agotado'.",
     "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
    }
   ]
@@ -684,7 +732,9 @@
    "DTC": "USD 99,99 (tachado 129,99)",
    "Ulta": "USD 42,99 en oferta (lista 99,99)",
    "Target": "USD 79,99 (agotado)",
-   "Holiday Duo Ulta": "USD 89,99 (lista 159,99)"
+   "Holiday Duo Ulta": "USD 89,99 (lista 159,99)",
+   "Best Buy": "USD 79,99",
+   "Macy's (vía BeyondStyle)": "USD 99,99"
   },
   "promos": "Oferta en Ulta y DTC; regalo aleatorio con algunas compras DTC",
   "garantia": "1 año para 'hair styling tools'; excluye 'Hair Care / Hair Accessories' (ambiguo para este producto)",
@@ -712,6 +762,12 @@
     "run_id": "2026-10-19T19-54",
     "change": "Alta",
     "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Ulta sigue USD 42,99 (copia de Exa); se suman Best Buy USD 79,99 y Macy's USD 99,99. Mismo modelo HC132SP.",
+    "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
    }
   ]
  }

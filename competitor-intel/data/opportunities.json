@@ -286,6 +286,11 @@
     "date": "2026-10-17",
     "run_id": "2026-10-17T15-28-b",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Más evidencia, score sin cambios (30). [HECHO] TYMO TriThera se vende a USD 42,99, 79,99 y 99,99 según el canal (Ulta, Best Buy, Macy's/DTC), y el formato aparece en TJ Maxx por menos de USD 20. En EE. UU. el precio 'de lista' pierde credibilidad; un precio único con ahorro real por pack es más defendible."
    }
   ]
  },
@@ -519,6 +524,11 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Score 37→49 (confianza 3→4): una marca establecida (TYMO) lanza en Ulta un pack de regalo de dos aparatos para las fiestas. Confirma el formato 'dúo de regalo' fuera de los genéricos."
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Score sin cambios (49). [ESTIMACIÓN] Fecha límite de pedido para que llegue antes del 24/12, con los plazos que publica la ficha (despacho 1–2 + entrega 10–20 días hábiles LatAm; 7–15 EE. UU.) y contando solo días hábiles sin feriados: LatAm ≈ 24/11/2026; EE. UU. ≈ 01/12/2026. Margen de error: feriados locales y demoras de aduana pueden adelantar la fecha 1 semana o más; confirmar con logística."
    }
   ],
   "history": [

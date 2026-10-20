@@ -77,7 +77,7 @@
   ],
   "relevance": "alta",
   "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -118,6 +118,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Chequeo rápido: sin cambios de precio (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia). Muestra \"+70 vendidos\" y \"solo quedan 3 en stock\".",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia). Sigue '+70 vendidos' con 'Sin stock' y 'quedan 3' a la vez.",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
@@ -197,7 +203,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -226,6 +232,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (ARS 45.780; tachado 60.000, 24% OFF; envío gratis; 10% por transferencia).",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (ARS 45.780, tachado 60.000; envío gratis; 10% por transferencia).",
     "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
    }
   ]
@@ -312,7 +324,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -366,6 +378,12 @@
     "run_id": "2026-10-19T19-54",
     "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95, 4,9 con 12.319 clientes declarados). Sigue el bloque reciclado del cojín de coxis.",
     "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95; '12.319 clientes' y 'agotado 3 veces').",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
    }
   ]
  },
@@ -400,7 +418,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Comunica garantía de 1 año + 30 días de devolución en el primer pantallazo; claims médicos fuertes (no replicables).",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -423,6 +441,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (USD 89,99; tachado 149,99); sigue 'Sold out'.",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (USD 89,99, tachado 149,99); sigue 'Sold out'.",
     "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
    }
   ]
@@ -459,7 +483,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Ejemplo de modelo aparato + consumible propio (recompra).",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -488,6 +512,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (USD 79; tachado 158). Ahora muestra 'Stock Status: Very Low' además de 'Low Stock Alert' (urgencia de stock, no verificable).",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (USD 79, tachado 158; 'Stock Very Low'; 120 días de devolución).",
     "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
    }
   ]
@@ -592,7 +622,7 @@
   ],
   "relevance": "media",
   "follow_reason": "Embudo de respuesta directa completo (advertorial, urgencia, venta adicional de garantía): aprendizaje de estructura, no de claims.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -623,6 +653,12 @@
     "run_id": "2026-10-19T11-55",
     "change": "Embudo checkout4 sin cambios ('BF26', packs sin renderizar, 60 días de devolución).",
     "source": "https://glokore.com/scalpmassager/checkout4"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Ficha DTC: sigue 'Purchased 2,541 times in the past 30 days' (mismo número que en runs anteriores) y 'Bestseller of 2025'; el precio no apareció en la copia leída.",
+    "source": "https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager"
    }
   ]
  },
@@ -1020,7 +1056,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -1062,6 +1098,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Chequeo rápido: Luxury sin cambios (COP 149.990, tachado 199.990, 4,9 con 27 reseñas).",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios: Luxury COP 149.990 (tachado 199.990, 4,9★/27 reseñas); Essential COP 79.990 (tachado 99.990).",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
@@ -1106,7 +1148,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -1124,6 +1166,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T03-55",
     "change": "Precio sin cambios (COP 89.900); garantía 1 año por defectos; sin reseñas del aparato en la ficha.",
+    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Sin cambios (COP 89.900; garantía 1 año por defectos; 0 reseñas).",
     "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
    }
   ],
@@ -1151,7 +1199,8 @@
  "co-dtc-tiendas": {
   "facts": [
    "Garantías publicadas cortas: Smartjoys 2 meses por defecto de fábrica; En Tu Sitio 30 días por mal funcionamiento y 10 días para pedido incompleto/roto.",
-   "En Tu Sitio aclara que su modelo es 'resistente a salpicaduras, NO sumergible'."
+   "En Tu Sitio aclara que su modelo es 'resistente a salpicaduras, NO sumergible'.",
+   "[HECHO 20/10/2026] Smartjoys (smartjoys.co): cepillo con luz roja y aplicación de aceites a COP 64.900 (tachado 116.000), entrega 1–5 días hábiles, garantía de 2 meses por defectos; claims de caída y crecimiento."
   ],
   "inferences": [
    "[HIPÓTESIS] El mercado colombiano de DTC está saturado del mismo producto genérico con claims médicos: el ángulo honesto de masaje + aplicación y una garantía más larga son diferenciales reales."
@@ -1160,7 +1209,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
@@ -1179,6 +1228,12 @@
     "run_id": "2026-10-19T19-54",
     "change": "Se suman NeXo Colombia (COP 79.900, tachado 139.900, agotado, pago contra entrega, garantía 30 días, claims de caída, 2 reseñas) y Nuvitecno (COP 79.000, depósito 3 ml, claims de caída). [ESTIMACIÓN] ≈ USD 25 con TRM 3.170,46 (16/10). Smartjoys sigue en COP 64.900 (tachado 116.000) con garantía de 2 meses.",
     "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Se suma Smartjoys (COP 64.900; garantía 2 meses).",
+    "source": "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
    }
   ],
   "id": "co-dtc-tiendas",
@@ -1220,22 +1275,30 @@
  "mx-tiendas": {
   "facts": [
    "Joinet (mayorista) muestra 'cantidad vendida: 17' y 29 unidades en una sucursal.",
-   "Un vendedor de ML MX (EGMYMX) tiene la publicación pausada y avisa entregas de 7–20 días y que no se aceptan cambios de color."
+   "Un vendedor de ML MX (EGMYMX) tiene la publicación pausada y avisa entregas de 7–20 días y que no se aceptan cambios de color.",
+   "[HECHO 20/10/2026] OC Market (ocmarket.mx): masajeador 2 en 1 con aplicador de aceite a MXN 1.038, 'Agotado'; envío calculado en el pago."
   ],
   "inferences": [
-   "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir."
+   "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir.",
+   "[ESTIMACIÓN] MXN 1.038 ≈ USD 57,7 (17,98 MXN/USD, la tasa usada antes): por encima de Flubberhome (USD 41,93)."
   ],
   "hypotheses": [],
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-17",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "Competidor nuevo registrado",
     "source": "Exa"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Se suma OC Market (MXN 1.038, agotado).",
+    "source": "https://www.ocmarket.mx/products/cepillo-masajeador-electrico"
    }
   ],
   "id": "mx-tiendas",
@@ -1606,7 +1669,7 @@
    "TYMO TriThera (DTC, Ulta, Target)",
    "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
   ],
-  "price_visible": "DTC USD 99,99 (tachado 129,99) · Ulta USD 42,99 en oferta (lista 99,99), color Gold Blush agotado a 99,99 · Target USD 79,99 agotado (otra publicación) · Holiday Duo USD 89,99 (lista 159,99). Consulta 19/10/2026; las páginas de Ulta y Target vienen de la copia de Exa, sin fecha visible.",
+  "price_visible": "DTC USD 99,99 (tachado 129,99) · Ulta USD 42,99 en oferta (lista 99,99) · Best Buy USD 79,99 · Macy's USD 99,99 (vía agregador BeyondStyle) · Target USD 79,99 agotado · Holiday Duo Ulta USD 89,99. Copias de Exa sin fecha visible; consulta 20/10/2026.",
   "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
   "claims_observed": [
    "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
@@ -1624,7 +1687,8 @@
    "[HECHO] 3 niveles de EMS × 3 de masaje; apagado a los 10 min; IPX7; carga en 2 h.",
    "[HECHO] DTC: 4 reseñas (4,5/5); una cuenta que dejó de encender. Ulta: 3,8★ con 4 reseñas en la lista de marca. Target: 4★ con 8 reseñas.",
    "[HECHO] La garantía de 1 año de TYMO cubre 'hair styling tools' y excluye la serie 'Hair Care / Hair Accessories'; no queda claro en cuál cae el TriThera.",
-   "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo."
+   "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo.",
+   "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC."
   ],
   "inferences": [
    "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -1633,7 +1697,8 @@
    "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio."
   ],
   "unknowns": [
-   "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon."
+   "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon.",
+   "No se encontró TriThera a la venta en MX ni CO (en Falabella CO y Yaxa solo aparecen otros productos TYMO). Amazon US sin confirmar."
   ],
   "sources": [
    "https://tymobeauty.com/products/tymo-trithera",
@@ -1641,17 +1706,74 @@
    "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools",
    "https://www.target.com/p/tymo-trithera-scalp-therapy-red-light-massage-brush-hair-appliance-accessories-champagne-pink/-/A-94433316",
    "https://www.target.com/p/tymo-trithera-trithera-scalp-massage-brush/-/A-1012761777",
-   "https://shopmy.us/shop/product/1763258"
+   "https://shopmy.us/shop/product/1763258",
+   "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3",
+   "https://www.beyondstyle.us/prod/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?id=macys_28540104"
   ],
   "relevance": "alta",
   "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-  "last_reviewed": "2026-10-19",
+  "last_reviewed": "2026-10-20",
   "history": [
    {
     "date": "2026-10-19",
     "run_id": "2026-10-19T19-54",
     "change": "Alta en la base (competidor nuevo, relevancia alta)",
     "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
+   },
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Se suman Best Buy (USD 79,99) y Macy's (USD 99,99, vía BeyondStyle). Ulta sigue a USD 42,99 en la copia de Exa de la ficha (sin fecha). No aparece en MX/CO.",
+    "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
+   }
+  ]
+ },
+ "offprice-retail-us": {
+  "id": "offprice-retail-us",
+  "name": "Formato en retail de liquidación y marketplaces de EE. UU. (TJ Maxx, Target Plus)",
+  "domain": "tjmaxx.tjx.com / target.com (vendedores externos)",
+  "market": "US",
+  "category": "A_directo",
+  "product_focus": "Masajeador eléctrico con depósito para aceite",
+  "relevant_products": [
+   "MY BEAUTY SPOT 2-in-1 Scalp Massager and Oil Applicator",
+   "LINDO Halo LED Scalp Massager with Oil Dispenser",
+   "Morfone (Target, vendedor Fanyin Ltd)"
+  ],
+  "price_visible": "MY BEAUTY SPOT USD 14,99 (comparar 19) y LINDO USD 19,99 (comparar 26) en TJ Maxx, vistos vía agregador BeyondStyle; envío USD 9,99 (gratis desde 89). Morfone en Target: 3★ con 2 reseñas, precio no visible.",
+  "value_prop": "Precio de liquidación.",
+  "claims_observed": "Luz LED/infrarroja y 'mejora la salud del cuero cabelludo' (LINDO).",
+  "channels": [
+   "retail off-price",
+   "marketplace de Target"
+  ],
+  "ads": [],
+  "facts": [
+   "[HECHO 20/10/2026] El formato aparece en TJ Maxx por menos de USD 20 (vía BeyondStyle, copia de Exa sin fecha)."
+  ],
+  "inferences": [
+   "[ESTIMACIÓN] Con el envío de TJ Maxx (USD 9,99), el costo total de 1 unidad queda en USD 25–30, unos USD 12–17 menos que Flubberhome (USD 41,93 + USD 10 de envío). Método: suma simple; condiciones no idénticas (calidad, garantía, plazo)."
+  ],
+  "hypotheses": [
+   "[HIPÓTESIS] Que el formato llegue a liquidación sugiere sobrestock en EE. UU. y hace más difícil competir por precio en ese mercado."
+  ],
+  "unknowns": [
+   "Stock, ventas, vigencia del precio."
+  ],
+  "sources": [
+   "https://www.beyondstyle.us/prod/my-beauty-spot-2in1-scalp-massager-and-oil-applicator?id=tjx_1001201650",
+   "https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003",
+   "https://www.target.com/p/morfone-scalp-massager-and-liquid-applicator-with-red-light-electric-scalp-massage-comb-6-ems-roller-balls-650nm-red-light-massage-comb/-/A-1006194316"
+  ],
+  "relevance": "media",
+  "follow_reason": "Fija el piso de precio del formato en EE. UU.",
+  "last_reviewed": "2026-10-20",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Alta",
+    "source": "https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003"
    }
   ]
  }

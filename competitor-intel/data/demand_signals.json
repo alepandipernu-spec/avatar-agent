@@ -269,7 +269,15 @@
   "alcance": "US",
   "tipo": "HECHO (oferta visible; copia de Exa sin fecha)",
   "indica": "El formato entra a canales masivos y a packs de regalo.",
-  "no_indica": "Ventas ni que el precio de Ulta siga vigente; pocas reseñas."
+  "no_indica": "Ventas ni que el precio de Ulta siga vigente; pocas reseñas.",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Se suman Best Buy (USD 79,99) y Macy's (USD 99,99): 5 canales con precios de USD 42,99 a 99,99 para el mismo modelo.",
+    "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
+   }
+  ]
  },
  "zoko-tiktok-vendidos-vs-calificacion": {
   "id": "zoko-tiktok-vendidos-vs-calificacion",
@@ -282,5 +290,25 @@
   "tipo": "HECHO: indicador de la plataforma",
   "indica": "Los videos pueden mover volumen aunque el producto decepcione; el costo aparece en reseñas y devoluciones.",
   "no_indica": "Rentabilidad ni ventas mensuales; es un peine con spray, no el mismo aparato."
+ },
+ "offprice-us-formato-bajo-20": {
+  "id": "offprice-us-formato-bajo-20",
+  "fecha": "2026-10-20",
+  "run_id": "2026-10-20T03-56",
+  "senal": "El formato aparece en retail de liquidación en EE. UU.",
+  "valor": "TJ Maxx: MY BEAUTY SPOT USD 14,99 y LINDO USD 19,99 (vía BeyondStyle)",
+  "fuente": "https://www.beyondstyle.us/prod/my-beauty-spot-2in1-scalp-massager-and-oil-applicator?id=tjx_1001201650 ; https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003",
+  "alcance": "US",
+  "tipo": "HECHO (precio visible en agregador; copia de Exa sin fecha)",
+  "indica": "Hay sobreoferta del formato en EE. UU. y un piso de precio muy bajo.",
+  "no_indica": "Ventas, calidad ni que TJ Maxx tenga stock hoy.",
+  "history": [
+   {
+    "date": "2026-10-20",
+    "run_id": "2026-10-20T03-56",
+    "change": "Alta",
+    "source": "https://www.beyondstyle.us/prod/lindo-halo-led-scalp-massager-with-oil-dispenser?id=tjx_1001244003"
+   }
+  ]
  }
 }
