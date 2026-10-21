@@ -36,7 +36,7 @@
   ],
   "relevance": "alta",
   "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-  "last_reviewed": "2026-10-20",
+  "last_reviewed": "2026-10-21",
   "history": [
    {
     "date": "2026-10-17",
@@ -53,6 +53,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T19-54",
     "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691). Publica el manual de usuario descargable en la ficha. Bidcom muestra 4,5★ sin cantidad visible de opiniones. No se encontró el listado en ML AR.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; sin impuestos nacionales 80.412; 3 cuotas sin interés).",
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
@@ -93,7 +99,7 @@
   ],
   "relevance": "alta",
   "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-  "last_reviewed": "2026-10-20",
+  "last_reviewed": "2026-10-21",
   "history": [
    {
     "date": "2026-10-17",
@@ -146,6 +152,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T19-54",
     "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia; \"+70 vendidos\", \"Sin stock\" y \"quedan 3\" a la vez).",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; 20.480 por transferencia; '+70 vendidos'; 'Sin stock' y 'quedan 3' a la vez).",
     "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
    }
   ]
@@ -1099,7 +1111,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-20",
+  "last_reviewed": "2026-10-21",
   "history": [
    {
     "date": "2026-10-17",
@@ -1153,6 +1165,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T19-54",
     "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo tras un tratamiento oncológico: no replicar ese tipo de testimonio.",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
     "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
    }
   ],
@@ -1331,7 +1349,9 @@
   "facts": [
    "Joinet (mayorista) muestra 'cantidad vendida: 17' y 29 unidades en una sucursal.",
    "Un vendedor de ML MX (EGMYMX) tiene la publicación pausada y avisa entregas de 7–20 días y que no se aceptan cambios de color.",
-   "[HECHO 20/10/2026] OC Market (ocmarket.mx): masajeador 2 en 1 con aplicador de aceite a MXN 1.038, 'Agotado'; envío calculado en el pago."
+   "[HECHO 20/10/2026] OC Market (ocmarket.mx): masajeador 2 en 1 con aplicador de aceite a MXN 1.038, 'Agotado'; envío calculado en el pago.",
+   "[HECHO 21/10/2026] Romayza (romayza.com.mx): masajeador 3 en 1 con tanque para tónicos a MXN 499 (tachado 699), envío gratis, 'es el último'; claims de caída y crecimiento y sugiere cargar minoxidil.",
+   "[HECHO 21/10/2026] Amazon MX (Peosaard, ASIN B0D3LPTDH4): MXN 426,59, 2,0★ con 1 reseña, puesto 208.799 en Belleza, entrega gratis 29/10–3/11."
   ],
   "inferences": [
    "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir.",
@@ -1341,7 +1361,7 @@
   "unknowns": [
    "Ventas, anuncios activos, tasa de devoluciones."
   ],
-  "last_reviewed": "2026-10-20",
+  "last_reviewed": "2026-10-21",
   "history": [
    {
     "date": "2026-10-17",
@@ -1354,6 +1374,12 @@
     "run_id": "2026-10-20T03-56",
     "change": "Se suma OC Market (MXN 1.038, agotado).",
     "source": "https://www.ocmarket.mx/products/cepillo-masajeador-electrico"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Se suman Romayza (MXN 499) y un genérico en Amazon MX (MXN 426,59). Joinet sigue en MXN 345 con 'cantidad vendida: 17'.",
+    "source": "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/"
    }
   ],
   "id": "mx-tiendas",
@@ -1368,7 +1394,7 @@
    "Joinet KS-918 (mayorista)",
    "ML MX aplicadores 2 en 1 de vendedores en China"
   ],
-  "price_visible": "MXN 990 (pidehoy.mx) · MXN 1.038 (OC Market, agotado) · MXN 345 por unidad en mayorista Joinet (Guadalajara), desde MXN 297 por 12+ (17/10/2026). [ESTIMACIÓN] ≈ USD 55–58 en DTC y ≈ USD 19 en mayorista, con 17,98 MXN/USD (07/10/2026).",
+  "price_visible": "MXN 499 (Romayza, tachado 699, envío gratis, 21/10/2026) · MXN 426,59 (Amazon MX, Peosaard, 2,0★ con 1 reseña) · MXN 990 (pidehoy.mx) · MXN 1.038 (OC Market, agotado) · MXN 345 en mayorista Joinet. [ESTIMACIÓN] ≈ USD 23–56 con FIX 18,42 MXN/USD (09/10/2026).",
   "value_prop": "DTC: copy de bienestar y aplicación pareja. ML: envío internacional gratis, entrega 7–20 días desde China.",
   "claims_observed": "OC Market: bienestar ('estimula la circulación', 'reduce el estrés'), sin claims fuertes. ML: 'crecimiento del cabello'.",
   "channels": [
@@ -1380,7 +1406,9 @@
    "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum",
    "https://www.ocmarket.mx/products/cepillo-masajeador-electrico",
    "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/",
-   "https://articulo.mercadolibre.com.mx/MLM-2843105018-aplicador-electrico-de-aceite-capilar-w-2-en-1-masajeador-d-_JM"
+   "https://articulo.mercadolibre.com.mx/MLM-2843105018-aplicador-electrico-de-aceite-capilar-w-2-en-1-masajeador-d-_JM",
+   "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/",
+   "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4"
   ],
   "relevance": "media",
   "follow_reason": "Primera foto del mercado MX: DTC escaso y caro, mucha oferta transfronteriza lenta. Posible hueco para un vendedor con envío rápido y trato cercano."
@@ -1724,7 +1752,7 @@
    "TYMO TriThera (DTC, Ulta, Target)",
    "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
   ],
-  "price_visible": "DTC USD 99,99 (tachado 129,99) · Ulta USD 42,99 en oferta (lista 99,99) · Best Buy USD 79,99 · Macy's USD 99,99 (vía agregador BeyondStyle) · Target USD 79,99 agotado · Holiday Duo Ulta USD 89,99. Copias de Exa sin fecha visible; consulta 20/10/2026.",
+  "price_visible": "DTC USD 99,99 (tachado 129,99) + código TREAT 20% y venta de Halloween 'hasta 30% OFF' hasta el 26/10/2026 (21/10/2026) · Ulta USD 42,99 en oferta (lista 99,99; copia de Exa sin fecha, 21/10/2026) · Best Buy USD 79,99 · Macy's USD 99,99 (vía BeyondStyle) · Target agotado (4★ con 8 reseñas) · Holiday Duo Ulta USD 89,99.",
   "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
   "claims_observed": [
    "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
@@ -1744,7 +1772,8 @@
    "[HECHO] La garantía de 1 año de TYMO cubre 'hair styling tools' y excluye la serie 'Hair Care / Hair Accessories'; no queda claro en cuál cae el TriThera.",
    "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo.",
    "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC.",
-   "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída."
+   "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída.",
+   "[HECHO 21/10/2026] DTC: venta de Halloween con cuenta regresiva al 26/10/2026, código TREAT del 20%, cuotas de 4 × USD 24,99, garantía de 1 año por defectos, devolución 30 días con envío a cargo del cliente, 4 reseñas (4,5★)."
   ],
   "inferences": [
    "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -1769,7 +1798,7 @@
   ],
   "relevance": "alta",
   "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-  "last_reviewed": "2026-10-20",
+  "last_reviewed": "2026-10-21",
   "history": [
    {
     "date": "2026-10-19",
@@ -1787,6 +1816,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T11-57",
     "change": "Sin creatividades de TriThera encontradas; DTC con 4 reseñas; no aparece en TikTok Shop US; Ulta (copia de Exa) sigue a USD 42,99.",
+    "source": "https://tymobeauty.com/products/tymo-trithera"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "DTC sin cambio de precio de lista (USD 99,99) pero suma venta de Halloween hasta el 26/10 y código TREAT 20% [ESTIMACIÓN ≈ USD 80 con el código, no verificado en checkout]. Ulta sigue a USD 42,99 en la copia de Exa (sin fecha; WebFetch no usado). En Amazon US no apareció listado de TriThera.",
     "source": "https://tymobeauty.com/products/tymo-trithera"
    }
   ]

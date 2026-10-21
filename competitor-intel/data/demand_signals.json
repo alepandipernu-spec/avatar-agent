@@ -410,5 +410,45 @@
     "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
    }
   ]
+ },
+ "ar-costo-total-con-tarjeta": {
+  "id": "ar-costo-total-con-tarjeta",
+  "fecha": "2026-10-21",
+  "run_id": "2026-10-21T03-56",
+  "senal": "Costo total aproximado de Flubberhome en AR pagando con tarjeta vs. Gadnic local",
+  "valor": "1 u + envío USD 51,93 × dólar tarjeta ARS 2.002 ≈ ARS 104.000; Pack Dúo USD 71,88 ≈ ARS 143.900 (≈ 71.950 por unidad). Gadnic: ARS 97.299 con envío gratis y 3 cuotas.",
+  "fuente": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/ ; https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c ; Shopify (lectura)",
+  "alcance": "AR",
+  "tipo": "ESTIMACIÓN (dólar tarjeta del 19/10/2026; margen ±5% por variación cambiaria; no incluye posibles impuestos de importación ni comisiones del banco)",
+  "indica": "Que en AR la unidad suelta de Flubberhome cuesta al cliente un 7% más que el competidor local más caro, con entrega mucho más lenta; el Pack Dúo queda ≈26% por debajo por unidad.",
+  "no_indica": "Ventas ni conversión. El dólar tarjeta depende del banco y del día del cierre.",
+  "history": [
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Alta",
+    "source": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/"
+   }
+  ]
+ },
+ "mx-precios-locales-bajos": {
+  "id": "mx-precios-locales-bajos",
+  "fecha": "2026-10-21",
+  "run_id": "2026-10-21T03-56",
+  "senal": "Precio de genéricos locales en MX",
+  "valor": "MXN 426–499 (Amazon MX y Romayza) frente a ≈ MXN 957 de Flubberhome 1 u + envío (USD 51,93 × FIX 18,42 del 09/10/2026)",
+  "fuente": "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/ ; https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4",
+  "alcance": "MX",
+  "tipo": "HECHO (precios) + ESTIMACIÓN (conversión, ±3%)",
+  "indica": "Que en MX la unidad suelta de Flubberhome cuesta casi el doble que genéricos locales; solo se alinea con las DTC de ~MXN 1.000.",
+  "no_indica": "Ventas: el genérico de Amazon MX tiene 1 reseña y ranking bajo.",
+  "history": [
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Alta",
+    "source": "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/"
+   }
+  ]
  }
 }

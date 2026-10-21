@@ -569,5 +569,48 @@
    "OPP-006 (evidencia, 2)"
   ],
   "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+ },
+ {
+  "run_id": "2026-10-21T03-56",
+  "foco": "Catálogo, tiendas y precios (franja 03:54)",
+  "fuentes_ok": [
+   "Shopify (lectura)",
+   "GitHub (privacidad, vía MCP)",
+   "Exa search/fetch",
+   "fichas Gadnic, Lena, Holy (copia de Exa)",
+   "TYMO DTC (WebFetch)",
+   "Ulta (copia de Exa)",
+   "Cronista (dólar BNA, WebFetch)",
+   "Portafolio (TRM, WebFetch)",
+   "eldolar.info (FIX MX, WebFetch)",
+   "Romayza, Amazon MX, Joinet (copia de Exa)"
+  ],
+  "fuentes_fallidas": [
+   "Amazon US: no apareció listado de TYMO TriThera",
+   "Mercado Libre AR/MX: sin precios ni opiniones en las copias; no se intentó en vivo",
+   "Glokore: el precio sigue sin aparecer en la copia",
+   "FIX de Banxico del día: solo se encontró el del 09/10/2026",
+   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+  ],
+  "competidores_revisados": [
+   "gadnic-ar",
+   "lena-vegetal-ar",
+   "holy-cosmetics-co",
+   "tymo-us",
+   "glokore-us",
+   "mx-tiendas"
+  ],
+  "competidores_nuevos": [],
+  "novedades": [
+   "Sin cambios de precio en Gadnic, Lena y Holy",
+   "TYMO DTC: venta de Halloween hasta el 26/10 con código TREAT 20%; Ulta sigue a USD 42,99",
+   "Corrección OPP-012: con dólar tarjeta, Flubberhome 1 u + envío ≈ ARS 104.000, por encima de Gadnic",
+   "MX: genéricos locales a MXN 426–499 (Romayza, Amazon MX)"
+  ],
+  "oportunidades_nuevas": [],
+  "oportunidades_actualizadas": [
+   "OPP-012 (corrección de estimación, 37)"
+  ],
+  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
  }
 ]

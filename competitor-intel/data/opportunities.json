@@ -479,14 +479,14 @@
   "id": "OPP-012-costo-total-y-plazo-claros-latam",
   "competidor_observado": "Locales de AR y CO (Lena, Microshop, Holy Cosmetics, Mercado Libre AR)",
   "producto_estrategia": "Condiciones de compra: moneda, costo total, plazo y forma de pago",
-  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega' | 11-57 (20/10): Gadnic AR ARS 97.299, 3 cuotas, envío en el día AMBA (https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)",
-  "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales.",
+  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega' | 11-57 (20/10): Gadnic AR ARS 97.299, 3 cuotas, envío en el día AMBA (https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) | 03-56 (21/10): https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/ ; https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/",
+  "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales. [CORRECCIÓN 21/10/2026, ESTIMACIÓN] Con el dólar tarjeta de ARS 2.002 (oficial BNA 1.540 + percepción; Cronista, 19/10/2026), 1 u + envío ≈ ARS 104.000: más caro que Gadnic (ARS 97.299 con envío gratis, 3 cuotas y entrega en el día en AMBA). El Pack Dúo baja a ≈ ARS 71.950 por unidad. En MX, ≈ MXN 957 frente a genéricos locales de MXN 426–499.",
   "explicacion": "[HIPÓTESIS] En LatAm la fricción principal no es el precio de lista sino la incertidumbre sobre cuánto se paga al final y cuándo llega. Una ficha que lo deja claro antes del checkout reduce abandonos; no aclararlo puede generar reclamos.",
   "confianza": "media (condiciones verificadas; impacto en conversión no medido; tipo de cambio aproximado)",
   "diferencia_flubberhome": "La ficha ya informa plazo, moneda y posibles impuestos más abajo del precio; no muestra el precio aproximado en moneda local ni la fecha estimada de llegada junto al botón.",
   "adaptable": "Claridad de condiciones como hacen los locales (cuotas, plazo y medio de pago visibles junto al precio), sin copiar sus precios.",
   "no_replicar": "Prometer plazos que la logística no cumple; mostrar 'envío gratis' que esconde impuestos.",
-  "propuesta_original": "Bloque corto junto al botón, por país: 'Pagás en USD; con tarjeta son aprox. $X de tu moneda' + 'Llega entre el <fecha> y el <fecha>' + qué impuestos pueden aplicar. Empujar el Pack Dúo como el que absorbe el envío. Decisión aparte del dueño (no se recomienda sin datos de costos): evaluar stock local o precio en moneda local para AR.",
+  "propuesta_original": "Bloque corto junto al botón, por país: 'Pagás en USD; con tarjeta son aprox. $X de tu moneda' + 'Llega entre el <fecha> y el <fecha>' + qué impuestos pueden aplicar. Empujar el Pack Dúo como el que absorbe el envío. Decisión aparte del dueño (no se recomienda sin datos de costos): evaluar stock local o precio en moneda local para AR. [21/10] En AR y MX, presentar el Pack Dúo como la opción principal (precio por unidad en moneda local) y la unidad suelta como secundaria.",
   "ejemplo": "Debajo del precio: 'Llega aprox. del 5 al 19 de noviembre · Pagás en dólares; tu banco lo convierte'.",
   "recursos": "Edición de la ficha o una app de conversión de moneda (lectura del dueño); verificar plazos reales con el proveedor logístico.",
   "costos_riesgos": "Bajo costo; riesgo de mostrar una conversión desactualizada; el stock local tiene costo y riesgo altos.",
@@ -521,6 +521,12 @@
     "run_id": "2026-10-20T11-57",
     "change": "Más evidencia, score sin cambios (37): Gadnic, marca local, vende el mismo formato a ARS 97.299 (≈ USD 63,6 al BNA de 15/10), por encima de la estimación de Flubberhome (≈ ARS 79.500 sin percepciones). El rango local relevado pasa a ARS 25.600–97.299. La diferencia de Flubberhome en AR ya no es solo precio: es plazo (10–20 días hábiles frente a entrega en el día) y garantía.",
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Corrección de la estimación AR (con dólar tarjeta la unidad suelta supera a Gadnic) y datos de MX. Score sin cambios (37).",
+    "source": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/"
    }
   ]
  },

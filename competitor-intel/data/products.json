@@ -729,16 +729,16 @@
   "problema": "Masaje del cuero cabelludo con aplicación de líquido, más luz roja y EMS",
   "variantes": "Colores (Champagne Pink, Gold Blush, otros); Holiday Duo con plancha-peine",
   "precio": {
-   "DTC": "USD 99,99 (tachado 129,99)",
+   "DTC": "USD 99,99 (tachado 129,99) + código TREAT 20% en venta de Halloween hasta el 26/10/2026",
    "Ulta": "USD 42,99 en oferta (lista 99,99)",
    "Target": "USD 79,99 (agotado)",
    "Holiday Duo Ulta": "USD 89,99 (lista 159,99)",
    "Best Buy": "USD 79,99",
    "Macy's (vía BeyondStyle)": "USD 99,99"
   },
-  "promos": "Oferta en Ulta y DTC; regalo aleatorio con algunas compras DTC",
-  "garantia": "1 año para 'hair styling tools'; excluye 'Hair Care / Hair Accessories' (ambiguo para este producto)",
-  "devolucion": "Target: 30 o 90 días según publicación",
+  "promos": "Venta de Halloween DTC hasta el 26/10/2026 (código TREAT 20%); Mystery Box gratis desde USD 130; oferta en Ulta",
+  "garantia": "1 año por defectos de fabricación (DTC, 21/10/2026); excluye productos de cuidado capilar y accesorios",
+  "devolucion": "DTC: 30 días, envío de devolución a cargo del cliente; Target: 30 o 90 días según publicación",
   "envio": "DTC EE. UU.: entrega estimada 23–25/10; Ulta: gratis desde USD 35",
   "beneficios": [
    "depósito desmontable",
@@ -773,6 +773,12 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T11-57",
     "change": "DTC USD 99,99 (tachado 129,99) con 4 reseñas; Ulta (copia de Exa) la presenta como apta para la ducha (IPX7).",
+    "source": "https://tymobeauty.com/products/tymo-trithera"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T03-56",
+    "change": "Promo de Halloween DTC con código TREAT 20% hasta el 26/10; precio de lista igual.",
     "source": "https://tymobeauty.com/products/tymo-trithera"
    }
   ]
