@@ -80,13 +80,14 @@
     "domain": "beltronic.com.ar",
     "category": "Kit masajeador infrarrojo + serum Capixyl 5%",
     "market": "AR",
-    "verified_at": "2026-10-17",
-    "price": "Kit ARS 175.890 (lista ARS 185.990); 10% off por transferencia.",
+    "verified_at": "2026-10-21",
+    "price": "Kit ARS 175.890 (lista ARS 185.990); 15% off pagando en efectivo (solo retiro en showroom o moto a CABA, ARS 158.091,50); 3 cuotas sin interés.",
     "value_prop": "Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.",
     "claims": "'Anticaída y densidad', 'reduce la caída'.",
     "formats": "Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.",
     "facts": [
-      "Precio alto apoyado en un activo nombrado (Capixyl)."
+      "Precio alto apoyado en un activo nombrado (Capixyl).",
+      "21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página."
     ],
     "inferences": [
       "Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar."
@@ -99,8 +100,19 @@
       "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-21T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-21T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17",
+          "price": "Kit ARS 175.890 (lista ARS 185.990); 10% off por transferencia.",
+          "facts": [
+            "Precio alto apoyado en un activo nombrado (Capixyl)."
+          ]
+        }
+      }
+    ]
   },
   "microshop-ar": {
     "id": "microshop-ar",
@@ -208,14 +220,14 @@
     "domain": "hairrova.com",
     "category": "Masajeador con luz roja y aplicador",
     "market": "US",
-    "verified_at": "2026-10-18",
+    "verified_at": "2026-10-21",
     "price": "USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.",
     "value_prop": "Promesa de resultado con plazo.",
     "claims": "'Clinically proven… visible hair growth in 56 days'.",
     "formats": "No obtenido.",
     "facts": [
       "Garantía de devolución explícita y destacada.",
-      "18/10: figura 'Sold out'."
+      "18/10 y 21/10: figura 'Sold out' (precio sin cambios)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -227,7 +239,7 @@
       "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-18T15:46-03:00",
+    "updated": "2026-10-21T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -235,6 +247,16 @@
           "verified_at": "2026-10-17",
           "facts": [
             "Garantía de devolución explícita y destacada."
+          ]
+        }
+      },
+      {
+        "run": "2026-10-21T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-18",
+          "facts": [
+            "Garantía de devolución explícita y destacada.",
+            "18/10: figura 'Sold out'."
           ]
         }
       }
@@ -246,13 +268,14 @@
     "domain": "nordic-biolabs.com",
     "category": "Aplicador eléctrico + solución capilar",
     "market": "US",
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-21",
     "price": "USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.",
     "value_prop": "Aparato como vehículo de un consumible propio (recompra).",
     "claims": "'Hair regrowth', testimonios y cita profesional.",
     "formats": "No obtenido.",
     "facts": [
-      "Modelo aparato + consumible."
+      "Modelo aparato + consumible.",
+      "21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -263,8 +286,18 @@
       "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-17T14:21-03:00",
-    "history": []
+    "updated": "2026-10-21T15:46-03:00",
+    "history": [
+      {
+        "run": "2026-10-21T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-17",
+          "facts": [
+            "Modelo aparato + consumible."
+          ]
+        }
+      }
+    ]
   },
   "amazon-generics-us": {
     "id": "amazon-generics-us",
