@@ -1,82 +1,117 @@
-# Inteligencia competitiva — run 2026-10-21T11-54
+# Inteligencia competitiva — run 2026-10-21T19-55
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54).
+**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 21/10/2026, 11:54–12:20 (Buenos Aires).
-
-**Informe corto: no hubo novedades relevantes.** Abajo, lo que se comprobó.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 21/10/2026, 19:55–20:30 (Buenos Aires).
 
 ---
 
 ## A. Resumen ejecutivo
-- **Sin cambios de precio** en Gadnic (ARS 97.299) ni en Holy (COP 149.990). Lena no se pudo verificar.
-- **No se vio ningún anuncio verificado.** La Biblioteca de anuncios de Meta sigue inaccesible desde la nube y tampoco aparecieron creatividades nuevas de la categoría en fuentes públicas.
-- **TYMO:** sigue sin creatividades propias del TriThera. Un agregador de cupones no oficial dice que la venta de Halloween vence el 22/10, no el 26/10. No se pudo confirmar cuál fecha es la correcta.
+- **Sin cambios de precio** en Gadnic (ARS 97.299), Holy (COP 149.990) ni Lena (ARS 25.600). Lena se volvió a leer.
+- **Nuevo patrón: devolución y garantía con letra chica.** En Glokore, clientes se quejan en Trustpilot y BBB de tener que pagar el envío de vuelta o de que les rechacen la garantía por plazo. Esto refuerza OPP-003: si Flubberhome publica una garantía, tiene que decir quién paga el envío.
+- **El pelo largo pasa a tendencia incipiente** (4 fuentes). El País vio frizz al usar un masajeador en seco con pelo largo, que es justo el uso que pide Flubberhome. OPP-011 sube de 24 a 36.
+- **La sensación incómoda pasa a tendencia** (5 fuentes). Se suman quejas por puntas firmes o metálicas en aparatos premium (Breo Scalp3L, VitalEveRev). OPP-014 sube de 36 a 48.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| gadnic-ar | AR | A | Precio (sin cambios) |
+| gadnic-ar | AR | A | Precio (sin cambios) y opiniones (no aparecen) |
 | holy-cosmetics-co | CO | A | Precio (sin cambios) |
-| lena-vegetal-ar | AR | A | No se pudo leer (ver L) |
-| tymo-us | US | A | Ficha y búsqueda de creatividades o promos |
-| anyra-us / kitsch-us | US | A / B | Galería de videos y contador de TikTok Shop (sin cambios) |
-| co-dtc-tiendas | CO | A | Se suma LaKaDistribuidora |
+| lena-vegetal-ar | AR | A | Precio (sin cambios) |
+| glokore-us | US | A | Trustpilot y BBB |
+| breo-us | US | A | Reseña editorial del Scalp3L |
+| **hrebloom-us** (nuevo) | US/UE | A | Ficha, envío, devolución, reseñas |
+| **belfan-co** (nuevo) | CO | B | Kit tónico + masajeador manual en retail |
+
+**Altas nuevas, las dos de relevancia baja:**
+- **Hrebloom** ([ficha](https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth)):
+  - [HECHO] Vende a USD 79 (tachado 99), con envío gratis y 30 días para pedir la devolución.
+  - [HECHO] Tiene un diseño distinto: un frasco de 70 ml más un tanque chico de 2 ml, y promete dosis de 1 ml.
+  - [HIPÓTESIS] Sus 9 reseñas, todas de 5★ y con resultados de crecimiento, no son creíbles como señal.
+- **Belfan** ([Medipiel](https://www.medipiel.com.co/kit-estimulador-capilar--tonico---masajeador-15233/p)):
+  - [HECHO] Vende un kit de tónico + masajeador manual a COP 87.400 en Medipiel (cadena dermocosmética) y a COP 76.000 en su tienda.
+  - Sirve como referencia de precio del formato manual en CO (ver OPP-002).
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-[HECHO] Única ficha nueva: LaKaDistribuidora (CO) vende el cepillo con aplicación de aceite a COP 89.900 (tachado 150.000). Se presenta como apto para la ducha y promete crecimiento ([ficha](https://lakadistribuidora.com/products/cepillo-masajeador-capilar-electrico), copia de Exa sin fecha). Está dentro del rango ya conocido en CO (COP 64.900–149.990).
+- [HECHO] La ficha de Gadnic recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso ([ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)). Es una marca más que admite en la ficha que el dispensado necesita cuidado.
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** no accesible (ver L). Ningún anuncio de este informe está verificado.
-- **TYMO TriThera** ([ficha](https://tymobeauty.com/products/tymo-trithera)):
-  - [HECHO] La ficha ahora muestra la fecha estimada de entrega por estado (24–26/10).
-  - [HECHO] hotdeals.com, un agregador no oficial, muestra una "Halloween Sale" de hasta 30% que vence el 22/10 ([hotdeals](https://www.hotdeals.com/coupons/tymo-beauty-promo-codes)). El run anterior vio una cuenta regresiva al 26/10 en la tienda.
-  - No se encontraron creatividades del producto.
-- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): [HECHO] sigue visible el bloque de "más de 4,5 M de vistas" en TikTok e Instagram, con 68% OFF. Se suma una repetición; no hay videos nuevos.
-- **Patrón:** sin cambios respecto del 20/10. Los mensajes que se repiten siguen siendo aplicación sin enchastre, uso en la ducha y regalo.
+Sin revisión en esta ejecución. Último dato: 21/10/2026 11:54.
 
 ## E. Demanda y señales de ventas
-| Señal | Valor | Tipo |
-|---|---|---|
-| Kitsch, kit aplicador + aceite (TikTok Shop US) | "43.6K sold", USD 19, sin cambios desde el 18/10 | HECHO (indicador de la plataforma) ([fuente](https://shop.tiktok.com/us/k/hair-oil-and-massager)) |
-
-- **Qué no indica:** ventas por período ni qué parte corresponde al aplicador.
+Sin señales nuevas.
+- [HECHO] Lena sigue mostrando "+70 vendidos" (indicador propio de la tienda, no son ventas por período).
+- [HECHO] Glokore tiene 119 opiniones en Trustpilot. Esto no indica unidades vendidas.
 
 ## F. Experiencia de compra
 Sin revisión en esta ejecución. Último dato: 21/10/2026 03:56.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 20/10/2026 19:54.
+Se sumaron 7 reseñas parafraseadas a `reviews.json`.
+
+| Patrón | Fuentes / productos | Estado | Cambio |
+|---|---|---|---|
+| Dispensado del líquido | 20 / 14 | tendencia | sin cambios |
+| Durabilidad y fallas de fábrica | 11 / 10 | tendencia | +Breo Scalp3L |
+| Sensación incómoda o débil | 5 / 5 | **tendencia** (antes incipiente) | +Breo Scalp3L, +VitalEveRev |
+| Pelo largo: enredos o frizz | 4 / 4 | **tendencia incipiente** (antes incipiente) | +El País (Arboleaf), +Balanced Brawn (Breo) |
+| Instrucciones pobres | 4 / 4 | tendencia incipiente | +VitalEveRev |
+| **Devolución y garantía con letra chica** | 3 / 1 | **nuevo, incipiente** | Glokore |
+
+**Evidencia nueva:**
+- **Glokore:**
+  - [HECHO] Tiene 3,2★ con 119 opiniones en [Trustpilot](https://www.trustpilot.com/review/glokore.com).
+  - [HECHO] Un cliente cuenta que la "garantía de devolución" le exigía pagar unos USD 33 de envío ([29/03/2026](https://no.trustpilot.com/review/glokore.com)).
+  - [HECHO] A otro cliente le rechazaron la garantía de una máscara (producto adyacente) a los 6 meses.
+  - [HECHO] En [BBB](https://www.bbb.org/us/nv/las-vegas/profile/skin-care/glokore-1086-90094156/complaints) hay 18 reclamos en 3 años. Uno es un masajeador capilar pagado en noviembre de 2025 que no llegó en dos meses.
+  - **Contraejemplo:** varias opiniones elogian la rapidez de la atención.
+- **Breo Scalp3L** ([medical-insiders, 15/04/2026](https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la)): [HECHO] dice que las puntas firmes pueden irritar un cuero cabelludo sensible y menciona varias quejas por unidades falladas.
+- **VitalEveRev** ([Amazon US](https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W), USD 129,99): [HECHO] según una reseña, las puntas metálicas son incómodas, los controles táctiles no se entienden y la tapa cuesta.
+- **El País** ([comparativa, 2024](https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html)): [HECHO] con pelo largo, usarlo en seco dejó mucho frizz; la autora recomienda la ducha. Es una fuente de 2024.
+- **Balanced Brawn** ([Breo, 2025](https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/)): [HECHO] con pelo largo, las puntas se enredan.
+
+**Interpretación** [HIPÓTESIS]:
+- **Pelo largo:** Flubberhome no puede responder con "usalo en la ducha", porque el uso bajo el agua está prohibido. La respuesta tiene que ser de técnica: por secciones, apoyar y levantar, sin arrastrar. Y antes de comunicarlo hay que probarlo de verdad en pelo largo.
 
 ## H. Estrategias adaptables
-Sin cambios. Las del 20/10 y el 21/10 siguen vigentes: garantía al lado del precio, "uno para vos, uno para regalar" y liderar con el pack en AR y MX.
+- **Garantía sin letra chica** (evidencia: Glokore; confianza media):
+  - Lo que se ve en Glokore es que una garantía amplia, si esconde costos, genera más enojo que no tener garantía.
+  - Acción: si se publica la garantía de OPP-003, agregar una línea que diga quién paga el envío de vuelta y qué pasa después del plazo.
+  - Hoy la ventana de Flubberhome para defectos es de 72 h. Gadnic, Nihlo y LeeRong dan 12 meses y Glokore 60 días.
+- **Pelo largo en seco** (OPP-011): sumar a la Guía una página con la técnica por secciones. Hacerlo después de probar el aparato en pelo largo. Si tira o deja frizz, no mostrarlo y ajustar la Guía.
+- **Sensación honesta** (OPP-014): la queja por puntas firmes aparece también en los aparatos caros. Las puntas redondeadas de ScalpCare Pro pueden ser un argumento, pero solo si una prueba real lo confirma. Sin comparar con marcas.
 
 ## I. Oportunidades priorizadas
-Sin cambios de puntaje ni oportunidades nuevas.
-| # | id | Score |
-|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 |
-| 3 | OPP-002 pasar del manual al eléctrico (AR) | 48 |
-| 4 | OPP-012 costo total y plazo claros en LatAm | 37 |
+| # | id | Score | Cambio |
+|---|---|---|---|
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 3 | OPP-002 pasar del manual al eléctrico (AR) | 48 | — |
+| 3 | OPP-014 expectativa honesta de la sensación | **48** | 36→48 (confianza 3→4) |
+| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
+| 6 | OPP-011 demo con pelo largo | **36** | 24→36 (confianza y urgencia 2→3) |
+| — | OPP-003 garantía publicada | 11 | Más evidencia, sin cambio de score |
+
+No hay oportunidades nuevas. La evidencia de garantía se sumó a OPP-003 para no duplicar.
 
 ## J. Próximas acciones
-- **Próximo run de reseñas (19:54):** volver a intentar la ficha de Lena y buscar opiniones de Gadnic.
-- **Próximo run de catálogo (03:54):** confirmar si la venta de TYMO termina el 22/10 o el 26/10.
 - **Para el dueño:**
-  - Sin un navegador conectado, la Biblioteca de Meta no se puede consultar. Si se conecta Claude in Chrome a esta tarea, la franja de anuncios podría ver anuncios verificados.
-  - Siguen pendientes la garantía (OPP-003) y los impuestos de importación en AR (OPP-012).
+  - Hacer una sola prueba real que cubra OPP-001 (goteo), OPP-011 (pelo largo en seco) y OPP-014 (sensación en cada intensidad). Con un video de 15 minutos se resuelven tres oportunidades.
+  - Decidir el plazo de garantía y quién paga el envío de vuelta (OPP-003). Para eso hace falta la tasa de fallas del proveedor.
+- **Próximo run de catálogo (03:54):** confirmar si la venta de TYMO terminó (22/10 o 26/10).
+- **Próximo run de anuncios (11:54):** volver a intentar la Biblioteca de Meta.
 
 ## K. Nuevos hallazgos
-- No hay competidores nuevos. Se suma una tienda al grupo co-dtc-tiendas.
-- No hay oportunidades nuevas ni actualizadas.
+- **Competidores nuevos:** Hrebloom (US, A, baja) y Belfan (CO, B, baja).
+- **Patrón nuevo:** devolución y garantía con letra chica.
+- **Oportunidades actualizadas:** OPP-014, OPP-011 y OPP-003.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
-- **TikTok Creative Center:** no se intentó, por el mismo bloqueo de permisos.
-- **Lena Vegetal:** la página no se pudo leer (error de rastreo de Exa).
-- **Datos sin fecha:** Gadnic, Holy, TYMO y LaKa salen de copias de Exa sin fecha visible. La fecha de la promo de TYMO viene de un agregador no oficial.
+- **Mercado Libre AR:** el listado no trajo opiniones del masajeador con depósito. Las opiniones del masajeador Gadnic no aparecen ni en Bidcom ni en gadnic.com.ar.
+- **Biblioteca de anuncios de Meta:** no se intentó (no es la franja de anuncios). Sigue sin haber anuncios verificados desde el 17/10.
+- **Datos sin fecha:** Gadnic, Holy, Lena, Belfan y Hrebloom salen de copias de Exa sin fecha visible. La reseña de VitalEveRev no muestra fecha. La comparativa de El País es de 2024.
+- **Glokore:** 2 de las 3 fuentes del patrón nuevo son sobre la máscara LED, no sobre el masajeador. Todavía es una sola marca.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

@@ -155,6 +155,12 @@
     "run_id": "2026-10-20T19-54",
     "change": "Más evidencia CO: el genérico de Falabella tiene 1 mes de garantía del proveedor (\"Sin garantía\" en el detalle); NIHLO publica 1 año por defectos. La garantía separa marcas de genéricos. Sin cambio de score.",
     "source": "https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T19-55",
+    "change": "Más evidencia, score sin cambios (11): en Glokore, una garantía de devolución que exige pagar el envío de vuelta genera reclamos en Trustpilot y BBB. La garantía tiene que aclarar quién paga el envío. Nuevo patrón en reviews.json.",
+    "source": "https://no.trustpilot.com/review/glokore.com"
    }
   ]
  },
@@ -444,10 +450,10 @@
   "id": "OPP-011-demo-pelo-largo",
   "competidor_observado": "Zinnor y reseñas de Amazon citadas por el blog de Alibaba",
   "producto_estrategia": "Quejas de tirones con pelo largo",
-  "fuente_evidencia": "https://juicer.deals/review-item/28926386/ ; https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com",
+  "fuente_evidencia": "https://juicer.deals/review-item/28926386/ ; https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com ; https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html ; https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
   "hallazgo": "El pelo largo es una objeción que casi nadie muestra resuelta en video.",
   "explicacion": "[HIPÓTESIS] Las demos usan modelos de pelo corto o pelo suelto sin mover el aparato.",
-  "confianza": "baja (2 fuentes, una secundaria)",
+  "confianza": "media (4 fuentes de 4 productos; 2 editoriales)",
   "diferencia_flubberhome": "Puntas redondeadas; sin prueba documentada en pelo largo.",
   "adaptable": "Mostrar la técnica por secciones.",
   "no_replicar": "Nada específico.",
@@ -459,19 +465,25 @@
   "proximo_paso": "Probar el aparato en pelo largo junto con la prueba de goteo de OPP-001.",
   "puntajes": {
    "impacto": 3,
-   "confianza": 2,
+   "confianza": 3,
    "facilidad": 4,
    "costo": 1,
    "riesgo": 1,
-   "urgencia": 2
+   "urgencia": 3
   },
-  "score": 24.0,
+  "score": 36.0,
   "estado": "nueva",
   "historial": [
    {
     "date": "2026-10-17",
     "run_id": "2026-10-17T19-55",
     "change": "creada"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T19-55",
+    "change": "Score 24.0→36.0: confianza 2→3 y urgencia 2→3. El País vio frizz al usar en seco con pelo largo, que es el uso que exige Flubberhome; Breo también se enreda.",
+    "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
    }
   ]
  },
@@ -601,7 +613,7 @@
   "fuente_evidencia": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/ (17/02/2026); reseña de INIA en TikTok Shop (18/10/2026); Yaxa 3 en 1 (17/10/2026). Patrón en reviews.json.",
   "hallazgo": "[HECHO] En 3 productos distintos hay quejas de que el masaje se siente débil, incómodo o que rebota en la cabeza.",
   "explicacion": "[HIPÓTESIS] Los anuncios de la categoría venden \"masaje profundo\" o \"como un spa\", y la expectativa no coincide con la vibración real del aparato. La decepción aparece en las reseñas.",
-  "confianza": "media-baja (3 fuentes, una vieja y una de resumen)",
+  "confianza": "media (5 fuentes de 5 productos, incluido el segmento premium)",
   "diferencia_flubberhome": "Flubberhome ya comunica masaje y alivio, pero no explica qué se siente en cada intensidad ni cómo apoyarlo.",
   "adaptable": "Explicar la sensación antes de la compra: qué se siente, cómo empezar, cómo apoyarlo.",
   "no_replicar": "\"Masaje profundo\", \"como un spa\" o cualquier promesa de intensidad que el aparato no cumpla.",
@@ -613,13 +625,13 @@
   "proximo_paso": "El dueño prueba el aparato y anota en una línea qué se siente en cada intensidad. Con eso se redacta el bloque.",
   "puntajes": {
    "impacto": 3,
-   "confianza": 3,
+   "confianza": 4,
    "facilidad": 4,
    "costo": 1,
    "riesgo": 1,
    "urgencia": 2
   },
-  "score": 36.0,
+  "score": 48.0,
   "estado": "nueva",
   "historial": [
    {
@@ -631,6 +643,12 @@
     "date": "2026-10-19",
     "run_id": "2026-10-19T11-55",
     "change": "Más evidencia (score sin cambio): un medio argentino (Rosario3, 15/10) presenta el cuidado del cuero cabelludo como ritual 'head spa' y pide no esperar resultados milagrosos. Coincide con el tono honesto que propone esta oportunidad."
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T19-55",
+    "change": "Score 36.0→48.0: confianza 3→4. Breo Scalp3L y VitalEveRev suman quejas por puntas firmes o metálicas incómodas. Las puntas redondeadas de ScalpCare Pro son un argumento, pero solo vale mostrarlo si es cierto en una prueba real.",
+    "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
    }
   ]
  },

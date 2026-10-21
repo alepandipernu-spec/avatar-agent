@@ -651,5 +651,54 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-21T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic, Holy, Lena (copia de Exa)",
+      "Trustpilot y BBB de Glokore (copia de Exa)",
+      "medical-insiders, Balanced Brawn, El País (reseñas editoriales)",
+      "Amazon US (listado VitalEveRev vía Exa)",
+      "Hrebloom (WebFetch de Exa)",
+      "Belfan / Medipiel CO (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre AR: el listado no trajo opiniones del masajeador con depósito ni de Gadnic",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Opiniones del masajeador Gadnic: no aparecen en Bidcom ni en gadnic.com.ar"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "glokore-us",
+      "breo-us",
+      "hrebloom-us",
+      "belfan-co",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [
+      "hrebloom-us",
+      "belfan-co"
+    ],
+    "novedades": [
+      "Sin cambios de precio en Gadnic, Holy y Lena",
+      "Nuevo patrón: devolución y garantía con letra chica (Glokore: envío de vuelta a cargo del cliente)",
+      "Pelo largo pasa a tendencia incipiente (4 fuentes); El País: frizz al usarlo en seco",
+      "Sensación incómoda pasa a tendencia (5 fuentes)",
+      "Altas de baja relevancia: Hrebloom (US) y Belfan (CO)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-014 (36→48)",
+      "OPP-011 (24→36)",
+      "OPP-003 (evidencia, 11)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

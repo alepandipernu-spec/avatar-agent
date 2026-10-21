@@ -66,6 +66,12 @@
         "run_id": "2026-10-21T11-54",
         "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; precio sin impuestos nacionales ARS 80.412; 3 cuotas). Copia de Exa sin fecha.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; sin impuestos nacionales ARS 80.412). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso. Sin opiniones legibles del masajeador.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -164,6 +170,12 @@
         "date": "2026-10-21",
         "run_id": "2026-10-21T03-56",
         "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; 20.480 por transferencia; '+70 vendidos'; 'Sin stock' y 'quedan 3' a la vez).",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; '+70 vendidos'; 'quedan 3'). Esta vez la ficha se leyó por la búsqueda de Exa.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
@@ -654,7 +666,9 @@
     "facts": [
       "Checkout ofrece plan de reemplazo/garantía extendida de 1 año como agregado pago.",
       "Garantía de devolución de 60 días (menos envío).",
-      "Usa un advertorial de formato periodístico, marcado como 'Advertorial', con tono 'análisis honesto'."
+      "Usa un advertorial de formato periodístico, marcado como 'Advertorial', con tono 'análisis honesto'.",
+      "[HECHO] Trustpilot: 3,2★ con 119 opiniones (consultado 21/10/2026). Una opinión del 29/03/2026 dice que la garantía de devolución exige pagar el envío de vuelta (USD 33 en su caso).",
+      "[HECHO] BBB: 18 reclamos en 3 años (9 de producto, 5 de servicio, 4 de entrega). Uno de enero de 2026 es un masajeador capilar que nunca llegó."
     ],
     "inferences": [
       "Embudo de respuesta directa clásico: advertorial → página puente → checkout con venta adicional de garantía."
@@ -671,11 +685,14 @@
       "https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager",
       "https://glokore.com/scalpmassager/checkout4",
       "https://glokore.com/scalpmassager/inter4",
-      "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976"
+      "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976",
+      "https://www.trustpilot.com/review/glokore.com",
+      "https://no.trustpilot.com/review/glokore.com",
+      "https://www.bbb.org/us/nv/las-vegas/profile/skin-care/glokore-1086-90094156/complaints"
     ],
     "relevance": "media",
     "follow_reason": "Embudo de respuesta directa completo (advertorial, urgencia, venta adicional de garantía): aprendizaje de estructura, no de claims.",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-21",
     "history": [
       {
         "date": "2026-10-17",
@@ -712,6 +729,12 @@
         "run_id": "2026-10-20T03-56",
         "change": "Ficha DTC: sigue 'Purchased 2,541 times in the past 30 days' (mismo número que en runs anteriores) y 'Bestseller of 2025'; el precio no apareció en la copia leída.",
         "source": "https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Se suman Trustpilot (3,2★, 119 opiniones) y BBB (18 reclamos): quejas por envío de devolución a cargo del cliente, garantía rechazada fuera de plazo (máscara) y un pedido no entregado.",
+        "source": "https://www.trustpilot.com/review/glokore.com"
       }
     ]
   },
@@ -756,7 +779,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-19",
+    "last_reviewed": "2026-10-21",
     "history": [
       {
         "date": "2026-10-17",
@@ -787,6 +810,12 @@
         "run_id": "2026-10-19T19-54",
         "change": "Nueva reseña pública (claytonnotes, 12/04/2026): el masaje y el láser no funcionan a la vez, el sensor falla y la atención al cliente responde con mensajes automáticos.",
         "source": "https://claytonnotes.com/breo-scalp-massager/"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Reseña de medical-insiders (15/04/2026) sobre Breo Scalp3L: puntas finas y firmes que irritan cueros cabelludos sensibles, precio alto y varias quejas por aparatos fallados.",
+        "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
       }
     ]
   },
@@ -1183,6 +1212,12 @@
         "date": "2026-10-21",
         "run_id": "2026-10-21T11-54",
         "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, 4,9★ con 27 reseñas; Essential COP 79.990). Copia de Exa sin fecha.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo al aparato (testimonio del cliente, no verificable).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
@@ -1985,6 +2020,97 @@
         "run_id": "2026-10-20T19-54",
         "change": "Alta en la base como competidor inspiracional.",
         "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+      }
+    ]
+  },
+  "hrebloom-us": {
+    "id": "hrebloom-us",
+    "name": "Hrebloom",
+    "domain": "hrebloom.com",
+    "market": "US / EU (tienda propia)",
+    "category": "A_directo",
+    "product_focus": "Aplicador eléctrico con tanque superior de 2 ml y frasco inferior de 70 ml",
+    "relevant_products": [
+      "Hrebloom Pro Scalp Applicator",
+      "Hrebloom 3 In 1 Scalp Massager"
+    ],
+    "price_visible": "Pro USD 79 (tachado USD 99); 3 in 1 USD 129 (consultado 21/10/2026, copia de Exa).",
+    "value_prop": "Dosificación de 1 ml con pocas pulsaciones y envío gratis con seguimiento.",
+    "channels": [
+      "Tienda propia"
+    ],
+    "ads": "No obtenido.",
+    "facts": [
+      "[HECHO] Envío gratis con seguimiento: 5–12 días a EE. UU. y 6–10 a la UE; despacho en 1–3 días.",
+      "[HECHO] Devolución: 30 días para pedirla, por mail.",
+      "[HECHO] Claims de crecimiento y luz roja \"de grado clínico\".",
+      "[HECHO] 9 reseñas, todas de 5★, varias atribuyen crecimiento al aparato."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] El formato de frasco de 70 ml + tanque chico apunta a la queja de cargar y derramar. No hay reseñas negativas que lo confirmen o lo refuten."
+    ],
+    "hypotheses": [
+      "[HIPÓTESIS] Reseñas con poca credibilidad (todas de 5★ y con resultados médicos); no sirven como señal de demanda."
+    ],
+    "unknowns": [
+      "Ventas, anuncios, tasa de fallas."
+    ],
+    "sources": [
+      "https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Diseño de carga distinto (frasco grande + tanque chico) que ataca el problema de dispensado. Seguir solo si aparecen reseñas independientes.",
+    "last_reviewed": "2026-10-21",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Alta en la base.",
+        "source": "https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth"
+      }
+    ]
+  },
+  "belfan-co": {
+    "id": "belfan-co",
+    "name": "Belfan",
+    "domain": "belfanstore.com",
+    "market": "CO",
+    "category": "B_indirecto",
+    "product_focus": "Kit de tónico capilar + masajeador manual",
+    "relevant_products": [
+      "Kit Estimulador capilar: Tónico + Masajeador"
+    ],
+    "price_visible": "COP 76.000 en tienda propia; COP 87.400 en Medipiel (copias de Exa sin fecha, consultado 21/10/2026).",
+    "value_prop": "Kit de rutina nocturna (tónico + masaje circular).",
+    "channels": [
+      "Tienda propia",
+      "Medipiel (retail dermocosmético)"
+    ],
+    "ads": "No obtenido.",
+    "facts": [
+      "[HECHO] El kit se vende en Medipiel, cadena dermocosmética de Colombia.",
+      "[HECHO] Promete estimular el crecimiento."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] En CO, el kit tónico + masajeador ya entró al canal de retail dermocosmético, igual que Lena en AR (formato manual)."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Ventas, reseñas."
+    ],
+    "sources": [
+      "https://belfanstore.com/products/kit-crecimiento-belfan-masajeador-tonico",
+      "https://www.medipiel.com.co/kit-estimulador-capilar--tonico---masajeador-15233/p"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Referencia de precio del kit manual + tónico en CO (debajo del eléctrico). Útil para el ángulo de pasar del manual al eléctrico (OPP-002).",
+    "last_reviewed": "2026-10-21",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Alta en la base.",
+        "source": "https://www.medipiel.com.co/kit-estimulador-capilar--tonico---masajeador-15233/p"
       }
     ]
   }

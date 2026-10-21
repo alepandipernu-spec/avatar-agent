@@ -820,6 +820,12 @@
     "run_id": "2026-10-20T11-57",
     "change": "Alta (antes figuraba solo como competidor en preventa)",
     "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+   },
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T19-55",
+    "change": "Sin cambios de precio (ARS 97.299). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
    }
   ]
  },
@@ -895,6 +901,30 @@
     "run_id": "2026-10-20T19-54",
     "change": "Alta",
     "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+   }
+  ]
+ },
+ "hrebloom-us:pro-scalp-applicator": {
+  "id": "hrebloom-us:pro-scalp-applicator",
+  "problema": "Aplicar tratamiento capilar sin enchastre y con dosis controlada",
+  "variantes": "Pro Scalp Applicator (1 u.)",
+  "precio": "USD 79 (tachado USD 99)",
+  "promos": "Precio tachado",
+  "garantia": "No publicada en la ficha",
+  "devolucion": "30 días para pedirla, por mail",
+  "envio": "Gratis con seguimiento; EE. UU. 5–12 días, UE 6–10",
+  "beneficios": "Dosis de 1 ml, vibración, luz roja, EMS (según la marca)",
+  "objeciones_resueltas": "Derrame al cargar (frasco de 70 ml + tanque de 2 ml); limpieza (IPX5)",
+  "diferenciadores": "Sistema de dos depósitos",
+  "merece_investigar": false,
+  "por_que": "Reseñas poco creíbles y claims médicos. Solo sirve como referencia de diseño.",
+  "source": "https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth",
+  "fecha": "2026-10-21",
+  "history": [
+   {
+    "date": "2026-10-21",
+    "run_id": "2026-10-21T19-55",
+    "change": "Alta."
    }
   ]
  }

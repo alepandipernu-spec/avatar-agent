@@ -53,8 +53,8 @@
   },
   {
    "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 10,
-   "n_competidores": 9,
+   "n_fuentes": 11,
+   "n_competidores": 10,
    "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
    "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
    "fecha": "2026-10-17",
@@ -81,23 +81,36 @@
      "run_id": "2026-10-20T19-54",
      "change": "+1 fuente: LUMILUX (llegó sin funcionar bien).",
      "source": "https://loox.io/sr/RoSxewWRga"
+    },
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "+1 fuente: Breo Scalp3L (medical-insiders, 15/04/2026), varias quejas por aparatos fallados. Primera fuente del segmento premium en este patrón.",
+     "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
     }
    ]
   },
   {
    "problema": "Enredos o tirones con pelo largo",
-   "n_fuentes": 2,
-   "n_competidores": 2,
-   "clasificacion": "incipiente (2 fuentes, una secundaria)",
-   "oportunidad": "Probar ScalpCare Pro en pelo largo y, si no tira, mostrarlo; si tira, explicar la técnica (por secciones, sin arrastrar). Ver OPP-011.",
+   "n_fuentes": 4,
+   "n_competidores": 4,
+   "clasificacion": "tendencia incipiente (4 fuentes de 4 productos; 2 son resúmenes o reseñas editoriales)",
+   "oportunidad": "Probar ScalpCare Pro en pelo largo y, si no tira, mostrarlo; si tira, explicar la técnica (por secciones, sin arrastrar). Ver OPP-011. Ojo: El País vio frizz al usar en seco con pelo largo, que es justo el uso que pide Flubberhome. La técnica por secciones, sin arrastrar, tiene que estar en la Guía.",
    "fecha": "2026-10-17",
    "run_id": "2026-10-17T19-55",
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "+2 fuentes: El País (Arboleaf, 2024: frizz en seco con pelo largo) y Balanced Brawn (Breo, 2025: se enreda con pelo largo). Pasa de incipiente a tendencia incipiente.",
+     "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
+    }
+   ]
   },
   {
    "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
-   "n_fuentes": 3,
-   "n_competidores": 3,
+   "n_fuentes": 4,
+   "n_competidores": 4,
    "clasificacion": "tendencia incipiente (3 fuentes de 3 productos; ZOKO con muchas reseñas sobre manual solo en chino)",
    "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
    "fecha": "2026-10-17",
@@ -107,23 +120,38 @@
      "date": "2026-10-19",
      "run_id": "2026-10-19T19-54",
      "change": "+1 fuente: ZOKO LAB (TikTok Shop US), varias quejas por manual solo en chino. Ver OPP-015."
+    },
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "+1 fuente: VitalEveRev (controles táctiles poco claros, tapa difícil).",
+     "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
     }
    ]
   },
   {
    "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-   "n_fuentes": 3,
-   "n_competidores": 3,
-   "clasificacion": "incipiente (3 fuentes de 3 productos; una es un resumen de reseñas)",
+   "n_fuentes": 5,
+   "n_competidores": 5,
+   "clasificacion": "tendencia (5 fuentes de 5 productos, incluido el segmento premium)",
    "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
    "fecha": "2026-10-18",
    "run_id": "2026-10-18T19-54",
    "fuentes": [
     "INIA (reseña vista en el run 2026-10-18T11-54)",
     "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
-    "NAPRE (thehomeglow, 17/02/2026)"
+    "NAPRE (thehomeglow, 17/02/2026)",
+    "Breo Scalp3L (medical-insiders, 15/04/2026): puntas firmes que irritan",
+    "VitalEveRev (Amazon US): puntas metálicas incómodas"
    ],
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "+2 fuentes (Breo Scalp3L, VitalEveRev): puntas firmes o metálicas incómodas. Pasa de incipiente a tendencia.",
+     "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+    }
+   ]
   },
   {
    "problema": "Diferencia entre lo anunciado en video y lo recibido",
@@ -149,6 +177,29 @@
      "run_id": "2026-10-20T19-54",
      "change": "+1 fuente: LUMILUX, mails sin respuesta ante una falla. Pasa de aislado a incipiente.",
      "source": "https://loox.io/sr/RoSxewWRga"
+    },
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "Contraejemplo: en Trustpilot varias opiniones de Glokore elogian la atención rápida, aunque otras se quejan de la garantía. Sin cambio de conteo.",
+     "source": "https://www.trustpilot.com/review/glokore.com"
+    }
+   ]
+  },
+  {
+   "problema": "Devolución y garantía con letra chica: el envío de vuelta lo paga el cliente o la garantía se rechaza por plazo",
+   "n_fuentes": 3,
+   "n_competidores": 1,
+   "clasificacion": "incipiente (3 fuentes de 1 marca, Glokore; 1 sobre un producto adyacente). Se suman políticas observadas: Gleva pide video del unboxing, una tienda de Rappi CO da 24 h para cambios.",
+   "oportunidad": "Si Flubberhome publica una garantía (OPP-003), decir en una línea quién paga el envío de vuelta y qué pasa después del plazo. Hoy la ventana para defectos es de 72 h, más corta que la de casi todos los competidores relevados.",
+   "fecha": "2026-10-21",
+   "run_id": "2026-10-21T19-55",
+   "historial": [
+    {
+     "date": "2026-10-21",
+     "run_id": "2026-10-21T19-55",
+     "change": "Alta del patrón.",
+     "source": "https://no.trustpilot.com/review/glokore.com"
     }
    ]
   }
@@ -476,6 +527,69 @@
    "parafrasis": "Llegó tarde, no funcionaba bien y los mails no tuvieron respuesta (reseña del 17/06/2026).",
    "fecha_consulta": "2026-10-20",
    "run_id": "2026-10-20T19-54"
+  },
+  {
+   "fuente": "https://no.trustpilot.com/review/glokore.com",
+   "producto": "Glokore (Trustpilot, 3,2★ con 119 opiniones)",
+   "problema": "dificultades de devolución",
+   "fecha": "2026-03-29",
+   "parafrasis": "El producto no funcionó y la devolución \"con garantía\" le exigía pagar unos USD 33 de envío, así que no le convenía.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://ca.trustpilot.com/review/glokore.com?page=6",
+   "producto": "Glokore máscara LED (producto adyacente)",
+   "problema": "durabilidad + garantía rechazada",
+   "fecha": "2026-01-24",
+   "parafrasis": "Dejó de cargar a los 6 meses y la marca respondió que no había garantía ni servicio.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://www.bbb.org/us/nv/las-vegas/profile/skin-care/glokore-1086-90094156/complaints",
+   "producto": "Glokore masajeador capilar (BBB)",
+   "problema": "problemas de entrega",
+   "fecha": "2026-01-26",
+   "parafrasis": "Pagó el masajeador en noviembre de 2025 y dos meses después no había llegado. La marca reenvió el pedido tras el reclamo.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la",
+   "producto": "Breo Scalp3L (reseña editorial)",
+   "problema": "sensación incómoda + durabilidad",
+   "fecha": "2026-04-15",
+   "parafrasis": "Puntas finas y firmes que pueden irritar un cuero cabelludo sensible; menciona varias quejas por aparatos fallados y un precio alto.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W",
+   "producto": "VitalEveRev 3 en 1 (Amazon US, USD 129,99; 3,8★ con 5 reseñas)",
+   "problema": "sensación incómoda + instrucciones / uso",
+   "fecha": "no visible",
+   "parafrasis": "Las puntas metálicas le resultan incómodas, los controles táctiles no se entienden y la tapa trasera cuesta abrirla y cerrarla.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html",
+   "producto": "Arboleaf (comparativa de El País)",
+   "problema": "pelo largo",
+   "fecha": "2024-06-06",
+   "parafrasis": "Con pelo largo, usarlo en seco le dejó mucho frizz; recomienda usarlo en la ducha.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
+   "producto": "Breo Scalp3 (reseña de blog, 2025)",
+   "problema": "pelo largo",
+   "fecha": "2025-07-15",
+   "parafrasis": "Funciona mejor con pelo corto o mediano; con pelo largo las puntas se enredan.",
+   "fecha_consulta": "2026-10-21",
+   "run_id": "2026-10-21T19-55"
   }
  ]
 }
