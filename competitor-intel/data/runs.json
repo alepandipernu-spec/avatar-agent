@@ -1,616 +1,655 @@
 [
- {
-  "run_id": "2026-10-17T15-27",
-  "foco": "Anuncios, creatividades y demanda (franja 11:54; primera ejecución, iniciada 15:27)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "Exa search/fetch",
-   "WebFetch",
-   "Mercado Libre AR/MX/CO (listados públicos vía Exa)",
-   "Amazon US/MX/AE (vía Exa)",
-   "TikTok Shop US (vía Exa)",
-   "tikwm/YouTube (vía Exa)"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch: ROBOTS_DISALLOWED)",
-   "TikTok Creative Center Top Ads (cargó sin resultados)"
-  ],
-  "competidores_revisados": [
-   "anyra-us",
-   "hairrova-us",
-   "nordic-biolabs-us",
-   "amazon-generics-us",
-   "glokore-us",
-   "breo-us",
-   "inia-us",
-   "ml-electricos-ar",
-   "cepillos-manuales-ar"
-  ],
-  "novedades": [
-   "Nuevos: glokore-us, breo-us, inia-us, ml-electricos-ar, cepillos-manuales-ar",
-   "Sin cambios de precio en los 3 directos de EE. UU.",
-   "Patrón de reseñas sobre goteo del depósito"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-001-demo-aplicacion-sin-goteo",
-   "OPP-002-angulo-upgrade-cepillo-manual-AR",
-   "OPP-003-garantia-publicada",
-   "OPP-004-embudo-explicativo"
-  ],
-  "oportunidades_actualizadas": [],
-  "privacidad": "repo PÚBLICO (gh api .private = false): sin datos internos"
- },
- {
-  "run_id": "2026-10-17T15-28",
-  "foco": "Complemento de 2026-10-17T15-27 (ejecución paralela de la misma tarea, mismo foco): AR (Lena, Microshop) y reseñas extra",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "Exa search/fetch",
-   "WebSearch",
-   "tiendas Lena/Microshop/Anyra",
-   "Amazon US (5 listados)",
-   "ML AR/MX/CO",
-   "ML Clips CO",
-   "TikTok Creative Center (sin resultados)"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no aprobado)",
-   "Página de reseñas completa de Amazon (CRAWL_NOT_FOUND)"
-  ],
-  "competidores_revisados": [
-   "lena-vegetal-ar",
-   "microshop-ar",
-   "anyra-us",
-   "amazon-generics-us"
-  ],
-  "novedades": [
-   "Lena +70 vendidos, stock bajo, cupón 10%",
-   "Patrón de dispensado/limpieza: 4→9 fuentes",
-   "2 clips ML CO nuevos"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-005-sensorial-en-seco",
-   "OPP-006-kit-liquido-compatible"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-001-demo-aplicacion-sin-goteo (60→80)"
-  ],
-  "privacidad": "repo PÚBLICO: sin datos internos",
-  "nota": "Se detectó una ejecución duplicada a 1 minuto de diferencia; revisar la programación de la tarea."
- },
- {
-  "run_id": "2026-10-17T15-28-b",
-  "foco": "Anuncios, creatividades y demanda (franja 11:54) — TERCERA sesión concurrente (15:27, 15:28, 15:28-b); solo se agregó lo no cubierto",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "Exa search/fetch",
-   "WebSearch",
-   "fichas Anyra/Microshop/Lena/Hairrova",
-   "Amazon mriya"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch sin permiso; Exa SOURCE_NOT_AVAILABLE)",
-   "Mercado Libre (WebFetch robots; Exa fetch no disponible)",
-   "TikTok Creative Center (0 resultados sin login)"
-  ],
-  "competidores_nuevos": [
-   "xiaomi-mijia-smarthead",
-   "ondavu",
-   "dtc-clones-us"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-007-precio-honesto-ahorro-por-unidad",
-   "OPP-008-angulo-habito-paso-abandonado"
-  ],
-  "oportunidades_actualizadas": [],
-  "privacidad": "repo PÚBLICO: sin datos internos",
-  "incidencia": "Tres sesiones de la misma tarea corrieron en paralelo; hubo conflictos de git resueltos sin borrar historial."
- },
- {
-  "run_id": "2026-10-17T19-55",
-  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad)",
-   "Exa search/fetch",
-   "WebSearch",
-   "WebFetch (tipo de cambio)",
-   "tiendas Lena/Microshop/Anyra/Holy/Breo/Beltronic",
-   "Amazon US/MX (vía Exa)",
-   "Yaxa (reseñas replicadas)"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (no se intentó: no es la franja de anuncios y está bloqueada desde la nube)",
-   "Mercado Libre: no se leyeron reseñas dentro de las publicaciones (solo listados vía Exa)"
-  ],
-  "competidores_revisados": [
-   "lena-vegetal-ar",
-   "microshop-ar",
-   "anyra-us",
-   "breo-us",
-   "beltronic-ar"
-  ],
-  "competidores_nuevos": [
-   "holy-cosmetics-co",
-   "nihlo-co",
-   "co-dtc-tiendas",
-   "mx-tiendas",
-   "ar-tiendas-chicas"
-  ],
-  "novedades": [
-   "Primer relevamiento de CO y MX",
-   "Patrón nuevo: durabilidad/fallas de fábrica (6 fuentes)",
-   "Sin cambios de precio en Lena, Microshop ni Anyra",
-   "Breo web oficial USD 161,99 + 1 año de garantía"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-009-precio-por-mercado-mx-co",
-   "OPP-010-control-funcionamiento-y-cuidado-bateria",
-   "OPP-011-demo-pelo-largo"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-003-garantia-publicada (8→11)",
-   "OPP-005-sensorial-en-seco (12→18)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-18T03-55",
-  "foco": "Catálogo, tiendas y precios (franja 03:54)",
-  "fuentes_ok": [
-   "Shopify (lectura: producto, mercados, precios contextuales)",
-   "GitHub (privacidad)",
-   "Exa search/fetch",
-   "WebSearch",
-   "WebFetch (CyberMonday AR, tipo de cambio)",
-   "fichas Holy/Lena/Microshop/NIHLO/Anyra/Hairrova/Nordic/Glokore",
-   "políticas de Holy",
-   "ficha propia de Flubberhome",
-   "listado ML AR (vía Exa)",
-   "Ulta"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (no se intentó: fuera de la franja de anuncios)",
-   "Glokore: precios por pack no visibles (plantilla sin renderizar)",
-   "Mercado Libre: listado directo pide login; se usó la copia de Exa"
-  ],
-  "competidores_revisados": [
-   "holy-cosmetics-co",
-   "lena-vegetal-ar",
-   "microshop-ar",
-   "nihlo-co",
-   "anyra-us",
-   "hairrova-us",
-   "nordic-biolabs-us",
-   "glokore-us",
-   "ml-electricos-ar",
-   "co-dtc-tiendas"
-  ],
-  "competidores_nuevos": [
-   "mount-lai-us"
-  ],
-  "novedades": [
-   "Sin cambios de precio en 7 competidores directos",
-   "Glokore muestra código 'BF26' en su embudo",
-   "Shopify: USD en los 4 países, mercado único Latinoamérica; ficha propia con 10–20 días hábiles a LatAm",
-   "Holy: 3–8 días, contra entrega, cambios 5 días",
-   "CyberMonday AR 2–4/11/2026"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-012-costo-total-y-plazo-claros-latam"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-009 (16→24, se descarta 'envío rápido' en MX)",
-   "OPP-006 (1,33→2)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-18T11-54",
-  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad)",
-   "Exa search/fetch",
-   "WebSearch",
-   "TikTok Shop US (vía Exa)",
-   "fichas Holy/Anyra/Nordic/Glokore",
-   "perfil TikTok de Holy (solo cabecera)",
-   "clip ML CO"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido)",
-   "TikTok: videos individuales del perfil de Holy no visibles sin login"
-  ],
-  "competidores_revisados": [
-   "holy-cosmetics-co",
-   "anyra-us",
-   "nordic-biolabs-us",
-   "glokore-us",
-   "breo-us",
-   "inia-us"
-  ],
-  "competidores_nuevos": [
-   "kitsch-us"
-  ],
-  "novedades": [
-   "Contadores de TikTok Shop US: manual barato 43,6 mil vs eléctrico máx. 9,3 mil",
-   "INIA: precio visible USD 139,99 y 816 vendidos",
-   "Breo en TikTok Shop USD 239,99",
-   "Holy: modelo Essential COP 79.990 agotado",
-   "Sin cambios de precio en Holy, Anyra, Nordic y Glokore"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-013-angulo-regalo-temporada"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-002 (36→48)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-18T19-54",
-  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Lena, Holy (Luxury y Essential), Anyra",
-   "Amazon US (listados vía Exa)",
-   "ML MX/CL (fichas vía Exa)",
-   "foros y notas públicas (Hello, thehomeglow, lipstickalley, T3)"
-  ],
-  "fuentes_fallidas": [
-   "Opiniones dentro de las publicaciones de Mercado Libre: las copias de Exa no traen los comentarios (sigue pendiente)",
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
-   "Comunicado de AND CREAGE (Japón, 15/10/2026): solo se vio el título"
-  ],
-  "competidores_revisados": [
-   "lena-vegetal-ar",
-   "holy-cosmetics-co",
-   "anyra-us",
-   "dtc-clones-us",
-   "mx-tiendas"
-  ],
-  "competidores_nuevos": [
-   "leerong-us",
-   "sensse-uk",
-   "la-milpa-de-maria-mx"
-  ],
-  "novedades": [
-   "Sin cambios de precio en Lena, Holy (Luxury y Essential) ni Anyra",
-   "Patrón nuevo e incipiente: sensación de masaje por debajo de lo esperado (3 fuentes)",
-   "LeeRong: kit con aceite, garantía de 12 meses e instrucción de media carga a USD 49,99",
-   "+3 clones en US (Cosvu, ScalpRevive, Ryslnte)"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-014-expectativa-honesta-de-la-sensacion (36)"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-001 (más evidencia, 80)",
-   "OPP-003 (más evidencia, 11)",
-   "OPP-006 (más evidencia, 2)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-19T03-55",
-  "foco": "Catálogo, tiendas y precios (franja 03:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "WebSearch",
-   "WebFetch (Tiendanube)",
-   "fichas Lena, Holy (Luxury y Essential), Anyra, Microshop, NIHLO, Hairrova, Nordic, Glokore checkout4",
-   "Amazon US (LeeRong vía Exa)",
-   "listado ML AR (copia de Exa)",
-   "Frávega (vía Exa)"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
-   "Mercado Libre AR directo: se usó la copia de Exa (puede estar desfasada)",
-   "Glokore: precios por pack sin renderizar"
-  ],
-  "competidores_revisados": [
-   "lena-vegetal-ar",
-   "holy-cosmetics-co",
-   "anyra-us",
-   "microshop-ar",
-   "nihlo-co",
-   "hairrova-us",
-   "nordic-biolabs-us",
-   "glokore-us",
-   "leerong-us",
-   "ml-electricos-ar",
-   "ar-tiendas-chicas"
-  ],
-  "competidores_nuevos": [
-   "nocnoc-crossborder-ar"
-  ],
-  "novedades": [
-   "Sin cambios de precio en 10 competidores directos",
-   "Frávega/nocnoc: aplicador importado con precio final en pesos ARS 93.302",
-   "Holy Essential sin marca de agotado (sin confirmar)",
-   "Nordic suma 'Stock Very Low'",
-   "CyberMonday AR confirmado 2–4/11"
-  ],
-  "oportunidades_nuevas": [],
-  "oportunidades_actualizadas": [
-   "OPP-012 (más evidencia, 37)",
-   "OPP-013 (fecha confirmada, 37)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-19T11-55",
-  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "TikTok Shop US (copia de Exa)",
-   "fichas Anyra, Holy Luxury, Glokore checkout4, Sunluxy, Farmatodo (AUREVIA)",
-   "YouTube (transcripciones vía Exa)",
-   "Rosario3"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
-   "TikTok discover (contenido vacío vía Exa)",
-   "TikTok Creative Center Top Ads (la página carga sin resultados sin login)",
-   "Listado ML MX (no disponible vía Exa)",
-   "Amazon Best Sellers de masajeadores (la URL devolvió otra categoría)"
-  ],
-  "competidores_revisados": [
-   "anyra-us",
-   "holy-cosmetics-co",
-   "glokore-us",
-   "aurevia-co",
-   "kitsch-us",
-   "dtc-clones-us"
-  ],
-  "competidores_nuevos": [],
-  "novedades": [
-   "AUREVIA (Farmatodo CO) termina el descuento: COP 37.425 → 49.900 (+33%)",
-   "Sunluxy: nuevo clon US con ficha contradictoria, agotado",
-   "Contadores de TikTok Shop US sin cambios frente al 18/10",
-   "Video en español con gancho de 'casi lo devuelvo' (producto adyacente)",
-   "Nota de Rosario3 sobre ritual 'head spa' (15/10)"
-  ],
-  "oportunidades_nuevas": [],
-  "oportunidades_actualizadas": [
-   "OPP-013 (más evidencia, 37)",
-   "OPP-014 (más evidencia, 36)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-19T19-54",
-  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Anyra, Holy Luxury, Lena, TYMO, NeXo",
-   "Ulta y Target (copias de Exa)",
-   "TikTok Shop US (copia de Exa)",
-   "Amazon US (listados vía Exa)",
-   "blogs de reseñas (claytonnotes, getsupplementreviews, balancedbrawn)"
-  ],
-  "fuentes_fallidas": [
-   "WebFetch de Ulta: permiso de URL no respondido (se usó la copia de Exa)",
-   "Opiniones dentro de Mercado Libre: las copias de Exa siguen sin traer comentarios",
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
-  ],
-  "competidores_revisados": [
-   "anyra-us",
-   "holy-cosmetics-co",
-   "lena-vegetal-ar",
-   "breo-us",
-   "co-dtc-tiendas",
-   "amazon-generics-us",
-   "tymo-us"
-  ],
-  "competidores_nuevos": [
-   "tymo-us"
-  ],
-  "novedades": [
-   "TYMO TriThera: marca establecida con depósito para líquido en Ulta a USD 42,99 (lista 99,99) y Holiday Duo a USD 89,99",
-   "+2 tiendas CO (NeXo, Nuvitecno) y +1 genérico US (BFYCHYC)",
-   "Patrón 'instrucciones pobres' pasa a tendencia incipiente (3 fuentes)",
-   "Sin cambios de precio en Anyra, Holy Luxury ni Lena"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-015-guia-en-espanol-visible-antes-de-comprar (36)"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-013 (37→49)",
-   "OPP-003 (más evidencia, 11)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-20T03-56",
-  "foco": "Catálogo, tiendas y precios (franja 03:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Anyra, Holy (Luxury y Essential), Lena, Nordic, Hairrova, Microshop, NIHLO, Glokore, TYMO DTC",
-   "Ulta, Best Buy, Target (copias de Exa)",
-   "BeyondStyle (agregador de TJ Maxx y Macy's)",
-   "listados ML AR/MX y Amazon MX (copias de Exa)"
-  ],
-  "fuentes_fallidas": [
-   "WebFetch de Ulta: permiso de URL no respondido (segunda vez; se usó la copia de Exa)",
-   "Amazon US de TYMO: no apareció listado",
-   "Precio de Glokore: no aparece en la copia leída",
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
-  ],
-  "competidores_revisados": [
-   "anyra-us",
-   "holy-cosmetics-co",
-   "lena-vegetal-ar",
-   "glokore-us",
-   "nordic-biolabs-us",
-   "hairrova-us",
-   "microshop-ar",
-   "nihlo-co",
-   "tymo-us",
-   "mx-tiendas",
-   "co-dtc-tiendas"
-  ],
-  "competidores_nuevos": [
-   "offprice-retail-us"
-  ],
-  "novedades": [
-   "TYMO TriThera: se suman Best Buy (USD 79,99) y Macy's (USD 99,99); Ulta sigue a USD 42,99 en la copia de Exa",
-   "Formato en TJ Maxx a USD 14,99–19,99",
-   "Sin cambios de precio en 8 competidores directos",
-   "+1 tienda MX (OC Market, agotado) y +1 CO (Smartjoys)",
-   "Fecha límite estimada de pedido para Navidad: LatAm ≈ 24/11, EE. UU. ≈ 01/12"
-  ],
-  "oportunidades_nuevas": [],
-  "oportunidades_actualizadas": [
-   "OPP-013 (fecha límite estimada, 49)",
-   "OPP-007 (más evidencia, 30)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-20T11-57",
-  "foco": "Anuncios, creatividades y demanda (franja 11:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Gadnic, DHactive, TYMO DTC",
-   "Ulta (copia de Exa)",
-   "TikTok Shop US (búsqueda de tienda TYMO, copia de Exa)",
-   "Amazon US (listados vía Exa)",
-   "listado ML AR (copia de Exa)",
-   "YouTube (transcripciones vía Exa)"
-  ],
-  "fuentes_fallidas": [
-   "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
-   "TikTok Creative Center Top Ads (WebFetch: permiso de URL no respondido)",
-   "Cotización del dólar del día (la búsqueda devolvió notas viejas; se usó BNA 15/10/2026)"
-  ],
-  "competidores_revisados": [
-   "gadnic-ar",
-   "tymo-us",
-   "dtc-clones-us",
-   "amazon-generics-us",
-   "inia-us",
-   "microshop-ar",
-   "ml-electricos-ar"
-  ],
-  "competidores_nuevos": [],
-  "novedades": [
-   "Gadnic AR sale de preventa: ARS 97.299 (35% OFF), 3 cuotas, envío en el día AMBA, 12 meses de garantía; relevancia media → alta",
-   "Sin creatividades de TYMO TriThera; DTC con 4 reseñas, ausente en TikTok Shop US",
-   "DHactive (US) abre con el problema del sérum desperdiciado; menciona minoxidil",
-   "4 listados US con encuadre de regalo (BERNOVAS, Dexmary, DFYXO, INIA)"
-  ],
-  "oportunidades_nuevas": [],
-  "oportunidades_actualizadas": [
-   "OPP-001 (80)",
-   "OPP-013 (49)",
-   "OPP-012 (37)",
-   "OPP-005 (18)",
-   "OPP-003 (11)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-20T19-54",
-  "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Gadnic, Lena, Alverela, Holy (copia de Exa)",
-   "Bidcom (copia de Exa)",
-   "Amazon US (listados vía Exa)",
-   "Loox (reseña pública)",
-   "Falabella CO (copia de Exa)",
-   "Gleva (ficha vía Exa)"
-  ],
-  "fuentes_fallidas": [
-   "Opiniones de Gadnic en Mercado Libre AR: no apareció el listado (ML redirige a verificación de cuenta)",
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
-  ],
-  "competidores_revisados": [
-   "gadnic-ar",
-   "lena-vegetal-ar",
-   "holy-cosmetics-co",
-   "co-dtc-tiendas",
-   "amazon-generics-us",
-   "alverela-co",
-   "gleva-in"
-  ],
-  "competidores_nuevos": [
-   "alverela-co",
-   "gleva-in"
-  ],
-  "novedades": [
-   "Sin cambios de precio en Gadnic, Lena y Holy",
-   "Alta de Alverela (CO): combo aparato + aceite de argán a COP 117.700; reseñas de credibilidad dudosa",
-   "Alta de Gleva (IN, inspiracional): ficha que dice que no hace crecer el pelo y compara de forma justa con la mano",
-   "Patrón de dispensado: 20 fuentes; atención al cliente pasa de aislado a incipiente"
-  ],
-  "oportunidades_nuevas": [
-   "OPP-016-respuestas-honestas-y-comparacion-justa (32)"
-  ],
-  "oportunidades_actualizadas": [
-   "OPP-001 (evidencia, 80)",
-   "OPP-015 (evidencia, 36)",
-   "OPP-003 (evidencia, 11)",
-   "OPP-006 (evidencia, 2)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- },
- {
-  "run_id": "2026-10-21T03-56",
-  "foco": "Catálogo, tiendas y precios (franja 03:54)",
-  "fuentes_ok": [
-   "Shopify (lectura)",
-   "GitHub (privacidad, vía MCP)",
-   "Exa search/fetch",
-   "fichas Gadnic, Lena, Holy (copia de Exa)",
-   "TYMO DTC (WebFetch)",
-   "Ulta (copia de Exa)",
-   "Cronista (dólar BNA, WebFetch)",
-   "Portafolio (TRM, WebFetch)",
-   "eldolar.info (FIX MX, WebFetch)",
-   "Romayza, Amazon MX, Joinet (copia de Exa)"
-  ],
-  "fuentes_fallidas": [
-   "Amazon US: no apareció listado de TYMO TriThera",
-   "Mercado Libre AR/MX: sin precios ni opiniones en las copias; no se intentó en vivo",
-   "Glokore: el precio sigue sin aparecer en la copia",
-   "FIX de Banxico del día: solo se encontró el del 09/10/2026",
-   "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
-  ],
-  "competidores_revisados": [
-   "gadnic-ar",
-   "lena-vegetal-ar",
-   "holy-cosmetics-co",
-   "tymo-us",
-   "glokore-us",
-   "mx-tiendas"
-  ],
-  "competidores_nuevos": [],
-  "novedades": [
-   "Sin cambios de precio en Gadnic, Lena y Holy",
-   "TYMO DTC: venta de Halloween hasta el 26/10 con código TREAT 20%; Ulta sigue a USD 42,99",
-   "Corrección OPP-012: con dólar tarjeta, Flubberhome 1 u + envío ≈ ARS 104.000, por encima de Gadnic",
-   "MX: genéricos locales a MXN 426–499 (Romayza, Amazon MX)"
-  ],
-  "oportunidades_nuevas": [],
-  "oportunidades_actualizadas": [
-   "OPP-012 (corrección de estimación, 37)"
-  ],
-  "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
- }
+  {
+    "run_id": "2026-10-17T15-27",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54; primera ejecución, iniciada 15:27)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "Exa search/fetch",
+      "WebFetch",
+      "Mercado Libre AR/MX/CO (listados públicos vía Exa)",
+      "Amazon US/MX/AE (vía Exa)",
+      "TikTok Shop US (vía Exa)",
+      "tikwm/YouTube (vía Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch: ROBOTS_DISALLOWED)",
+      "TikTok Creative Center Top Ads (cargó sin resultados)"
+    ],
+    "competidores_revisados": [
+      "anyra-us",
+      "hairrova-us",
+      "nordic-biolabs-us",
+      "amazon-generics-us",
+      "glokore-us",
+      "breo-us",
+      "inia-us",
+      "ml-electricos-ar",
+      "cepillos-manuales-ar"
+    ],
+    "novedades": [
+      "Nuevos: glokore-us, breo-us, inia-us, ml-electricos-ar, cepillos-manuales-ar",
+      "Sin cambios de precio en los 3 directos de EE. UU.",
+      "Patrón de reseñas sobre goteo del depósito"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-001-demo-aplicacion-sin-goteo",
+      "OPP-002-angulo-upgrade-cepillo-manual-AR",
+      "OPP-003-garantia-publicada",
+      "OPP-004-embudo-explicativo"
+    ],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (gh api .private = false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-17T15-28",
+    "foco": "Complemento de 2026-10-17T15-27 (ejecución paralela de la misma tarea, mismo foco): AR (Lena, Microshop) y reseñas extra",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "Exa search/fetch",
+      "WebSearch",
+      "tiendas Lena/Microshop/Anyra",
+      "Amazon US (5 listados)",
+      "ML AR/MX/CO",
+      "ML Clips CO",
+      "TikTok Creative Center (sin resultados)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no aprobado)",
+      "Página de reseñas completa de Amazon (CRAWL_NOT_FOUND)"
+    ],
+    "competidores_revisados": [
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "anyra-us",
+      "amazon-generics-us"
+    ],
+    "novedades": [
+      "Lena +70 vendidos, stock bajo, cupón 10%",
+      "Patrón de dispensado/limpieza: 4→9 fuentes",
+      "2 clips ML CO nuevos"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-005-sensorial-en-seco",
+      "OPP-006-kit-liquido-compatible"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-001-demo-aplicacion-sin-goteo (60→80)"
+    ],
+    "privacidad": "repo PÚBLICO: sin datos internos",
+    "nota": "Se detectó una ejecución duplicada a 1 minuto de diferencia; revisar la programación de la tarea."
+  },
+  {
+    "run_id": "2026-10-17T15-28-b",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54) — TERCERA sesión concurrente (15:27, 15:28, 15:28-b); solo se agregó lo no cubierto",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "Exa search/fetch",
+      "WebSearch",
+      "fichas Anyra/Microshop/Lena/Hairrova",
+      "Amazon mriya"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch sin permiso; Exa SOURCE_NOT_AVAILABLE)",
+      "Mercado Libre (WebFetch robots; Exa fetch no disponible)",
+      "TikTok Creative Center (0 resultados sin login)"
+    ],
+    "competidores_nuevos": [
+      "xiaomi-mijia-smarthead",
+      "ondavu",
+      "dtc-clones-us"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-007-precio-honesto-ahorro-por-unidad",
+      "OPP-008-angulo-habito-paso-abandonado"
+    ],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO: sin datos internos",
+    "incidencia": "Tres sesiones de la misma tarea corrieron en paralelo; hubo conflictos de git resueltos sin borrar historial."
+  },
+  {
+    "run_id": "2026-10-17T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad)",
+      "Exa search/fetch",
+      "WebSearch",
+      "WebFetch (tipo de cambio)",
+      "tiendas Lena/Microshop/Anyra/Holy/Breo/Beltronic",
+      "Amazon US/MX (vía Exa)",
+      "Yaxa (reseñas replicadas)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (no se intentó: no es la franja de anuncios y está bloqueada desde la nube)",
+      "Mercado Libre: no se leyeron reseñas dentro de las publicaciones (solo listados vía Exa)"
+    ],
+    "competidores_revisados": [
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "anyra-us",
+      "breo-us",
+      "beltronic-ar"
+    ],
+    "competidores_nuevos": [
+      "holy-cosmetics-co",
+      "nihlo-co",
+      "co-dtc-tiendas",
+      "mx-tiendas",
+      "ar-tiendas-chicas"
+    ],
+    "novedades": [
+      "Primer relevamiento de CO y MX",
+      "Patrón nuevo: durabilidad/fallas de fábrica (6 fuentes)",
+      "Sin cambios de precio en Lena, Microshop ni Anyra",
+      "Breo web oficial USD 161,99 + 1 año de garantía"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-009-precio-por-mercado-mx-co",
+      "OPP-010-control-funcionamiento-y-cuidado-bateria",
+      "OPP-011-demo-pelo-largo"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-003-garantia-publicada (8→11)",
+      "OPP-005-sensorial-en-seco (12→18)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-18T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura: producto, mercados, precios contextuales)",
+      "GitHub (privacidad)",
+      "Exa search/fetch",
+      "WebSearch",
+      "WebFetch (CyberMonday AR, tipo de cambio)",
+      "fichas Holy/Lena/Microshop/NIHLO/Anyra/Hairrova/Nordic/Glokore",
+      "políticas de Holy",
+      "ficha propia de Flubberhome",
+      "listado ML AR (vía Exa)",
+      "Ulta"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (no se intentó: fuera de la franja de anuncios)",
+      "Glokore: precios por pack no visibles (plantilla sin renderizar)",
+      "Mercado Libre: listado directo pide login; se usó la copia de Exa"
+    ],
+    "competidores_revisados": [
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "nihlo-co",
+      "anyra-us",
+      "hairrova-us",
+      "nordic-biolabs-us",
+      "glokore-us",
+      "ml-electricos-ar",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [
+      "mount-lai-us"
+    ],
+    "novedades": [
+      "Sin cambios de precio en 7 competidores directos",
+      "Glokore muestra código 'BF26' en su embudo",
+      "Shopify: USD en los 4 países, mercado único Latinoamérica; ficha propia con 10–20 días hábiles a LatAm",
+      "Holy: 3–8 días, contra entrega, cambios 5 días",
+      "CyberMonday AR 2–4/11/2026"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-012-costo-total-y-plazo-claros-latam"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-009 (16→24, se descarta 'envío rápido' en MX)",
+      "OPP-006 (1,33→2)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-18T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad)",
+      "Exa search/fetch",
+      "WebSearch",
+      "TikTok Shop US (vía Exa)",
+      "fichas Holy/Anyra/Nordic/Glokore",
+      "perfil TikTok de Holy (solo cabecera)",
+      "clip ML CO"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido)",
+      "TikTok: videos individuales del perfil de Holy no visibles sin login"
+    ],
+    "competidores_revisados": [
+      "holy-cosmetics-co",
+      "anyra-us",
+      "nordic-biolabs-us",
+      "glokore-us",
+      "breo-us",
+      "inia-us"
+    ],
+    "competidores_nuevos": [
+      "kitsch-us"
+    ],
+    "novedades": [
+      "Contadores de TikTok Shop US: manual barato 43,6 mil vs eléctrico máx. 9,3 mil",
+      "INIA: precio visible USD 139,99 y 816 vendidos",
+      "Breo en TikTok Shop USD 239,99",
+      "Holy: modelo Essential COP 79.990 agotado",
+      "Sin cambios de precio en Holy, Anyra, Nordic y Glokore"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-013-angulo-regalo-temporada"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-002 (36→48)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-18T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Lena, Holy (Luxury y Essential), Anyra",
+      "Amazon US (listados vía Exa)",
+      "ML MX/CL (fichas vía Exa)",
+      "foros y notas públicas (Hello, thehomeglow, lipstickalley, T3)"
+    ],
+    "fuentes_fallidas": [
+      "Opiniones dentro de las publicaciones de Mercado Libre: las copias de Exa no traen los comentarios (sigue pendiente)",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Comunicado de AND CREAGE (Japón, 15/10/2026): solo se vio el título"
+    ],
+    "competidores_revisados": [
+      "lena-vegetal-ar",
+      "holy-cosmetics-co",
+      "anyra-us",
+      "dtc-clones-us",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [
+      "leerong-us",
+      "sensse-uk",
+      "la-milpa-de-maria-mx"
+    ],
+    "novedades": [
+      "Sin cambios de precio en Lena, Holy (Luxury y Essential) ni Anyra",
+      "Patrón nuevo e incipiente: sensación de masaje por debajo de lo esperado (3 fuentes)",
+      "LeeRong: kit con aceite, garantía de 12 meses e instrucción de media carga a USD 49,99",
+      "+3 clones en US (Cosvu, ScalpRevive, Ryslnte)"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-014-expectativa-honesta-de-la-sensacion (36)"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-001 (más evidencia, 80)",
+      "OPP-003 (más evidencia, 11)",
+      "OPP-006 (más evidencia, 2)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-19T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "WebSearch",
+      "WebFetch (Tiendanube)",
+      "fichas Lena, Holy (Luxury y Essential), Anyra, Microshop, NIHLO, Hairrova, Nordic, Glokore checkout4",
+      "Amazon US (LeeRong vía Exa)",
+      "listado ML AR (copia de Exa)",
+      "Frávega (vía Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Mercado Libre AR directo: se usó la copia de Exa (puede estar desfasada)",
+      "Glokore: precios por pack sin renderizar"
+    ],
+    "competidores_revisados": [
+      "lena-vegetal-ar",
+      "holy-cosmetics-co",
+      "anyra-us",
+      "microshop-ar",
+      "nihlo-co",
+      "hairrova-us",
+      "nordic-biolabs-us",
+      "glokore-us",
+      "leerong-us",
+      "ml-electricos-ar",
+      "ar-tiendas-chicas"
+    ],
+    "competidores_nuevos": [
+      "nocnoc-crossborder-ar"
+    ],
+    "novedades": [
+      "Sin cambios de precio en 10 competidores directos",
+      "Frávega/nocnoc: aplicador importado con precio final en pesos ARS 93.302",
+      "Holy Essential sin marca de agotado (sin confirmar)",
+      "Nordic suma 'Stock Very Low'",
+      "CyberMonday AR confirmado 2–4/11"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012 (más evidencia, 37)",
+      "OPP-013 (fecha confirmada, 37)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-19T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TikTok Shop US (copia de Exa)",
+      "fichas Anyra, Holy Luxury, Glokore checkout4, Sunluxy, Farmatodo (AUREVIA)",
+      "YouTube (transcripciones vía Exa)",
+      "Rosario3"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
+      "TikTok discover (contenido vacío vía Exa)",
+      "TikTok Creative Center Top Ads (la página carga sin resultados sin login)",
+      "Listado ML MX (no disponible vía Exa)",
+      "Amazon Best Sellers de masajeadores (la URL devolvió otra categoría)"
+    ],
+    "competidores_revisados": [
+      "anyra-us",
+      "holy-cosmetics-co",
+      "glokore-us",
+      "aurevia-co",
+      "kitsch-us",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "AUREVIA (Farmatodo CO) termina el descuento: COP 37.425 → 49.900 (+33%)",
+      "Sunluxy: nuevo clon US con ficha contradictoria, agotado",
+      "Contadores de TikTok Shop US sin cambios frente al 18/10",
+      "Video en español con gancho de 'casi lo devuelvo' (producto adyacente)",
+      "Nota de Rosario3 sobre ritual 'head spa' (15/10)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013 (más evidencia, 37)",
+      "OPP-014 (más evidencia, 36)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-19T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Anyra, Holy Luxury, Lena, TYMO, NeXo",
+      "Ulta y Target (copias de Exa)",
+      "TikTok Shop US (copia de Exa)",
+      "Amazon US (listados vía Exa)",
+      "blogs de reseñas (claytonnotes, getsupplementreviews, balancedbrawn)"
+    ],
+    "fuentes_fallidas": [
+      "WebFetch de Ulta: permiso de URL no respondido (se usó la copia de Exa)",
+      "Opiniones dentro de Mercado Libre: las copias de Exa siguen sin traer comentarios",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "anyra-us",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "breo-us",
+      "co-dtc-tiendas",
+      "amazon-generics-us",
+      "tymo-us"
+    ],
+    "competidores_nuevos": [
+      "tymo-us"
+    ],
+    "novedades": [
+      "TYMO TriThera: marca establecida con depósito para líquido en Ulta a USD 42,99 (lista 99,99) y Holiday Duo a USD 89,99",
+      "+2 tiendas CO (NeXo, Nuvitecno) y +1 genérico US (BFYCHYC)",
+      "Patrón 'instrucciones pobres' pasa a tendencia incipiente (3 fuentes)",
+      "Sin cambios de precio en Anyra, Holy Luxury ni Lena"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-015-guia-en-espanol-visible-antes-de-comprar (36)"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-013 (37→49)",
+      "OPP-003 (más evidencia, 11)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-20T03-56",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Anyra, Holy (Luxury y Essential), Lena, Nordic, Hairrova, Microshop, NIHLO, Glokore, TYMO DTC",
+      "Ulta, Best Buy, Target (copias de Exa)",
+      "BeyondStyle (agregador de TJ Maxx y Macy's)",
+      "listados ML AR/MX y Amazon MX (copias de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "WebFetch de Ulta: permiso de URL no respondido (segunda vez; se usó la copia de Exa)",
+      "Amazon US de TYMO: no apareció listado",
+      "Precio de Glokore: no aparece en la copia leída",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "anyra-us",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "glokore-us",
+      "nordic-biolabs-us",
+      "hairrova-us",
+      "microshop-ar",
+      "nihlo-co",
+      "tymo-us",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [
+      "offprice-retail-us"
+    ],
+    "novedades": [
+      "TYMO TriThera: se suman Best Buy (USD 79,99) y Macy's (USD 99,99); Ulta sigue a USD 42,99 en la copia de Exa",
+      "Formato en TJ Maxx a USD 14,99–19,99",
+      "Sin cambios de precio en 8 competidores directos",
+      "+1 tienda MX (OC Market, agotado) y +1 CO (Smartjoys)",
+      "Fecha límite estimada de pedido para Navidad: LatAm ≈ 24/11, EE. UU. ≈ 01/12"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013 (fecha límite estimada, 49)",
+      "OPP-007 (más evidencia, 30)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-20T11-57",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Gadnic, DHactive, TYMO DTC",
+      "Ulta (copia de Exa)",
+      "TikTok Shop US (búsqueda de tienda TYMO, copia de Exa)",
+      "Amazon US (listados vía Exa)",
+      "listado ML AR (copia de Exa)",
+      "YouTube (transcripciones vía Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta (WebFetch: permiso de URL no respondido; sin navegador conectado)",
+      "TikTok Creative Center Top Ads (WebFetch: permiso de URL no respondido)",
+      "Cotización del dólar del día (la búsqueda devolvió notas viejas; se usó BNA 15/10/2026)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "dtc-clones-us",
+      "amazon-generics-us",
+      "inia-us",
+      "microshop-ar",
+      "ml-electricos-ar"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic AR sale de preventa: ARS 97.299 (35% OFF), 3 cuotas, envío en el día AMBA, 12 meses de garantía; relevancia media → alta",
+      "Sin creatividades de TYMO TriThera; DTC con 4 reseñas, ausente en TikTok Shop US",
+      "DHactive (US) abre con el problema del sérum desperdiciado; menciona minoxidil",
+      "4 listados US con encuadre de regalo (BERNOVAS, Dexmary, DFYXO, INIA)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (80)",
+      "OPP-013 (49)",
+      "OPP-012 (37)",
+      "OPP-005 (18)",
+      "OPP-003 (11)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-20T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Gadnic, Lena, Alverela, Holy (copia de Exa)",
+      "Bidcom (copia de Exa)",
+      "Amazon US (listados vía Exa)",
+      "Loox (reseña pública)",
+      "Falabella CO (copia de Exa)",
+      "Gleva (ficha vía Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Opiniones de Gadnic en Mercado Libre AR: no apareció el listado (ML redirige a verificación de cuenta)",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "lena-vegetal-ar",
+      "holy-cosmetics-co",
+      "co-dtc-tiendas",
+      "amazon-generics-us",
+      "alverela-co",
+      "gleva-in"
+    ],
+    "competidores_nuevos": [
+      "alverela-co",
+      "gleva-in"
+    ],
+    "novedades": [
+      "Sin cambios de precio en Gadnic, Lena y Holy",
+      "Alta de Alverela (CO): combo aparato + aceite de argán a COP 117.700; reseñas de credibilidad dudosa",
+      "Alta de Gleva (IN, inspiracional): ficha que dice que no hace crecer el pelo y compara de forma justa con la mano",
+      "Patrón de dispensado: 20 fuentes; atención al cliente pasa de aislado a incipiente"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-016-respuestas-honestas-y-comparacion-justa (32)"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-001 (evidencia, 80)",
+      "OPP-015 (evidencia, 36)",
+      "OPP-003 (evidencia, 11)",
+      "OPP-006 (evidencia, 2)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-21T03-56",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "fichas Gadnic, Lena, Holy (copia de Exa)",
+      "TYMO DTC (WebFetch)",
+      "Ulta (copia de Exa)",
+      "Cronista (dólar BNA, WebFetch)",
+      "Portafolio (TRM, WebFetch)",
+      "eldolar.info (FIX MX, WebFetch)",
+      "Romayza, Amazon MX, Joinet (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Amazon US: no apareció listado de TYMO TriThera",
+      "Mercado Libre AR/MX: sin precios ni opiniones en las copias; no se intentó en vivo",
+      "Glokore: el precio sigue sin aparecer en la copia",
+      "FIX de Banxico del día: solo se encontró el del 09/10/2026",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "lena-vegetal-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "glokore-us",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en Gadnic, Lena y Holy",
+      "TYMO DTC: venta de Halloween hasta el 26/10 con código TREAT 20%; Ulta sigue a USD 42,99",
+      "Corrección OPP-012: con dólar tarjeta, Flubberhome 1 u + envío ≈ ARS 104.000, por encima de Gadnic",
+      "MX: genéricos locales a MXN 426–499 (Romayza, Amazon MX)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012 (corrección de estimación, 37)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-21T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic (copia de Exa)",
+      "TYMO DTC (copia de Exa)",
+      "Holy Cosmetics (copia de Exa)",
+      "TikTok Shop US (listado vía Exa)",
+      "hotdeals.com (agregador de cupones, no oficial)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL que nadie respondió (sin navegador conectado)",
+      "Lena Vegetal: la página no se pudo leer (CRAWL_UNKNOWN_ERROR) y la búsqueda no trajo la ficha",
+      "TikTok Creative Center: no se intentó (mismo bloqueo de permisos que el 20/10)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "anyra-us",
+      "kitsch-us",
+      "co-dtc-tiendas",
+      "mx-tiendas",
+      "alverela-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en Gadnic y Holy; Lena sin verificar",
+      "TYMO: sin creatividades; agregador lista Halloween Sale hasta 22/10 (no oficial)",
+      "CO: se suma LaKaDistribuidora a COP 89.900 al grupo co-dtc-tiendas",
+      "Sin anuncios verificados: Biblioteca de Meta sigue inaccesible"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  }
 ]
