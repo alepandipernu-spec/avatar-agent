@@ -196,6 +196,12 @@
     "run_id": "2026-10-19T11-55",
     "change": "Mismos contadores que el 18/10 en los productos de referencia (43,6 mil / 9,3 mil / 2,0 mil / 1,2 mil / 991). Aparecen en el listado: un 3 en 1 con aplicador que se vende como 'regalo para mujeres y hombres' (555 vendidos, USD 32,96) y un masajeador ASMR con infusor (11 vendidos, USD 18,99). INIA no aparece en esta copia. Copia de Exa: puede estar desfasada.",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+   },
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T11-55",
+    "change": "Búsqueda 'electric scalp massager with red light': INIA PDP sigue en 816; Breo 720 y Scalp3 1,2 mil (sin cambios); el eléctrico con luz de USD 22,73 ahora muestra '1.0K sold' (antes 991). Tienda INIA Official: '295.2K Sold' acumulado de toda la tienda (no comparable con el producto). Copia de Exa sin fecha.",
+    "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
    }
   ]
  },
@@ -480,6 +486,26 @@
     "run_id": "2026-10-22T03-55",
     "change": "Alta",
     "source": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum"
+   }
+  ]
+ },
+ "buen-fin-mx-2026-fecha": {
+  "id": "buen-fin-mx-2026-fecha",
+  "fecha": "2026-10-22",
+  "run_id": "2026-10-22T11-55",
+  "senal": "Fecha del Buen Fin 2026 (MX)",
+  "valor": "13 al 17 de noviembre de 2026 (viernes a martes, 5 días, con el puente de la Revolución)",
+  "fuente": "https://www.excelsior.com.mx/finanzas/buen-fin-2026-fechas-y-detalles-temporada-ofertas-mexico (07/10/2026) ; https://www.nmas.com.mx/economia/el-buen-fin-2026-cambia-de-dias-cuando-es-fecha-inicio-detalles-temporada-ofertas/ (29/09/2026)",
+  "alcance": "MX",
+  "tipo": "HECHO (dos medios coinciden; no se leyó el sitio oficial). Un blog de marketing (wowpostio, 18/10) da 19–22/11: se descarta por contradecir a ambos medios.",
+  "indica": "Ventana de alta intención de compra en MX, una semana antes de la fecha límite estimada para que un pedido a LatAm llegue antes de Navidad (≈24/11, ver OPP-013).",
+  "no_indica": "Que la categoría venda más en esas fechas ni que convenga descontar.",
+  "history": [
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T11-55",
+    "change": "Alta",
+    "source": "excelsior.com.mx ; nmas.com.mx"
    }
   ]
  }

@@ -595,6 +595,11 @@
     "date": "2026-10-20",
     "run_id": "2026-10-20T03-56",
     "change": "Score sin cambios (49). [ESTIMACIÓN] Fecha límite de pedido para que llegue antes del 24/12, con los plazos que publica la ficha (despacho 1–2 + entrega 10–20 días hábiles LatAm; 7–15 EE. UU.) y contando solo días hábiles sin feriados: LatAm ≈ 24/11/2026; EE. UU. ≈ 01/12/2026. Margen de error: feriados locales y demoras de aduana pueden adelantar la fecha 1 semana o más; confirmar con logística."
+   },
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T11-55",
+    "change": "Score sin cambios (49). Se suma el calendario MX: Buen Fin 13–17/11/2026, antes de la fecha límite estimada para LatAm (≈24/11). Si se reactiva MX, el ángulo regalo con el Pack Dúo puede salir esa semana sin descuento inflado."
    }
   ],
   "history": [

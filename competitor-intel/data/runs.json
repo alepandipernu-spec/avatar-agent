@@ -751,5 +751,47 @@
       "OPP-012 (tipos de cambio, 37)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-22T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO DTC (copia de Exa)",
+      "Holy Cosmetics (copia de Exa)",
+      "Gadnic preventa y Bidcom (copia de Exa, sin precio del masajeador)",
+      "TikTok Shop US (PDP INIA y buscador, vía Exa)",
+      "Addi Marketplace CO (copia de Exa)",
+      "WebSearch + WebFetch (Excelsior, N+)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL que nadie respondió (sin navegador conectado)",
+      "TikTok Creative Center: cargó vía Exa pero sin resultados (página renderizada con JS)",
+      "gadnic.com.ar ficha del masajeador: CRAWL_NOT_FOUND (precio no verificado)",
+      "Lena Vegetal: no se intentó"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "holy-cosmetics-co",
+      "inia-us",
+      "anyra-us",
+      "co-dtc-tiendas",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin anuncios verificados (Meta inaccesible)",
+      "Gadnic suma en preventa un masajeador de cuero cabelludo y cuerpo sin depósito a ARS 79.999, disponible en 59 días",
+      "Buen Fin MX 2026: 13–17/11",
+      "Sin cambios de precio en TYMO, Holy e INIA; Gadnic sin verificar"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013 (calendario MX, 49)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

@@ -1,26 +1,28 @@
-# Inteligencia competitiva — run 2026-10-22T03-55
+# Inteligencia competitiva — run 2026-10-22T11-55
 
-**Foco:** catálogo, tiendas y precios (franja 03:54).
+**Foco:** anuncios, creatividades y demanda (franja 11:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 22/10/2026, 03:55–04:30 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 22/10/2026, 11:55–12:25 (Buenos Aires).
+
+**Informe corto: no hubo novedades fuertes.** Abajo, lo que se comprobó.
 
 ---
 
 ## A. Resumen ejecutivo
-Run sin novedades fuertes.
-- **Ningún cambio de precio** en los 12 competidores revisados, incluidos los 3 directos principales: Gadnic (ARS 97.299), Holy (COP 149.990) y Lena (ARS 25.600).
-- **MX:** las dos tiendas locales de ~MXN 1.000 (pidehoy.mx y OC Market) figuran **agotadas**. Queda Romayza a MXN 499.
-- **Tipos de cambio al día.** No cambian ninguna conclusión. 1 unidad + envío de Flubberhome cuesta ≈ ARS 104.300, MXN 968 o COP 164.900.
+- **Sigue sin haber anuncios verificados.** La Biblioteca de Meta sigue inaccesible desde la nube. TikTok Creative Center cargó, pero sin resultados.
+- **Gadnic (AR) suma un segundo masajeador de cabeza** en preventa a ARS 79.999, disponible en 59 días. Es para cuero cabelludo y cuerpo y no tiene depósito, así que no compite de forma directa. El precio del modelo con depósito no se pudo verificar hoy.
+- **Calendario MX:** el Buen Fin 2026 es del 13 al 17/11. Cae antes de la fecha límite estimada para que un pedido a LatAm llegue antes de Navidad (≈24/11).
+- **Sin cambios de precio** en TYMO, Holy ni INIA.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
-| id | Mercado | Cat. | Resultado |
+| id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| gadnic-ar, lena-vegetal-ar, microshop-ar, ml-electricos-ar, nocnoc-crossborder-ar | AR | A | Sin cambios |
-| holy-cosmetics-co, nihlo-co | CO | A | Sin cambios |
-| tymo-us, anyra-us, hairrova-us, nordic-biolabs-us | US | A | Sin cambios de precio |
-| glokore-us | US | A | Sin precio visible (igual que antes) |
-| mx-tiendas | MX | A | pidehoy agotado; ver C |
+| gadnic-ar | AR | A | Preventa nueva; precio del modelo con depósito sin verificar |
+| tymo-us | US | A | Precio y promos (sin cambios) |
+| holy-cosmetics-co | CO | A | Precio (sin cambios) |
+| inia-us | US | A | Precio y contadores de TikTok Shop (sin cambios) |
+| co-dtc-tiendas | CO | A | Se suma Addi Marketplace |
 
 No hay competidores nuevos.
 
@@ -28,82 +30,75 @@ No hay competidores nuevos.
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
 **Novedades** ([HECHO], 22/10/2026):
-- **pidehoy.mx** ([ficha](https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum)):
-  - Figura "Agotado".
-  - Muestra dos precios contradictorios en la misma ficha: MXN 990 como "habitual" y MXN 1.390 como "de oferta". No se sabe cuál cobra.
-  - Ofrece pago contra entrega y envío en 2–5 días.
-- **OC Market** ([ficha](https://www.ocmarket.mx/products/cepillo-masajeador-electrico)): sigue agotado, a MXN 1.038.
-- **Amazon MX:** JIODTMER figura "no disponible".
-- **Joinet** (mayorista): suma un modelo sin depósito (MR-902) a MXN 87. Tiene otra función, así que no es comparable.
-- **TYMO** ([tienda](https://tymobeauty.com/products/tymo-trithera)):
-  - Tienda propia: sigue a USD 99,99 (tachado 129,99). En la copia leída no aparece la cuenta regresiva de Halloween, así que no se pudo confirmar si sigue la promo que la tienda anunciaba hasta el 26/10.
-  - [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264): sigue a USD 42,99, en una copia sin fecha.
-- **Gadnic:** el encabezado del sitio anuncia 9, 12 y 18 cuotas "en seleccionados". La ficha del masajeador sigue en 3 cuotas.
-
-**Costo total para el cliente** ([ESTIMACIÓN]; ±5% por tipo de cambio; sin impuestos de importación ni comisiones del banco):
-| País | 1 u + envío (USD 51,93) | Pack Dúo por unidad | Tipo de cambio |
-|---|---|---|---|
-| AR | ≈ ARS 104.300 | ≈ ARS 72.200 | Dólar tarjeta ARS 2.008,50 (20/10, [dolarhistorico](https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026)) |
-| MX | ≈ MXN 968 | ≈ MXN 670 | FIX 18,6425 (21/10, [Banxico](https://www.banxico.org.mx/tipcamb/tipCamMIAction.do)) |
-| CO | ≈ COP 164.900 | ≈ COP 114.100 | TRM 3.174,67 (17–19/10, [Portafolio](https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692)) |
-
-Comparado con el run anterior, MX sube alrededor de un 1% por el FIX y AR y CO quedan casi iguales.
+- **Gadnic, "Care by Gadnic"** ([preventa](https://www.gadnic.com.ar/pre-venta/masajeador)):
+  - Masajeador eléctrico para cuero cabelludo y cuerpo, resistente al agua (IPX7), con 4 modos.
+  - ARS 79.999 (tachado 145.453, 45% OFF). Figura "disponible en 59 días".
+  - La ficha no menciona depósito para líquidos.
+  - [HIPÓTESIS] Gadnic amplía su línea de cabeza por debajo de los ARS 97.299 de su modelo con depósito. Si llega antes de las fiestas, compite por el ángulo regalo en AR, no por la aplicación de tónico.
+- **Addi Marketplace (CO)** ([ficha](https://marketplace.addi.com/producto/4847527)):
+  - Cepillo con luz roja y dispensador de 3 ml a COP 75.900 (tachado 125.900). Entrega en 2–5 días hábiles.
+  - Usa claims médicos fuertes. Queda dentro del rango ya conocido en CO.
+- **Holy (CO)** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): sin cambios de precio. La misma ficha dice IPX7 "para usar durante el lavado" y, en las especificaciones, IPX6.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 21/10/2026 11:54.
+- **Biblioteca de Meta:** no accesible (ver L). Ningún anuncio de este informe está verificado.
+- **TikTok Creative Center:** la página cargó a través de Exa, pero sin resultados para "scalp massager". [HIPÓTESIS] El contenido se arma con JavaScript y la copia no lo captura, así que no prueba que no haya anuncios.
+- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): sigue sin creatividades ni banner de Halloween visible. Mantiene el precio de USD 99,99.
+- **INIA (TikTok Shop US):** sigue el listado "LIVE EXCLUSIVE" a USD 199,99 con 78 vendidos ([buscador](https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light)). Las ventas en vivo siguen siendo su formato visible.
+- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
 
 ## E. Demanda y señales de ventas
-- **pidehoy.mx** [HECHO, lo declara la tienda]: "+2.790 unidades vendidas" y 970 reseñas.
-  - **Qué no indica:** ventas reales. Es un contador propio, sin período, en una ficha con el precio contradictorio.
-- **Mercado Libre AR** [HECHO: indicador de ML, [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo)]: sin cambios.
-  - Los eléctricos de referencia siguen en "+5" y "+50 vendidos".
-  - El manual Coony sigue en "+5mil vendidos".
-- [HIPÓTESIS] Que las dos tiendas locales caras de MX estén agotadas no prueba demanda, porque puede ser falta de reposición. Lo que sí muestra es que hoy no hay oferta local rápida a ese precio. Para seguirlo, no para actuar todavía.
+| Señal | Valor | Tipo |
+|---|---|---|
+| Buen Fin MX 2026 | 13–17/11 (viernes a martes) | HECHO, coinciden dos medios ([Excelsior](https://www.excelsior.com.mx/finanzas/buen-fin-2026-fechas-y-detalles-temporada-ofertas-mexico), 07/10; [N+](https://www.nmas.com.mx/economia/el-buen-fin-2026-cambia-de-dias-cuando-es-fecha-inicio-detalles-temporada-ofertas/), 29/09) |
+| TikTok Shop US, eléctrico con luz a USD 22,73 | "1.0K sold" (antes 991) | HECHO: indicador de la plataforma |
+| INIA, ficha del VIBRA | "816 sold", sin cambios | HECHO: indicador de la plataforma |
+| Tienda INIA Official | "295.2K Sold" | HECHO: contador de toda la tienda |
+
+- Un blog de marketing daba el Buen Fin del 19 al 22/11. Se descartó porque contradice a los dos medios.
+- **Qué no indican los contadores:** ventas por período. El de la tienda INIA suma todos sus productos y no se puede atribuir al masajeador.
 
 ## F. Experiencia de compra
-- **Glokore** ([portada](https://shop.glokore.com)) [HECHO]:
-  - Promete devolución en 30 días con reembolso total "sin preguntas" y muestra 4,8★ con 137.135 reseñas (cifra de toda la marca).
-  - En Trustpilot tiene 3,2★ con 119 opiniones, con quejas por envío de devolución a cargo del cliente.
-  - [HIPÓTESIS] Lo que promete la portada no coincide con lo que cuentan los clientes. Refuerza lo de OPP-003: cuando Flubberhome publique su garantía, tiene que decir con claridad quién paga el envío de vuelta.
-- **pidehoy (MX) y Holy (CO):** cobran contra entrega. Flubberhome no lo ofrece; ya está registrado en OPP-012.
-- No se completó ningún checkout.
+Sin revisión en esta ejecución. Último dato: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
 Sin revisión en esta ejecución. Último dato: 21/10/2026 19:55.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas. Sigue vigente la de liderar con el Pack Dúo en AR y MX (OPP-012 / OPP-013), con los números actualizados de la sección C.
+- **Calendario MX** [HIPÓTESIS, confianza media]:
+  - **Evidencia:** el Buen Fin (13–17/11) cae antes del ≈24/11, la fecha límite estimada para que un pedido a LatAm llegue antes de Navidad (OPP-013).
+  - **Acción:** si el dueño reactiva MX antes de esa semana, el ángulo "uno para vos, uno para regalar" con el Pack Dúo puede salir esos días sin precio tachado.
+  - **Métrica:** proporción de Pack Dúo en MX esa semana.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
 |---|---|---|---|
 | 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | Se suma el calendario MX |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
-| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Tipos de cambio actualizados |
+| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
 
 No hay oportunidades nuevas.
 
 ## J. Próximas acciones
 - **Para el dueño:**
-  - Sigue pendiente la prueba real que cubre OPP-001, OPP-011 y OPP-014.
-  - Sigue pendiente decidir la garantía (OPP-003).
-- **Próximo run de anuncios (11:54):**
-  - Volver a intentar la Biblioteca de Meta.
-  - Buscar si TYMO lanza una promo nueva después de Halloween.
-- **Próximo run de catálogo:**
-  - Confirmar el fin de la promo de TYMO (26/10).
-  - Ver si pidehoy y OC Market reponen stock y a qué precio.
+  - Sin un navegador conectado, la Biblioteca de Meta no se puede consultar. Conectar Claude in Chrome a esta tarea destrabaría la franja de anuncios.
+  - Siguen pendientes la prueba real (OPP-001, OPP-011 y OPP-014) y la garantía (OPP-003).
+- **Próximo run de reseñas (19:54):** volver a intentar Lena.
+- **Próximo run de catálogo (03:54):**
+  - Verificar el precio del Gadnic con depósito.
+  - Confirmar si TYMO termina la promo el 26/10.
 
 ## K. Nuevos hallazgos
 - No hay competidores nuevos ni oportunidades nuevas.
-- Hay una señal nueva en `demand_signals`: `pidehoy-contador-propio`.
-- Se actualizaron los tipos de cambio en OPP-012 y en las señales de AR y MX.
+- Hay una señal nueva en `demand_signals`: `buen-fin-mx-2026-fecha`.
+- Se actualizaron en `competitors`: gadnic-ar, tymo-us, holy-cosmetics-co, inia-us y co-dtc-tiendas.
 
 ## L. Limitaciones
-- **Mercado Libre MX y CO:** Exa devolvió SOURCE_NOT_AVAILABLE. AR se leyó por una copia.
-- **TYMO:** no se pudo confirmar si la promo de Halloween sigue. Ulta sale de una copia sin fecha.
-- **Glokore:** el masajeador sigue sin precio visible.
+- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
+- **TikTok Creative Center:** sin resultados en la copia.
+- **Gadnic:** la ficha del masajeador con depósito no se pudo leer (CRAWL_NOT_FOUND) y la copia de Bidcom no muestra precio.
+- **Lena Vegetal:** no se intentó.
+- **Buen Fin:** no se leyó el sitio oficial. La fecha sale de dos medios que coinciden.
 - **Datos sin fecha:** todas las fichas salen de copias de Exa sin fecha visible.
-- **Biblioteca de anuncios de Meta:** no se intentó (no es la franja de anuncios).
 - **Repo público:** sin datos internos. Conviene volverlo privado.
