@@ -1,10 +1,10 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-21T15:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-21T23:46-03:00
 
 Período: 2026-09-22 → 2026-10-21 · comparado con 2026-08-23 → 2026-09-21 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Sin cambios en Meta ni en la tienda: pausa intencional, 0 ventas, 768 sesiones en 30 días. Competencia: sin cambios de precio en 3 fichas revisadas.
+- Sin cambios en Meta ni en la tienda: pausa intencional, 0 ventas, 768 sesiones en 30 días.
 - Siguen pendientes del dueño: completar el pedido de prueba #D1, compras reales con Mercado Pago y PayPal, OK para quitar 'Envío Gratis Prioritario' (sigue activo) y datos legales para publicar la política (la actual es del 31/08).
 - Alertas abiertas: 9 (5 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
@@ -14,7 +14,7 @@ Período: 2026-09-22 → 2026-10-21 · comparado con 2026-08-23 → 2026-09-21 �
 | --- | --- | --- |
 | escalafy | ok | Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto). |
 | shopify | ok | Embudo, pedidos, precios, perfiles de envío y políticas leídos. |
-| competencia_web | partial | Exa: Beltronic (descuento ahora 15% en efectivo; stock contradictorio en la página), Hairrova (sigue Sold out) y Nordic Biolabs (sin cambios de precio). Biblioteca de anuncios bloqueada. |
+| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 21/10) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | blocked | graph.facebook.com rechazado por el proxy (403) y conector Adspirer caído (403). Sin estado de facturación, revisión de anuncios, ventana de atribución ni eventos del Pixel. |
 
@@ -125,38 +125,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## F. Inteligencia competitiva
 
-**Beltronic Beauty Tools** (cambió) · beltronic.com.ar · mercado AR · verificado 2026-10-21
-- Precio/oferta: Kit ARS 175.890 (lista ARS 185.990); 15% off pagando en efectivo (solo retiro en showroom o moto a CABA, ARS 158.091,50); 3 cuotas sin interés.
-- Propuesta: Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.
-- Mensajes: 'Anticaída y densidad', 'reduce la caída'.
-- Formatos: Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.
-- Hecho observado: Precio alto apoyado en un activo nombrado (Capixyl).
-- Hecho observado: 21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página.
-- Inferencia: Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/
-
-**Hairrova RootGlow** (cambió) · hairrova.com · mercado US · verificado 2026-10-21
-- Precio/oferta: USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.
-- Propuesta: Promesa de resultado con plazo.
-- Mensajes: 'Clinically proven… visible hair growth in 56 days'.
-- Formatos: No obtenido.
-- Hecho observado: Garantía de devolución explícita y destacada.
-- Hecho observado: 18/10 y 21/10: figura 'Sold out' (precio sin cambios).
-- No obtenible: Respaldo del 'clinically proven'.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush
-
-**Nordic Biolabs** (cambió) · nordic-biolabs.com · mercado US · verificado 2026-10-21
-- Precio/oferta: USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.
-- Propuesta: Aparato como vehículo de un consumible propio (recompra).
-- Mensajes: 'Hair regrowth', testimonios y cita profesional.
-- Formatos: No obtenido.
-- Hecho observado: Modelo aparato + consumible.
-- Hecho observado: 21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto).
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum
-
+- No se examinaron competidores en esta ejecución.
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -257,15 +226,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 227.93 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 13 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 13 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 12 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 12 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 12 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 13 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 13 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 13 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 12 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 227.93 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 14 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 14 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 13 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 13 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 13 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 20× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 14 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 14 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 14 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 13 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -277,12 +246,11 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-21T15:46-03:00 · Fin del análisis: 2026-10-21T15:47:13-03:00
+- Inicio: 2026-10-21T23:46-03:00 · Fin del análisis: 2026-10-21T23:47:28-03:00
 - Completado: Escalafy: dashboard (totales iguales a la ejecución anterior) y catálogo (0 objetos activos)
 - Completado: Shopify: embudo (768 sesiones), pedidos (0), precios sin tachados, envíos, políticas y #D1 (OPEN)
-- Completado: Competencia: 3 páginas revisadas (Beltronic, Hairrova, Nordic Biolabs)
 - Parcial: Por anuncio: filas reutilizadas (sin gasto desde el 15/10)
-- Parcial: Competencia: 6 de 9 fichas sin revisar hoy
+- Parcial: Competencia: sin actualizar (una vez por día, 15:46)
 - Falló: Meta directo (Ads Manager, Pixel, Facturación, Biblioteca de anuncios): bloqueado por la red
-- Próxima ejecución programada: 2026-10-21 23:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-21T15-46-03-00.json
+- Próxima ejecución programada: 2026-10-22 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-21T23-46-03-00.json
