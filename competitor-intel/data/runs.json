@@ -700,5 +700,56 @@
       "OPP-003 (evidencia, 11)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-22T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic, Holy, Lena, Microshop, Nihlo (copia de Exa)",
+      "TYMO DTC y Ulta (copia de Exa)",
+      "Anyra, Hairrova, Nordic Biolabs, Glokore (copia de Exa)",
+      "Mercado Libre AR listado (copia de Exa)",
+      "Frávega/nocnoc (copia de Exa)",
+      "pidehoy.mx, OC Market, Romayza, Joinet, Amazon MX (copia de Exa)",
+      "dolarhistorico.com (dólar tarjeta, WebFetch)",
+      "Banxico FIX (WebFetch)",
+      "Portafolio (TRM, WebFetch)"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre MX y CO: SOURCE_NOT_AVAILABLE en Exa",
+      "TYMO: no se pudo confirmar si la promo de Halloween sigue (no aparece en la copia)",
+      "Glokore: el precio del masajeador sigue sin aparecer",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "tymo-us",
+      "glokore-us",
+      "anyra-us",
+      "hairrova-us",
+      "nordic-biolabs-us",
+      "nihlo-co",
+      "microshop-ar",
+      "ml-electricos-ar",
+      "nocnoc-crossborder-ar",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en 12 competidores revisados",
+      "MX: las 2 DTC de ~MXN 1.000 figuran agotadas (pidehoy, OC Market); pidehoy con precio contradictorio y '+2.790 vendidas'",
+      "Tipos de cambio actualizados: AR ≈ ARS 104.300, MX ≈ MXN 968, CO ≈ COP 164.900 por 1 u + envío",
+      "Glokore promete devolución 'sin preguntas' en portada, en contraste con quejas de Trustpilot"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012 (tipos de cambio, 37)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

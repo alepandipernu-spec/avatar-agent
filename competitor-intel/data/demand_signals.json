@@ -428,6 +428,12 @@
     "run_id": "2026-10-21T03-56",
     "change": "Alta",
     "source": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/"
+   },
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T03-55",
+    "change": "Recalculo con dólar tarjeta ARS 2.008,50 (20/10/2026): 1 u + envío ≈ ARS 104.300; Pack Dúo ≈ ARS 144.400 (≈ 72.200 por unidad). Gadnic sin cambios (ARS 97.299). Conclusión igual.",
+    "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
    }
   ]
  },
@@ -448,6 +454,32 @@
     "run_id": "2026-10-21T03-56",
     "change": "Alta",
     "source": "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/"
+   },
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T03-55",
+    "change": "Recalculo con FIX 18,6425 (21/10/2026, Banxico): Flubberhome 1 u + envío ≈ MXN 968; Pack Dúo ≈ MXN 670 por unidad. Romayza sigue en MXN 499; las DTC de ~MXN 1.000 (pidehoy, OC Market) figuran agotadas.",
+    "source": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do"
+   }
+  ]
+ },
+ "pidehoy-contador-propio": {
+  "id": "pidehoy-contador-propio",
+  "fecha": "2026-10-22",
+  "run_id": "2026-10-22T03-55",
+  "senal": "Contador de unidades y reseñas en pidehoy.mx (DTC MX)",
+  "valor": "'+2.790 unidades vendidas' y 970 reseñas; producto 'Agotado'",
+  "fuente": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum",
+  "alcance": "MX",
+  "tipo": "HECHO (lo declara la tienda; no verificable)",
+  "indica": "Que la tienda usa prueba social numérica fuerte y pago contra entrega en MX.",
+  "no_indica": "Ventas reales: es un contador propio sin fecha ni período, y el mismo ficha muestra un precio contradictorio. 'Agotado' no es éxito.",
+  "history": [
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T03-55",
+    "change": "Alta",
+    "source": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum"
    }
   ]
  }

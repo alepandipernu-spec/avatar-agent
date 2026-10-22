@@ -36,7 +36,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -71,6 +71,12 @@
         "date": "2026-10-21",
         "run_id": "2026-10-21T19-55",
         "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; sin impuestos nacionales ARS 80.412). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso. Sin opiniones legibles del masajeador.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; sin impuestos nacionales ARS 80.412; 3 cuotas sin interés). El encabezado del sitio muestra banners de 9/12/18 cuotas 'en seleccionados', pero la ficha del masajeador sigue en 3.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -111,7 +117,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -176,6 +182,12 @@
         "date": "2026-10-21",
         "run_id": "2026-10-21T19-55",
         "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; '+70 vendidos'; 'quedan 3'). Esta vez la ficha se leyó por la búsqueda de Exa.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (ARS 25.600, tachado 32.000; ARS 20.480 por transferencia; '+70 vendidos'; 'Sin stock' y 'quedan 3' a la vez). Envío gratis desde ARS 60.000; cupón BIENVENIDA 10%.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
@@ -255,7 +267,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -290,6 +302,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T03-56",
         "change": "Sin cambios (ARS 45.780, tachado 60.000; envío gratis; 10% por transferencia).",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (ARS 45.780, tachado 60.000; envío gratis).",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
     ]
@@ -376,7 +394,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -436,6 +454,12 @@
         "run_id": "2026-10-20T03-56",
         "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95; '12.319 clientes' y 'agotado 3 veces').",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95; '12.319 clientes'; 'agotado 3 veces').",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -470,7 +494,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Comunica garantía de 1 año + 30 días de devolución en el primer pantallazo; claims médicos fuertes (no replicables).",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -499,6 +523,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T03-56",
         "change": "Sin cambios (USD 89,99, tachado 149,99); sigue 'Sold out'.",
+        "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (USD 89,99, tachado 149,99); sigue 'Sold out'.",
         "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
       }
     ]
@@ -535,7 +565,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Ejemplo de modelo aparato + consumible propio (recompra).",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -570,6 +600,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T03-56",
         "change": "Sin cambios (USD 79, tachado 158; 'Stock Very Low'; 120 días de devolución).",
+        "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (USD 79, tachado 158; 'Stock Very Low').",
         "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
       }
     ]
@@ -692,7 +728,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Embudo de respuesta directa completo (advertorial, urgencia, venta adicional de garantía): aprendizaje de estructura, no de claims.",
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -735,6 +771,12 @@
         "run_id": "2026-10-21T19-55",
         "change": "Se suman Trustpilot (3,2★, 119 opiniones) y BBB (18 reclamos): quejas por envío de devolución a cargo del cliente, garantía rechazada fuera de plazo (máscara) y un pedido no entregado.",
         "source": "https://www.trustpilot.com/review/glokore.com"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "La ficha del masajeador sigue sin precio visible y con el mismo 'Purchased 2,541 times in the past 30 days'. La portada promete devolución en 30 días con reembolso total 'sin preguntas' y muestra '4.8/5 based on 137,135 reviews' (cifra de toda la marca), frente a 3,2★ con 119 opiniones en Trustpilot. El masajeador no figura entre los 'Customer Favorites' de la portada.",
+        "source": "https://shop.glokore.com ; https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager"
       }
     ]
   },
@@ -907,7 +949,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Precio de referencia local en pesos para el mismo tipo de producto.",
-    "last_reviewed": "2026-10-19",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -925,6 +967,12 @@
         "date": "2026-10-19",
         "run_id": "2026-10-19T03-55",
         "change": "Listado público (copia de Exa) sin cambios en los de referencia: MegaCuper ARS 37.692 (tachado 60.793, +50 vendidos); ARS 59.800 y 69.999 (+5 vendidos); Relextech ARS 58.006 (+25 vendidos); genérico ARS 20.000 (+50 vendidos). Aparecen además ofertas 'Envío desde China' (ARS 28.709 y 58.037).",
+        "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Listado público (copia de Exa) sin cambios en los de referencia: MegaCuper ARS 37.692 (tachado 60.793, +50 vendidos); ARS 59.800 (+5 vendidos); ARS 69.999 (tachado 89.999, +5 vendidos). Los manuales siguen dominando los indicadores: Coony +5mil vendidos (ARS 9.281), Hairfy y MAFEZ +1000.",
         "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
       }
     ]
@@ -1146,7 +1194,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -1219,6 +1267,12 @@
         "run_id": "2026-10-21T19-55",
         "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo al aparato (testimonio del cliente, no verificable).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -1262,7 +1316,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -1286,6 +1340,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T03-56",
         "change": "Sin cambios (COP 89.900; garantía 1 año por defectos; 0 reseñas).",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (COP 89.900; garantía 1 año; 0 reseñas).",
         "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
       }
     ],
@@ -1405,17 +1465,20 @@
       "Un vendedor de ML MX (EGMYMX) tiene la publicación pausada y avisa entregas de 7–20 días y que no se aceptan cambios de color.",
       "[HECHO 20/10/2026] OC Market (ocmarket.mx): masajeador 2 en 1 con aplicador de aceite a MXN 1.038, 'Agotado'; envío calculado en el pago.",
       "[HECHO 21/10/2026] Romayza (romayza.com.mx): masajeador 3 en 1 con tanque para tónicos a MXN 499 (tachado 699), envío gratis, 'es el último'; claims de caída y crecimiento y sugiere cargar minoxidil.",
-      "[HECHO 21/10/2026] Amazon MX (Peosaard, ASIN B0D3LPTDH4): MXN 426,59, 2,0★ con 1 reseña, puesto 208.799 en Belleza, entrega gratis 29/10–3/11."
+      "[HECHO 21/10/2026] Amazon MX (Peosaard, ASIN B0D3LPTDH4): MXN 426,59, 2,0★ con 1 reseña, puesto 208.799 en Belleza, entrega gratis 29/10–3/11.",
+      "[HECHO 22/10/2026] pidehoy.mx: 'Agotado'; precio 'habitual' MXN 990 y 'de oferta' MXN 1.390 en la misma ficha (dato contradictorio: no se sabe cuál cobra). Muestra '+2.790 unidades vendidas' y 970 reseñas (contadores de la propia tienda), pago contra entrega, envío en 2–5 días y 'garantía de satisfacción'.",
+      "[HECHO 22/10/2026] OC Market sigue en MXN 1.038 y 'Agotado'. Amazon MX JIODTMER (2,0★, 2 calificaciones): 'no disponible'. Joinet suma otro modelo (MR-902, vibración + luz + 'nano pulverización', sin depósito) a MXN 87 mayorista con 'cantidad vendida: 33'."
     ],
     "inferences": [
       "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir.",
-      "[ESTIMACIÓN] MXN 1.038 ≈ USD 57,7 (17,98 MXN/USD, la tasa usada antes): por encima de Flubberhome (USD 41,93)."
+      "[ESTIMACIÓN] MXN 1.038 ≈ USD 57,7 (17,98 MXN/USD, la tasa usada antes): por encima de Flubberhome (USD 41,93).",
+      "[HIPÓTESIS 22/10/2026] De las 2 DTC mexicanas de ~MXN 1.000, las dos figuran agotadas. Eso no prueba demanda (puede ser falta de reposición), pero hoy la oferta local con entrega rápida a ese precio está vacía; queda Romayza a MXN 499 con 'es el último'."
     ],
     "hypotheses": [],
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-17",
@@ -1434,6 +1497,12 @@
         "run_id": "2026-10-21T03-56",
         "change": "Se suman Romayza (MXN 499) y un genérico en Amazon MX (MXN 426,59). Joinet sigue en MXN 345 con 'cantidad vendida: 17'.",
         "source": "https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "pidehoy.mx agotado (precio contradictorio 990/1.390, '+2.790 vendidas', 970 reseñas, contra entrega); OC Market sigue agotado; JIODTMER no disponible en Amazon MX; Joinet suma MR-902 (sin depósito).",
+        "source": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum ; https://www.ocmarket.mx/products/cepillo-masajeador-electrico ; https://joinet.com/producto/cepillo-masageador-para-cuero-cabelludo-con-vibracion-variedad-de-colores-mr-902/"
       }
     ],
     "id": "mx-tiendas",
@@ -1448,7 +1517,7 @@
       "Joinet KS-918 (mayorista)",
       "ML MX aplicadores 2 en 1 de vendedores en China"
     ],
-    "price_visible": "MXN 499 (Romayza, tachado 699, envío gratis, 21/10/2026) · MXN 426,59 (Amazon MX, Peosaard, 2,0★ con 1 reseña) · MXN 990 (pidehoy.mx) · MXN 1.038 (OC Market, agotado) · MXN 345 en mayorista Joinet. [ESTIMACIÓN] ≈ USD 23–56 con FIX 18,42 MXN/USD (09/10/2026).",
+    "price_visible": "MXN 499 (Romayza, tachado 699, envío gratis, 22/10/2026) · MXN 426,59 (Amazon MX, Peosaard, 21/10/2026) · pidehoy.mx MXN 990/1.390 (dato contradictorio, agotado, 22/10/2026) · MXN 1.038 (OC Market, agotado) · MXN 345 en mayorista Joinet. [ESTIMACIÓN] ≈ USD 23–56 con FIX 18,6425 MXN/USD (21/10/2026).",
     "value_prop": "DTC: copy de bienestar y aplicación pareja. ML: envío internacional gratis, entrega 7–20 días desde China.",
     "claims_observed": "OC Market: bienestar ('estimula la circulación', 'reduce el estrés'), sin claims fuertes. ML: 'crecimiento del cabello'.",
     "channels": [
@@ -1791,12 +1860,18 @@
     ],
     "relevance": "media",
     "follow_reason": "Competencia importada en AR con precio final en pesos y respaldo de un retailer grande; referencia directa para OPP-012.",
-    "last_reviewed": "2026-10-19",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-19",
         "run_id": "2026-10-19T03-55",
         "change": "Competidor nuevo registrado (canal cross-border).",
+        "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Sin cambios: MRIYA en Frávega ARS 93.301,96 (tachado 112.412,17; s/imp. nac. 77.109,06), precio final con impuestos y envío; no envía a CABA (CP 1406). Depósito de 6 ml.",
         "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
       }
     ]
@@ -1858,7 +1933,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-22",
     "history": [
       {
         "date": "2026-10-19",
@@ -1889,6 +1964,12 @@
         "run_id": "2026-10-21T11-54",
         "change": "DTC sigue en USD 99,99 y ahora muestra fecha estimada de entrega (24–26/10). Un agregador de cupones (hotdeals.com, no oficial) lista la 'Halloween Sale' de hasta 30% con vencimiento 22/10, que no coincide con la cuenta regresiva al 26/10 vista en el run anterior. Sin creatividades encontradas; Biblioteca de Meta inaccesible.",
         "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.hotdeals.com/coupons/tymo-beauty-promo-codes"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "DTC sin cambios de precio (USD 99,99, tachado 129,99); fechas estimadas de entrega 25–27/10. En la copia leída no aparece la cuenta regresiva de Halloween: no se pudo confirmar si la promo sigue (vence 26/10 según la tienda el 21/10). Ulta sigue en USD 42,99 (lista 99,99), 'online only', despachado por TYMO; copia de Exa sin fecha.",
+        "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
