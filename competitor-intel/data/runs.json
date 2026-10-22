@@ -793,5 +793,52 @@
       "OPP-013 (calendario MX, 49)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-22T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic (ficha leída, precio verificado)",
+      "TYMO, Holy (copia de Exa)",
+      "Lena (vía búsqueda de Exa)",
+      "Amazon US (mriya, SphonxAi, MINOZOOS, AIRUIXIO vía Exa)",
+      "Yaxa RD (reseñas traducidas)",
+      "Litevisage, Introstem, Magoo Gadgets (copia de Exa)",
+      "YouTube (transcripción vía Exa)"
+    ],
+    "fuentes_fallidas": [
+      "lenacosmetica.com.ar portada: CRAWL_UNKNOWN_ERROR (se leyó por la búsqueda)",
+      "Walmart (reseñas): pide verificación de robot, no se intentó eludirla",
+      "Reddit: no aparecieron hilos nuevos en la búsqueda",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Mercado Libre: no se intentó en esta ejecución"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "mx-tiendas",
+      "co-dtc-tiendas",
+      "dtc-clones-us",
+      "nihlo-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic con depósito verificado: sin cambios (ARS 97.299)",
+      "Se suman a agrupados: Introstem (MX, MXN 890), Magoo Gadgets (CO, COP 98.900), Litevisage (US, USD 109,99)",
+      "Patrón 'anunciado vs. recibido' pasa a incipiente y suma la desconfianza hacia las demos hechas con IA",
+      "Sensación débil o incómoda: 6 fuentes; durabilidad: +1 fuente de 2026"
+    ],
+    "oportunidades_nuevas": [
+      "OPP-017 (33)"
+    ],
+    "oportunidades_actualizadas": [
+      "OPP-001 (vínculo con OPP-017; 80)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

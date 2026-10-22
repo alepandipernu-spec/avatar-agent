@@ -53,7 +53,7 @@
   },
   {
    "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 11,
+   "n_fuentes": 12,
    "n_competidores": 10,
    "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
    "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
@@ -87,6 +87,11 @@
      "run_id": "2026-10-21T19-55",
      "change": "+1 fuente: Breo Scalp3L (medical-insiders, 15/04/2026), varias quejas por aparatos fallados. Primera fuente del segmento premium en este patrón.",
      "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+    },
+    {
+     "date": "2026-10-22",
+     "run_id": "2026-10-22T19-55",
+     "change": "+1 fuente con fecha de 2026 (Yaxa/Amazon, 23/05/2026: deja de andar a los ~30 usos)."
     }
    ]
   },
@@ -131,9 +136,9 @@
   },
   {
    "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-   "n_fuentes": 5,
-   "n_competidores": 5,
-   "clasificacion": "tendencia (5 fuentes de 5 productos, incluido el segmento premium)",
+   "n_fuentes": 6,
+   "n_competidores": 6,
+   "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
    "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
    "fecha": "2026-10-18",
    "run_id": "2026-10-18T19-54",
@@ -150,18 +155,29 @@
      "run_id": "2026-10-21T19-55",
      "change": "+2 fuentes (Breo Scalp3L, VitalEveRev): puntas firmes o metálicas incómodas. Pasa de incipiente a tendencia.",
      "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+    },
+    {
+     "date": "2026-10-22",
+     "run_id": "2026-10-22T19-55",
+     "change": "+1 fuente (Yaxa B0DWMVSVKL, 2025: vibración débil, nódulos incómodos)."
     }
    ]
   },
   {
    "problema": "Diferencia entre lo anunciado en video y lo recibido",
-   "n_fuentes": 1,
-   "n_competidores": 1,
-   "clasificacion": "aislado (1 producto adyacente, pero con muchas reseñas coincidentes)",
-   "oportunidad": "Mostrar en los anuncios solo lo que el aparato hace de verdad (demo real, sin efectos), algo que la línea de Flubberhome ya exige.",
+   "n_fuentes": 2,
+   "n_competidores": 2,
+   "clasificacion": "incipiente (2 fuentes de 2 productos del mismo formato adyacente: peine con spray)",
+   "oportunidad": "Mostrar solo lo que el aparato hace de verdad. En el formato de spray, los anuncios con transformaciones que parecen hechas con IA se leen como estafa. Flubberhome usa microdramas con IA: separar la ficción de la demo real y rotular la demo (ver OPP-017).",
    "fecha": "2026-10-19",
    "run_id": "2026-10-19T19-54",
-   "historial": []
+   "historial": [
+    {
+     "date": "2026-10-22",
+     "run_id": "2026-10-22T19-55",
+     "change": "+1 fuente (video de un creador del 22/06/2026 sobre el peine con spray; apoyo: listado de Amazon con 1,5★). Pasa de aislado a incipiente y suma el ángulo de los anuncios hechos con IA."
+    }
+   ]
   },
   {
    "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
@@ -590,6 +606,33 @@
    "parafrasis": "Funciona mejor con pelo corto o mediano; con pelo largo las puntas se enredan.",
    "fecha_consulta": "2026-10-21",
    "run_id": "2026-10-21T19-55"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL, reseña de Amazon traducida)",
+   "problema": "durabilidad",
+   "fecha": "2026-05-23",
+   "parafrasis": "Dejó de funcionar después de unos 30 usos; solo prenden las luces.",
+   "fecha_consulta": "2026-10-22",
+   "run_id": "2026-10-22T19-55"
+  },
+  {
+   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+   "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL)",
+   "problema": "sensación incómoda / débil; instrucciones pobres",
+   "fecha": "2025-04-21",
+   "parafrasis": "Vibración débil, nódulos incómodos sobre el cuero cabelludo y no explica qué hace cada modo o luz.",
+   "fecha_consulta": "2026-10-22",
+   "run_id": "2026-10-22T19-55"
+  },
+  {
+   "fuente": "https://www.youtube.com/watch?v=4AJ4BLt_TWg",
+   "producto": "Peine eléctrico con spray 'air cushion' (formato adyacente; video de un creador, 22/06/2026). Apoyo: listado de Amazon AIRUIXIO con 1,5★ y 7 calificaciones (https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ)",
+   "problema": "diferencia entre lo anunciado y lo recibido; anuncios que parecen hechos con IA",
+   "fecha": "2026-06-22",
+   "parafrasis": "El creador dice que vio anuncios del producto en TikTok, Facebook e Instagram con transformaciones que parecen generadas con IA, que no encontró reseñas independientes y que lo considera una estafa.",
+   "fecha_consulta": "2026-10-22",
+   "run_id": "2026-10-22T19-55"
   }
  ]
 }

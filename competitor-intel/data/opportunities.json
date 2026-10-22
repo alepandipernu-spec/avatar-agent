@@ -53,6 +53,11 @@
     "run_id": "2026-10-20T19-54",
     "change": "Más evidencia: 3 reseñas nuevas de dispensado (Alverela, mriya, VOEAIN). El patrón llega a 20 fuentes. Sin cambio de score.",
     "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+   },
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T19-55",
+    "change": "Sin cambio de score (80). Se vincula a OPP-017: la demo debe ser una toma real y rotulada, no generada con IA."
    }
   ]
  },
@@ -737,6 +742,41 @@
     "run_id": "2026-10-20T19-54",
     "change": "Alta (score 32)",
     "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+   }
+  ]
+ },
+ "OPP-017-demo-real-rotulada-en-microdramas-ia": {
+  "id": "OPP-017-demo-real-rotulada-en-microdramas-ia",
+  "competidor_observado": "Formato adyacente: peine eléctrico con spray (ZOKO LAB en TikTok Shop, AIRUIXIO en Amazon, anuncios en redes según un creador)",
+  "producto_estrategia": "Anuncios con transformaciones que parecen generadas con IA",
+  "fuente_evidencia": "https://www.youtube.com/watch?v=4AJ4BLt_TWg (22/06/2026, consultado 22/10/2026) ; https://shop.tiktok.com/us/pdp/1732414648709452528 (consultado 19/10/2026) ; https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ (consultado 22/10/2026)",
+  "hallazgo": "[HECHO] Un creador describe anuncios del peine con spray con resultados que parecen hechos con IA y concluye que es una estafa. [HECHO] El listado de ZOKO (2,8★ con 1,3 mil reseñas) junta quejas de que el producto no hace lo que mostraban los videos. [HECHO] El listado de AIRUIXIO muestra 1,5★ con 7 calificaciones.",
+  "explicacion": "[HIPÓTESIS] En esta categoría, el público ya asocia la estética de IA con promesas falsas. Flubberhome usa microdramas con IA (personajes de ficción declarados). Si la demo del aparato también parece generada, puede heredar esa desconfianza.",
+  "confianza": "baja (1 video de opinión y 2 listados de un formato vecino; sin datos de conversión)",
+  "diferencia_flubberhome": "Flubberhome ya declara que los personajes son de ficción y prohíbe resultados inventados. Le falta una regla visible que separe la parte de ficción de la parte que muestra el producto.",
+  "adaptable": "Usar la IA solo para la historia y mostrar el producto con imagen real.",
+  "no_replicar": "Transformaciones de antes y después, porcentajes sin método y cualquier mención o ataque a otras marcas.",
+  "propuesta_original": "Estructura híbrida para cada microdrama: la historia del Edificio Flubber con IA y, cuando aparece el aparato, un corte a imagen filmada de verdad (mano real, pelo seco, carga del tónico) con un rótulo chico tipo 'demo real, sin efectos'. La misma toma sirve para OPP-001.",
+  "ejemplo": "El portero del Edificio Flubber dice 'a ver si es cierto', corte a una mano real que carga 3 ml y pasa el cepillo por el pelo seco, rótulo 'demo real', y vuelve el microdrama.",
+  "recursos": "1 jornada corta de filmación con el producto propio (celular alcanza) y edición en el AI Creative Studio.",
+  "costos_riesgos": "Costo bajo. Riesgo: que la toma real muestre goteo o poca fuerza. Probar antes el aparato (ver OPP-001 y OPP-014). Revisar con la skill flubberhome-creative-engine.",
+  "metrica": "Comparar dos versiones del mismo microdrama (solo IA frente a IA + demo real rotulada): retención a los 3 s y a los 50%, CTR y comentarios que digan 'es IA' o 'estafa'.",
+  "proximo_paso": "El dueño aprueba la regla; se filma una toma real de 10–15 s junto con la de OPP-001.",
+  "puntajes": {
+   "impacto": 4,
+   "confianza": 2,
+   "facilidad": 4,
+   "costo": 1,
+   "riesgo": 1,
+   "urgencia": 4
+  },
+  "score": 33.0,
+  "estado": "nueva",
+  "historial": [
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T19-55",
+    "change": "creada"
    }
   ]
  }

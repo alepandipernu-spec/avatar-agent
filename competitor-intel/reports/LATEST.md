@@ -1,104 +1,119 @@
-# Inteligencia competitiva — run 2026-10-22T11-55
+# Inteligencia competitiva — run 2026-10-22T19-55
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54).
+**Foco:** reseñas, competidores nuevos y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 22/10/2026, 11:55–12:25 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas son del 22/10/2026, entre las 19:55 y las 20:30 (Buenos Aires).
 
-**Informe corto: no hubo novedades fuertes.** Abajo, lo que se comprobó.
+**Informe corto:** hay una oportunidad nueva de puntaje medio y ningún cambio de precio.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Sigue sin haber anuncios verificados.** La Biblioteca de Meta sigue inaccesible desde la nube. TikTok Creative Center cargó, pero sin resultados.
-- **Gadnic (AR) suma un segundo masajeador de cabeza** en preventa a ARS 79.999, disponible en 59 días. Es para cuero cabelludo y cuerpo y no tiene depósito, así que no compite de forma directa. El precio del modelo con depósito no se pudo verificar hoy.
-- **Calendario MX:** el Buen Fin 2026 es del 13 al 17/11. Cae antes de la fecha límite estimada para que un pedido a LatAm llegue antes de Navidad (≈24/11).
-- **Sin cambios de precio** en TYMO, Holy ni INIA.
+- **Oportunidad nueva, OPP-017 (33):** separar la ficción hecha con IA de la demo real del producto, y rotular la demo.
+  - **Evidencia:** en el peine eléctrico con spray, un formato vecino, un creador dice que los anuncios parecen hechos con IA y llama estafa al producto. Las reseñas de ZOKO (2,8★) repiten que el producto no hace lo que mostraban los videos.
+  - **Por qué importa:** la dirección creativa de Flubberhome son los microdramas con IA.
+- **Reseñas:**
+  - La queja por sensación débil o incómoda ya suma 6 fuentes.
+  - La de durabilidad suma una reseña de 2026: el aparato dejó de andar a los ~30 usos.
+- **Sin competidores nuevos relevantes.** Se sumaron 3 tiendas a los grupos que ya se siguen: Introstem (MX), Magoo Gadgets (CO) y Litevisage (US).
+- **Precios sin cambios** en Gadnic (esta vez verificado), TYMO, Holy y Lena.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Qué se revisó |
 |---|---|---|---|
-| gadnic-ar | AR | A | Preventa nueva; precio del modelo con depósito sin verificar |
-| tymo-us | US | A | Precio y promos (sin cambios) |
-| holy-cosmetics-co | CO | A | Precio (sin cambios) |
-| inia-us | US | A | Precio y contadores de TikTok Shop (sin cambios) |
-| co-dtc-tiendas | CO | A | Se suma Addi Marketplace |
-
-No hay competidores nuevos.
+| gadnic-ar | AR | A | Precio verificado; rótulo propio nuevo |
+| tymo-us | US | A | Precio y promo |
+| holy-cosmetics-co | CO | A | Precio y reseñas destacadas |
+| lena-vegetal-ar | AR | B | Reintento OK |
+| mx-tiendas | MX | A | Se suma Introstem |
+| co-dtc-tiendas | CO | A | Se suma Magoo Gadgets |
+| dtc-clones-us | US | A | Se suma Litevisage |
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Novedades** ([HECHO], 22/10/2026):
-- **Gadnic, "Care by Gadnic"** ([preventa](https://www.gadnic.com.ar/pre-venta/masajeador)):
-  - Masajeador eléctrico para cuero cabelludo y cuerpo, resistente al agua (IPX7), con 4 modos.
-  - ARS 79.999 (tachado 145.453, 45% OFF). Figura "disponible en 59 días".
-  - La ficha no menciona depósito para líquidos.
-  - [HIPÓTESIS] Gadnic amplía su línea de cabeza por debajo de los ARS 97.299 de su modelo con depósito. Si llega antes de las fiestas, compite por el ángulo regalo en AR, no por la aplicación de tónico.
-- **Addi Marketplace (CO)** ([ficha](https://marketplace.addi.com/producto/4847527)):
-  - Cepillo con luz roja y dispensador de 3 ml a COP 75.900 (tachado 125.900). Entrega en 2–5 días hábiles.
-  - Usa claims médicos fuertes. Queda dentro del rango ya conocido en CO.
-- **Holy (CO)** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): sin cambios de precio. La misma ficha dice IPX7 "para usar durante el lavado" y, en las especificaciones, IPX6.
+**Chequeo rápido** ([HECHO], 22/10/2026):
+- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)):
+  - ARS 97.299 (tachado 149.691), 3 cuotas, "Llega gratis mañana".
+  - Rótulo nuevo: "1º Más vendido en masajeador". Lo pone la propia tienda y no es un dato de ventas.
+- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): USD 99,99 (tachado 129,99). La copia no muestra cuándo termina la promo.
+- **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
+- **Lena** ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)): kit a ARS 25.600, "+70 vendidos", "quedan 3".
+
+**Altas en grupos ya seguidos** ([HECHO], 22/10/2026):
+- **Introstem, MX** ([ficha](https://introstem.com.mx/products/scalptech)):
+  - Cepillo con luz roja y tanque de 6 ml a MXN 890. Se vende como apto para la ducha y con claims de crecimiento.
+  - [ESTIMACIÓN] ≈ USD 47,7 con el FIX de 18,6425. Queda por debajo de Flubberhome con envío (≈ MXN 968). Método: conversión simple. No se ven el stock, el envío ni la garantía.
+- **Magoo Gadgets, CO** ([ficha](https://magoogadgets.com/products/cepillo-masajeador-capilar-con-vapor)):
+  - Cepillo con vapor a COP 98.900 (tachado 135.000).
+  - La misma ficha promete "30 días de garantía" y también "garantía 3 meses".
+- **Litevisage, US** ([ficha](https://litevisage.com/product/scalp-massager-for-hair-growth/)):
+  - Atomizador con LED a USD 109,99 (tachado 189,99).
+  - Advierte no usar aceites espesos como el de ricino.
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** no accesible (ver L). Ningún anuncio de este informe está verificado.
-- **TikTok Creative Center:** la página cargó a través de Exa, pero sin resultados para "scalp massager". [HIPÓTESIS] El contenido se arma con JavaScript y la copia no lo captura, así que no prueba que no haya anuncios.
-- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): sigue sin creatividades ni banner de Halloween visible. Mantiene el precio de USD 99,99.
-- **INIA (TikTok Shop US):** sigue el listado "LIVE EXCLUSIVE" a USD 199,99 con 78 vendidos ([buscador](https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light)). Las ventas en vivo siguen siendo su formato visible.
-- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
+Sin revisión en esta ejecución. Último dato: 22/10/2026 11:55.
+- Única excepción, que no viene de la Biblioteca de Meta: un creador dice haber visto anuncios del peine con spray en TikTok, Facebook e Instagram, con estética de IA ([video](https://www.youtube.com/watch?v=4AJ4BLt_TWg), 22/06/2026).
 
 ## E. Demanda y señales de ventas
-| Señal | Valor | Tipo |
-|---|---|---|
-| Buen Fin MX 2026 | 13–17/11 (viernes a martes) | HECHO, coinciden dos medios ([Excelsior](https://www.excelsior.com.mx/finanzas/buen-fin-2026-fechas-y-detalles-temporada-ofertas-mexico), 07/10; [N+](https://www.nmas.com.mx/economia/el-buen-fin-2026-cambia-de-dias-cuando-es-fecha-inicio-detalles-temporada-ofertas/), 29/09) |
-| TikTok Shop US, eléctrico con luz a USD 22,73 | "1.0K sold" (antes 991) | HECHO: indicador de la plataforma |
-| INIA, ficha del VIBRA | "816 sold", sin cambios | HECHO: indicador de la plataforma |
-| Tienda INIA Official | "295.2K Sold" | HECHO: contador de toda la tienda |
-
-- Un blog de marketing daba el Buen Fin del 19 al 22/11. Se descartó porque contradice a los dos medios.
-- **Qué no indican los contadores:** ventas por período. El de la tienda INIA suma todos sus productos y no se puede atribuir al masajeador.
+- Señal nueva: `peine-spray-anuncios-ia-2026`.
+  - Es lo que afirma un creador, más el listado de [AIRUIXIO](https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ) con 1,5★ y 7 calificaciones a USD 38,99.
+  - **No indica** ventas, rentabilidad ni que esos anuncios sigan activos.
+- Lo demás, sin revisión en esta ejecución. Último dato: 22/10/2026 11:55.
 
 ## F. Experiencia de compra
 Sin revisión en esta ejecución. Último dato: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 21/10/2026 19:55.
+| Patrón | Cambio | Fuentes / productos | Estado |
+|---|---|---|---|
+| Diferencia entre lo anunciado y lo recibido | +1 fuente (video del 22/06/2026) y el ángulo de la IA | 2 / 2 (peine con spray) | aislado → **incipiente** |
+| Sensación débil o incómoda | +1 fuente ([Yaxa B0DWMVSVKL](https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento), 2025) | 6 / 6 | tendencia |
+| Durabilidad y fallas | +1 reseña del 23/05/2026: deja de andar a los ~30 usos | 12 | tendencia |
+
+- **Credibilidad de reseñas** [HIPÓTESIS]:
+  - **Litevisage:** sus 20 reseñas tienen 5★, salen en 2 meses y varias prometen recrecimiento. No se puede probar que sean falsas.
+  - **Holy:** muestra entre sus reseñas destacadas una que atribuye recrecimiento después de un tratamiento oncológico. Es un claim médico que publica la marca.
+- **Dispensado del líquido:** se volvieron a ver mriya, MINOZOOS y JIODTMER, pero ya estaban contados, así que no se suman fuentes.
 
 ## H. Estrategias adaptables
-- **Calendario MX** [HIPÓTESIS, confianza media]:
-  - **Evidencia:** el Buen Fin (13–17/11) cae antes del ≈24/11, la fecha límite estimada para que un pedido a LatAm llegue antes de Navidad (OPP-013).
-  - **Acción:** si el dueño reactiva MX antes de esa semana, el ángulo "uno para vos, uno para regalar" con el Pack Dúo puede salir esos días sin precio tachado.
-  - **Métrica:** proporción de Pack Dúo en MX esa semana.
+- **Demo real dentro del microdrama** [HIPÓTESIS, confianza baja]:
+  - **Evidencia:** sección G, primera fila.
+  - **Acción:** la IA cuenta la historia y el producto aparece con imagen filmada de verdad y un rótulo chico tipo "demo real, sin efectos".
+  - **Métrica:** comparar la versión solo IA con la versión IA + demo. Medir retención a los 3 s, CTR y comentarios que digan "es IA" o "estafa".
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
 |---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | Se suma el calendario MX |
-| 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | Se vincula a OPP-017 |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | La evidencia de OPP-014 sube (6 fuentes) |
 | 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
+| 8 | **OPP-017 demo real rotulada en microdramas con IA** | **33** | **Nueva** |
 
-No hay oportunidades nuevas.
+Puntajes de OPP-017: impacto 4, confianza 2, facilidad 4, costo 1, riesgo 1 y urgencia 4. El cálculo da 32, más 1 por urgencia.
 
 ## J. Próximas acciones
 - **Para el dueño:**
-  - Sin un navegador conectado, la Biblioteca de Meta no se puede consultar. Conectar Claude in Chrome a esta tarea destrabaría la franja de anuncios.
-  - Siguen pendientes la prueba real (OPP-001, OPP-011 y OPP-014) y la garantía (OPP-003).
-- **Próximo run de reseñas (19:54):** volver a intentar Lena.
+  - Decidir si se adopta la regla "ficción con IA, demo real". Si se adopta, filmar una sola toma real de 10–15 s que sirva para OPP-001, OPP-014 y OPP-017.
+  - Sigue pendiente conectar un navegador para leer la Biblioteca de Meta.
 - **Próximo run de catálogo (03:54):**
-  - Verificar el precio del Gadnic con depósito.
   - Confirmar si TYMO termina la promo el 26/10.
+  - Ver stock y envío de Introstem.
 
 ## K. Nuevos hallazgos
-- No hay competidores nuevos ni oportunidades nuevas.
-- Hay una señal nueva en `demand_signals`: `buen-fin-mx-2026-fecha`.
-- Se actualizaron en `competitors`: gadnic-ar, tymo-us, holy-cosmetics-co, inia-us y co-dtc-tiendas.
+- **Oportunidad nueva:** OPP-017.
+- **Señal nueva:** `peine-spray-anuncios-ia-2026`.
+- **Reseñas:** 3 ítems nuevos y 3 patrones actualizados.
+- **Competidores actualizados:** gadnic-ar, tymo-us, holy-cosmetics-co, lena-vegetal-ar, mx-tiendas, co-dtc-tiendas y dtc-clones-us.
+- **Competidores nuevos:** ninguno con ficha propia.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
-- **TikTok Creative Center:** sin resultados en la copia.
-- **Gadnic:** la ficha del masajeador con depósito no se pudo leer (CRAWL_NOT_FOUND) y la copia de Bidcom no muestra precio.
-- **Lena Vegetal:** no se intentó.
-- **Buen Fin:** no se leyó el sitio oficial. La fecha sale de dos medios que coinciden.
-- **Datos sin fecha:** todas las fichas salen de copias de Exa sin fecha visible.
+- **Biblioteca de Meta:** no se intentó porque no es la franja de anuncios. El dato de los anuncios con IA sale de un solo creador y no está verificado.
+- **Walmart:** pide verificación de robot y no se intentó eludirla.
+- **Reddit:** la búsqueda no trajo hilos nuevos.
+- **Mercado Libre:** no se consultó en esta ejecución.
+- **Lena:** la portada falló (CRAWL_UNKNOWN_ERROR) y la ficha se leyó por la búsqueda de Exa.
+- **Fichas sin fecha:** son copias de Exa sin fecha visible. Ninguna reseña dice cuántas unidades se vendieron.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

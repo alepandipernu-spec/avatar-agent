@@ -508,5 +508,25 @@
     "source": "excelsior.com.mx ; nmas.com.mx"
    }
   ]
+ },
+ "peine-spray-anuncios-ia-2026": {
+  "id": "peine-spray-anuncios-ia-2026",
+  "fecha": "2026-10-22",
+  "run_id": "2026-10-22T19-55",
+  "senal": "Anuncios del peine eléctrico con spray en TikTok, Facebook e Instagram, con estética de IA",
+  "valor": "Un creador dice haberlos visto 'en todas partes' (video del 22/06/2026). El listado de Amazon AIRUIXIO ('2026 Upgrade') muestra 1,5★ con 7 calificaciones a USD 38,99.",
+  "fuente": "https://www.youtube.com/watch?v=4AJ4BLt_TWg ; https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ",
+  "alcance": "US (posiblemente global)",
+  "tipo": "HECHO: lo que afirma un creador; no verificado en la Biblioteca de Meta",
+  "indica": "Presión publicitaria en un formato vecino (peine con depósito y spray) y desconfianza hacia las demos hechas con IA.",
+  "no_indica": "Ventas, rentabilidad ni que esos anuncios sigan activos hoy.",
+  "history": [
+   {
+    "date": "2026-10-22",
+    "run_id": "2026-10-22T19-55",
+    "change": "Alta",
+    "source": "youtube.com ; amazon.com"
+   }
+  ]
  }
 }
