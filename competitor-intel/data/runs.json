@@ -840,5 +840,41 @@
       "OPP-001 (vínculo con OPP-017; 80)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-23T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic, Holy, Lena, TYMO DTC, Ulta (copia de Exa)",
+      "pidehoy.mx, OC Market, Introstem (copia de Exa)",
+      "Farmatodo CO (AUREVIA, copia de Exa)",
+      "Mercado Libre AR listado (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre MX: SOURCE_NOT_AVAILABLE en Exa",
+      "Tipos de cambio: no se actualizaron en esta ejecución (se usan los del 20–21/10)",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "tymo-us",
+      "mx-tiendas",
+      "ml-electricos-ar",
+      "aurevia-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "AUREVIA (Farmatodo CO) sube de COP 49.900 a 89.900 (+80%); 8 unidades visibles",
+      "TYMO: las fechas del 26/10 eran estimaciones de entrega, no fin de promo; sigue a USD 99,99",
+      "Sin cambios en Gadnic, Holy, Lena, TYMO, pidehoy, OC Market, Introstem ni ML AR"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

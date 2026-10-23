@@ -37,7 +37,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -91,6 +91,12 @@
         "run_id": "2026-10-22T19-55",
         "change": "Chequeo rápido: precio verificado, sin cambios (ARS 97.299, tachado 149.691). Nuevo rótulo propio '1º Más vendido en masajeador'.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691, 35% OFF, 3 cuotas, 'Llega gratis mañana', rótulo propio '1º Más vendido').",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar"
       }
     ]
   },
@@ -130,7 +136,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -207,6 +213,12 @@
         "date": "2026-10-22",
         "run_id": "2026-10-22T19-55",
         "change": "Reintento OK vía búsqueda de Exa (la portada dio CRAWL_UNKNOWN_ERROR): sin cambios (kit ARS 25.600, tachado 32.000; '+70 vendidos'; 'quedan 3'). El masajeador manual solo: ARS 12.750 (tachado 15.000), 'quedan 1'.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Sin cambios: kit a ARS 25.600 (tachado 32.000), '+70 vendidos', 'Solo quedan 3 en stock'.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
@@ -341,19 +353,23 @@
     "relevant_products": [
       "Aplicador de tónico vibratorio"
     ],
-    "price_visible": "COP 49.900 sin descuento visible (19/10/2026); antes COP 37.425 con lista 49.900 (17/10/2026). '9 unidades disponibles'; despacho 4–5 días; sin reseñas ni preguntas.",
+    "price_visible": "COP 89.900 sin descuento visible (23/10/2026); antes COP 49.900 (19/10/2026) y COP 37.425 con lista 49.900 (17/10/2026). '8 unidades disponibles'; despacho 4–5 días.",
     "value_prop": "Venta dentro de una cadena de farmacias (confianza del canal).",
     "claims_observed": "'Rejuvenecedor de folículos', 'ideal para frenar la caída'.",
     "channels": [],
     "ads": "No obtenido.",
     "facts": [
       "Producto similar vendido en farmacia en Colombia.",
-      "19/10/2026: COP 49.900 sin descuento, '9 unidades disponibles', 'Aún no hay opiniones'."
+      "19/10/2026: COP 49.900 sin descuento, '9 unidades disponibles', 'Aún no hay opiniones'.",
+      "23/10/2026: COP 89.900 (+80% vs. 19/10), '8 unidades disponibles', despacho 4–5 días, vendido y entregado por AUREVIA (no por Farmatodo)."
     ],
     "inferences": [
-      "En CO el canal farmacia da confianza que una tienda nueva no tiene."
+      "En CO el canal farmacia da confianza que una tienda nueva no tiene.",
+      "[ESTIMACIÓN] COP 89.900 ≈ USD 28,3 con TRM 3.174,67 (17–19/10); sigue muy por debajo de Flubberhome 1 u + envío (≈ COP 164.900)."
     ],
-    "hypotheses": [],
+    "hypotheses": [
+      "[HIPÓTESIS] La suba (37.425 → 49.900 → 89.900 en 6 días) puede ser ajuste de precio de un vendedor de marketplace con poco stock, no una señal de demanda. Sin reseñas que lo respalden."
+    ],
     "unknowns": [
       "Anuncios, ventas."
     ],
@@ -362,7 +378,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
-    "last_reviewed": "2026-10-19",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -373,6 +389,12 @@
         "date": "2026-10-19",
         "run_id": "2026-10-19T11-55",
         "change": "Fin del descuento: pasa de COP 37.425 a COP 49.900 (+33%). Muestra '9 unidades disponibles' y cero reseñas.",
+        "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Suba de precio: COP 49.900 → 89.900 (+80%). Stock visible pasa de 9 a 8 unidades (no indica ventas: no se conoce reposición). Sigue vendido y entregado por el vendedor AUREVIA dentro de Farmatodo.",
         "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
       }
     ]
@@ -974,7 +996,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Precio de referencia local en pesos para el mismo tipo de producto.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -998,6 +1020,12 @@
         "date": "2026-10-22",
         "run_id": "2026-10-22T03-55",
         "change": "Listado público (copia de Exa) sin cambios en los de referencia: MegaCuper ARS 37.692 (tachado 60.793, +50 vendidos); ARS 59.800 (+5 vendidos); ARS 69.999 (tachado 89.999, +5 vendidos). Los manuales siguen dominando los indicadores: Coony +5mil vendidos (ARS 9.281), Hairfy y MAFEZ +1000.",
+        "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Listado público (copia de Exa) sin cambios en los de referencia: MegaCuper ARS 37.692 (+50 vendidos); ARS 59.800 y 69.999 (+5 vendidos). Manual Coony sigue en '+5mil vendidos'.",
         "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
       }
     ]
@@ -1230,7 +1258,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -1320,6 +1348,12 @@
         "date": "2026-10-22",
         "run_id": "2026-10-22T19-55",
         "change": "Chequeo rápido: sin cambios (Luxury COP 149.990, tachado 199.990; 4,9★ con 27 reseñas). Entre las reseñas destacadas hay una que atribuye recrecimiento de pelo tras un tratamiento oncológico (claim médico en reseña, publicado por la marca).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, 4,9★ con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
@@ -1542,7 +1576,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -1573,6 +1607,12 @@
         "run_id": "2026-10-22T19-55",
         "change": "Se suma Introstem (MXN 890, tanque de 6 ml). Es la tercera DTC mexicana con depósito y la única de las tres que no figura agotada en la copia.",
         "source": "https://introstem.com.mx/products/scalptech"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Sin cambios: pidehoy.mx sigue 'Agotado' con precios contradictorios (MXN 990 / 1.390); OC Market sigue agotado a MXN 1.038; Introstem MXN 890 sin reseñas y sin stock ni envío visibles en la copia.",
+        "source": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum"
       }
     ],
     "id": "mx-tiendas",
@@ -2004,7 +2044,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-19",
@@ -2052,6 +2092,12 @@
         "date": "2026-10-22",
         "run_id": "2026-10-22T19-55",
         "change": "Chequeo rápido: sin cambios (USD 99,99, tachado 129,99, 'Save 30%'). Entrega estimada 26–28/10. La copia no muestra fecha de fin de la promo.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T03-55",
+        "change": "Sin cambios: tienda propia USD 99,99 (tachado 129,99); las fechas '26–28 de octubre' de la ficha son estimaciones de entrega por estado, no fin de promo. Ulta sigue a USD 42,99 (lista 99,99).",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]

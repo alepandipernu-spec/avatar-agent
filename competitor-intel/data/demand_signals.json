@@ -263,7 +263,15 @@
   "alcance": "CO",
   "tipo": "HECHO",
   "que_indica": "Sin prueba social pública en el canal farmacia.",
-  "que_no_indica": "Las unidades disponibles no indican ventas (no se conoce el stock inicial)."
+  "que_no_indica": "Las unidades disponibles no indican ventas (no se conoce el stock inicial).",
+  "history": [
+   {
+    "date": "2026-10-23",
+    "run_id": "2026-10-23T03-55",
+    "valor": "'8 unidades disponibles'; precio COP 89.900; sin reseñas visibles en la copia.",
+    "nota": "La baja de 9 a 8 no se puede leer como 1 venta: no se conoce reposición ni reservas."
+   }
+  ]
  },
  "tymo-retail-us": {
   "id": "tymo-retail-us",
