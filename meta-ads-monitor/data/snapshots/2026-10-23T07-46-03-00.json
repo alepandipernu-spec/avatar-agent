@@ -1,0 +1,1253 @@
+{
+ "run_id": "2026-10-23T07:46-03:00",
+ "started_at": "2026-10-23T07:46-03:00",
+ "currency": "USD",
+ "period": {
+  "current": {
+   "start": "2026-09-24",
+   "end": "2026-10-23"
+  },
+  "previous": {
+   "start": "2026-08-25",
+   "end": "2026-09-23"
+  }
+ },
+ "sources": {
+  "escalafy": {
+   "status": "ok",
+   "detail": "Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto)."
+  },
+  "shopify": {
+   "status": "ok",
+   "detail": "Embudo, pedidos, precios, perfiles de envío y políticas leídos."
+  },
+  "competencia_web": {
+   "status": "partial",
+   "detail": "No se actualizó (se revisó a las 15:46 del 22/10; próxima revisión 15:46 del 23/10)"
+  },
+  "meta_ad_library": {
+   "status": "blocked",
+   "detail": "facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores."
+  },
+  "meta_ads_manager_pixel_facturacion": {
+   "status": "blocked",
+   "detail": "graph.facebook.com rechazado por el proxy (403) y conector Adspirer caído (403). Sin estado de facturación, revisión de anuncios, ventana de atribución ni eventos del Pixel."
+  }
+ },
+ "unavailable_metrics": [
+  "frecuencia por anuncio",
+  "CTR de enlace nativo de Meta",
+  "retención de video 25/50/75/95%",
+  "ventana de atribución",
+  "estado de revisión de anuncios",
+  "estado de facturación",
+  "historial de cambios de configuración",
+  "desglose por ubicación, dispositivo, edad"
+ ],
+ "data_quality": [
+  "Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.",
+  "El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).",
+  "Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.",
+  "Moneda: tienda en USD; cuenta publicitaria en ARS; métricas convertidas por Escalafy a USD con su tasa diaria.",
+  "Gasto de Meta = meta_ad_spend. El ad_spend combinado ya no está inflado: el costo manual duplicado se corrigió el 17/10 (1–17/09: ARS 158.144,39).",
+  "Pedido de prueba #D1 (USD 0) todavía abierto: no cuenta como venta."
+ ],
+ "store": {
+  "current": {
+   "sessions": 742,
+   "sessions_with_cart": 10,
+   "sessions_reached_checkout": 6,
+   "sessions_completed_checkout": 0,
+   "orders": 0,
+   "revenue": 0
+  },
+  "previous": {
+   "sessions": 1462,
+   "sessions_with_cart": 12,
+   "sessions_reached_checkout": 6,
+   "sessions_completed_checkout": 0,
+   "orders": 0,
+   "revenue": 0
+  },
+  "risky_titles": []
+ },
+ "economics": {
+  "products": [
+   {
+    "name": "ScalpCare Pro 1 unidad",
+    "price": 41.93,
+    "unit_cost": 18.91,
+    "compare_at": null,
+    "free_shipping": false
+   },
+   {
+    "name": "ScalpCare Pro Pack Dúo",
+    "price": 71.88,
+    "unit_cost": 37.82,
+    "compare_at": null,
+    "free_shipping": true
+   },
+   {
+    "name": "ScalpCare Pro Pack Familiar",
+    "price": 89.85,
+    "unit_cost": 56.73,
+    "compare_at": null,
+    "free_shipping": true
+   }
+  ]
+ },
+ "summary": [
+  "Sin cambios en Meta ni en la tienda: pausa intencional, 0 ventas, 742 sesiones en 30 días.",
+  "Siguen pendientes del dueño: completar el pedido de prueba #D1, compras reales con Mercado Pago y PayPal, OK para quitar 'Envío Gratis Prioritario' (sigue activo) y datos legales para publicar la política (la actual es del 31/08)."
+ ],
+ "funnel_notes": [
+  "Mejor etapa: impresión → clic en enlace en AR y CO (CTR de enlace 3,4% y 3,2%; CO - VID Pack Dúo 6,7%).",
+  "Mayor fuga absoluta: sesión → carrito (786 → 10). Mayor fuga relativa: checkout → compra (6 → 0). Con 6 checkouts no se puede separar todavía un checkout roto de un abandono normal: falta la compra de prueba (EXP-001).",
+  "Meta atribuyó 3 agregados al carrito; Shopify contó 10 sesiones con carrito (incluye tráfico directo y orgánico). No hay señal de eventos duplicados.",
+  "Confianza del diagnóstico: media. Causas abiertas: precio en USD para tráfico argentino, confianza (marca nueva, sin reseñas reales), medios de pago, costo de envío de 1 unidad, o una falla del checkout. Ninguna está descartada."
+ ],
+ "findings": [
+  {
+   "key": "us-market-cost",
+   "category": "debilidad",
+   "priority": "P2",
+   "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
+   "evidence": "US: USD 95,65, 875 impresiones (CPM USD 109), 18 clics en enlace, 12 visitas → USD 7,97 por visita. AR: USD 0,19; CO: USD 0,15; MX: USD 0,56. US - VID Demo (V02) solo: USD 60,13 por 4 visitas.",
+   "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
+   "confidence": "media",
+   "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
+   "action": "No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte.",
+   "needs_approval": true
+  },
+  {
+   "key": "video-beats-image",
+   "category": "fortaleza",
+   "priority": "P3",
+   "title": "Los videos traen visitas más baratas que las imágenes (sin contar EE. UU.)",
+   "evidence": "AR+CO+MX: video USD 69,31 → 483 visitas (USD 0,14); imagen USD 62,98 → 108 visitas (USD 0,58). Mejor anuncio: CO - VID Pack Dúo (V10), 276 clics en enlace, 225 visitas, CTR de enlace 6,7%, USD 0,08 por visita.",
+   "diagnosis": "El video muestra el uso y retiene: 5.236 reproducciones de 3 s y 1.453 ThruPlays en el período.",
+   "confidence": "media",
+   "impact": "Base para la próxima prueba creativa.",
+   "action": "Usar el V10 y el V02 como control en cualquier prueba nueva; no gastar más en imágenes estáticas hasta que una gane en visitas con intención.",
+   "needs_approval": false
+  },
+  {
+   "key": "store-conversion-gap",
+   "category": "debilidad",
+   "priority": "P1",
+   "title": "Tráfico sin ventas: 0 pedidos en 365 días",
+   "evidence": "30 días: 786 sesiones, 10 con carrito, 6 en checkout, 0 completadas. 30 días previos: 1.633 sesiones, 14, 7, 0. Shopify 365 días: 0 pedidos, USD 0.",
+   "diagnosis": "La fuga está en la tienda y la oferta, no en el anuncio. Sin una compra de prueba no se puede descartar una falla técnica del checkout o del pago.",
+   "confidence": "alta (hecho) / media (causa)",
+   "impact": "Todo gasto en anuncios es improductivo hasta resolverlo.",
+   "action": "EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003.",
+   "needs_approval": true
+  },
+  {
+   "key": "orphan-advantage-campaign",
+   "category": "anomalia",
+   "priority": "P3",
+   "title": "Campaña de agosto–septiembre que ya no existe: clics sin visitas registradas",
+   "evidence": "Campaña 52604677081664 (10 anuncios, sin nombre en el catálogo): USD 82,50 del 7 al 16/09, 1.289 clics en enlace, 0 visitas a la página; el 12/09 tuvo 984 clics en 8.940 impresiones (11%). Shopify contó 913 sesiones esa semana.",
+   "diagnosis": "Probablemente la campaña 'Ventajas' (Advantage+) que se borró. Los clics llegaron a la tienda; Meta no registró la visita a la página (evento no configurado o campaña de tráfico). Un CTR de 11% en un día sugiere clics accidentales (Audience Network).",
+   "confidence": "baja",
+   "impact": "Histórico, sin gasto actual.",
+   "action": "Ninguna ahora. Si se reactiva una campaña de tráfico, excluir Audience Network.",
+   "needs_approval": false
+  },
+  {
+   "key": "competitors-claims-gap",
+   "category": "oportunidad",
+   "priority": "P3",
+   "title": "Casi todos los competidores prometen crecimiento o anticaída: hay lugar para una marca honesta",
+   "evidence": "Ver sección F: Lena Vegetal ('control caída'), Beltronic ('anticaída y densidad'), AUREVIA ('frenar la caída'), Hairrova ('clinically proven… 56 days'), Anyra ('93% saw thicker hair growth').",
+   "diagnosis": "Esas promesas atraen clics pero son riesgo de rechazo en Meta y de desconfianza. Flubberhome no puede ni debe usarlas.",
+   "confidence": "media",
+   "impact": "Diferenciación posible en confianza y uso real.",
+   "action": "Probar ángulo 'aplicá tu tónico sin ensuciarte las manos' (EXP-004).",
+   "needs_approval": true
+  },
+  {
+   "key": "shipping-free-unconditional",
+   "category": "anomalia",
+   "priority": "P1",
+   "title": "Envío gratis sin condiciones en el perfil de envío de ScalpCare",
+   "evidence": "Perfil 'cj dropshiping', grupo 'Sucursal de la tienda': método 'Envío Gratis Prioritario' USD 0 sin condiciones para AR/CO/MX y US. La ficha y la política dicen USD 10 bajo USD 70.",
+   "diagnosis": "PROBABLE: el checkout ofrece envío gratis a todos (la tienda absorbe ~USD 10 por pedido de 1 unidad) o muestra opciones contradictorias. Se confirma con el pedido #D1.",
+   "confidence": "media",
+   "impact": "Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe.",
+   "action": "Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena).",
+   "needs_approval": true
+  },
+  {
+   "key": "mp-currency-risk",
+   "category": "anomalia",
+   "priority": "P1",
+   "title": "Posible cobro en pesos del monto en dólares con Mercado Pago",
+   "evidence": "Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial.",
+   "diagnosis": "PROBABLE causa de 6 checkouts y 0 compras, o de ventas a pérdida. No verificado.",
+   "confidence": "baja",
+   "impact": "Bloquea o arruina las ventas en Argentina.",
+   "action": "Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo.",
+   "needs_approval": true
+  },
+  {
+   "key": "refund-policy-legal",
+   "category": "debilidad",
+   "priority": "P1",
+   "title": "La política de devoluciones no cumple la Ley 24.240",
+   "evidence": "Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025).",
+   "diagnosis": "Riesgo legal y de confianza; los competidores ofrecen 6–12 meses.",
+   "confidence": "alta",
+   "impact": "Multas, reclamos y menor conversión.",
+   "action": "Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio).",
+   "needs_approval": true
+  }
+ ],
+ "competitors": [],
+ "competitive_patterns": [
+  "HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.",
+  "HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.",
+  "HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).",
+  "HECHO: tres vendedores venden el aparato junto con un tónico o serum.",
+  "INFERENCIA: el beneficio funcional más repetido y verificable es 'aplicar el producto en la raíz sin ensuciarse las manos'.",
+  "NO OBTENIBLE: qué anuncios corren, desde cuándo y con qué formato (Biblioteca de anuncios bloqueada)."
+ ],
+ "experiments": [
+  {
+   "id": "EXP-001",
+   "titulo": "Compra de prueba de punta a punta",
+   "prioridad": "P1",
+   "estado": "en ejecución",
+   "problema": "0 compras con 6 checkouts en 30 días; no sabemos si el checkout o el pago funcionan.",
+   "evidencia": "Pedido de prueba #D1 (USD 0) creado el 17/10, link enviado al dueño; todavía abierto.",
+   "hipotesis": "Si el checkout o un medio de pago falla para compradores de AR/CO, ninguna mejora de anuncio va a vender.",
+   "variable": "Ninguna (diagnóstico).",
+   "constantes": "Tienda, precios y campañas pausadas.",
+   "metrica_principal": "Pedido creado en Shopify + evento Purchase recibido por Meta.",
+   "metricas_secundarias": "Medios de pago ofrecidos en AR y CO; costo de envío mostrado para 1 unidad; moneda del checkout.",
+   "presupuesto_max_usd": "0 en anuncios; el costo de una compra real reembolsable (USD 41,93) o un pedido con la pasarela en modo prueba.",
+   "duracion": "Una sesión, desde un celular con datos de Argentina y otro de Colombia si es posible.",
+   "exito": "Pedido completo y Purchase en Meta.",
+   "fracaso": "Error, medio de pago ausente o Purchase que no llega: corregir antes de gastar.",
+   "inconcluso": "No aplica.",
+   "riesgos": "Ninguno sobre la cuenta publicitaria. Lo hace el dueño: Claude no carga tarjetas."
+  },
+  {
+   "id": "EXP-002",
+   "titulo": "Reactivación controlada CO + MX con los videos ganadores",
+   "prioridad": "P2",
+   "estado": "propuesto",
+   "problema": "Cuando hubo gasto, 42% se fue a EE. UU. con USD 7,97 por visita.",
+   "evidencia": "AR USD 0,19 y CO USD 0,15 por visita; videos V10/V02 los mejores.",
+   "hipotesis": "Con el mismo presupuesto en AR+CO y solo video, conseguimos suficientes carritos e inicios de pago para saber si la tienda convierte.",
+   "variable": "Mercados (CO y MX; AR después de resolver Mercado Pago) y formato (V10 y V02)",
+   "constantes": "Objetivo Ventas/Compra, oferta, página de destino.",
+   "metrica_principal": "Inicios de pago (Shopify) por cada USD 10.",
+   "metricas_secundarias": "Costo por visita ≤ USD 0,40; visitas/clic ≥ 70%; carritos ≥ 1,5% de las sesiones.",
+   "presupuesto_max_usd": "USD 6/día, tope USD 180/mes (arena 17/10), sujeto a aprobación",
+   "duracion": "7 días seguidos sin pausar (las pausas reinician el aprendizaje).",
+   "exito": "≥ 3 compras con CPA ≤ USD 10",
+   "fracaso": "USD 50 con ≥ 3 checkouts y 0 compras (revisar pago) o USD 120 con < 3 compras (pausar todo)",
+   "inconcluso": "Menos de 400 visitas.",
+   "riesgos": "Gastar sin resolver EXP-001. Solo después de EXP-001."
+  },
+  {
+   "id": "EXP-003",
+   "titulo": "Política legal y garantía clara",
+   "prioridad": "P2",
+   "estado": "pendiente de aprobación",
+   "problema": "786 sesiones → 10 carritos (1,3%).",
+   "evidencia": "Competidores destacan garantía de 12 meses / 1 año / 120 días; Flubberhome ofrece cambios 30 días sin abrir.",
+   "hipotesis": "Una política que cumple la ley (10 días de arrepentimiento sin costo, 6 meses de garantía) y una línea clara en la ficha suben el paso visita → carrito.",
+   "variable": "Política de reembolso + línea de garantía en la ficha",
+   "constantes": "Precio, anuncios, tráfico.",
+   "metrica_principal": "Sesiones con carrito / sesiones.",
+   "metricas_secundarias": "Llegada al checkout; consultas por WhatsApp/Instagram.",
+   "presupuesto_max_usd": "0 extra (se mide con el tráfico de EXP-002).",
+   "duracion": "Comparación antes/después con ≥ 400 sesiones en cada tramo.",
+   "exito": "Carrito ≥ 2,5% de las sesiones.",
+   "fracaso": "Sin cambio con ≥ 400 sesiones.",
+   "inconcluso": "Menos sesiones.",
+   "riesgos": "Comparación antes/después, no A/B: estacionalidad. La política la decide el dueño."
+  },
+  {
+   "id": "EXP-004",
+   "titulo": "Ángulo creativo: 'tu tónico en la raíz, no en tus manos'",
+   "prioridad": "P3",
+   "estado": "propuesto",
+   "problema": "Necesitamos un mensaje diferenciado sin claims médicos.",
+   "evidencia": "Competidores prometen crecimiento; los genéricos de Amazon venden 'zero mess'. Nuestro producto tiene depósito real (bible/product).",
+   "hipotesis": "Mostrar el problema cotidiano (aplicar el tónico con los dedos, se ensucia el pelo y las manos) genera clics con más intención que 'masaje relajante'.",
+   "variable": "Gancho y guion (un video nuevo).",
+   "constantes": "Mercado, presupuesto y destino iguales a EXP-002; control = V10.",
+   "metrica_principal": "Costo por inicio de pago vs control.",
+   "metricas_secundarias": "Retención de video (ThruPlay / reproducción 3 s), CTR de enlace, costo por visita.",
+   "presupuesto_max_usd": "30, dentro de EXP-002 como segundo anuncio, sujeto a aprobación.",
+   "duracion": "Hasta 2.000 impresiones por anuncio.",
+   "exito": "≥ 20% menos costo por visita con igual o mejor tasa de carrito.",
+   "fracaso": "Peor que el control en costo por visita y carrito.",
+   "inconcluso": "Menos de 2.000 impresiones.",
+   "riesgos": "Usar el producto mal en el video (sin agua, sin espuma). Revisar con la skill creativa.",
+   "concepto": "Microdrama Edificio Flubber: Juli le explica a Rama, que se pone el tónico con los dedos frente al espejo, cómo cargar el depósito y aplicarlo con el pelo seco.",
+   "gancho": "Primer plano: dedos pegoteados de tónico y Rama diciendo '¿otra vez el pelo grasoso?'. Texto: '¿Te ponés el tónico con los dedos?'",
+   "guion": "0–2 s dedos y frustración · 2–6 s Juli aparece con el ScalpCare · 6–14 s carga el depósito, intensidad suave, círculos lentos con pelo seco · 14–20 s Rama mira sus manos limpias · 20–25 s producto + 'Conocé ScalpCare Pro™'.",
+   "texto_principal": "Tu tónico va a la raíz, no a tus dedos. ScalpCare Pro™ tiene un depósito atrás: lo cargás, elegís una de sus 3 intensidades y lo pasás suave sobre el pelo seco. Recargable por USB-C.",
+   "titular": "Aplicá tu tónico sin ensuciarte",
+   "cta": "Conocé ScalpCare Pro™",
+   "formato": "Video vertical 9:16, 20–25 s, subtítulos, etiqueta de contenido con IA."
+  }
+ ],
+ "plan": [
+  {
+   "action": "Completar el pedido de prueba #D1 y anotar envío y medios de pago",
+   "impact": "alto",
+   "confidence": "alta",
+   "urgency": "alta",
+   "cost": "0",
+   "difficulty": "baja",
+   "needs_approval": false
+  },
+  {
+   "action": "Compras reales reembolsables con Mercado Pago y PayPal; verificar Purchase en Events Manager",
+   "impact": "alto",
+   "confidence": "alta",
+   "urgency": "alta",
+   "cost": "≈ USD 42 c/u, reembolsable",
+   "difficulty": "baja",
+   "needs_approval": true
+  },
+  {
+   "action": "Quitar 'Envío Gratis Prioritario' y dejar USD 10 bajo USD 70 / gratis desde 70",
+   "impact": "alto (margen)",
+   "confidence": "media",
+   "urgency": "alta",
+   "cost": "0",
+   "difficulty": "baja",
+   "needs_approval": true
+  },
+  {
+   "action": "Publicar la política nueva + Botón de Arrepentimiento",
+   "impact": "medio",
+   "confidence": "alta",
+   "urgency": "alta",
+   "cost": "~6% de reserva por pedido (estimado)",
+   "difficulty": "media",
+   "needs_approval": true
+  },
+  {
+   "action": "Pedir a CJ la cotización real de envío por país y por 1/2/3 unidades",
+   "impact": "medio",
+   "confidence": "alta",
+   "urgency": "media",
+   "cost": "0",
+   "difficulty": "baja",
+   "needs_approval": false
+  },
+  {
+   "action": "Recién después: EXP-002 (CO+MX, USD 6/día)",
+   "impact": "alto",
+   "confidence": "media",
+   "urgency": "baja",
+   "cost": "hasta USD 180/mes",
+   "difficulty": "media",
+   "needs_approval": true
+  }
+ ],
+ "pending_decisions": [
+  "Quitar el método 'Envío Gratis Prioritario' (USD 0 sin condiciones) del perfil 'cj dropshiping'.",
+  "Publicar la política de garantía y devoluciones de la arena: pasar razón social, CUIT, domicilio legal, dirección de devoluciones y horario.",
+  "Completar el pedido de prueba #D1 (link enviado el 17/10).",
+  "Compras reales con Mercado Pago y PayPal, y reembolsarlas.",
+  "Permitir facebook.com y graph.facebook.com en la red del entorno, o reconectar Adspirer."
+ ],
+ "execution": {
+  "completed": [
+   "Escalafy: dashboard (totales iguales a la ejecución anterior) y catálogo (0 objetos activos)",
+   "Shopify: embudo (742 sesiones), pedidos (0), precios sin tachados, envíos, políticas y #D1 (OPEN)"
+  ],
+  "partial": [
+   "Por anuncio: filas reutilizadas (sin gasto desde el 15/10; el día que salió del período, 23/09, no tuvo gasto)",
+   "Competencia: sin actualizar (una vez por día, 15:46)"
+  ],
+  "failed": [
+   "Meta directo (Ads Manager, Pixel, Facturación, Biblioteca de anuncios): bloqueado por la red"
+  ],
+  "next_run": "2026-10-23 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe"
+ },
+ "objects": [
+  {
+   "level": "campaign",
+   "id": "52611520179664",
+   "name": "Ventas AR - Compra - Pixel tienda - Sep 2026",
+   "status": "PAUSED",
+   "state": "paused",
+   "budget": 10000,
+   "budget_type": "daily",
+   "budget_currency": "ARS"
+  },
+  {
+   "level": "campaign",
+   "id": "52611566792664",
+   "name": "Ventas CO - Compra - Pixel tienda - Sep 2026",
+   "status": "PAUSED",
+   "state": "paused",
+   "budget": 10000,
+   "budget_type": "daily",
+   "budget_currency": "ARS"
+  },
+  {
+   "level": "campaign",
+   "id": "52611561196664",
+   "name": "Ventas MX - Compra - Pixel tienda - Sep 2026",
+   "status": "PAUSED",
+   "state": "paused",
+   "budget": 10000,
+   "budget_type": "daily",
+   "budget_currency": "ARS"
+  },
+  {
+   "level": "campaign",
+   "id": "52611566930864",
+   "name": "Ventas US - Purchase - Pixel tienda - Sep 2026",
+   "status": "PAUSED",
+   "state": "paused",
+   "budget": 15400,
+   "budget_type": "daily",
+   "budget_currency": "ARS"
+  },
+  {
+   "level": "adset",
+   "id": "52611520179864",
+   "parent_id": "52611520179664",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "adset",
+   "id": "52611561197264",
+   "parent_id": "52611561196664",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "adset",
+   "id": "52611566793264",
+   "parent_id": "52611566792664",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "adset",
+   "id": "52611566930664",
+   "parent_id": "52611566930864",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611570448264",
+   "name": "US - VID Demo (V02)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566930464",
+   "name": "US - IMG Hook",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611569096864",
+   "name": "AR - VID Pack Dúo (V10)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611569551464",
+   "name": "MX - VID Pack Dúo (V10)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611570408464",
+   "name": "CO - VID Pack Dúo (V10)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611561197464",
+   "name": "MX - IMG Hero",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611567263464",
+   "name": "AR - VID Demo (V02)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566793064",
+   "name": "CO - IMG Pack Dúo",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611561196864",
+   "name": "MX - IMG Hook",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566930264",
+   "name": "US - IMG Duo Pack",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611554302064",
+   "name": "AR - IMG Hook",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611554780664",
+   "name": "AR - IMG Pack Dúo",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566792464",
+   "name": "CO - IMG Hero",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566792864",
+   "name": "CO - IMG Hook",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611566930064",
+   "name": "US - IMG Hero",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611570448064",
+   "name": "US - VID Duo Pack (V10)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611561197064",
+   "name": "MX - IMG Pack Dúo",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611520180064",
+   "name": "AR - IMG Hero",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611570408664",
+   "name": "CO - VID Demo (V02)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  },
+  {
+   "level": "ad",
+   "id": "52611569551664",
+   "name": "MX - VID Demo (V02)",
+   "status": "CAMPAIGN_PAUSED",
+   "state": "paused"
+  }
+ ],
+ "ads": [
+  {
+   "id": "52611570448264",
+   "name": "US - VID Demo (V02)",
+   "market": "US",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 60.13217,
+    "impressions": 438,
+    "reach": 415,
+    "clicks": 8,
+    "link_clicks": 7,
+    "landing_page_views": 4,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 118,
+    "thruplays": 24,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566930464",
+   "name": "US - IMG Hook",
+   "market": "US",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 20.23752,
+    "impressions": 208,
+    "reach": 196,
+    "clicks": 9,
+    "link_clicks": 6,
+    "landing_page_views": 7,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611569096864",
+   "name": "AR - VID Pack Dúo (V10)",
+   "market": "AR",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 19.68763,
+    "impressions": 2752,
+    "reach": 2569,
+    "clicks": 152,
+    "link_clicks": 106,
+    "landing_page_views": 87,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 934,
+    "thruplays": 224,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611569551464",
+   "name": "MX - VID Pack Dúo (V10)",
+   "market": "MX",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 18.89544,
+    "impressions": 4864,
+    "reach": 4469,
+    "clicks": 218,
+    "link_clicks": 72,
+    "landing_page_views": 54,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 1713,
+    "thruplays": 368,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611570408464",
+   "name": "CO - VID Pack Dúo (V10)",
+   "market": "CO",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 18.01485,
+    "impressions": 4137,
+    "reach": 3703,
+    "clicks": 298,
+    "link_clicks": 276,
+    "landing_page_views": 225,
+    "adds_to_cart": 1,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 1628,
+    "thruplays": 540,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611561197464",
+   "name": "MX - IMG Hero",
+   "market": "MX",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 14.20357,
+    "impressions": 657,
+    "reach": 566,
+    "clicks": 17,
+    "link_clicks": 13,
+    "landing_page_views": 12,
+    "adds_to_cart": 1,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611567263464",
+   "name": "AR - VID Demo (V02)",
+   "market": "AR",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 12.35394,
+    "impressions": 3337,
+    "reach": 3017,
+    "clicks": 137,
+    "link_clicks": 159,
+    "landing_page_views": 117,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 797,
+    "thruplays": 285,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566793064",
+   "name": "CO - IMG Pack Dúo",
+   "market": "CO",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 11.79315,
+    "impressions": 5291,
+    "reach": 4422,
+    "clicks": 105,
+    "link_clicks": 65,
+    "landing_page_views": 39,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611561196864",
+   "name": "MX - IMG Hook",
+   "market": "MX",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 9.49946,
+    "impressions": 462,
+    "reach": 444,
+    "clicks": 14,
+    "link_clicks": 8,
+    "landing_page_views": 11,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566930264",
+   "name": "US - IMG Duo Pack",
+   "market": "US",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 7.55155,
+    "impressions": 140,
+    "reach": 129,
+    "clicks": 3,
+    "link_clicks": 2,
+    "landing_page_views": 1,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611554302064",
+   "name": "AR - IMG Hook",
+   "market": "AR",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 6.70746,
+    "impressions": 966,
+    "reach": 876,
+    "clicks": 20,
+    "link_clicks": 17,
+    "landing_page_views": 12,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611554780664",
+   "name": "AR - IMG Pack Dúo",
+   "market": "AR",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 5.70853,
+    "impressions": 1577,
+    "reach": 1493,
+    "clicks": 41,
+    "link_clicks": 19,
+    "landing_page_views": 19,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566792464",
+   "name": "CO - IMG Hero",
+   "market": "CO",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 5.59439,
+    "impressions": 1136,
+    "reach": 1071,
+    "clicks": 10,
+    "link_clicks": 7,
+    "landing_page_views": 5,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566792864",
+   "name": "CO - IMG Hook",
+   "market": "CO",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 4.76884,
+    "impressions": 391,
+    "reach": 370,
+    "clicks": 6,
+    "link_clicks": 6,
+    "landing_page_views": 8,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611566930064",
+   "name": "US - IMG Hero",
+   "market": "US",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 4.36067,
+    "impressions": 53,
+    "reach": 50,
+    "clicks": 1,
+    "link_clicks": 2,
+    "landing_page_views": 0,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611570448064",
+   "name": "US - VID Duo Pack (V10)",
+   "market": "US",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 3.36366,
+    "impressions": 36,
+    "reach": 35,
+    "clicks": 1,
+    "link_clicks": 1,
+    "landing_page_views": 0,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 11,
+    "thruplays": 2,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611561197064",
+   "name": "MX - IMG Pack Dúo",
+   "market": "MX",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 3.2485,
+    "impressions": 450,
+    "reach": 288,
+    "clicks": 8,
+    "link_clicks": 6,
+    "landing_page_views": 5,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611520180064",
+   "name": "AR - IMG Hero",
+   "market": "AR",
+   "format": "imagen",
+   "state": "paused",
+   "metrics": {
+    "spend": 1.45329,
+    "impressions": 127,
+    "reach": 121,
+    "clicks": 1,
+    "link_clicks": 1,
+    "landing_page_views": 1,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 0,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611570408664",
+   "name": "CO - VID Demo (V02)",
+   "market": "CO",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 0.33256,
+    "impressions": 120,
+    "reach": 113,
+    "clicks": 1,
+    "link_clicks": 0,
+    "landing_page_views": 0,
+    "adds_to_cart": 1,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 34,
+    "thruplays": 10,
+    "purchase_value": 0
+   }
+  },
+  {
+   "id": "52611569551664",
+   "name": "MX - VID Demo (V02)",
+   "market": "MX",
+   "format": "video",
+   "state": "paused",
+   "metrics": {
+    "spend": 0.02593,
+    "impressions": 15,
+    "reach": 15,
+    "clicks": 0,
+    "link_clicks": 0,
+    "landing_page_views": 0,
+    "adds_to_cart": 0,
+    "checkouts_initiated": 0,
+    "purchases": 0,
+    "video_plays": 1,
+    "thruplays": 0,
+    "purchase_value": 0
+   }
+  }
+ ],
+ "daily": [
+  {
+   "date": "2026-09-24",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-09-25",
+   "spend": 6.93016,
+   "impressions": 1938,
+   "link_clicks": 15,
+   "landing_page_views": 9
+  },
+  {
+   "date": "2026-09-26",
+   "spend": 31.18918,
+   "impressions": 2277,
+   "link_clicks": 31,
+   "landing_page_views": 28
+  },
+  {
+   "date": "2026-09-27",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-09-28",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-09-29",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-09-30",
+   "spend": 25.25905,
+   "impressions": 3372,
+   "link_clicks": 55,
+   "landing_page_views": 37
+  },
+  {
+   "date": "2026-10-01",
+   "spend": 40.76852,
+   "impressions": 7116,
+   "link_clicks": 201,
+   "landing_page_views": 137
+  },
+  {
+   "date": "2026-10-02",
+   "spend": 33.2764,
+   "impressions": 5334,
+   "link_clicks": 90,
+   "landing_page_views": 77
+  },
+  {
+   "date": "2026-10-03",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-04",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-05",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-06",
+   "spend": 20.07525,
+   "impressions": 1991,
+   "link_clicks": 34,
+   "landing_page_views": 31
+  },
+  {
+   "date": "2026-10-07",
+   "spend": 5.92221,
+   "impressions": 109,
+   "link_clicks": 4,
+   "landing_page_views": 4
+  },
+  {
+   "date": "2026-10-08",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-09",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-10",
+   "spend": 55.97717,
+   "impressions": 4611,
+   "link_clicks": 338,
+   "landing_page_views": 280
+  },
+  {
+   "date": "2026-10-11",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 1
+  },
+  {
+   "date": "2026-10-12",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-13",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-14",
+   "spend": 8.53516,
+   "impressions": 409,
+   "link_clicks": 5,
+   "landing_page_views": 3
+  },
+  {
+   "date": "2026-10-15",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-16",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-17",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-18",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-19",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-20",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-21",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-22",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  },
+  {
+   "date": "2026-10-23",
+   "spend": 0,
+   "impressions": 0,
+   "link_clicks": 0,
+   "landing_page_views": 0
+  }
+ ],
+ "totals": {
+  "current": {
+   "spend": 227.9331,
+   "impressions": 27157,
+   "reach": 24362,
+   "clicks": 1050,
+   "link_clicks": 773,
+   "landing_page_views": 607,
+   "video_plays": 5236,
+   "thruplays": 1453,
+   "adds_to_cart": 3,
+   "checkouts_initiated": 0,
+   "purchases": 0,
+   "purchase_value": 0
+  },
+  "previous": {
+   "spend": 82.50253,
+   "impressions": 23568,
+   "reach": 19446,
+   "clicks": 1212,
+   "link_clicks": 1289,
+   "landing_page_views": null,
+   "video_plays": 7746,
+   "thruplays": 4441,
+   "adds_to_cart": 0,
+   "checkouts_initiated": 0,
+   "purchases": 0,
+   "purchase_value": 0
+  }
+ },
+ "resolved_findings": []
+}
