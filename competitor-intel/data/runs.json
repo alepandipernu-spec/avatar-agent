@@ -876,5 +876,45 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-23T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO DTC y Ulta (copia de Exa)",
+      "TikTok Shop US (buscador y PDP INIA, vía Exa)",
+      "Bidcom/Gadnic (copia de Exa)",
+      "Mercado Libre MX (fichas sueltas vía búsqueda de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL que nadie respondió (sin navegador conectado)",
+      "TikTok Creative Center: 'No search results found' en la copia (página con JS)",
+      "Mercado Libre MX y CO listados: SOURCE_NOT_AVAILABLE",
+      "Mercado Libre AR: la copia muestra muro de login ('negative_traffic')",
+      "Instagram/TikTok de Gadnic y Holy: no aparecieron publicaciones en la búsqueda"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "inia-us",
+      "anyra-us",
+      "kitsch-us",
+      "gadnic-ar",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin anuncios verificados (Meta inaccesible, 7.º día)",
+      "INIA: listado LIVE EXCLUSIVE a USD 259,99 y 103 vendidos (antes 199,99 y 78; copia sin fecha)",
+      "Más títulos 'Christmas Gift' en TikTok Shop US",
+      "Sin cambios de precio en TYMO, Anyra ni Kitsch"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013 (nota, 49)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

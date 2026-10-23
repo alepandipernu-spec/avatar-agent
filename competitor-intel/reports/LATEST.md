@@ -1,70 +1,75 @@
-# Inteligencia competitiva — run 2026-10-23T03-55
+# Inteligencia competitiva — run 2026-10-23T11-55
 
-**Foco:** catálogo, tiendas y precios (franja 03:54).
+**Foco:** anuncios, creatividades y demanda (franja 11:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 23/10/2026, 03:55–04:20 (Buenos Aires).
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 23/10/2026, 11:55–12:20 (Buenos Aires).
 
-**Informe corto:** un solo cambio de precio (AUREVIA, CO). El resto, sin cambios.
+**Informe corto:** no hubo novedades fuertes. Abajo, lo que se comprobó.
 
 ---
 
 ## A. Resumen ejecutivo
-- **AUREVIA en Farmatodo (CO) sube de COP 49.900 a 89.900 (+80%)** en 4 días. Es un vendedor de marketplace dentro de la cadena de farmacias, con 8 unidades visibles y sin reseñas. No cambia ninguna recomendación: sigue muy por debajo de Flubberhome en COP.
-- **TYMO:** las fechas "26 de octubre" que se leían como fin de la promo son, en esta copia, **estimaciones de entrega por estado**. Sigue a USD 99,99 (tienda) y USD 42,99 (Ulta).
-- **Sin cambios** en Gadnic, Holy, Lena, pidehoy, OC Market, Introstem ni en los eléctricos de referencia de Mercado Libre AR.
+- **Sigue sin haber anuncios verificados** (7.º día). La Biblioteca de Meta sigue sin poder leerse desde la nube y TikTok Creative Center volvió a cargar vacío.
+- **INIA (US):** su listado "LIVE EXCLUSIVE" en TikTok Shop aparece a USD 259,99 con 103 vendidos. El 22/10 se veía a USD 199,99 con 78. La copia no tiene fecha, así que el cambio no se puede fechar. Es un producto premium con luz roja, lejos del precio de Flubberhome: no cambia nada.
+- **El regalo ya está ocupado en EE. UU.:** aparecen más títulos con "Christmas Gift" en TikTok Shop US. Refuerza que OPP-013 tiene que apoyarse en el Pack Dúo con ahorro real, no en la palabra "regalo".
+- **Sin cambios de precio** en TYMO, Anyra ni Kitsch.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| gadnic-ar, lena-vegetal-ar, ml-electricos-ar | AR | A | Sin cambios |
-| holy-cosmetics-co | CO | A | Sin cambios |
-| aurevia-co | CO | A | **Suba de precio** |
-| tymo-us | US | A | Sin cambios; se aclara la fecha del 26/10 |
-| mx-tiendas | MX | A | Sin cambios (pidehoy y OC Market siguen agotados) |
+| tymo-us | US | A | Sin cambios; sin creatividad de Halloween visible |
+| inia-us | US | A | Listado de venta en vivo más caro y con más vendidos (copia sin fecha) |
+| anyra-us, kitsch-us | US | A / B | Sin cambios |
+| gadnic-ar | AR | A | Stock y garantía visibles; sin precio |
+| mx-tiendas | MX | A | Se anota Viviya (sin depósito) |
 
-No hay competidores nuevos. Aparecieron en la búsqueda tiendas fuera de los 4 mercados (Brasil, Europa) y un aplicador manual en CO (Anyeluz, COP 28.000); no se les abre ficha porque no compiten en formato o mercado.
+No hay competidores nuevos.
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Cambio** ([HECHO], 23/10/2026):
-- **AUREVIA en Farmatodo** ([ficha](https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1)):
-  - COP 89.900 sin precio tachado. Historial: 37.425 (17/10) → 49.900 (19/10) → 89.900 (23/10).
-  - "8 unidades disponibles", despacho en 4–5 días, vendido y entregado por AUREVIA (no por Farmatodo).
-  - [ESTIMACIÓN] ≈ USD 28,3 con la TRM 3.174,67 (17–19/10). Método: conversión simple, ±3% por tipo de cambio. Flubberhome 1 u + envío sigue en ≈ COP 164.900.
-  - [HIPÓTESIS] Parece un ajuste de un vendedor con poco stock, no una señal de demanda: no hay reseñas ni preguntas que lo respalden.
-
 **Chequeo rápido de directos** ([HECHO], 23/10/2026):
-- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)): ARS 97.299 (tachado 149.691), 3 cuotas, "Llega gratis mañana".
-- **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
-- **Lena** ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)): kit a ARS 25.600, "+70 vendidos", "quedan 3".
-- **TYMO** ([tienda](https://tymobeauty.com/products/tymo-trithera), [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264)): USD 99,99 (tachado 129,99) y USD 42,99 (lista 99,99). La lista de "October 26–28" por estado de la ficha es plazo de entrega.
-- **MX:** pidehoy.mx sigue "Agotado" con los dos precios contradictorios (MXN 990 / 1.390); OC Market sigue agotado a MXN 1.038; Introstem sigue a MXN 890, sin reseñas y sin stock ni envío visibles.
-
-Tipos de cambio: no se actualizaron en esta ejecución. Siguen vigentes los del run 2026-10-22T03-55.
+- **TYMO** ([tienda](https://tymobeauty.com/products/tymo-trithera), [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264)): USD 99,99 (tachado 129,99) y USD 42,99 (lista 99,99).
+- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95).
+- **Gadnic** ([Bidcom](https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)): el modelo con depósito figura con "10 disponibles", envío en el día en AMBA y 12 meses de garantía. Sin precio en esta copia. El último precio verificado es ARS 97.299 (23/10, 03:55).
+- **MX** ([ficha](https://www.mercadolibre.com.mx/masajeador-electrico-de-cuero-cabelludo-viviya-portatil-reca/p/MLM2036701863)): Viviya a MXN 949,47 por NOCNOC (vendedor internacional). La ficha no menciona depósito, así que no compite de forma directa.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 22/10/2026 11:55.
+- **Biblioteca de Meta:** no accesible (ver L). Ningún dato de esta sección viene de ahí.
+- **TikTok Creative Center** ([Top Ads, US, 30 días, "scalp massager"](https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=US&keyword=scalp%20massager)): la copia dice que no hay resultados. [HIPÓTESIS] Es el mismo problema de páginas armadas con JavaScript del 22/10; no prueba que no haya anuncios.
+- **INIA (TikTok Shop US)** ([listado en vivo](https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634)): USD 259,99, "103 sold", 4,7★ con 15 reseñas. El título suma "Perfect Holiday Gift". [HIPÓTESIS] La venta en vivo sigue siendo su canal visible; el precio de lista más alto puede servir de ancla para los descuentos en vivo. No se puede confirmar.
+- **Anyra:** la ficha sigue diciendo que generó "4.5M views" en TikTok e Instagram. Es un dato que publica la marca y no se puede verificar.
+- **LatAm:** no aparecieron publicaciones públicas de Gadnic ni de Holy sobre el masajeador.
+- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
 
 ## E. Demanda y señales de ventas
-- **Mercado Libre AR** [HECHO: indicador de ML, [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo)]: sin cambios. MegaCuper sigue en "+50 vendidos" (ARS 37.692); los de ARS 59.800 y 69.999 en "+5"; el manual Coony en "+5mil".
-- **AUREVIA:** el stock visible baja de 9 a 8. **No indica** una venta: no se conoce reposición ni reservas.
+| Señal | Valor | Tipo |
+|---|---|---|
+| TikTok Shop US, productos de referencia ([buscador](https://shop.tiktok.com/us/k/hair-oil-and-massager)) | Kitsch 43,6 mil; eléctrico con caja de regalo 9,3 mil; eléctrico de 3 modos 2,0 mil (sin cambios) | HECHO: indicador de la plataforma |
+| INIA, listado en vivo | 103 vendidos (antes 78) | HECHO: indicador de la plataforma, copia sin fecha |
+| "hair massager for scalp" ([buscador](https://shop.tiktok.com/us/k/hair-massager-for-scalp)) | arboleaf 11,9 mil y NAPRE 5,0 mil, los dos sin depósito; NAPRE con "Christmas Gift" en el título | HECHO: indicador de la plataforma |
+
+- **Qué no indican:** ventas por período ni rentabilidad. Los contadores son acumulados y pueden sumar variantes.
+- [HIPÓTESIS] El volumen alto sigue en los masajeadores sin depósito o en los kits manuales. El ángulo "aplicar el tónico sin goteo" (OPP-001) sigue sin un dueño claro en las fuentes revisadas.
 
 ## F. Experiencia de compra
-Sin novedades. No se completó ningún checkout. Último dato con cambios: 22/10/2026 03:55.
+Sin revisión en esta ejecución. Último dato: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
 Sin revisión en esta ejecución. Último dato: 22/10/2026 19:55.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas.
+Sin estrategias nuevas. Para OPP-013 en EE. UU. ([HIPÓTESIS], confianza media):
+- **Evidencia:** varios listados ya usan "regalo" en el título.
+- **Acción:** si se usa el ángulo regalo, que se apoye en algo que los otros no muestran: el Pack Dúo con ahorro real por unidad y la guía incluida.
+- **Métrica:** proporción de Pack Dúo sobre el total de pedidos.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
 |---|---|---|---|
 | 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | Nota: el regalo solo no diferencia en US |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
 | 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
 | 8 | OPP-017 demo real rotulada en microdramas con IA | 33 | — |
@@ -72,18 +77,20 @@ Sin estrategias nuevas.
 No hay oportunidades nuevas.
 
 ## J. Próximas acciones
-- **Para el dueño:** sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017, y conectar un navegador para leer la Biblioteca de Meta.
-- **Próximo run de anuncios (11:54):** reintentar la Biblioteca de Meta; ver si TYMO cambia la promo después de Halloween.
-- **Próximo run de catálogo:** ver si AUREVIA sostiene COP 89.900; reposición de pidehoy y OC Market; actualizar tipos de cambio.
+- **Para el dueño:**
+  - Sin un navegador conectado, la franja de anuncios no puede verificar nada. Conectar Claude in Chrome a esta tarea (o correrla con "Require this computer") destrabaría la Biblioteca de Meta.
+  - Sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017.
+- **Próximo run de reseñas (19:54):** reseñas nuevas de INIA y de los kits más vendidos de TikTok Shop.
+- **Próximo run de catálogo (03:54):** precio de Gadnic con depósito; AUREVIA; actualizar tipos de cambio.
 
 ## K. Nuevos hallazgos
-- Cambio de precio: aurevia-co (+80%).
-- Actualizados: gadnic-ar, holy-cosmetics-co, lena-vegetal-ar, tymo-us, mx-tiendas, ml-electricos-ar y la señal `aurevia-farmatodo-stock`.
-- Sin competidores ni oportunidades nuevas.
+- No hay competidores ni oportunidades nuevas.
+- Actualizados: inia-us, tymo-us, anyra-us, kitsch-us, gadnic-ar, mx-tiendas; señales `tiktok-shop-us-contadores-vendidos` y `regalo-en-listados-us-2026`; nota en OPP-013.
 
 ## L. Limitaciones
-- **Mercado Libre MX:** Exa devolvió SOURCE_NOT_AVAILABLE. AR se leyó por una copia.
-- **Tipos de cambio:** no se actualizaron; las conversiones usan los del 20–21/10.
-- **Fichas sin fecha:** todas salen de copias de Exa sin fecha visible; el precio de AUREVIA coincide en dos lecturas (búsqueda y ficha).
-- **Biblioteca de anuncios de Meta:** no se intentó (no es la franja de anuncios).
+- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
+- **TikTok Creative Center:** sin resultados en la copia.
+- **Mercado Libre:** los listados de MX y CO dieron SOURCE_NOT_AVAILABLE. La copia de AR muestra un muro de login. Solo se leyeron fichas sueltas de MX desde la búsqueda.
+- **Gadnic:** la copia de Bidcom es de un entorno de prueba ("home-test") y no muestra precio.
+- **Datos sin fecha:** todas las fichas salen de copias de Exa sin fecha visible. El cambio de INIA no se puede fechar.
 - **Repo público:** sin datos internos. Conviene volverlo privado.
