@@ -136,7 +136,7 @@
   },
   {
    "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-   "n_fuentes": 6,
+   "n_fuentes": 7,
    "n_competidores": 6,
    "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
    "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
@@ -147,7 +147,8 @@
     "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
     "NAPRE (thehomeglow, 17/02/2026)",
     "Breo Scalp3L (medical-insiders, 15/04/2026): puntas firmes que irritan",
-    "VitalEveRev (Amazon US): puntas metálicas incómodas"
+    "VitalEveRev (Amazon US): puntas metálicas incómodas",
+    "INIA VIBRA TikTok Shop (05/02/2026): pide más fuerza"
    ],
    "historial": [
     {
@@ -160,6 +161,12 @@
      "date": "2026-10-22",
      "run_id": "2026-10-22T19-55",
      "change": "+1 fuente (Yaxa B0DWMVSVKL, 2025: vibración débil, nódulos incómodos)."
+    },
+    {
+     "date": "2026-10-23",
+     "run_id": "2026-10-23T19-54",
+     "change": "+1 fuente (INIA en TikTok Shop, 2026: le falta fuerza). Mismo competidor ya contado: n_competidores sigue en 6.",
+     "source": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722"
     }
    ]
   },
@@ -204,9 +211,9 @@
   },
   {
    "problema": "Devolución y garantía con letra chica: el envío de vuelta lo paga el cliente o la garantía se rechaza por plazo",
-   "n_fuentes": 3,
-   "n_competidores": 1,
-   "clasificacion": "incipiente (3 fuentes de 1 marca, Glokore; 1 sobre un producto adyacente). Se suman políticas observadas: Gleva pide video del unboxing, una tienda de Rappi CO da 24 h para cambios.",
+   "n_fuentes": 4,
+   "n_competidores": 2,
+   "clasificacion": "incipiente (4 fuentes de 2 marcas: Glokore y, desde el 23/10, INIA). Incluye fichas que se contradicen sobre la garantía (INIA: 2 años vs. 1 año; Magoo Gadgets CO: 30 días vs. 3 meses, 22/10).",
    "oportunidad": "Si Flubberhome publica una garantía (OPP-003), decir en una línea quién paga el envío de vuelta y qué pasa después del plazo. Hoy la ventana para defectos es de 72 h, más corta que la de casi todos los competidores relevados.",
    "fecha": "2026-10-21",
    "run_id": "2026-10-21T19-55",
@@ -216,6 +223,29 @@
      "run_id": "2026-10-21T19-55",
      "change": "Alta del patrón.",
      "source": "https://no.trustpilot.com/review/glokore.com"
+    },
+    {
+     "date": "2026-10-23",
+     "run_id": "2026-10-23T19-54",
+     "change": "+1 fuente: INIA promete 2 años en el banner y 1 año en las FAQ de la misma página. Se suma el caso de Magoo Gadgets (22/10) como antecedente.",
+     "source": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
+    }
+   ]
+  },
+  {
+   "problema": "Susto por pelos que se sueltan durante el uso",
+   "n_fuentes": 1,
+   "n_competidores": 1,
+   "clasificacion": "aislado (1 reseña de INIA, 07/08/2026)",
+   "oportunidad": "[HIPÓTESIS] Si aparece en más fuentes: en la Guía, recomendar presión suave, intensidad baja y no insistir en una zona, sin explicar ni prometer nada sobre caída (claim médico prohibido). Vigilar.",
+   "fecha": "2026-10-23",
+   "run_id": "2026-10-23T19-54",
+   "historial": [
+    {
+     "date": "2026-10-23",
+     "run_id": "2026-10-23T19-54",
+     "change": "Alta del patrón (aislado).",
+     "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
     }
    ]
   }
@@ -633,6 +663,42 @@
    "parafrasis": "El creador dice que vio anuncios del producto en TikTok, Facebook e Instagram con transformaciones que parecen generadas con IA, que no encontró reseñas independientes y que lo considera una estafa.",
    "fecha_consulta": "2026-10-22",
    "run_id": "2026-10-22T19-55"
+  },
+  {
+   "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
+   "producto": "INIA VIBRA (TikTok Shop US)",
+   "problema": "sensación débil",
+   "fecha": "2026-02-05",
+   "parafrasis": "Compradora conforme en general, pero desearía que la vibración fuera más fuerte.",
+   "fecha_consulta": "2026-10-23",
+   "run_id": "2026-10-23T19-54"
+  },
+  {
+   "fuente": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634",
+   "producto": "INIA VIBRA, listado LIVE EXCLUSIVE (TikTok Shop US)",
+   "problema": "caída de pelo percibida durante el uso",
+   "fecha": "2026-08-07",
+   "parafrasis": "Dice que tras el primer uso se le soltó mucho pelo, se asustó y dejó de usarlo.",
+   "fecha_consulta": "2026-10-23",
+   "run_id": "2026-10-23T19-54"
+  },
+  {
+   "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
+   "producto": "INIA VIBRA (TikTok Shop US)",
+   "problema": "diferencia entre lo esperado y lo recibido (accesorio)",
+   "fecha": "sin fecha visible",
+   "parafrasis": "El gel incluido le resultó mucho más chico de lo que esperaba, aunque el empaque se ve bien.",
+   "fecha_consulta": "2026-10-23",
+   "run_id": "2026-10-23T19-54"
+  },
+  {
+   "fuente": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device",
+   "producto": "INIA VIBRA (tienda propia)",
+   "problema": "garantía inconsistente en la ficha",
+   "fecha": "sin fecha visible",
+   "parafrasis": "No es una reseña: la misma página promete 2 años de garantía en el banner y 1 año en las preguntas frecuentes.",
+   "fecha_consulta": "2026-10-23",
+   "run_id": "2026-10-23T19-54"
   }
  ]
 }

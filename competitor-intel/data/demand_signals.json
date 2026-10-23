@@ -548,5 +548,24 @@
     "source": "youtube.com ; amazon.com"
    }
   ]
+ },
+ "amazon-us-nuevos-listados-2026": {
+  "id": "amazon-us-nuevos-listados-2026",
+  "fecha": "2026-10-23",
+  "run_id": "2026-10-23T19-54",
+  "senal": "Fecha 'Date First Available' de listados nuevos con depósito en Amazon US",
+  "valor": "BFYCHYC 16/04/2026 (USD 46,89); chufa 06/05/2026 (USD 49,99, doble depósito); ambos sin reseñas visibles",
+  "fuente": "https://www.amazon.com/chufa-Massager-Applicator-Dual-Chamber-Rechargeable/dp/B0GZNTPPJY ; https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557",
+  "alcance": "US, Amazon",
+  "tipo": "HECHO (dato de la ficha)",
+  "indica": "Siguen entrando vendedores nuevos al formato en 2026, cerca de USD 50.",
+  "no_indica": "Ventas ni éxito de esos listados.",
+  "historial": [
+   {
+    "date": "2026-10-23",
+    "run_id": "2026-10-23T19-54",
+    "change": "alta"
+   }
+  ]
  }
 }

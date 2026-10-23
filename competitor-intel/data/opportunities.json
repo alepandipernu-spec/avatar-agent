@@ -166,6 +166,11 @@
     "run_id": "2026-10-21T19-55",
     "change": "Más evidencia, score sin cambios (11): en Glokore, una garantía de devolución que exige pagar el envío de vuelta genera reclamos en Trustpilot y BBB. La garantía tiene que aclarar quién paga el envío. Nuevo patrón en reviews.json.",
     "source": "https://no.trustpilot.com/review/glokore.com"
+   },
+   {
+    "date": "2026-10-23",
+    "run_id": "2026-10-23T19-54",
+    "change": "Nota, score sin cambios (11): INIA y Magoo Gadgets se contradicen sobre la garantía en su propia ficha. Si Flubberhome publica una, que sea una sola frase, igual en la ficha, las FAQ y el checkout."
    }
   ]
  },
@@ -670,6 +675,11 @@
     "run_id": "2026-10-21T19-55",
     "change": "Score 36.0→48.0: confianza 3→4. Breo Scalp3L y VitalEveRev suman quejas por puntas firmes o metálicas incómodas. Las puntas redondeadas de ScalpCare Pro son un argumento, pero solo vale mostrarlo si es cierto en una prueba real.",
     "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
+   },
+   {
+    "date": "2026-10-23",
+    "run_id": "2026-10-23T19-54",
+    "change": "+1 evidencia (INIA, TikTok Shop 2026: pide más fuerza). Score sin cambios (48)."
    }
   ]
  },

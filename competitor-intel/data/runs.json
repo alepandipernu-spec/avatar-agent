@@ -916,5 +916,47 @@
       "OPP-013 (nota, 49)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-23T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO DTC, Gadnic, Holy (copia de Exa)",
+      "INIA: theinia.com y TikTok Shop US (copia de Exa)",
+      "Amazon US (chufa, JIODTMER, MINOZOOS, BFYCHYC vía Exa)",
+      "DONKA Beauty AR, Letengo CO (copia de Exa)",
+      "WebSearch"
+    ],
+    "fuentes_fallidas": [
+      "Búsqueda de reseñas en español (Exa): resultados fuera de tema; WebSearch solo devolvió clips de ML sin reseñas",
+      "Mercado Libre: no se leyeron reseñas (antecedente de muro de login)",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Reddit: no se intentó"
+    ],
+    "competidores_revisados": [
+      "inia-us",
+      "tymo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "amazon-generics-us",
+      "ar-tiendas-chicas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "INIA: tienda propia agotada (USD 149,99/129,99) y garantía contradictoria en la misma ficha",
+      "Altas en grupos: chufa (US, USD 49,99), DONKA Beauty (AR, ARS 80.000), Anyeluz manual (CO, COP 28.000)",
+      "Sensación débil: 7 fuentes; patrón de garantía con letra chica pasa a 2 marcas; patrón nuevo aislado: susto por pelos sueltos",
+      "Sin cambios de precio en TYMO, Gadnic ni Holy"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-003 (nota, 11)",
+      "OPP-014 (+evidencia, 48)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

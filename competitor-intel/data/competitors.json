@@ -103,6 +103,12 @@
         "run_id": "2026-10-23T11-55",
         "change": "Bidcom (copia de Exa, entorno de prueba 'home-test'): el modelo con depósito (SKU LEDMAS55) figura con '10 disponibles', envío en el día en AMBA y 12 meses de garantía; sin precio visible. Sin publicaciones de Instagram encontradas.",
         "source": "https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), \"Llega gratis mañana\", sin cambios.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar"
       }
     ]
   },
@@ -685,7 +691,8 @@
     "facts": [
       "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
       "17/10/2026: mriya USD 21,99 (4,5★, 19 reseñas); ZUTESU USD 25,99 (4,7★, 55 reseñas); Satorix USD 29,99 (sin reseñas visibles, disponible desde 06/04/2026); modelo 2 en 1 IPX7 USD 79,99 (4,3★, 47 reseñas).",
-      "20/10/2026: varios listados nuevos con depósito usan el regalo como argumento en el título o las viñetas (BERNOVAS, Dexmary, DFYXO)."
+      "20/10/2026: varios listados nuevos con depósito usan el regalo como argumento en el título o las viñetas (BERNOVAS, Dexmary, DFYXO).",
+      "[23/10/2026] chufa (ASIN B0GZNTPPJY), disponible desde 06/05/2026: peine con doble depósito (agua en spray + aceite), 9 intensidades, apagado a los 10 min, USD 49,99, sin reseñas visibles. Se declara 'not a medical device'."
     ],
     "inferences": [
       "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido.",
@@ -701,11 +708,12 @@
       "https://www.amazon.com/BFYCHYC-Microcurrent-Atomizer-Hair-Treatment-Application-Rejuvenate/dp/B09KXS4557",
       "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5",
       "https://www.amazon.com/Dexmary-Massager-Electric-Applicator-Nourishment/dp/B0G43SSTHX",
-      "https://www.amazon.com/DFYXO-Electric-Massager-Applicator-Travel/dp/B0GG8BYS9Y"
+      "https://www.amazon.com/DFYXO-Electric-Massager-Applicator-Travel/dp/B0GG8BYS9Y",
+      "https://www.amazon.com/chufa-Massager-Applicator-Dual-Chamber-Rechargeable/dp/B0GZNTPPJY"
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -729,6 +737,12 @@
         "run_id": "2026-10-20T11-57",
         "change": "+3 listados (BERNOVAS, Dexmary, DFYXO), todos con encuadre de regalo.",
         "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "+1 listado: chufa, doble depósito spray + aceite, USD 49,99 (desde 06/05/2026), sin reseñas.",
+        "source": "https://www.amazon.com/chufa-Massager-Applicator-Dual-Chamber-Rechargeable/dp/B0GZNTPPJY"
       }
     ]
   },
@@ -936,19 +950,23 @@
       "4,3★ con 34 reseñas en Amazon US.",
       "Destaca el aplicador removible y lavable como diferencial frente a cepillos que 'acumulan residuos'.",
       "TikTok Shop: 4,7★ con 61 reseñas y \"816 sold\" (indicador de la plataforma, 18/10/2026).",
-      "El título del listado incluye \"Perfect Holiday Gift\"."
+      "El título del listado incluye \"Perfect Holiday Gift\".",
+      "[23/10/2026] Tienda propia theinia.com: VIBRA a USD 149,99 (lista 299,99) y versión 'FDA-Cleared' a USD 129,99 (lista 299,99), las dos 'Sold out' en la copia de Exa (sin fecha). Banner '90-Day Money-Back Guarantee | 2-Year Warranty', pero las FAQ de la misma página dicen '1-year limited warranty'."
     ],
     "inferences": [
       "Responde de forma explícita a la objeción de limpieza y goteo del depósito."
     ],
-    "hypotheses": [],
+    "hypotheses": [
+      "[23/10/2026] La garantía que promete la misma ficha no coincide (2 años en el banner, 1 año en las FAQ). Puede generar reclamos o desconfianza; no se sabe cuál aplica."
+    ],
     "unknowns": [
       "Ventas reales por período (el contador es acumulado)",
       "Anuncios y gasto."
     ],
     "sources": [
       "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250",
-      "https://www.amazon.com/INIA-Hair-Scalp-Massager-Rechargeable/dp/B0F62NQWXP"
+      "https://www.amazon.com/INIA-Hair-Scalp-Massager-Rechargeable/dp/B0F62NQWXP",
+      "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
     ],
     "relevance": "baja",
     "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
@@ -977,6 +995,12 @@
         "run_id": "2026-10-23T11-55",
         "change": "Listado 'LIVE EXCLUSIVE' del VIBRA: USD 259,99 y '103 sold' (el 22/10 se veía USD 199,99 y 78 en el buscador). La ficha principal no se volvió a leer. Copia de Exa sin fecha: no se puede afirmar cuándo cambió.",
         "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "Se suma la tienda propia (theinia.com): USD 149,99 / 129,99, agotado; garantía inconsistente en la misma página (2 años vs. 1 año). Reseñas nuevas en TikTok Shop: una pide más fuerza y otra reporta caída de pelo tras el primer uso.",
+        "source": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
       }
     ]
   },
@@ -1373,6 +1397,12 @@
         "run_id": "2026-10-23T03-55",
         "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, 4,9★ con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "Chequeo rápido: COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas, sin cambios.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -1476,7 +1506,8 @@
       "En Tu Sitio aclara que su modelo es 'resistente a salpicaduras, NO sumergible'.",
       "[HECHO 20/10/2026] Smartjoys (smartjoys.co): cepillo con luz roja y aplicación de aceites a COP 64.900 (tachado 116.000), entrega 1–5 días hábiles, garantía de 2 meses por defectos; claims de caída y crecimiento.",
       "[HECHO 21/10/2026] LaKaDistribuidora (lakadistribuidora.com, CO): cepillo eléctrico con aplicación de aceite a COP 89.900 (tachado 150.000); se vende como apto para champú/ducha (IPX7) y con claims de crecimiento. Copia de Exa sin fecha.",
-      "[HECHO 22/10/2026] Magoo Gadgets (magoogadgets.com): 'cepillo de fototerapia con vaporización' (formato de peine con vapor/spray) a COP 98.900 (tachado 135.000), envío gratis. La misma ficha dice '30 días de garantía' y 'garantía 3 meses', y promete un video tutorial por mensaje después de la compra. Claims de caída y caspa."
+      "[HECHO 22/10/2026] Magoo Gadgets (magoogadgets.com): 'cepillo de fototerapia con vaporización' (formato de peine con vapor/spray) a COP 98.900 (tachado 135.000), envío gratis. La misma ficha dice '30 días de garantía' y 'garantía 3 meses', y promete un video tutorial por mensaje después de la compra. Claims de caída y caspa.",
+      "[23/10/2026] Letengo (CO) vende el cepillo con depósito de la marca de tónicos Anyeluz a COP 28.000, entrega 1–3 días hábiles, pago con Addi/Sistecrédito/Efecty. Es MANUAL (puntas de goma), no eléctrico: competencia indirecta. La ficha atribuye beneficios de circulación y crecimiento."
     ],
     "inferences": [
       "[HIPÓTESIS] El mercado colombiano de DTC está saturado del mismo producto genérico con claims médicos: el ángulo honesto de masaje + aplicación y una garantía más larga son diferenciales reales."
@@ -1485,7 +1516,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -1534,6 +1565,12 @@
         "run_id": "2026-10-22T19-55",
         "change": "Se suma Magoo Gadgets (COP 98.900, formato con vapor; garantía contradictoria en la ficha). Smartjoys, Holy y Nihlo sin cambios.",
         "source": "https://magoogadgets.com/products/cepillo-masajeador-capilar-con-vapor"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "+1 referencia indirecta: Anyeluz (manual con depósito) a COP 28.000 en Letengo, ligado a su propio tónico.",
+        "source": "https://letengo.com/products/cepillo-masajeador-estimulante-capilar-con-deposito-anyeluz"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -1568,7 +1605,8 @@
       "https://911hair.com.co/collections/masajeadores",
       "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador",
       "https://nuvitecno.com/products/cepillo-masajeador-capilar-vibratoriocepillo-masajeador-capilar-vibratorio-cuero-cabelludo-cuero-cabelludo",
-      "https://magoogadgets.com/products/cepillo-masajeador-capilar-con-vapor"
+      "https://magoogadgets.com/products/cepillo-masajeador-capilar-con-vapor",
+      "https://letengo.com/products/cepillo-masajeador-estimulante-capilar-con-deposito-anyeluz"
     ],
     "relevance": "media",
     "follow_reason": "Definen el piso de precio y el estándar de claims en CO; útiles para ver qué NO hacer y dónde está el hueco de confianza."
@@ -1674,16 +1712,18 @@
   "ar-tiendas-chicas": {
     "facts": [
       "Precios muy dispares para productos parecidos (ARS 19.800 a 83.316).",
-      "[19/10/2026] Tecno Crazy (AR): 'masajeador capilar recargable' marca ACME a ARS 27.200 contado/transferencia o ARS 39.440 en 6 cuotas, entrega inmediata (no queda claro si tiene depósito). Fuente: https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105"
+      "[19/10/2026] Tecno Crazy (AR): 'masajeador capilar recargable' marca ACME a ARS 27.200 contado/transferencia o ARS 39.440 en 6 cuotas, entrega inmediata (no queda claro si tiene depósito). Fuente: https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105",
+      "[23/10/2026] DONKA Beauty (AR, tienda de skincare coreana en Wix; envíos por Correo Argentino, 3 cuotas sin interés): masajeador eléctrico con tanque de 3 ml, USB-C, ARS 80.000. Sin garantía, stock ni reseñas visibles en la ficha."
     ],
     "inferences": [
-      "[HIPÓTESIS] En AR no hay un precio de referencia claro para el eléctrico: quien explique mejor el valor puede fijarlo."
+      "[HIPÓTESIS] En AR no hay un precio de referencia claro para el eléctrico: quien explique mejor el valor puede fijarlo.",
+      "[ESTIMACIÓN 23/10/2026] DONKA (ARS 80.000) queda ~18% por debajo de Gadnic con depósito (ARS 97.299) y ~23% por debajo de Flubberhome con envío (≈ ARS 104.300, dólar tarjeta del 22/10). Método: comparación simple de precios de lista; margen ±5% por tipo de cambio."
     ],
     "hypotheses": [],
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-19",
+    "last_reviewed": "2026-10-23",
     "history": [
       {
         "date": "2026-10-17",
@@ -1696,6 +1736,12 @@
         "run_id": "2026-10-19T03-55",
         "change": "Se suma Tecno Crazy (ACME, ARS 27.200).",
         "source": "https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "+1 tienda: DONKA Beauty, eléctrico con tanque de 3 ml a ARS 80.000.",
+        "source": "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo"
       }
     ],
     "id": "ar-tiendas-chicas",
@@ -1717,7 +1763,8 @@
     "sources": [
       "https://sofiacosmetics.empretienda.com.ar/accesorios/cepillo-masajeador-nanofog-con-sprayfototerapia-led",
       "https://tulivegan.mitiendanube.com/ar/productos/cepillo-electrico-masajeador-capilar-tulivegan/",
-      "https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105"
+      "https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105",
+      "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo"
     ],
     "relevance": "baja",
     "follow_reason": "Muestra la dispersión de precios en AR; seguimiento ligero."
@@ -2135,6 +2182,12 @@
         "run_id": "2026-10-23T11-55",
         "change": "Sin cambios: tienda propia USD 99,99 (tachado 129,99); Ulta USD 42,99 (lista 99,99). Sin creatividad de Halloween visible en la copia.",
         "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "Chequeo rápido: USD 99,99 (tachado 129,99), sin cambios.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
   },
