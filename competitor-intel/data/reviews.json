@@ -1,704 +1,745 @@
 {
- "patterns": [
-  {
-   "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-   "n_fuentes": 20,
-   "n_competidores": 14,
-   "clasificacion": "tendencia (varias fuentes y productos)",
-   "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
-   "fecha": "2026-10-17",
-   "run_id": "2026-10-17T15-27",
-   "historial": [
+  "patterns": [
     {
-     "date": "2026-10-17",
-     "run_id": "2026-10-17T15-28",
-     "change": "+5 fuentes (mriya 70 ml, JIODTMER, 3 en 1 B0CWTV3DQ8, TODAY, Hlonns); suma limpieza/cristalización"
+      "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
+      "n_fuentes": 21,
+      "n_competidores": 14,
+      "clasificacion": "tendencia (varias fuentes y productos)",
+      "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
+      "fecha": "2026-10-17",
+      "run_id": "2026-10-17T15-27",
+      "historial": [
+        {
+          "date": "2026-10-17",
+          "run_id": "2026-10-17T15-28",
+          "change": "+5 fuentes (mriya 70 ml, JIODTMER, 3 en 1 B0CWTV3DQ8, TODAY, Hlonns); suma limpieza/cristalización"
+        },
+        {
+          "date": "2026-10-17",
+          "run_id": "2026-10-17T15-28-b",
+          "change": "+3 fuentes (Breo premium x2, mercilia); el patrón alcanza también al segmento premium."
+        },
+        {
+          "date": "2026-10-17",
+          "run_id": "2026-10-17T19-55",
+          "change": "+2 fuentes (JIODTMER B0CDLT9ZZH, MINOZOOS): líquidos espesos no fluyen; sostener vertical."
+        },
+        {
+          "date": "2026-10-18",
+          "run_id": "2026-10-18T19-54",
+          "change": "+1 fuente (Hello Magazine: sobrecarga y derrame por no vaciar). Contraejemplo: LeeRong indica cargar media carga por sesión."
+        },
+        {
+          "date": "2026-10-19",
+          "run_id": "2026-10-19T19-54",
+          "change": "+2 fuentes (Breo resumen 2025, MINOZOOS): dispensado irregular y aceites espesos que no pasan."
+        },
+        {
+          "date": "2026-10-20",
+          "run_id": "2026-10-20T19-54",
+          "change": "+3 fuentes: Alverela (hay que apretar la tapa), mriya (se tapa y pierde; 2.ª unidad), VOEAIN (limpieza con aceites espesos).",
+          "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+        },
+        {
+          "date": "2026-10-24",
+          "run_id": "2026-10-24T19-54",
+          "change": "+1 fuente: Breo Scalp3 (The Mirror, 28/01/2025): tapón muy difícil de abrir y dientes de aceite más cortos, llega poco producto. Segmento premium.",
+          "source": "https://www.mirror.co.uk/3am/style/3am-fashion-celebrity-beauty/this-led-scalp-massager-helped-34567396"
+        }
+      ]
     },
     {
-     "date": "2026-10-17",
-     "run_id": "2026-10-17T15-28-b",
-     "change": "+3 fuentes (Breo premium x2, mercilia); el patrón alcanza también al segmento premium."
+      "problema": "Escepticismo sobre la luz roja",
+      "n_fuentes": 1,
+      "n_competidores": 1,
+      "clasificacion": "aislado (1 fuente)",
+      "oportunidad": "Flubberhome ya no comunica luz roja: refuerza el posicionamiento de masaje + aplicación. No usarlo como ataque.",
+      "fecha": "2026-10-17",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-17",
-     "run_id": "2026-10-17T19-55",
-     "change": "+2 fuentes (JIODTMER B0CDLT9ZZH, MINOZOOS): líquidos espesos no fluyen; sostener vertical."
+      "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
+      "n_fuentes": 12,
+      "n_competidores": 10,
+      "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
+      "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
+      "fecha": "2026-10-17",
+      "run_id": "2026-10-17T19-55",
+      "historial": [
+        {
+          "date": "2026-10-18",
+          "run_id": "2026-10-18T19-54",
+          "change": "+1 fuente (foro lipstickalley, 2020: deja de funcionar a los meses y no retiene carga). Fuente vieja."
+        },
+        {
+          "date": "2026-10-19",
+          "run_id": "2026-10-19T19-54",
+          "change": "+2 fuentes (TYMO TriThera: dejó de encender; ZOKO LAB: llega roto o no enciende)."
+        },
+        {
+          "date": "2026-10-20",
+          "run_id": "2026-10-20T11-57",
+          "change": "+1 fuente: reseña de TYMO TriThera (dejó de encender).",
+          "source": "https://tymobeauty.com/products/tymo-trithera"
+        },
+        {
+          "date": "2026-10-20",
+          "run_id": "2026-10-20T19-54",
+          "change": "+1 fuente: LUMILUX (llegó sin funcionar bien).",
+          "source": "https://loox.io/sr/RoSxewWRga"
+        },
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "+1 fuente: Breo Scalp3L (medical-insiders, 15/04/2026), varias quejas por aparatos fallados. Primera fuente del segmento premium en este patrón.",
+          "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+        },
+        {
+          "date": "2026-10-22",
+          "run_id": "2026-10-22T19-55",
+          "change": "+1 fuente con fecha de 2026 (Yaxa/Amazon, 23/05/2026: deja de andar a los ~30 usos)."
+        }
+      ]
     },
     {
-     "date": "2026-10-18",
-     "run_id": "2026-10-18T19-54",
-     "change": "+1 fuente (Hello Magazine: sobrecarga y derrame por no vaciar). Contraejemplo: LeeRong indica cargar media carga por sesión."
+      "problema": "Enredos o tirones con pelo largo",
+      "n_fuentes": 4,
+      "n_competidores": 4,
+      "clasificacion": "tendencia incipiente (4 fuentes de 4 productos; 2 son resúmenes o reseñas editoriales)",
+      "oportunidad": "Probar ScalpCare Pro en pelo largo y, si no tira, mostrarlo; si tira, explicar la técnica (por secciones, sin arrastrar). Ver OPP-011. Ojo: El País vio frizz al usar en seco con pelo largo, que es justo el uso que pide Flubberhome. La técnica por secciones, sin arrastrar, tiene que estar en la Guía.",
+      "fecha": "2026-10-17",
+      "run_id": "2026-10-17T19-55",
+      "historial": [
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "+2 fuentes: El País (Arboleaf, 2024: frizz en seco con pelo largo) y Balanced Brawn (Breo, 2025: se enreda con pelo largo). Pasa de incipiente a tendencia incipiente.",
+          "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
+        }
+      ]
     },
     {
-     "date": "2026-10-19",
-     "run_id": "2026-10-19T19-54",
-     "change": "+2 fuentes (Breo resumen 2025, MINOZOOS): dispensado irregular y aceites espesos que no pasan."
+      "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
+      "n_fuentes": 4,
+      "n_competidores": 4,
+      "clasificacion": "tendencia incipiente (3 fuentes de 3 productos; ZOKO con muchas reseñas sobre manual solo en chino)",
+      "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
+      "fecha": "2026-10-17",
+      "run_id": "2026-10-17T19-55",
+      "historial": [
+        {
+          "date": "2026-10-19",
+          "run_id": "2026-10-19T19-54",
+          "change": "+1 fuente: ZOKO LAB (TikTok Shop US), varias quejas por manual solo en chino. Ver OPP-015."
+        },
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "+1 fuente: VitalEveRev (controles táctiles poco claros, tapa difícil).",
+          "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
+        }
+      ]
     },
     {
-     "date": "2026-10-20",
-     "run_id": "2026-10-20T19-54",
-     "change": "+3 fuentes: Alverela (hay que apretar la tapa), mriya (se tapa y pierde; 2.ª unidad), VOEAIN (limpieza con aceites espesos).",
-     "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
+      "n_fuentes": 7,
+      "n_competidores": 6,
+      "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
+      "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
+      "fecha": "2026-10-18",
+      "run_id": "2026-10-18T19-54",
+      "fuentes": [
+        "INIA (reseña vista en el run 2026-10-18T11-54)",
+        "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
+        "NAPRE (thehomeglow, 17/02/2026)",
+        "Breo Scalp3L (medical-insiders, 15/04/2026): puntas firmes que irritan",
+        "VitalEveRev (Amazon US): puntas metálicas incómodas",
+        "INIA VIBRA TikTok Shop (05/02/2026): pide más fuerza"
+      ],
+      "historial": [
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "+2 fuentes (Breo Scalp3L, VitalEveRev): puntas firmes o metálicas incómodas. Pasa de incipiente a tendencia.",
+          "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+        },
+        {
+          "date": "2026-10-22",
+          "run_id": "2026-10-22T19-55",
+          "change": "+1 fuente (Yaxa B0DWMVSVKL, 2025: vibración débil, nódulos incómodos)."
+        },
+        {
+          "date": "2026-10-23",
+          "run_id": "2026-10-23T19-54",
+          "change": "+1 fuente (INIA en TikTok Shop, 2026: le falta fuerza). Mismo competidor ya contado: n_competidores sigue en 6.",
+          "source": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722"
+        }
+      ]
+    },
+    {
+      "problema": "Diferencia entre lo anunciado en video y lo recibido",
+      "n_fuentes": 2,
+      "n_competidores": 2,
+      "clasificacion": "incipiente (2 fuentes de 2 productos del mismo formato adyacente: peine con spray)",
+      "oportunidad": "Mostrar solo lo que el aparato hace de verdad. En el formato de spray, los anuncios con transformaciones que parecen hechas con IA se leen como estafa. Flubberhome usa microdramas con IA: separar la ficción de la demo real y rotular la demo (ver OPP-017).",
+      "fecha": "2026-10-19",
+      "run_id": "2026-10-19T19-54",
+      "historial": [
+        {
+          "date": "2026-10-22",
+          "run_id": "2026-10-22T19-55",
+          "change": "+1 fuente (video de un creador del 22/06/2026 sobre el peine con spray; apoyo: listado de Amazon con 1,5★). Pasa de aislado a incipiente y suma el ángulo de los anuncios hechos con IA."
+        }
+      ]
+    },
+    {
+      "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
+      "n_fuentes": 2,
+      "n_competidores": 2,
+      "clasificacion": "incipiente (2 fuentes de 2 productos)",
+      "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
+      "fecha": "2026-10-19",
+      "run_id": "2026-10-19T19-54",
+      "historial": [
+        {
+          "date": "2026-10-20",
+          "run_id": "2026-10-20T19-54",
+          "change": "+1 fuente: LUMILUX, mails sin respuesta ante una falla. Pasa de aislado a incipiente.",
+          "source": "https://loox.io/sr/RoSxewWRga"
+        },
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "Contraejemplo: en Trustpilot varias opiniones de Glokore elogian la atención rápida, aunque otras se quejan de la garantía. Sin cambio de conteo.",
+          "source": "https://www.trustpilot.com/review/glokore.com"
+        }
+      ]
+    },
+    {
+      "problema": "Devolución y garantía con letra chica: el envío de vuelta lo paga el cliente o la garantía se rechaza por plazo",
+      "n_fuentes": 4,
+      "n_competidores": 2,
+      "clasificacion": "incipiente (4 fuentes de 2 marcas: Glokore y, desde el 23/10, INIA). Incluye fichas que se contradicen sobre la garantía (INIA: 2 años vs. 1 año; Magoo Gadgets CO: 30 días vs. 3 meses, 22/10).",
+      "oportunidad": "Si Flubberhome publica una garantía (OPP-003), decir en una línea quién paga el envío de vuelta y qué pasa después del plazo. Hoy la ventana para defectos es de 72 h, más corta que la de casi todos los competidores relevados.",
+      "fecha": "2026-10-21",
+      "run_id": "2026-10-21T19-55",
+      "historial": [
+        {
+          "date": "2026-10-21",
+          "run_id": "2026-10-21T19-55",
+          "change": "Alta del patrón.",
+          "source": "https://no.trustpilot.com/review/glokore.com"
+        },
+        {
+          "date": "2026-10-23",
+          "run_id": "2026-10-23T19-54",
+          "change": "+1 fuente: INIA promete 2 años en el banner y 1 año en las FAQ de la misma página. Se suma el caso de Magoo Gadgets (22/10) como antecedente.",
+          "source": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
+        }
+      ]
+    },
+    {
+      "problema": "Susto por pelos que se sueltan durante el uso",
+      "n_fuentes": 1,
+      "n_competidores": 1,
+      "clasificacion": "aislado (1 reseña de INIA, 07/08/2026)",
+      "oportunidad": "[HIPÓTESIS] Si aparece en más fuentes: en la Guía, recomendar presión suave, intensidad baja y no insistir en una zona, sin explicar ni prometer nada sobre caída (claim médico prohibido). Vigilar.",
+      "fecha": "2026-10-23",
+      "run_id": "2026-10-23T19-54",
+      "historial": [
+        {
+          "date": "2026-10-23",
+          "run_id": "2026-10-23T19-54",
+          "change": "Alta del patrón (aislado).",
+          "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
+        }
+      ]
+    },
+    {
+      "problema": "Precauciones o líquidos compatibles que el comprador recién descubre después de comprar",
+      "n_fuentes": 1,
+      "n_competidores": 1,
+      "clasificacion": "aislado (1 reseña de Breo en un revendedor UK)",
+      "oportunidad": "[HIPÓTESIS] Mostrar antes de la compra, en una línea, cómo se usa (pelo seco o apenas húmedo, nunca bajo el agua) y qué líquidos van; encaja con OPP-015. Sin claims médicos.",
+      "fecha": "2026-10-24",
+      "run_id": "2026-10-24T19-54",
+      "historial": [
+        {
+          "date": "2026-10-24",
+          "run_id": "2026-10-24T19-54",
+          "change": "Patrón nuevo (aislado).",
+          "source": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "problema": "Escepticismo sobre la luz roja",
-   "n_fuentes": 1,
-   "n_competidores": 1,
-   "clasificacion": "aislado (1 fuente)",
-   "oportunidad": "Flubberhome ya no comunica luz roja: refuerza el posicionamiento de masaje + aplicación. No usarlo como ataque.",
-   "fecha": "2026-10-17",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-   "n_fuentes": 12,
-   "n_competidores": 10,
-   "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
-   "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
-   "fecha": "2026-10-17",
-   "run_id": "2026-10-17T19-55",
-   "historial": [
+  ],
+  "items": [
     {
-     "date": "2026-10-18",
-     "run_id": "2026-10-18T19-54",
-     "change": "+1 fuente (foro lipstickalley, 2020: deja de funcionar a los meses y no retiene carga). Fuente vieja."
+      "fuente": "https://www.amazon.com/Electric-Applicator-Massager-Waterproof-Adjustable/dp/B0DX1T6RNV",
+      "producto": "2 en 1 IPX7 (Amazon US)",
+      "problema": "Calidad / diseño del depósito",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "La tapa del depósito no queda firme y el aceite se derrama; terminó aplicando con gotero y usando solo el cepillo.",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-19",
-     "run_id": "2026-10-19T19-54",
-     "change": "+2 fuentes (TYMO TriThera: dejó de encender; ZOKO LAB: llega roto o no enciende)."
+      "fuente": "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
+      "producto": "mriya (Amazon US)",
+      "problema": "Expectativas / uso",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "Duda de que las puntas alcancen el cuero cabelludo en pelo muy grueso; el manual advierte que los líquidos espesos tapan las salidas.",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-20",
-     "run_id": "2026-10-20T11-57",
-     "change": "+1 fuente: reseña de TYMO TriThera (dejó de encender).",
-     "source": "https://tymobeauty.com/products/tymo-trithera"
+      "fuente": "https://www.youtube.com/shorts/0MiwRZgJVx0",
+      "producto": "3 en 1 de TikTok (genérico)",
+      "problema": "Dificultad de uso / expectativas",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "El aceite se concentró y bajó hacia las sienes; pelo algo graso; duda de que la luz atraviese el pelo; el masaje sí le resultó relajante.",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-20",
-     "run_id": "2026-10-20T19-54",
-     "change": "+1 fuente: LUMILUX (llegó sin funcionar bien).",
-     "source": "https://loox.io/sr/RoSxewWRga"
+      "fuente": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
+      "producto": "Breo Scalp3",
+      "problema": "Falta de instrucciones",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "Reseña positiva que aclara que hay que apretar un poco para que salga el líquido (no es obvio).",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "+1 fuente: Breo Scalp3L (medical-insiders, 15/04/2026), varias quejas por aparatos fallados. Primera fuente del segmento premium en este patrón.",
-     "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+      "fuente": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4",
+      "producto": "Peosaard (Amazon MX)",
+      "problema": "Expectativas no satisfechas (sin texto)",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "Una sola calificación de 2/5, sin texto visible.",
+      "run_id": "2026-10-17T15-27"
     },
     {
-     "date": "2026-10-22",
-     "run_id": "2026-10-22T19-55",
-     "change": "+1 fuente con fecha de 2026 (Yaxa/Amazon, 23/05/2026: deja de andar a los ~30 usos)."
+      "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
+      "producto": "mriya 70 ml (Amazon US)",
+      "problema": "Durabilidad / obstrucción",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "Reseña destacada: se tapó el primer día, no se pudo destapar y además pierde; segunda unidad fallada.",
+      "run_id": "2026-10-17T15-28"
+    },
+    {
+      "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
+      "producto": "JIODTMER (Amazon US)",
+      "problema": "Pérdida de líquido",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "Reseña positiva que advierte que el resto de producto se escapa si no se vacía y que con aceites espesos se complica.",
+      "run_id": "2026-10-17T15-28"
+    },
+    {
+      "fuente": "https://www.amazon.com/dp/B0CWTV3DQ8",
+      "producto": "3 en 1 luz roja (Amazon US)",
+      "problema": "Falta de instrucciones / obstrucción",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "La propia ficha avisa que se cristaliza si no se limpia, que gotea apoyado y que hace falta gotero o embudo para cargarlo.",
+      "run_id": "2026-10-17T15-28"
+    },
+    {
+      "fuente": "https://www.today.com/shop/huayulink-electric-hair-oil-device-review-rcna147431",
+      "producto": "Huayulink (reseña TODAY, 04/2024)",
+      "problema": "Limpieza difícil",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "El depósito quedó con residuo de aceite y lo tuvo que limpiar con hisopos.",
+      "run_id": "2026-10-17T15-28"
+    },
+    {
+      "fuente": "https://www.amazon.com/Electric-Applicator-Oiling-Massager-Dispenser/dp/B0CR6C9V44",
+      "producto": "Hlonns (Amazon US)",
+      "problema": "Expectativas / uso",
+      "fecha_consulta": "2026-10-17",
+      "parafrasis": "La ficha aclara que no sirve para aceites espesos o concentrados; 3,2★ en 58 reseñas.",
+      "run_id": "2026-10-17T15-28"
+    },
+    {
+      "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
+      "producto": "Breo Scalp3",
+      "problema": "dosificación irregular / pérdida por la tapa",
+      "fecha": "2025-07-15",
+      "parafrasis": "El aceite no siempre salía y la tapa no sellaba bien; terminó aplicando a mano.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T15-28-b"
+    },
+    {
+      "fuente": "https://www.inthemiddle.fr/test-breo-scalp3-brosse-shiatsu-etanche-et-portable",
+      "producto": "Breo Scalp3",
+      "problema": "precio alto / depósito chico / sin adaptador",
+      "fecha": "2025-09-30",
+      "parafrasis": "Depósito de 3 ml corto para pelo largo y no incluye adaptador de corriente.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T15-28-b"
+    },
+    {
+      "fuente": "https://mercilia.com/products/electric-hair-oil-applicator",
+      "producto": "mercilia",
+      "problema": "obstrucción (advertencia del vendedor)",
+      "fecha": "vista 2026-10-17",
+      "parafrasis": "El propio vendedor avisa que si no se limpia, el líquido cristaliza y deja de salir.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T15-28-b"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (reseñas de Amazon replicadas por Yaxa, 3,4★/21)",
+      "problema": "durabilidad",
+      "fecha": "2026-05-23",
+      "parafrasis": "Dejó de masajear después de unos 30 usos; solo seguían las luces.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (Yaxa)",
+      "problema": "calidad / dificultad de devolución",
+      "fecha": "2024-12-12",
+      "parafrasis": "No funcionó al encenderlo por primera vez y no pudo devolverlo porque ya había roto la caja.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (Yaxa)",
+      "problema": "diferencia entre lo anunciado y lo recibido",
+      "fecha": "2025-02-21",
+      "parafrasis": "Le llegó el aparato sin el accesorio aplicador de aceite.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (Yaxa)",
+      "problema": "falta de instrucciones / expectativas",
+      "fecha": "2025-04-21",
+      "parafrasis": "Vibración débil, puntas incómodas y no entiende qué hace cada modo y cada luz; el depósito sí le resultó fácil.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://www.amazon.com.mx/JIODTMER-aplicador-el%C3%A9ctrico-masajeador-cabelludo/dp/B0F67FB5Y1",
+      "producto": "JIODTMER 2 en 1 (Amazon MX, 2,0★/2)",
+      "problema": "calidad",
+      "fecha": "2025-07-14",
+      "parafrasis": "Uno de los botones no funcionaba desde el primer día y eso le hizo desconfiar del resto.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://www.amazon.com/dp/B08XY841R6",
+      "producto": "HEREE eléctrico (Amazon US, 3,5★/3)",
+      "problema": "seguridad / calidad",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Reseña destacada: el aparato se derritió mientras cargaba.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
+      "producto": "JIODTMER 2 en 1 (Amazon US, 4,0★/59)",
+      "problema": "dificultad de uso",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Funciona, pero con aceites espesos se traba, hay que sostenerlo vertical y los restos gotean si no se vacía.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBMH36J",
+      "producto": "MINOZOOS (Amazon US, 3,6★/30)",
+      "problema": "dificultad de uso",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Bien con aceites livianos; los espesos no fluyen.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://juicer.deals/review-item/28926386/",
+      "producto": "Zinnor eléctrico (resumen de 13 reseñas)",
+      "problema": "dificultad de uso / durabilidad",
+      "fecha": "resumen sin fecha",
+      "parafrasis": "Varias reseñas dicen que tira y enreda el pelo largo, y algunas unidades fallaron.",
+      "fecha_consulta": "2026-10-17",
+      "run_id": "2026-10-17T19-55"
+    },
+    {
+      "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
+      "producto": "NAPRE masajeador eléctrico de cabeza (US)",
+      "problema": "expectativas no satisfechas / sensación en el cuero cabelludo",
+      "fecha": "2026-02-17",
+      "parafrasis": "Funciona bien en el cuerpo, pero en la cabeza rebota en intensidad baja y molesta; en alta es demasiado. Peor con poco pelo.",
+      "fecha_consulta": "2026-10-18",
+      "run_id": "2026-10-18T19-54"
+    },
+    {
+      "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
+      "producto": "NAPRE masajeador eléctrico de cabeza (US)",
+      "problema": "dificultad de uso",
+      "fecha": "2026-02-17",
+      "parafrasis": "Los botones quedan donde se apoya la mano y se tocan sin querer.",
+      "fecha_consulta": "2026-10-18",
+      "run_id": "2026-10-18T19-54"
+    },
+    {
+      "fuente": "https://www.hellomagazine.com/shopping/515260/i-tried-an-led-hair-growth-massager-for-my-thinning-hair/",
+      "producto": "Aplicador eléctrico 2 en 1 genérico (Amazon UK)",
+      "problema": "falta de instrucciones / pérdida de líquido",
+      "fecha": "2024-03-13",
+      "parafrasis": "Las primeras veces puso demasiado aceite; al no vaciar el depósito, se derramó sobre la mesa de luz. Terminó dosificando con pipeta.",
+      "fecha_consulta": "2026-10-18",
+      "run_id": "2026-10-18T19-54"
+    },
+    {
+      "fuente": "https://www.lipstickalley.com/threads/electronic-scalp-massager-for-natural-hair.4217986/",
+      "producto": "Masajeador eléctrico de cuero cabelludo (Amazon, foro)",
+      "problema": "durabilidad",
+      "fecha": "2020-12-20",
+      "parafrasis": "Una usuaria cuenta que dejó de andar a los pocos meses y que antes ya no retenía la carga. Otra menciona miedo a los enredos. Fuente vieja.",
+      "fecha_consulta": "2026-10-18",
+      "run_id": "2026-10-18T19-54"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/1732414648709452528",
+      "producto": "Peine eléctrico con spray y luz roja de ZOKO LAB (TikTok Shop US, producto adyacente)",
+      "problema": "diferencia entre lo anunciado y lo recibido; falta de instrucciones; calidad insuficiente",
+      "fecha": "2026-06-10 a 2026-06-23",
+      "parafrasis": "Varias compradoras dicen que no hace lo que mostraban los videos, que llegó roto o no enciende, y que el manual vino solo en chino. El listado muestra 2,8★ con 1,3 mil reseñas y 10,9 mil vendidos.",
+      "fecha_consulta": "2026-10-19",
+      "run_id": "2026-10-19T19-54"
+    },
+    {
+      "fuente": "https://tymobeauty.com/products/tymo-trithera",
+      "producto": "TYMO TriThera",
+      "problema": "durabilidad",
+      "fecha": "no visible",
+      "parafrasis": "Una compradora cuenta que funcionó al principio y después dejó de encender aunque lo cargó.",
+      "fecha_consulta": "2026-10-19",
+      "run_id": "2026-10-19T19-54"
+    },
+    {
+      "fuente": "https://claytonnotes.com/breo-scalp-massager/",
+      "producto": "Breo Scalp3",
+      "problema": "atención al cliente deficiente; expectativas no satisfechas",
+      "fecha": "2026-04-12",
+      "parafrasis": "La autora dice que el masaje y el láser no se pueden usar juntos, que el sensor dejó de activar la luz y que soporte solo respondió con textos automáticos. Es una reseña de blog, no de compra verificada.",
+      "fecha_consulta": "2026-10-19",
+      "run_id": "2026-10-19T19-54"
+    },
+    {
+      "fuente": "https://getsupplementreviews.com/breo-scalp-massager-review/",
+      "producto": "Breo Scalp3",
+      "problema": "dispensado del líquido",
+      "fecha": "2025-07-28",
+      "parafrasis": "Resumen de reseñas: el dispensador funciona de forma irregular y la tapa puede perder. Fuente secundaria.",
+      "fecha_consulta": "2026-10-19",
+      "run_id": "2026-10-19T19-54"
+    },
+    {
+      "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBL5JCB",
+      "producto": "MINOZOOS aplicador eléctrico (3,6★, 30 reseñas)",
+      "problema": "dispensado del líquido",
+      "fecha": "no visible",
+      "parafrasis": "La reseña destacada dice que funciona con aceites livianos y que los espesos no pasan bien.",
+      "fecha_consulta": "2026-10-19",
+      "run_id": "2026-10-19T19-54"
+    },
+    {
+      "fuente": "https://tymobeauty.com/products/tymo-trithera",
+      "producto": "TYMO TriThera (DTC, 4 reseñas)",
+      "problema": "durabilidad / falla de fábrica",
+      "fecha": "no visible",
+      "parafrasis": "Una compradora cuenta que al principio funcionaba y después dejó de encender aunque lo cargara.",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T11-57"
+    },
+    {
+      "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+      "producto": "Alverela NUVÉA™ (CO)",
+      "problema": "dispensado del líquido",
+      "fecha": "no visible",
+      "parafrasis": "El comprador dice que el aceite no sale si no se aprieta la tapa de silicona; igual le pone 5 estrellas.",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T19-54"
+    },
+    {
+      "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+      "producto": "Alverela NUVÉA™ (CO)",
+      "problema": "expectativas / primer uso",
+      "fecha": "no visible",
+      "parafrasis": "Llegó sin carga y hubo que cargarlo 2–3 horas antes del primer uso.",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T19-54"
+    },
+    {
+      "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
+      "producto": "mriya 70 ml (US, 3,2★ con 88 reseñas)",
+      "problema": "dispensado del líquido",
+      "fecha": "no visible",
+      "parafrasis": "La reseña destacada dice que se tapó el primer día, que pierde líquido y que era la segunda unidad fallada.",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T19-54"
+    },
+    {
+      "fuente": "https://www.amazon.com/VOEAIN-Electric-Massager-Applicator-Waterproof/dp/B0GGN6MRRQ",
+      "producto": "VOEAIN 3 en 1 (US, 3,1★ con 5 reseñas)",
+      "problema": "limpieza",
+      "fecha": "no visible",
+      "parafrasis": "Una reseña positiva advierte que limpiar el depósito y las puntas exige atención con aceites espesos.",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T19-54"
+    },
+    {
+      "fuente": "https://loox.io/sr/RoSxewWRga",
+      "producto": "LUMILUX 3 en 1 (tienda Loox, 2★)",
+      "problema": "entrega + durabilidad + atención",
+      "fecha": "2026-06-17",
+      "parafrasis": "Llegó tarde, no funcionaba bien y los mails no tuvieron respuesta (reseña del 17/06/2026).",
+      "fecha_consulta": "2026-10-20",
+      "run_id": "2026-10-20T19-54"
+    },
+    {
+      "fuente": "https://no.trustpilot.com/review/glokore.com",
+      "producto": "Glokore (Trustpilot, 3,2★ con 119 opiniones)",
+      "problema": "dificultades de devolución",
+      "fecha": "2026-03-29",
+      "parafrasis": "El producto no funcionó y la devolución \"con garantía\" le exigía pagar unos USD 33 de envío, así que no le convenía.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://ca.trustpilot.com/review/glokore.com?page=6",
+      "producto": "Glokore máscara LED (producto adyacente)",
+      "problema": "durabilidad + garantía rechazada",
+      "fecha": "2026-01-24",
+      "parafrasis": "Dejó de cargar a los 6 meses y la marca respondió que no había garantía ni servicio.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://www.bbb.org/us/nv/las-vegas/profile/skin-care/glokore-1086-90094156/complaints",
+      "producto": "Glokore masajeador capilar (BBB)",
+      "problema": "problemas de entrega",
+      "fecha": "2026-01-26",
+      "parafrasis": "Pagó el masajeador en noviembre de 2025 y dos meses después no había llegado. La marca reenvió el pedido tras el reclamo.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la",
+      "producto": "Breo Scalp3L (reseña editorial)",
+      "problema": "sensación incómoda + durabilidad",
+      "fecha": "2026-04-15",
+      "parafrasis": "Puntas finas y firmes que pueden irritar un cuero cabelludo sensible; menciona varias quejas por aparatos fallados y un precio alto.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W",
+      "producto": "VitalEveRev 3 en 1 (Amazon US, USD 129,99; 3,8★ con 5 reseñas)",
+      "problema": "sensación incómoda + instrucciones / uso",
+      "fecha": "no visible",
+      "parafrasis": "Las puntas metálicas le resultan incómodas, los controles táctiles no se entienden y la tapa trasera cuesta abrirla y cerrarla.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html",
+      "producto": "Arboleaf (comparativa de El País)",
+      "problema": "pelo largo",
+      "fecha": "2024-06-06",
+      "parafrasis": "Con pelo largo, usarlo en seco le dejó mucho frizz; recomienda usarlo en la ducha.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
+      "producto": "Breo Scalp3 (reseña de blog, 2025)",
+      "problema": "pelo largo",
+      "fecha": "2025-07-15",
+      "parafrasis": "Funciona mejor con pelo corto o mediano; con pelo largo las puntas se enredan.",
+      "fecha_consulta": "2026-10-21",
+      "run_id": "2026-10-21T19-55"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL, reseña de Amazon traducida)",
+      "problema": "durabilidad",
+      "fecha": "2026-05-23",
+      "parafrasis": "Dejó de funcionar después de unos 30 usos; solo prenden las luces.",
+      "fecha_consulta": "2026-10-22",
+      "run_id": "2026-10-22T19-55"
+    },
+    {
+      "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
+      "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL)",
+      "problema": "sensación incómoda / débil; instrucciones pobres",
+      "fecha": "2025-04-21",
+      "parafrasis": "Vibración débil, nódulos incómodos sobre el cuero cabelludo y no explica qué hace cada modo o luz.",
+      "fecha_consulta": "2026-10-22",
+      "run_id": "2026-10-22T19-55"
+    },
+    {
+      "fuente": "https://www.youtube.com/watch?v=4AJ4BLt_TWg",
+      "producto": "Peine eléctrico con spray 'air cushion' (formato adyacente; video de un creador, 22/06/2026). Apoyo: listado de Amazon AIRUIXIO con 1,5★ y 7 calificaciones (https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ)",
+      "problema": "diferencia entre lo anunciado y lo recibido; anuncios que parecen hechos con IA",
+      "fecha": "2026-06-22",
+      "parafrasis": "El creador dice que vio anuncios del producto en TikTok, Facebook e Instagram con transformaciones que parecen generadas con IA, que no encontró reseñas independientes y que lo considera una estafa.",
+      "fecha_consulta": "2026-10-22",
+      "run_id": "2026-10-22T19-55"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
+      "producto": "INIA VIBRA (TikTok Shop US)",
+      "problema": "sensación débil",
+      "fecha": "2026-02-05",
+      "parafrasis": "Compradora conforme en general, pero desearía que la vibración fuera más fuerte.",
+      "fecha_consulta": "2026-10-23",
+      "run_id": "2026-10-23T19-54"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634",
+      "producto": "INIA VIBRA, listado LIVE EXCLUSIVE (TikTok Shop US)",
+      "problema": "caída de pelo percibida durante el uso",
+      "fecha": "2026-08-07",
+      "parafrasis": "Dice que tras el primer uso se le soltó mucho pelo, se asustó y dejó de usarlo.",
+      "fecha_consulta": "2026-10-23",
+      "run_id": "2026-10-23T19-54"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
+      "producto": "INIA VIBRA (TikTok Shop US)",
+      "problema": "diferencia entre lo esperado y lo recibido (accesorio)",
+      "fecha": "sin fecha visible",
+      "parafrasis": "El gel incluido le resultó mucho más chico de lo que esperaba, aunque el empaque se ve bien.",
+      "fecha_consulta": "2026-10-23",
+      "run_id": "2026-10-23T19-54"
+    },
+    {
+      "fuente": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device",
+      "producto": "INIA VIBRA (tienda propia)",
+      "problema": "garantía inconsistente en la ficha",
+      "fecha": "sin fecha visible",
+      "parafrasis": "No es una reseña: la misma página promete 2 años de garantía en el banner y 1 año en las preguntas frecuentes.",
+      "fecha_consulta": "2026-10-23",
+      "run_id": "2026-10-23T19-54"
+    },
+    {
+      "fuente": "https://www.mirror.co.uk/3am/style/3am-fashion-celebrity-beauty/this-led-scalp-massager-helped-34567396",
+      "producto": "Breo Scalp3",
+      "problema": "dispensado: tapón difícil de abrir y dientes de aceite más cortos",
+      "fecha": "2025-01-28",
+      "parafrasis": "Reseña editorial: el tapón del tanque casi no se podía sacar y los dientes que sueltan aceite son más cortos que los de masaje, así que llegaba poco producto al cuero cabelludo; terminó aplicando el aceite a mano.",
+      "fecha_consulta": "2026-10-24",
+      "run_id": "2026-10-24T19-54"
+    },
+    {
+      "fuente": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush",
+      "producto": "Breo Scalp3 (revendedor UK)",
+      "problema": "precauciones de uso visibles solo después de comprar",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Una compradora se sorprendió al leer, ya con el aparato en casa, una lista de precauciones que no figuraba en la descripción; también pidió que aclaren qué aceites se pueden usar.",
+      "fecha_consulta": "2026-10-24",
+      "run_id": "2026-10-24T19-54"
     }
-   ]
-  },
-  {
-   "problema": "Enredos o tirones con pelo largo",
-   "n_fuentes": 4,
-   "n_competidores": 4,
-   "clasificacion": "tendencia incipiente (4 fuentes de 4 productos; 2 son resúmenes o reseñas editoriales)",
-   "oportunidad": "Probar ScalpCare Pro en pelo largo y, si no tira, mostrarlo; si tira, explicar la técnica (por secciones, sin arrastrar). Ver OPP-011. Ojo: El País vio frizz al usar en seco con pelo largo, que es justo el uso que pide Flubberhome. La técnica por secciones, sin arrastrar, tiene que estar en la Guía.",
-   "fecha": "2026-10-17",
-   "run_id": "2026-10-17T19-55",
-   "historial": [
-    {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "+2 fuentes: El País (Arboleaf, 2024: frizz en seco con pelo largo) y Balanced Brawn (Breo, 2025: se enreda con pelo largo). Pasa de incipiente a tendencia incipiente.",
-     "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
-    }
-   ]
-  },
-  {
-   "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
-   "n_fuentes": 4,
-   "n_competidores": 4,
-   "clasificacion": "tendencia incipiente (3 fuentes de 3 productos; ZOKO con muchas reseñas sobre manual solo en chino)",
-   "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
-   "fecha": "2026-10-17",
-   "run_id": "2026-10-17T19-55",
-   "historial": [
-    {
-     "date": "2026-10-19",
-     "run_id": "2026-10-19T19-54",
-     "change": "+1 fuente: ZOKO LAB (TikTok Shop US), varias quejas por manual solo en chino. Ver OPP-015."
-    },
-    {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "+1 fuente: VitalEveRev (controles táctiles poco claros, tapa difícil).",
-     "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
-    }
-   ]
-  },
-  {
-   "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-   "n_fuentes": 7,
-   "n_competidores": 6,
-   "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
-   "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
-   "fecha": "2026-10-18",
-   "run_id": "2026-10-18T19-54",
-   "fuentes": [
-    "INIA (reseña vista en el run 2026-10-18T11-54)",
-    "Yaxa 3 en 1: vibración débil y puntas incómodas (run 2026-10-17)",
-    "NAPRE (thehomeglow, 17/02/2026)",
-    "Breo Scalp3L (medical-insiders, 15/04/2026): puntas firmes que irritan",
-    "VitalEveRev (Amazon US): puntas metálicas incómodas",
-    "INIA VIBRA TikTok Shop (05/02/2026): pide más fuerza"
-   ],
-   "historial": [
-    {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "+2 fuentes (Breo Scalp3L, VitalEveRev): puntas firmes o metálicas incómodas. Pasa de incipiente a tendencia.",
-     "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
-    },
-    {
-     "date": "2026-10-22",
-     "run_id": "2026-10-22T19-55",
-     "change": "+1 fuente (Yaxa B0DWMVSVKL, 2025: vibración débil, nódulos incómodos)."
-    },
-    {
-     "date": "2026-10-23",
-     "run_id": "2026-10-23T19-54",
-     "change": "+1 fuente (INIA en TikTok Shop, 2026: le falta fuerza). Mismo competidor ya contado: n_competidores sigue en 6.",
-     "source": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722"
-    }
-   ]
-  },
-  {
-   "problema": "Diferencia entre lo anunciado en video y lo recibido",
-   "n_fuentes": 2,
-   "n_competidores": 2,
-   "clasificacion": "incipiente (2 fuentes de 2 productos del mismo formato adyacente: peine con spray)",
-   "oportunidad": "Mostrar solo lo que el aparato hace de verdad. En el formato de spray, los anuncios con transformaciones que parecen hechas con IA se leen como estafa. Flubberhome usa microdramas con IA: separar la ficción de la demo real y rotular la demo (ver OPP-017).",
-   "fecha": "2026-10-19",
-   "run_id": "2026-10-19T19-54",
-   "historial": [
-    {
-     "date": "2026-10-22",
-     "run_id": "2026-10-22T19-55",
-     "change": "+1 fuente (video de un creador del 22/06/2026 sobre el peine con spray; apoyo: listado de Amazon con 1,5★). Pasa de aislado a incipiente y suma el ángulo de los anuncios hechos con IA."
-    }
-   ]
-  },
-  {
-   "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
-   "n_fuentes": 2,
-   "n_competidores": 2,
-   "clasificacion": "incipiente (2 fuentes de 2 productos)",
-   "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
-   "fecha": "2026-10-19",
-   "run_id": "2026-10-19T19-54",
-   "historial": [
-    {
-     "date": "2026-10-20",
-     "run_id": "2026-10-20T19-54",
-     "change": "+1 fuente: LUMILUX, mails sin respuesta ante una falla. Pasa de aislado a incipiente.",
-     "source": "https://loox.io/sr/RoSxewWRga"
-    },
-    {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "Contraejemplo: en Trustpilot varias opiniones de Glokore elogian la atención rápida, aunque otras se quejan de la garantía. Sin cambio de conteo.",
-     "source": "https://www.trustpilot.com/review/glokore.com"
-    }
-   ]
-  },
-  {
-   "problema": "Devolución y garantía con letra chica: el envío de vuelta lo paga el cliente o la garantía se rechaza por plazo",
-   "n_fuentes": 4,
-   "n_competidores": 2,
-   "clasificacion": "incipiente (4 fuentes de 2 marcas: Glokore y, desde el 23/10, INIA). Incluye fichas que se contradicen sobre la garantía (INIA: 2 años vs. 1 año; Magoo Gadgets CO: 30 días vs. 3 meses, 22/10).",
-   "oportunidad": "Si Flubberhome publica una garantía (OPP-003), decir en una línea quién paga el envío de vuelta y qué pasa después del plazo. Hoy la ventana para defectos es de 72 h, más corta que la de casi todos los competidores relevados.",
-   "fecha": "2026-10-21",
-   "run_id": "2026-10-21T19-55",
-   "historial": [
-    {
-     "date": "2026-10-21",
-     "run_id": "2026-10-21T19-55",
-     "change": "Alta del patrón.",
-     "source": "https://no.trustpilot.com/review/glokore.com"
-    },
-    {
-     "date": "2026-10-23",
-     "run_id": "2026-10-23T19-54",
-     "change": "+1 fuente: INIA promete 2 años en el banner y 1 año en las FAQ de la misma página. Se suma el caso de Magoo Gadgets (22/10) como antecedente.",
-     "source": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
-    }
-   ]
-  },
-  {
-   "problema": "Susto por pelos que se sueltan durante el uso",
-   "n_fuentes": 1,
-   "n_competidores": 1,
-   "clasificacion": "aislado (1 reseña de INIA, 07/08/2026)",
-   "oportunidad": "[HIPÓTESIS] Si aparece en más fuentes: en la Guía, recomendar presión suave, intensidad baja y no insistir en una zona, sin explicar ni prometer nada sobre caída (claim médico prohibido). Vigilar.",
-   "fecha": "2026-10-23",
-   "run_id": "2026-10-23T19-54",
-   "historial": [
-    {
-     "date": "2026-10-23",
-     "run_id": "2026-10-23T19-54",
-     "change": "Alta del patrón (aislado).",
-     "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
-    }
-   ]
-  }
- ],
- "items": [
-  {
-   "fuente": "https://www.amazon.com/Electric-Applicator-Massager-Waterproof-Adjustable/dp/B0DX1T6RNV",
-   "producto": "2 en 1 IPX7 (Amazon US)",
-   "problema": "Calidad / diseño del depósito",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "La tapa del depósito no queda firme y el aceite se derrama; terminó aplicando con gotero y usando solo el cepillo.",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "fuente": "https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC",
-   "producto": "mriya (Amazon US)",
-   "problema": "Expectativas / uso",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "Duda de que las puntas alcancen el cuero cabelludo en pelo muy grueso; el manual advierte que los líquidos espesos tapan las salidas.",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "fuente": "https://www.youtube.com/shorts/0MiwRZgJVx0",
-   "producto": "3 en 1 de TikTok (genérico)",
-   "problema": "Dificultad de uso / expectativas",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "El aceite se concentró y bajó hacia las sienes; pelo algo graso; duda de que la luz atraviese el pelo; el masaje sí le resultó relajante.",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "fuente": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
-   "producto": "Breo Scalp3",
-   "problema": "Falta de instrucciones",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "Reseña positiva que aclara que hay que apretar un poco para que salga el líquido (no es obvio).",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "fuente": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4",
-   "producto": "Peosaard (Amazon MX)",
-   "problema": "Expectativas no satisfechas (sin texto)",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "Una sola calificación de 2/5, sin texto visible.",
-   "run_id": "2026-10-17T15-27"
-  },
-  {
-   "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
-   "producto": "mriya 70 ml (Amazon US)",
-   "problema": "Durabilidad / obstrucción",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "Reseña destacada: se tapó el primer día, no se pudo destapar y además pierde; segunda unidad fallada.",
-   "run_id": "2026-10-17T15-28"
-  },
-  {
-   "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
-   "producto": "JIODTMER (Amazon US)",
-   "problema": "Pérdida de líquido",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "Reseña positiva que advierte que el resto de producto se escapa si no se vacía y que con aceites espesos se complica.",
-   "run_id": "2026-10-17T15-28"
-  },
-  {
-   "fuente": "https://www.amazon.com/dp/B0CWTV3DQ8",
-   "producto": "3 en 1 luz roja (Amazon US)",
-   "problema": "Falta de instrucciones / obstrucción",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "La propia ficha avisa que se cristaliza si no se limpia, que gotea apoyado y que hace falta gotero o embudo para cargarlo.",
-   "run_id": "2026-10-17T15-28"
-  },
-  {
-   "fuente": "https://www.today.com/shop/huayulink-electric-hair-oil-device-review-rcna147431",
-   "producto": "Huayulink (reseña TODAY, 04/2024)",
-   "problema": "Limpieza difícil",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "El depósito quedó con residuo de aceite y lo tuvo que limpiar con hisopos.",
-   "run_id": "2026-10-17T15-28"
-  },
-  {
-   "fuente": "https://www.amazon.com/Electric-Applicator-Oiling-Massager-Dispenser/dp/B0CR6C9V44",
-   "producto": "Hlonns (Amazon US)",
-   "problema": "Expectativas / uso",
-   "fecha_consulta": "2026-10-17",
-   "parafrasis": "La ficha aclara que no sirve para aceites espesos o concentrados; 3,2★ en 58 reseñas.",
-   "run_id": "2026-10-17T15-28"
-  },
-  {
-   "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
-   "producto": "Breo Scalp3",
-   "problema": "dosificación irregular / pérdida por la tapa",
-   "fecha": "2025-07-15",
-   "parafrasis": "El aceite no siempre salía y la tapa no sellaba bien; terminó aplicando a mano.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T15-28-b"
-  },
-  {
-   "fuente": "https://www.inthemiddle.fr/test-breo-scalp3-brosse-shiatsu-etanche-et-portable",
-   "producto": "Breo Scalp3",
-   "problema": "precio alto / depósito chico / sin adaptador",
-   "fecha": "2025-09-30",
-   "parafrasis": "Depósito de 3 ml corto para pelo largo y no incluye adaptador de corriente.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T15-28-b"
-  },
-  {
-   "fuente": "https://mercilia.com/products/electric-hair-oil-applicator",
-   "producto": "mercilia",
-   "problema": "obstrucción (advertencia del vendedor)",
-   "fecha": "vista 2026-10-17",
-   "parafrasis": "El propio vendedor avisa que si no se limpia, el líquido cristaliza y deja de salir.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T15-28-b"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (reseñas de Amazon replicadas por Yaxa, 3,4★/21)",
-   "problema": "durabilidad",
-   "fecha": "2026-05-23",
-   "parafrasis": "Dejó de masajear después de unos 30 usos; solo seguían las luces.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (Yaxa)",
-   "problema": "calidad / dificultad de devolución",
-   "fecha": "2024-12-12",
-   "parafrasis": "No funcionó al encenderlo por primera vez y no pudo devolverlo porque ya había roto la caja.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (Yaxa)",
-   "problema": "diferencia entre lo anunciado y lo recibido",
-   "fecha": "2025-02-21",
-   "parafrasis": "Le llegó el aparato sin el accesorio aplicador de aceite.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (Yaxa)",
-   "problema": "falta de instrucciones / expectativas",
-   "fecha": "2025-04-21",
-   "parafrasis": "Vibración débil, puntas incómodas y no entiende qué hace cada modo y cada luz; el depósito sí le resultó fácil.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://www.amazon.com.mx/JIODTMER-aplicador-el%C3%A9ctrico-masajeador-cabelludo/dp/B0F67FB5Y1",
-   "producto": "JIODTMER 2 en 1 (Amazon MX, 2,0★/2)",
-   "problema": "calidad",
-   "fecha": "2025-07-14",
-   "parafrasis": "Uno de los botones no funcionaba desde el primer día y eso le hizo desconfiar del resto.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://www.amazon.com/dp/B08XY841R6",
-   "producto": "HEREE eléctrico (Amazon US, 3,5★/3)",
-   "problema": "seguridad / calidad",
-   "fecha": "sin fecha visible",
-   "parafrasis": "Reseña destacada: el aparato se derritió mientras cargaba.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://www.amazon.com/JIODTMER-Electric-Scalp-Massager-Applicator/dp/B0CDLT9ZZH",
-   "producto": "JIODTMER 2 en 1 (Amazon US, 4,0★/59)",
-   "problema": "dificultad de uso",
-   "fecha": "sin fecha visible",
-   "parafrasis": "Funciona, pero con aceites espesos se traba, hay que sostenerlo vertical y los restos gotean si no se vacía.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBMH36J",
-   "producto": "MINOZOOS (Amazon US, 3,6★/30)",
-   "problema": "dificultad de uso",
-   "fecha": "sin fecha visible",
-   "parafrasis": "Bien con aceites livianos; los espesos no fluyen.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://juicer.deals/review-item/28926386/",
-   "producto": "Zinnor eléctrico (resumen de 13 reseñas)",
-   "problema": "dificultad de uso / durabilidad",
-   "fecha": "resumen sin fecha",
-   "parafrasis": "Varias reseñas dicen que tira y enreda el pelo largo, y algunas unidades fallaron.",
-   "fecha_consulta": "2026-10-17",
-   "run_id": "2026-10-17T19-55"
-  },
-  {
-   "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
-   "producto": "NAPRE masajeador eléctrico de cabeza (US)",
-   "problema": "expectativas no satisfechas / sensación en el cuero cabelludo",
-   "fecha": "2026-02-17",
-   "parafrasis": "Funciona bien en el cuerpo, pero en la cabeza rebota en intensidad baja y molesta; en alta es demasiado. Peor con poco pelo.",
-   "fecha_consulta": "2026-10-18",
-   "run_id": "2026-10-18T19-54"
-  },
-  {
-   "fuente": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/",
-   "producto": "NAPRE masajeador eléctrico de cabeza (US)",
-   "problema": "dificultad de uso",
-   "fecha": "2026-02-17",
-   "parafrasis": "Los botones quedan donde se apoya la mano y se tocan sin querer.",
-   "fecha_consulta": "2026-10-18",
-   "run_id": "2026-10-18T19-54"
-  },
-  {
-   "fuente": "https://www.hellomagazine.com/shopping/515260/i-tried-an-led-hair-growth-massager-for-my-thinning-hair/",
-   "producto": "Aplicador eléctrico 2 en 1 genérico (Amazon UK)",
-   "problema": "falta de instrucciones / pérdida de líquido",
-   "fecha": "2024-03-13",
-   "parafrasis": "Las primeras veces puso demasiado aceite; al no vaciar el depósito, se derramó sobre la mesa de luz. Terminó dosificando con pipeta.",
-   "fecha_consulta": "2026-10-18",
-   "run_id": "2026-10-18T19-54"
-  },
-  {
-   "fuente": "https://www.lipstickalley.com/threads/electronic-scalp-massager-for-natural-hair.4217986/",
-   "producto": "Masajeador eléctrico de cuero cabelludo (Amazon, foro)",
-   "problema": "durabilidad",
-   "fecha": "2020-12-20",
-   "parafrasis": "Una usuaria cuenta que dejó de andar a los pocos meses y que antes ya no retenía la carga. Otra menciona miedo a los enredos. Fuente vieja.",
-   "fecha_consulta": "2026-10-18",
-   "run_id": "2026-10-18T19-54"
-  },
-  {
-   "fuente": "https://shop.tiktok.com/us/pdp/1732414648709452528",
-   "producto": "Peine eléctrico con spray y luz roja de ZOKO LAB (TikTok Shop US, producto adyacente)",
-   "problema": "diferencia entre lo anunciado y lo recibido; falta de instrucciones; calidad insuficiente",
-   "fecha": "2026-06-10 a 2026-06-23",
-   "parafrasis": "Varias compradoras dicen que no hace lo que mostraban los videos, que llegó roto o no enciende, y que el manual vino solo en chino. El listado muestra 2,8★ con 1,3 mil reseñas y 10,9 mil vendidos.",
-   "fecha_consulta": "2026-10-19",
-   "run_id": "2026-10-19T19-54"
-  },
-  {
-   "fuente": "https://tymobeauty.com/products/tymo-trithera",
-   "producto": "TYMO TriThera",
-   "problema": "durabilidad",
-   "fecha": "no visible",
-   "parafrasis": "Una compradora cuenta que funcionó al principio y después dejó de encender aunque lo cargó.",
-   "fecha_consulta": "2026-10-19",
-   "run_id": "2026-10-19T19-54"
-  },
-  {
-   "fuente": "https://claytonnotes.com/breo-scalp-massager/",
-   "producto": "Breo Scalp3",
-   "problema": "atención al cliente deficiente; expectativas no satisfechas",
-   "fecha": "2026-04-12",
-   "parafrasis": "La autora dice que el masaje y el láser no se pueden usar juntos, que el sensor dejó de activar la luz y que soporte solo respondió con textos automáticos. Es una reseña de blog, no de compra verificada.",
-   "fecha_consulta": "2026-10-19",
-   "run_id": "2026-10-19T19-54"
-  },
-  {
-   "fuente": "https://getsupplementreviews.com/breo-scalp-massager-review/",
-   "producto": "Breo Scalp3",
-   "problema": "dispensado del líquido",
-   "fecha": "2025-07-28",
-   "parafrasis": "Resumen de reseñas: el dispensador funciona de forma irregular y la tapa puede perder. Fuente secundaria.",
-   "fecha_consulta": "2026-10-19",
-   "run_id": "2026-10-19T19-54"
-  },
-  {
-   "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBL5JCB",
-   "producto": "MINOZOOS aplicador eléctrico (3,6★, 30 reseñas)",
-   "problema": "dispensado del líquido",
-   "fecha": "no visible",
-   "parafrasis": "La reseña destacada dice que funciona con aceites livianos y que los espesos no pasan bien.",
-   "fecha_consulta": "2026-10-19",
-   "run_id": "2026-10-19T19-54"
-  },
-  {
-   "fuente": "https://tymobeauty.com/products/tymo-trithera",
-   "producto": "TYMO TriThera (DTC, 4 reseñas)",
-   "problema": "durabilidad / falla de fábrica",
-   "fecha": "no visible",
-   "parafrasis": "Una compradora cuenta que al principio funcionaba y después dejó de encender aunque lo cargara.",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T11-57"
-  },
-  {
-   "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
-   "producto": "Alverela NUVÉA™ (CO)",
-   "problema": "dispensado del líquido",
-   "fecha": "no visible",
-   "parafrasis": "El comprador dice que el aceite no sale si no se aprieta la tapa de silicona; igual le pone 5 estrellas.",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T19-54"
-  },
-  {
-   "fuente": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
-   "producto": "Alverela NUVÉA™ (CO)",
-   "problema": "expectativas / primer uso",
-   "fecha": "no visible",
-   "parafrasis": "Llegó sin carga y hubo que cargarlo 2–3 horas antes del primer uso.",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T19-54"
-  },
-  {
-   "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
-   "producto": "mriya 70 ml (US, 3,2★ con 88 reseñas)",
-   "problema": "dispensado del líquido",
-   "fecha": "no visible",
-   "parafrasis": "La reseña destacada dice que se tapó el primer día, que pierde líquido y que era la segunda unidad fallada.",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T19-54"
-  },
-  {
-   "fuente": "https://www.amazon.com/VOEAIN-Electric-Massager-Applicator-Waterproof/dp/B0GGN6MRRQ",
-   "producto": "VOEAIN 3 en 1 (US, 3,1★ con 5 reseñas)",
-   "problema": "limpieza",
-   "fecha": "no visible",
-   "parafrasis": "Una reseña positiva advierte que limpiar el depósito y las puntas exige atención con aceites espesos.",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T19-54"
-  },
-  {
-   "fuente": "https://loox.io/sr/RoSxewWRga",
-   "producto": "LUMILUX 3 en 1 (tienda Loox, 2★)",
-   "problema": "entrega + durabilidad + atención",
-   "fecha": "2026-06-17",
-   "parafrasis": "Llegó tarde, no funcionaba bien y los mails no tuvieron respuesta (reseña del 17/06/2026).",
-   "fecha_consulta": "2026-10-20",
-   "run_id": "2026-10-20T19-54"
-  },
-  {
-   "fuente": "https://no.trustpilot.com/review/glokore.com",
-   "producto": "Glokore (Trustpilot, 3,2★ con 119 opiniones)",
-   "problema": "dificultades de devolución",
-   "fecha": "2026-03-29",
-   "parafrasis": "El producto no funcionó y la devolución \"con garantía\" le exigía pagar unos USD 33 de envío, así que no le convenía.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://ca.trustpilot.com/review/glokore.com?page=6",
-   "producto": "Glokore máscara LED (producto adyacente)",
-   "problema": "durabilidad + garantía rechazada",
-   "fecha": "2026-01-24",
-   "parafrasis": "Dejó de cargar a los 6 meses y la marca respondió que no había garantía ni servicio.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://www.bbb.org/us/nv/las-vegas/profile/skin-care/glokore-1086-90094156/complaints",
-   "producto": "Glokore masajeador capilar (BBB)",
-   "problema": "problemas de entrega",
-   "fecha": "2026-01-26",
-   "parafrasis": "Pagó el masajeador en noviembre de 2025 y dos meses después no había llegado. La marca reenvió el pedido tras el reclamo.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la",
-   "producto": "Breo Scalp3L (reseña editorial)",
-   "problema": "sensación incómoda + durabilidad",
-   "fecha": "2026-04-15",
-   "parafrasis": "Puntas finas y firmes que pueden irritar un cuero cabelludo sensible; menciona varias quejas por aparatos fallados y un precio alto.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W",
-   "producto": "VitalEveRev 3 en 1 (Amazon US, USD 129,99; 3,8★ con 5 reseñas)",
-   "problema": "sensación incómoda + instrucciones / uso",
-   "fecha": "no visible",
-   "parafrasis": "Las puntas metálicas le resultan incómodas, los controles táctiles no se entienden y la tapa trasera cuesta abrirla y cerrarla.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html",
-   "producto": "Arboleaf (comparativa de El País)",
-   "problema": "pelo largo",
-   "fecha": "2024-06-06",
-   "parafrasis": "Con pelo largo, usarlo en seco le dejó mucho frizz; recomienda usarlo en la ducha.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
-   "producto": "Breo Scalp3 (reseña de blog, 2025)",
-   "problema": "pelo largo",
-   "fecha": "2025-07-15",
-   "parafrasis": "Funciona mejor con pelo corto o mediano; con pelo largo las puntas se enredan.",
-   "fecha_consulta": "2026-10-21",
-   "run_id": "2026-10-21T19-55"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL, reseña de Amazon traducida)",
-   "problema": "durabilidad",
-   "fecha": "2026-05-23",
-   "parafrasis": "Dejó de funcionar después de unos 30 usos; solo prenden las luces.",
-   "fecha_consulta": "2026-10-22",
-   "run_id": "2026-10-22T19-55"
-  },
-  {
-   "fuente": "https://republicadominicana.yaxa.co/products/masajeador-electrico-3-en-1-para-el-cuero-cabelludo-y-aplicador-de-aceite-para-el-cabello-cepillo-aplicador-de-cuero-cabelludo-para-el-crecimiento",
-   "producto": "3 en 1 con atomizador (Yaxa, ASIN B0DWMVSVKL)",
-   "problema": "sensación incómoda / débil; instrucciones pobres",
-   "fecha": "2025-04-21",
-   "parafrasis": "Vibración débil, nódulos incómodos sobre el cuero cabelludo y no explica qué hace cada modo o luz.",
-   "fecha_consulta": "2026-10-22",
-   "run_id": "2026-10-22T19-55"
-  },
-  {
-   "fuente": "https://www.youtube.com/watch?v=4AJ4BLt_TWg",
-   "producto": "Peine eléctrico con spray 'air cushion' (formato adyacente; video de un creador, 22/06/2026). Apoyo: listado de Amazon AIRUIXIO con 1,5★ y 7 calificaciones (https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ)",
-   "problema": "diferencia entre lo anunciado y lo recibido; anuncios que parecen hechos con IA",
-   "fecha": "2026-06-22",
-   "parafrasis": "El creador dice que vio anuncios del producto en TikTok, Facebook e Instagram con transformaciones que parecen generadas con IA, que no encontró reseñas independientes y que lo considera una estafa.",
-   "fecha_consulta": "2026-10-22",
-   "run_id": "2026-10-22T19-55"
-  },
-  {
-   "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
-   "producto": "INIA VIBRA (TikTok Shop US)",
-   "problema": "sensación débil",
-   "fecha": "2026-02-05",
-   "parafrasis": "Compradora conforme en general, pero desearía que la vibración fuera más fuerte.",
-   "fecha_consulta": "2026-10-23",
-   "run_id": "2026-10-23T19-54"
-  },
-  {
-   "fuente": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634",
-   "producto": "INIA VIBRA, listado LIVE EXCLUSIVE (TikTok Shop US)",
-   "problema": "caída de pelo percibida durante el uso",
-   "fecha": "2026-08-07",
-   "parafrasis": "Dice que tras el primer uso se le soltó mucho pelo, se asustó y dejó de usarlo.",
-   "fecha_consulta": "2026-10-23",
-   "run_id": "2026-10-23T19-54"
-  },
-  {
-   "fuente": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722",
-   "producto": "INIA VIBRA (TikTok Shop US)",
-   "problema": "diferencia entre lo esperado y lo recibido (accesorio)",
-   "fecha": "sin fecha visible",
-   "parafrasis": "El gel incluido le resultó mucho más chico de lo que esperaba, aunque el empaque se ve bien.",
-   "fecha_consulta": "2026-10-23",
-   "run_id": "2026-10-23T19-54"
-  },
-  {
-   "fuente": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device",
-   "producto": "INIA VIBRA (tienda propia)",
-   "problema": "garantía inconsistente en la ficha",
-   "fecha": "sin fecha visible",
-   "parafrasis": "No es una reseña: la misma página promete 2 años de garantía en el banner y 1 año en las preguntas frecuentes.",
-   "fecha_consulta": "2026-10-23",
-   "run_id": "2026-10-23T19-54"
-  }
- ]
+  ]
 }

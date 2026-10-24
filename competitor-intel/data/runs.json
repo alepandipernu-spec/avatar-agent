@@ -1033,5 +1033,46 @@
       "OPP-013-angulo-regalo-temporada (nota, score igual)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-24T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Breo (tienda, Amazon US, The Mirror, Aetheo UK, blogs)",
+      "TYMO, Gadnic, Holy, Anyra (copia de Exa)",
+      "Tiendas AR (Carrello, Movex) y MX (Znice, Joinet, Amazon MX)"
+    ],
+    "fuentes_fallidas": [
+      "Reseñas de Mercado Libre: no se intentó leer (antecedente de muro de login); la búsqueda en español devolvió fichas sin reseñas nuevas",
+      "Reddit: la búsqueda no trajo hilos de 2026",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "breo-us",
+      "tymo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "anyra-us",
+      "co-dtc-tiendas",
+      "mx-tiendas",
+      "ar-tiendas-chicas"
+    ],
+    "competidores_nuevos": [
+      "carrello-ar"
+    ],
+    "novedades": [
+      "Carrello (AR) vende el mismo formato de 6 ml a ARS 66.599 con 6 cuotas y envío gratis",
+      "Reseñas de Breo: dientes de aceite cortos, tapón difícil; precauciones solo después de comprar",
+      "Movex (AR, bruma 15 ml, ARS 20.800) y Znice (MX, MXN 565) como referencias"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-015 (nota)",
+      "OPP-012 (nota)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

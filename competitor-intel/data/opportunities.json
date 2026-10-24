@@ -1,810 +1,822 @@
 {
- "OPP-001-demo-aplicacion-sin-goteo": {
-  "id": "OPP-001-demo-aplicacion-sin-goteo",
-  "competidor_observado": "Varios (Amazon US: 2 en 1 IPX7, mriya, Breo; UGC YouTube; INIA)",
-  "producto_estrategia": "Objeción recurrente sobre el dispensado del líquido",
-  "fuente_evidencia": "reviews.json patrón 'Dispensado del líquido' (4 fuentes, 17/10/2026); +5 fuentes el 17/10/2026 15:28 (total 9 fuentes / 9 productos)",
-  "hallazgo": "[HECHO] Los compradores se quejan de goteo, tapas flojas, salidas tapadas y no saber cuánto apretar. [HECHO] INIA y Glokore responden esa objeción en su ficha.",
-  "explicacion": "[HIPÓTESIS] Es la duda práctica que frena a quien ya aplica tónico con los dedos o con gotero.",
-  "confianza": "media-alta (9 fuentes, 9 productos; no verificado aún en ScalpCare Pro)",
-  "diferencia_flubberhome": "Flubberhome incluye una Guía Digital pero la página no muestra paso a paso del depósito. Además varios competidores se venden como aptos para ducha/enjuague (Satorix IPX7, 2 en 1 IPX7); ScalpCare Pro no se usa bajo el agua: el bloque debe presentarlo como ritual en seco, no esconderlo.",
-  "adaptable": "Responder la objeción con demostración real y concreta.",
-  "no_replicar": "Promesas de crecimiento; porcentajes de 'resultados' sin método.",
-  "propuesta_original": "Bloque 'Cargarlo en 20 segundos' en la página + capítulo de la Guía con: líquidos livianos sí / espesos no, cantidad, cerrar y limpiar; video de 15 s dentro del universo Edificio Flubber donde un personaje aprende a cargarlo sin enchastre (pelo seco, fuera de la ducha). Incluir limpieza de las puntas tras cada uso (queja de cristalización).",
-  "ejemplo": "Gancho: '¿Y esto no gotea?' → mano carga 3–4 ml de tónico liviano → pasa por el pelo seco → toalla limpia en primer plano.",
-  "recursos": "Edición de la ficha (Shopify), 1 video corto, actualización del PDF de la guía.",
-  "costos_riesgos": "Bajo costo. Riesgo: mostrar un goteo real si el producto gotea; probar el propio producto antes de grabar.",
-  "metrica": "Tasa de agregar al carrito y tiempo en la página cuando se reactiven campañas; CTR del video frente al control.",
-  "proximo_paso": "Probar el aparato propio con 2–3 líquidos y documentar qué funciona; luego redactar el bloque.",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 4,
-   "facilidad": 5,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 3
+  "OPP-001-demo-aplicacion-sin-goteo": {
+    "id": "OPP-001-demo-aplicacion-sin-goteo",
+    "competidor_observado": "Varios (Amazon US: 2 en 1 IPX7, mriya, Breo; UGC YouTube; INIA)",
+    "producto_estrategia": "Objeción recurrente sobre el dispensado del líquido",
+    "fuente_evidencia": "reviews.json patrón 'Dispensado del líquido' (4 fuentes, 17/10/2026); +5 fuentes el 17/10/2026 15:28 (total 9 fuentes / 9 productos)",
+    "hallazgo": "[HECHO] Los compradores se quejan de goteo, tapas flojas, salidas tapadas y no saber cuánto apretar. [HECHO] INIA y Glokore responden esa objeción en su ficha.",
+    "explicacion": "[HIPÓTESIS] Es la duda práctica que frena a quien ya aplica tónico con los dedos o con gotero.",
+    "confianza": "media-alta (9 fuentes, 9 productos; no verificado aún en ScalpCare Pro)",
+    "diferencia_flubberhome": "Flubberhome incluye una Guía Digital pero la página no muestra paso a paso del depósito. Además varios competidores se venden como aptos para ducha/enjuague (Satorix IPX7, 2 en 1 IPX7); ScalpCare Pro no se usa bajo el agua: el bloque debe presentarlo como ritual en seco, no esconderlo.",
+    "adaptable": "Responder la objeción con demostración real y concreta.",
+    "no_replicar": "Promesas de crecimiento; porcentajes de 'resultados' sin método.",
+    "propuesta_original": "Bloque 'Cargarlo en 20 segundos' en la página + capítulo de la Guía con: líquidos livianos sí / espesos no, cantidad, cerrar y limpiar; video de 15 s dentro del universo Edificio Flubber donde un personaje aprende a cargarlo sin enchastre (pelo seco, fuera de la ducha). Incluir limpieza de las puntas tras cada uso (queja de cristalización).",
+    "ejemplo": "Gancho: '¿Y esto no gotea?' → mano carga 3–4 ml de tónico liviano → pasa por el pelo seco → toalla limpia en primer plano.",
+    "recursos": "Edición de la ficha (Shopify), 1 video corto, actualización del PDF de la guía.",
+    "costos_riesgos": "Bajo costo. Riesgo: mostrar un goteo real si el producto gotea; probar el propio producto antes de grabar.",
+    "metrica": "Tasa de agregar al carrito y tiempo en la página cuando se reactiven campañas; CTR del video frente al control.",
+    "proximo_paso": "Probar el aparato propio con 2–3 líquidos y documentar qué funciona; luego redactar el bloque.",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 4,
+      "facilidad": 5,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 3
+    },
+    "score": 80.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28",
+        "change": "evidencia ampliada; confianza 3→4; score 60→80; suma gestión de expectativa ducha vs seco"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Más evidencia, score sin cambios (80). LeeRong (Amazon, 04/2026) indica cargar solo media carga por sesión, y una nota de Hello Magazine cuenta un derrame por sobrecarga. Sumar a la demo la dosis por sesión y cómo guardarlo vacío."
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Más evidencia, score sin cambios (80): DHactive y BERNOVAS también prometen aplicación limpia y sin desperdicio. La promesa ya es común; lo que diferencia es demostrarla en video (carga, pasada, mano limpia) en lugar de afirmarla.",
+        "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Más evidencia: 3 reseñas nuevas de dispensado (Alverela, mriya, VOEAIN). El patrón llega a 20 fuentes. Sin cambio de score.",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T19-55",
+        "change": "Sin cambio de score (80). Se vincula a OPP-017: la demo debe ser una toma real y rotulada, no generada con IA."
+      }
+    ]
   },
-  "score": 80.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28",
-    "change": "evidencia ampliada; confianza 3→4; score 60→80; suma gestión de expectativa ducha vs seco"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Más evidencia, score sin cambios (80). LeeRong (Amazon, 04/2026) indica cargar solo media carga por sesión, y una nota de Hello Magazine cuenta un derrame por sobrecarga. Sumar a la demo la dosis por sesión y cómo guardarlo vacío."
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Más evidencia, score sin cambios (80): DHactive y BERNOVAS también prometen aplicación limpia y sin desperdicio. La promesa ya es común; lo que diferencia es demostrarla en video (carga, pasada, mano limpia) en lugar de afirmarla.",
-    "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Más evidencia: 3 reseñas nuevas de dispensado (Alverela, mriya, VOEAIN). El patrón llega a 20 fuentes. Sin cambio de score.",
-    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
-   },
-   {
-    "date": "2026-10-22",
-    "run_id": "2026-10-22T19-55",
-    "change": "Sin cambio de score (80). Se vincula a OPP-017: la demo debe ser una toma real y rotulada, no generada con IA."
-   }
-  ]
- },
- "OPP-002-angulo-upgrade-cepillo-manual-AR": {
-  "id": "OPP-002-angulo-upgrade-cepillo-manual-AR",
-  "competidor_observado": "cepillos-manuales-ar (Coony, Gadnic, Hairfy, Scher)",
-  "producto_estrategia": "Demanda local concentrada en cepillos manuales de silicona",
-  "fuente_evidencia": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo (17/10/2026) ; https://shop.tiktok.com/us/k/hair-oil-and-massager (18/10/2026)",
-  "hallazgo": "[HECHO: indicador ML] Manuales con +500 a +5mil vendidos a ARS 3–12 mil; eléctricos con +5 a +50 a ARS 37–70 mil. [HECHO: indicador TikTok Shop US, 18/10/2026] El kit manual aplicador + aceite de romero (USD 19) muestra 43,6 mil vendidos; el eléctrico más vendido, 9,3 mil.",
-  "explicacion": "[HIPÓTESIS] En AR y en US el hábito (cepillar o aceitar) ya existe en formato manual y barato; falta una razón concreta para pasar al eléctrico.",
-  "confianza": "media-alta (mismo patrón en 2 mercados y 2 plataformas)",
-  "diferencia_flubberhome": "Flubberhome vende a USD 41,93 sin explicar por qué conviene frente al cepillo manual.",
-  "adaptable": "Usar el hábito existente como punto de partida.",
-  "no_replicar": "Comparaciones con marcas nombradas; desprestigiar al cepillo manual.",
-  "propuesta_original": "Ángulo 'tu cepillo de silicona, versión siguiente': el manual masajea; ScalpCare además reparte el tónico de forma pareja y no te cansa la mano.",
-  "ejemplo": "Microdrama: vecina que usa su cepillito en el ascensor y otra que hace la rutina con el depósito cargado mientras mira una serie.",
-  "recursos": "1–2 piezas creativas; texto en la ficha.",
-  "costos_riesgos": "Bajo. Riesgo: reforzar el ancla de precio bajo.",
-  "metrica": "CTR y costo por clic en AR frente a ángulos actuales; mensajes de '¿qué diferencia tiene?'.",
-  "proximo_paso": "Incluir el ángulo en el próximo ciclo creativo de AR (cuando se reactive la campaña).",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 4,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-002-angulo-upgrade-cepillo-manual-AR": {
+    "id": "OPP-002-angulo-upgrade-cepillo-manual-AR",
+    "competidor_observado": "cepillos-manuales-ar (Coony, Gadnic, Hairfy, Scher)",
+    "producto_estrategia": "Demanda local concentrada en cepillos manuales de silicona",
+    "fuente_evidencia": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo (17/10/2026) ; https://shop.tiktok.com/us/k/hair-oil-and-massager (18/10/2026)",
+    "hallazgo": "[HECHO: indicador ML] Manuales con +500 a +5mil vendidos a ARS 3–12 mil; eléctricos con +5 a +50 a ARS 37–70 mil. [HECHO: indicador TikTok Shop US, 18/10/2026] El kit manual aplicador + aceite de romero (USD 19) muestra 43,6 mil vendidos; el eléctrico más vendido, 9,3 mil.",
+    "explicacion": "[HIPÓTESIS] En AR y en US el hábito (cepillar o aceitar) ya existe en formato manual y barato; falta una razón concreta para pasar al eléctrico.",
+    "confianza": "media-alta (mismo patrón en 2 mercados y 2 plataformas)",
+    "diferencia_flubberhome": "Flubberhome vende a USD 41,93 sin explicar por qué conviene frente al cepillo manual.",
+    "adaptable": "Usar el hábito existente como punto de partida.",
+    "no_replicar": "Comparaciones con marcas nombradas; desprestigiar al cepillo manual.",
+    "propuesta_original": "Ángulo 'tu cepillo de silicona, versión siguiente': el manual masajea; ScalpCare además reparte el tónico de forma pareja y no te cansa la mano.",
+    "ejemplo": "Microdrama: vecina que usa su cepillito en el ascensor y otra que hace la rutina con el depósito cargado mientras mira una serie.",
+    "recursos": "1–2 piezas creativas; texto en la ficha.",
+    "costos_riesgos": "Bajo. Riesgo: reforzar el ancla de precio bajo.",
+    "metrica": "CTR y costo por clic en AR frente a ángulos actuales; mensajes de '¿qué diferencia tiene?'.",
+    "proximo_paso": "Incluir el ángulo en el próximo ciclo creativo de AR (cuando se reactive la campaña).",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 4,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 48.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T11-54",
+        "change": "Evidencia de US (TikTok Shop): el patrón manual→eléctrico se repite; confianza 3→4, score 36→48. Aplica también a US con el aplicador manual de aceite."
+      }
+    ]
   },
-  "score": 48.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T11-54",
-    "change": "Evidencia de US (TikTok Shop): el patrón manual→eléctrico se repite; confianza 3→4, score 36→48. Aplica también a US con el aplicador manual de aceite."
-   }
-  ]
- },
- "OPP-003-garantia-publicada": {
-  "id": "OPP-003-garantia-publicada",
-  "competidor_observado": "Gadnic (12 meses), Hairrova (1 año + 30 días), Breo (365 días), Glokore (60 días + plan pago), Nordic (devolución)",
-  "producto_estrategia": "Garantía visible como argumento de confianza",
-  "fuente_evidencia": "competitors.json / products.json (17/10/2026) | 19-55: patrón de fallas de fábrica (6 fuentes); Breo 30 días + 1 año (us.breo.com); NIHLO CO 1 año a COP 89.900; Smartjoys CO 2 meses; En Tu Sitio CO 30 días. | 11-57 (20/10): Gadnic ya con stock y 12 meses; DHactive (US) devolución 60 días (https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)",
-  "hallazgo": "[HECHO] 5 de los competidores relevados publican garantía o devolución extendida; Flubberhome solo cambios 30 días sin abrir y defectos en 72 h.",
-  "explicacion": "[HIPÓTESIS] En una marca nueva sin reseñas, la garantía reemplaza parte de la prueba social que falta.",
-  "confianza": "alta en el hecho, media en el efecto",
-  "diferencia_flubberhome": "Política más corta que el estándar observado.",
-  "adaptable": "Garantía de funcionamiento publicada y clara.",
-  "no_replicar": "Garantías que no se puedan cumplir con la logística actual.",
-  "propuesta_original": "'Garantía de funcionamiento de X meses' (definir X con datos de fallas y costo de reposición) explicada en lenguaje simple junto al botón de compra.",
-  "ejemplo": "Línea bajo el precio: 'Si deja de funcionar dentro de X meses, te mandamos otro'.",
-  "recursos": "Decisión del dueño, datos de tasa de fallas del proveedor, costo de reenvío por país.",
-  "costos_riesgos": "Costo de reposición y envíos internacionales; no se puede estimar sin la tasa de fallas.",
-  "metrica": "Conversión de la página antes/después; reclamos por garantía.",
-  "proximo_paso": "Pedir al proveedor (el dueño) la tasa de defectos y calcular el costo esperado antes de decidir.",
-  "puntajes": {
-   "impacto": 5,
-   "confianza": 4,
-   "facilidad": 3,
-   "costo": 3,
-   "riesgo": 2,
-   "urgencia": 4
+  "OPP-003-garantia-publicada": {
+    "id": "OPP-003-garantia-publicada",
+    "competidor_observado": "Gadnic (12 meses), Hairrova (1 año + 30 días), Breo (365 días), Glokore (60 días + plan pago), Nordic (devolución)",
+    "producto_estrategia": "Garantía visible como argumento de confianza",
+    "fuente_evidencia": "competitors.json / products.json (17/10/2026) | 19-55: patrón de fallas de fábrica (6 fuentes); Breo 30 días + 1 año (us.breo.com); NIHLO CO 1 año a COP 89.900; Smartjoys CO 2 meses; En Tu Sitio CO 30 días. | 11-57 (20/10): Gadnic ya con stock y 12 meses; DHactive (US) devolución 60 días (https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)",
+    "hallazgo": "[HECHO] 5 de los competidores relevados publican garantía o devolución extendida; Flubberhome solo cambios 30 días sin abrir y defectos en 72 h.",
+    "explicacion": "[HIPÓTESIS] En una marca nueva sin reseñas, la garantía reemplaza parte de la prueba social que falta.",
+    "confianza": "alta en el hecho, media en el efecto",
+    "diferencia_flubberhome": "Política más corta que el estándar observado.",
+    "adaptable": "Garantía de funcionamiento publicada y clara.",
+    "no_replicar": "Garantías que no se puedan cumplir con la logística actual.",
+    "propuesta_original": "'Garantía de funcionamiento de X meses' (definir X con datos de fallas y costo de reposición) explicada en lenguaje simple junto al botón de compra.",
+    "ejemplo": "Línea bajo el precio: 'Si deja de funcionar dentro de X meses, te mandamos otro'.",
+    "recursos": "Decisión del dueño, datos de tasa de fallas del proveedor, costo de reenvío por país.",
+    "costos_riesgos": "Costo de reposición y envíos internacionales; no se puede estimar sin la tasa de fallas.",
+    "metrica": "Conversión de la página antes/después; reclamos por garantía.",
+    "proximo_paso": "Pedir al proveedor (el dueño) la tasa de defectos y calcular el costo esperado antes de decidir.",
+    "puntajes": {
+      "impacto": 5,
+      "confianza": 4,
+      "facilidad": 3,
+      "costo": 3,
+      "riesgo": 2,
+      "urgencia": 4
+    },
+    "score": 11.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Score 8.0→11.0: la durabilidad pasa a tendencia y en CO ya hay garantía de 1 año a precio bajo. Impacto 4→5, urgencia 3→4."
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Más evidencia, score sin cambios (11). LeeRong ofrece 12 meses de garantía a USD 49,99, cerca del precio de Flubberhome."
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T19-54",
+        "change": "Más evidencia, score sin cambios (11): TYMO publica 1 año pero con una exclusión ambigua; NeXo (CO) 30 días; Smartjoys (CO) 2 meses; una reseña de Breo se queja de soporte automatizado."
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Más evidencia, score sin cambios (11): Gadnic sale de preventa con 12 meses de garantía visible junto al precio; DHactive publica 60 días de devolución.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Más evidencia CO: el genérico de Falabella tiene 1 mes de garantía del proveedor (\"Sin garantía\" en el detalle); NIHLO publica 1 año por defectos. La garantía separa marcas de genéricos. Sin cambio de score.",
+        "source": "https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Más evidencia, score sin cambios (11): en Glokore, una garantía de devolución que exige pagar el envío de vuelta genera reclamos en Trustpilot y BBB. La garantía tiene que aclarar quién paga el envío. Nuevo patrón en reviews.json.",
+        "source": "https://no.trustpilot.com/review/glokore.com"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "Nota, score sin cambios (11): INIA y Magoo Gadgets se contradicen sobre la garantía en su propia ficha. Si Flubberhome publica una, que sea una sola frase, igual en la ficha, las FAQ y el checkout."
+      }
+    ]
   },
-  "score": 11.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Score 8.0→11.0: la durabilidad pasa a tendencia y en CO ya hay garantía de 1 año a precio bajo. Impacto 4→5, urgencia 3→4."
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Más evidencia, score sin cambios (11). LeeRong ofrece 12 meses de garantía a USD 49,99, cerca del precio de Flubberhome."
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T19-54",
-    "change": "Más evidencia, score sin cambios (11): TYMO publica 1 año pero con una exclusión ambigua; NeXo (CO) 30 días; Smartjoys (CO) 2 meses; una reseña de Breo se queja de soporte automatizado."
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Más evidencia, score sin cambios (11): Gadnic sale de preventa con 12 meses de garantía visible junto al precio; DHactive publica 60 días de devolución.",
-    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Más evidencia CO: el genérico de Falabella tiene 1 mes de garantía del proveedor (\"Sin garantía\" en el detalle); NIHLO publica 1 año por defectos. La garantía separa marcas de genéricos. Sin cambio de score.",
-    "source": "https://www.falabella.com.co/falabella-co/product/155994131/cepillo-crecimiento-cabello-electrico-luz-roja-masajeador-capilar-aplicador-aceite-recargable/155994132"
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T19-55",
-    "change": "Más evidencia, score sin cambios (11): en Glokore, una garantía de devolución que exige pagar el envío de vuelta genera reclamos en Trustpilot y BBB. La garantía tiene que aclarar quién paga el envío. Nuevo patrón en reviews.json.",
-    "source": "https://no.trustpilot.com/review/glokore.com"
-   },
-   {
-    "date": "2026-10-23",
-    "run_id": "2026-10-23T19-54",
-    "change": "Nota, score sin cambios (11): INIA y Magoo Gadgets se contradicen sobre la garantía en su propia ficha. Si Flubberhome publica una, que sea una sola frase, igual en la ficha, las FAQ y el checkout."
-   }
-  ]
- },
- "OPP-004-embudo-explicativo": {
-  "id": "OPP-004-embudo-explicativo",
-  "competidor_observado": "glokore-us",
-  "producto_estrategia": "Advertorial + página puente + checkout con garantía extendida",
-  "fuente_evidencia": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976 ; https://glokore.com/scalpmassager/checkout4",
-  "hallazgo": "[HECHO] Glokore usa un artículo largo 'para quién sí / para quién no' antes del checkout.",
-  "explicacion": "[HIPÓTESIS] Un producto que necesita explicación vende mejor con contenido previo que con una ficha corta.",
-  "confianza": "baja (sin datos de rendimiento)",
-  "diferencia_flubberhome": "Flubberhome solo tiene ficha de producto.",
-  "adaptable": "Página explicativa honesta (no disfrazada de noticia).",
-  "no_replicar": "Formato periodístico engañoso, 'termina a medianoche', claims médicos.",
-  "propuesta_original": "Página 'Cómo es la rutina ScalpCare en 5 minutos' con preguntas reales, para quién sí y para quién no.",
-  "ejemplo": "Secciones: qué hace y qué no hace; qué tónico usar; cuánto dura la batería; cómo se limpia.",
-  "recursos": "Redacción + página en Shopify.",
-  "costos_riesgos": "Riesgo de dividir tráfico sin volumen suficiente para medir.",
-  "metrica": "Conversión de la página puente vs ficha directa (test A/B cuando haya tráfico).",
-  "proximo_paso": "Postergar hasta tener tráfico pago activo.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 2,
-   "facilidad": 2,
-   "costo": 2,
-   "riesgo": 3,
-   "urgencia": 1
+  "OPP-004-embudo-explicativo": {
+    "id": "OPP-004-embudo-explicativo",
+    "competidor_observado": "glokore-us",
+    "producto_estrategia": "Advertorial + página puente + checkout con garantía extendida",
+    "fuente_evidencia": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/glokore-scalp-massager-reviewed-dont-buy-glokore-red-light-therapy-for-1160976 ; https://glokore.com/scalpmassager/checkout4",
+    "hallazgo": "[HECHO] Glokore usa un artículo largo 'para quién sí / para quién no' antes del checkout.",
+    "explicacion": "[HIPÓTESIS] Un producto que necesita explicación vende mejor con contenido previo que con una ficha corta.",
+    "confianza": "baja (sin datos de rendimiento)",
+    "diferencia_flubberhome": "Flubberhome solo tiene ficha de producto.",
+    "adaptable": "Página explicativa honesta (no disfrazada de noticia).",
+    "no_replicar": "Formato periodístico engañoso, 'termina a medianoche', claims médicos.",
+    "propuesta_original": "Página 'Cómo es la rutina ScalpCare en 5 minutos' con preguntas reales, para quién sí y para quién no.",
+    "ejemplo": "Secciones: qué hace y qué no hace; qué tónico usar; cuánto dura la batería; cómo se limpia.",
+    "recursos": "Redacción + página en Shopify.",
+    "costos_riesgos": "Riesgo de dividir tráfico sin volumen suficiente para medir.",
+    "metrica": "Conversión de la página puente vs ficha directa (test A/B cuando haya tráfico).",
+    "proximo_paso": "Postergar hasta tener tráfico pago activo.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 2,
+      "facilidad": 2,
+      "costo": 2,
+      "riesgo": 3,
+      "urgencia": 1
+    },
+    "score": 2.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "creada"
+      }
+    ]
   },
-  "score": 2.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "creada"
-   }
-  ]
- },
- "OPP-005-sensorial-en-seco": {
-  "id": "OPP-005-sensorial-en-seco",
-  "competidor_observado": "Contenido orgánico/afiliados de la categoría",
-  "producto_estrategia": "Formato creativo sensorial (planos lentos, sonido real, sin claims)",
-  "fuente_evidencia": "Guías públicas https://videoideas.org/blogs/scalp-massager-satisfying-video-ideas (29/09/2026) y https://videoideas.org/blogs/21-hair-care-video-ideas-sell-shampoo-oils-treatments-2026 (15/10/2026). Fuente secundaria, NO Biblioteca de Meta. | 19-55: casi todos los competidores de CO/MX y Breo promueven uso en la ducha (IPX7); reseñas reportan fallas por agua en el puerto.",
-  "hallazgo": "[HECHO] Las guías recomiendan movimiento continuo sin cortes y sonido real; casi todas las ideas pasan en la ducha.",
-  "explicacion": "[HIPÓTESIS] Retención por sensación sin necesidad de claims.",
-  "confianza": "baja (sin datos de rendimiento)",
-  "diferencia_flubberhome": "Flubberhome no puede mostrar ducha ni espuma.",
-  "adaptable": "Ritmo lento, primer plano, sonido del motor, pausa de alivio.",
-  "no_replicar": "Lavado con espuma, enjuague, antes/después de pelo.",
-  "propuesta_original": "Serie \"El minuto de alivio del Edificio Flubber\": un personaje distinto por episodio, pelo seco, en el sillón, sin música.",
-  "ejemplo": "0–3 s primer plano del depósito con pocas gotas; 3–12 s pasada lenta sin cortes; 12–15 s exhalación + texto \"pelo seco, 5 minutos\".",
-  "recursos": "AI Creative Studio.",
-  "costos_riesgos": "Bajo; revisar que la IA no muestre agua.",
-  "metrica": "Retención a 3 s y tiempo medio de visualización frente a los microdramas actuales.",
-  "proximo_paso": "1 pieza de prueba en el próximo ciclo quincenal.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 3,
-   "facilidad": 4,
-   "costo": 2,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-005-sensorial-en-seco": {
+    "id": "OPP-005-sensorial-en-seco",
+    "competidor_observado": "Contenido orgánico/afiliados de la categoría",
+    "producto_estrategia": "Formato creativo sensorial (planos lentos, sonido real, sin claims)",
+    "fuente_evidencia": "Guías públicas https://videoideas.org/blogs/scalp-massager-satisfying-video-ideas (29/09/2026) y https://videoideas.org/blogs/21-hair-care-video-ideas-sell-shampoo-oils-treatments-2026 (15/10/2026). Fuente secundaria, NO Biblioteca de Meta. | 19-55: casi todos los competidores de CO/MX y Breo promueven uso en la ducha (IPX7); reseñas reportan fallas por agua en el puerto.",
+    "hallazgo": "[HECHO] Las guías recomiendan movimiento continuo sin cortes y sonido real; casi todas las ideas pasan en la ducha.",
+    "explicacion": "[HIPÓTESIS] Retención por sensación sin necesidad de claims.",
+    "confianza": "baja (sin datos de rendimiento)",
+    "diferencia_flubberhome": "Flubberhome no puede mostrar ducha ni espuma.",
+    "adaptable": "Ritmo lento, primer plano, sonido del motor, pausa de alivio.",
+    "no_replicar": "Lavado con espuma, enjuague, antes/después de pelo.",
+    "propuesta_original": "Serie \"El minuto de alivio del Edificio Flubber\": un personaje distinto por episodio, pelo seco, en el sillón, sin música.",
+    "ejemplo": "0–3 s primer plano del depósito con pocas gotas; 3–12 s pasada lenta sin cortes; 12–15 s exhalación + texto \"pelo seco, 5 minutos\".",
+    "recursos": "AI Creative Studio.",
+    "costos_riesgos": "Bajo; revisar que la IA no muestre agua.",
+    "metrica": "Retención a 3 s y tiempo medio de visualización frente a los microdramas actuales.",
+    "proximo_paso": "1 pieza de prueba en el próximo ciclo quincenal.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 3,
+      "facilidad": 4,
+      "costo": 2,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 18.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Score 12.0→18.0: el uso en la ducha es la norma de la competencia, así que el ritual en seco necesita encuadre propio para no parecer una limitación."
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Más evidencia, score sin cambios (18): la copia de Ulta de TYMO TriThera la vende como apta para la ducha (IPX7). Se confirma que el uso en seco necesita encuadre de ritual propio.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      }
+    ]
   },
-  "score": 18.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Score 12.0→18.0: el uso en la ducha es la norma de la competencia, así que el ritual en seco necesita encuadre propio para no parecer una limitación."
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Más evidencia, score sin cambios (18): la copia de Ulta de TYMO TriThera la vende como apta para la ducha (IPX7). Se confirma que el uso en seco necesita encuadre de ritual propio.",
-    "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
-   }
-  ]
- },
- "OPP-006-kit-liquido-compatible": {
-  "id": "OPP-006-kit-liquido-compatible",
-  "competidor_observado": "Lena Vegetal (AR), Nordic Biolabs (US), Beltronic (AR)",
-  "producto_estrategia": "Modelo aparato + líquido propio",
-  "fuente_evidencia": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/ (+70 vendidos, stock bajo, 17/10/2026) ; +3 kits vistos el 18/10/2026 (Mount Lai/Ulta, YENNYE/Amazon, warmyard/UK) — demand_signals 'kits-aparato-mas-liquido'",
-  "hallazgo": "[HECHO] El único kit AR con contador público vende aparato + tónico.",
-  "explicacion": "[HIPÓTESIS] Responde \"¿qué le pongo?\" y abre recompra.",
-  "confianza": "baja (una señal, chica)",
-  "diferencia_flubberhome": "Solo aparato + guía.",
-  "adaptable": "Recomendar en la guía tipos de líquido aptos, sin vender uno propio todavía.",
-  "no_replicar": "Tónicos \"anticaída\" o \"crecimiento\".",
-  "propuesta_original": "Capítulo de la guía \"Qué cargar en el depósito y qué no\"; evaluar proveedor solo con demanda propia.",
-  "ejemplo": "Lista de líquidos fluidos tipo tónico vs. aceites espesos a evitar.",
-  "recursos": "Kit real: proveedor, registro sanitario por país, logística de líquidos.",
-  "costos_riesgos": "Alto costo y riesgo regulatorio.",
-  "metrica": "Preguntas de clientes sobre qué líquido usar.",
-  "proximo_paso": "Seguir el contador de Lena en próximas ejecuciones.",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 3,
-   "facilidad": 2,
-   "costo": 4,
-   "riesgo": 3,
-   "urgencia": 1
+  "OPP-006-kit-liquido-compatible": {
+    "id": "OPP-006-kit-liquido-compatible",
+    "competidor_observado": "Lena Vegetal (AR), Nordic Biolabs (US), Beltronic (AR)",
+    "producto_estrategia": "Modelo aparato + líquido propio",
+    "fuente_evidencia": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/ (+70 vendidos, stock bajo, 17/10/2026) ; +3 kits vistos el 18/10/2026 (Mount Lai/Ulta, YENNYE/Amazon, warmyard/UK) — demand_signals 'kits-aparato-mas-liquido'",
+    "hallazgo": "[HECHO] El único kit AR con contador público vende aparato + tónico.",
+    "explicacion": "[HIPÓTESIS] Responde \"¿qué le pongo?\" y abre recompra.",
+    "confianza": "baja (una señal, chica)",
+    "diferencia_flubberhome": "Solo aparato + guía.",
+    "adaptable": "Recomendar en la guía tipos de líquido aptos, sin vender uno propio todavía.",
+    "no_replicar": "Tónicos \"anticaída\" o \"crecimiento\".",
+    "propuesta_original": "Capítulo de la guía \"Qué cargar en el depósito y qué no\"; evaluar proveedor solo con demanda propia.",
+    "ejemplo": "Lista de líquidos fluidos tipo tónico vs. aceites espesos a evitar.",
+    "recursos": "Kit real: proveedor, registro sanitario por país, logística de líquidos.",
+    "costos_riesgos": "Alto costo y riesgo regulatorio.",
+    "metrica": "Preguntas de clientes sobre qué líquido usar.",
+    "proximo_paso": "Seguir el contador de Lena en próximas ejecuciones.",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 3,
+      "facilidad": 2,
+      "costo": 4,
+      "riesgo": 3,
+      "urgencia": 1
+    },
+    "score": 2.0,
+    "estado": "en evaluación",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T03-55",
+        "change": "Más evidencia de formato kit (4 mercados); confianza 2→3; score 1,33→2. Sigue costoso: requiere líquido propio, registro y logística"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Más evidencia, score sin cambios (2). LeeRong incluye 30 ml de aceite en la caja y La Milpa de María (MX) vende el aplicador como accesorio de sus aceites. Sigue sin datos de costo ni logística."
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Más evidencia: Alverela (CO) vende un combo aparato + aceite de argán a COP 117.700. Es el segundo kit relevado (después de Lena en AR). Sin cambio de score: falta evaluar proveedor y logística.",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      }
+    ]
   },
-  "score": 2.0,
-  "estado": "en evaluación",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T03-55",
-    "change": "Más evidencia de formato kit (4 mercados); confianza 2→3; score 1,33→2. Sigue costoso: requiere líquido propio, registro y logística"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Más evidencia, score sin cambios (2). LeeRong incluye 30 ml de aceite en la caja y La Milpa de María (MX) vende el aplicador como accesorio de sus aceites. Sigue sin datos de costo ni logística."
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Más evidencia: Alverela (CO) vende un combo aparato + aceite de argán a COP 117.700. Es el segundo kit relevado (después de Lena en AR). Sin cambio de score: falta evaluar proveedor y logística.",
-    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
-   }
-  ]
- },
- "OPP-007-precio-honesto-ahorro-por-unidad": {
-  "id": "OPP-007-precio-honesto-ahorro-por-unidad",
-  "competidor_observado": "Anyra, Hairrova, Microshop, monalisamedical",
-  "producto_estrategia": "Tachados permanentes de 40–68% y prueba social autodeclarada; página de Anyra con bloque de otro producto",
-  "fuente_evidencia": "páginas de producto, 17/10/2026",
-  "hallazgo": "Los directos de US compiten con descuentos inflados y copy incoherente.",
-  "explicacion": "[HIPÓTESIS] La urgencia funciona a corto plazo, pero un comprador atento detecta la plantilla.",
-  "confianza": "media (observación directa; efecto sobre conversión desconocido)",
-  "diferencia_flubberhome": "Flubberhome quitó tachados el 17/10/2026.",
-  "adaptable": "Convertir la ausencia de tachado en mensaje de confianza.",
-  "no_replicar": "Tachados ficticios, conteos de clientes no verificables, '93% vio crecimiento'.",
-  "propuesta_original": "Línea en la ficha: precio real, sin descuentos inventados; el ahorro está en los packs (mostrar el ahorro por unidad del Dúo y Familiar).",
-  "ejemplo": "'Pack Dúo: cada uno sale USD 35,94' junto al botón.",
-  "recursos": "Edición de texto en la ficha",
-  "costos_riesgos": "Muy bajo",
-  "metrica": "Proporción de pedidos con Pack Dúo/Familiar",
-  "proximo_paso": "Proponer el texto al dueño.",
-  "puntajes": {
-   "impacto": 2,
-   "confianza": 3,
-   "facilidad": 5,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-007-precio-honesto-ahorro-por-unidad": {
+    "id": "OPP-007-precio-honesto-ahorro-por-unidad",
+    "competidor_observado": "Anyra, Hairrova, Microshop, monalisamedical",
+    "producto_estrategia": "Tachados permanentes de 40–68% y prueba social autodeclarada; página de Anyra con bloque de otro producto",
+    "fuente_evidencia": "páginas de producto, 17/10/2026",
+    "hallazgo": "Los directos de US compiten con descuentos inflados y copy incoherente.",
+    "explicacion": "[HIPÓTESIS] La urgencia funciona a corto plazo, pero un comprador atento detecta la plantilla.",
+    "confianza": "media (observación directa; efecto sobre conversión desconocido)",
+    "diferencia_flubberhome": "Flubberhome quitó tachados el 17/10/2026.",
+    "adaptable": "Convertir la ausencia de tachado en mensaje de confianza.",
+    "no_replicar": "Tachados ficticios, conteos de clientes no verificables, '93% vio crecimiento'.",
+    "propuesta_original": "Línea en la ficha: precio real, sin descuentos inventados; el ahorro está en los packs (mostrar el ahorro por unidad del Dúo y Familiar).",
+    "ejemplo": "'Pack Dúo: cada uno sale USD 35,94' junto al botón.",
+    "recursos": "Edición de texto en la ficha",
+    "costos_riesgos": "Muy bajo",
+    "metrica": "Proporción de pedidos con Pack Dúo/Familiar",
+    "proximo_paso": "Proponer el texto al dueño.",
+    "puntajes": {
+      "impacto": 2,
+      "confianza": 3,
+      "facilidad": 5,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 30.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28-b",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Más evidencia, score sin cambios (30). [HECHO] TYMO TriThera se vende a USD 42,99, 79,99 y 99,99 según el canal (Ulta, Best Buy, Macy's/DTC), y el formato aparece en TJ Maxx por menos de USD 20. En EE. UU. el precio 'de lista' pierde credibilidad; un precio único con ahorro real por pack es más defendible."
+      }
+    ]
   },
-  "score": 30.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28-b",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Más evidencia, score sin cambios (30). [HECHO] TYMO TriThera se vende a USD 42,99, 79,99 y 99,99 según el canal (Ulta, Best Buy, Macy's/DTC), y el formato aparece en TJ Maxx por menos de USD 20. En EE. UU. el precio 'de lista' pierde credibilidad; un precio único con ahorro real por pack es más defendible."
-   }
-  ]
- },
- "OPP-008-angulo-habito-paso-abandonado": {
-  "id": "OPP-008-angulo-habito-paso-abandonado",
-  "competidor_observado": "Ondavu",
-  "producto_estrategia": "Vender la rutina de 4 pasos y el insight 'el masaje es el paso que se abandona'",
-  "fuente_evidencia": "https://www.cheymuter.com/post/ondavu-4-step-haircare-routine (12/10/2026)",
-  "hallazgo": "Encuadre de hábito en vez de resultado.",
-  "explicacion": "[HIPÓTESIS] Evita claims médicos y apunta a la fricción real (cansancio de manos).",
-  "confianza": "baja-media (una fuente, sin datos de resultado)",
-  "diferencia_flubberhome": "Los microdramas hoy no tienen un arco de 'hábito'.",
-  "adaptable": "La idea de hábito y constancia, no el texto.",
-  "no_replicar": "Su copy, su nombre de pasos.",
-  "propuesta_original": "Mini serie del Edificio Flubber: 'La semana de 5 minutos' — un personaje sostiene la rutina 7 días con el aparato porque no le cansa la mano.",
-  "ejemplo": "Episodio 1: deja el masaje con los dedos a los 90 s; episodio 2: lo hace mirando una serie con el ScalpCare.",
-  "recursos": "Guiones + generación de video IA",
-  "costos_riesgos": "Bajo; riesgo creativo",
-  "metrica": "Retención a 3 s y 50% del Reel, guardados",
-  "proximo_paso": "Pasarlo como ángulo a la skill flubberhome-creative-engine.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 2,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-008-angulo-habito-paso-abandonado": {
+    "id": "OPP-008-angulo-habito-paso-abandonado",
+    "competidor_observado": "Ondavu",
+    "producto_estrategia": "Vender la rutina de 4 pasos y el insight 'el masaje es el paso que se abandona'",
+    "fuente_evidencia": "https://www.cheymuter.com/post/ondavu-4-step-haircare-routine (12/10/2026)",
+    "hallazgo": "Encuadre de hábito en vez de resultado.",
+    "explicacion": "[HIPÓTESIS] Evita claims médicos y apunta a la fricción real (cansancio de manos).",
+    "confianza": "baja-media (una fuente, sin datos de resultado)",
+    "diferencia_flubberhome": "Los microdramas hoy no tienen un arco de 'hábito'.",
+    "adaptable": "La idea de hábito y constancia, no el texto.",
+    "no_replicar": "Su copy, su nombre de pasos.",
+    "propuesta_original": "Mini serie del Edificio Flubber: 'La semana de 5 minutos' — un personaje sostiene la rutina 7 días con el aparato porque no le cansa la mano.",
+    "ejemplo": "Episodio 1: deja el masaje con los dedos a los 90 s; episodio 2: lo hace mirando una serie con el ScalpCare.",
+    "recursos": "Guiones + generación de video IA",
+    "costos_riesgos": "Bajo; riesgo creativo",
+    "metrica": "Retención a 3 s y 50% del Reel, guardados",
+    "proximo_paso": "Pasarlo como ángulo a la skill flubberhome-creative-engine.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 2,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 24.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28-b",
+        "change": "creada"
+      }
+    ]
   },
-  "score": 24.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28-b",
-    "change": "creada"
-   }
-  ]
- },
- "OPP-009-precio-por-mercado-mx-co": {
-  "id": "OPP-009-precio-por-mercado-mx-co",
-  "competidor_observado": "Tiendas DTC de CO (Holy Cosmetics y genéricas) y de MX (pidehoy.mx, OC Market)",
-  "producto_estrategia": "Precio local frente al precio base de Flubberhome",
-  "fuente_evidencia": "competitors.json: holy-cosmetics-co, co-dtc-tiendas, mx-tiendas (17/10/2026); TRM 3.170,46 (dolar-colombia.com, 16/10/2026); 17,98 MXN/USD (Publimetro, 07/10/2026)",
-  "hallazgo": "[ESTIMACIÓN] El precio base de USD 41,93 equivale a ≈ COP 133 mil (tercio superior en CO, solo Holy está por encima con reseñas) y ≈ MXN 754 (por debajo de las 2 tiendas DTC mexicanas vistas). [HECHO 18/10/2026, Shopify lectura] Hay 2 mercados: 'Estados Unidos' y 'Latinoamérica' (AR, MX, CO); el precio contextual es USD 41,93 en los 4 países, sin moneda local. La ficha publica entrega de 10–20 días hábiles en LatAm y envío de USD 10 para 1 unidad.",
-  "explicacion": "[HIPÓTESIS] En MX Flubberhome sería competitivo en precio frente a lo local; en CO compite contra genéricos más baratos con contraentrega y necesita justificar el valor.",
-  "confianza": "media (precios por mercado verificados; plazos según la ficha propia, no medidos)",
-  "diferencia_flubberhome": "Hoy un solo precio en USD para los 4 mercados (según la búsqueda en Shopify).",
-  "adaptable": "Pensar precio y mensaje por país, no copiar precios.",
-  "no_replicar": "Precios tachados inflados y claims médicos de las tiendas colombianas.",
-  "propuesta_original": "CORREGIDA 18/10/2026: en MX no se puede vender 'llega rápido' (10–20 días hábiles es igual o más lento que los vendedores transfronterizos de ML MX, 7–20 días). Ver OPP-012 para el costo total y el plazo. En CO, la garantía y la atención siguen siendo el eje.",
-  "ejemplo": "Ficha CO: bloque 'Garantía + envío en X días' junto al precio; ficha MX: 'Llega en X días, no en tres semanas' (solo si el plazo es real).",
-  "recursos": "Revisión de Shopify Markets y del plazo real de envío por país",
-  "costos_riesgos": "Bajo; riesgo de prometer plazos que la logística no cumple",
-  "metrica": "Tasa de conversión por país cuando se reactiven las campañas",
-  "proximo_paso": "Confirmar precios por mercado y plazos reales de envío a MX y CO (tarea del dueño o próxima ejecución de las 03:54).",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 3,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 2,
-   "urgencia": 3
+  "OPP-009-precio-por-mercado-mx-co": {
+    "id": "OPP-009-precio-por-mercado-mx-co",
+    "competidor_observado": "Tiendas DTC de CO (Holy Cosmetics y genéricas) y de MX (pidehoy.mx, OC Market)",
+    "producto_estrategia": "Precio local frente al precio base de Flubberhome",
+    "fuente_evidencia": "competitors.json: holy-cosmetics-co, co-dtc-tiendas, mx-tiendas (17/10/2026); TRM 3.170,46 (dolar-colombia.com, 16/10/2026); 17,98 MXN/USD (Publimetro, 07/10/2026)",
+    "hallazgo": "[ESTIMACIÓN] El precio base de USD 41,93 equivale a ≈ COP 133 mil (tercio superior en CO, solo Holy está por encima con reseñas) y ≈ MXN 754 (por debajo de las 2 tiendas DTC mexicanas vistas). [HECHO 18/10/2026, Shopify lectura] Hay 2 mercados: 'Estados Unidos' y 'Latinoamérica' (AR, MX, CO); el precio contextual es USD 41,93 en los 4 países, sin moneda local. La ficha publica entrega de 10–20 días hábiles en LatAm y envío de USD 10 para 1 unidad.",
+    "explicacion": "[HIPÓTESIS] En MX Flubberhome sería competitivo en precio frente a lo local; en CO compite contra genéricos más baratos con contraentrega y necesita justificar el valor.",
+    "confianza": "media (precios por mercado verificados; plazos según la ficha propia, no medidos)",
+    "diferencia_flubberhome": "Hoy un solo precio en USD para los 4 mercados (según la búsqueda en Shopify).",
+    "adaptable": "Pensar precio y mensaje por país, no copiar precios.",
+    "no_replicar": "Precios tachados inflados y claims médicos de las tiendas colombianas.",
+    "propuesta_original": "CORREGIDA 18/10/2026: en MX no se puede vender 'llega rápido' (10–20 días hábiles es igual o más lento que los vendedores transfronterizos de ML MX, 7–20 días). Ver OPP-012 para el costo total y el plazo. En CO, la garantía y la atención siguen siendo el eje.",
+    "ejemplo": "Ficha CO: bloque 'Garantía + envío en X días' junto al precio; ficha MX: 'Llega en X días, no en tres semanas' (solo si el plazo es real).",
+    "recursos": "Revisión de Shopify Markets y del plazo real de envío por país",
+    "costos_riesgos": "Bajo; riesgo de prometer plazos que la logística no cumple",
+    "metrica": "Tasa de conversión por país cuando se reactiven las campañas",
+    "proximo_paso": "Confirmar precios por mercado y plazos reales de envío a MX y CO (tarea del dueño o próxima ejecución de las 03:54).",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 3,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 2,
+      "urgencia": 3
+    },
+    "score": 24.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T03-55",
+        "change": "Precios por mercado verificados en Shopify; se descarta el ángulo 'envío rápido' en MX; score 16→24"
+      }
+    ]
   },
-  "score": 24.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T03-55",
-    "change": "Precios por mercado verificados en Shopify; se descarta el ángulo 'envío rápido' en MX; score 16→24"
-   }
-  ]
- },
- "OPP-010-control-funcionamiento-y-cuidado-bateria": {
-  "id": "OPP-010-control-funcionamiento-y-cuidado-bateria",
-  "competidor_observado": "Genéricos con fallas (Yaxa 3 en 1, JIODTMER MX, HEREE, Zinnor)",
-  "producto_estrategia": "Reseñas de fallas de fábrica y de carga",
-  "fuente_evidencia": "reviews.json, patrón 'Durabilidad y fallas de fábrica' (6 fuentes, 17/10/2026)",
-  "hallazgo": "Que el aparato no encienda al llegar o deje de andar en semanas es la segunda queja más repetida de la categoría.",
-  "explicacion": "[HIPÓTESIS] Es el mismo producto genérico de fábrica con control de calidad variable; el comprador lo vive como estafa.",
-  "confianza": "media (6 fuentes, ninguna sobre el producto exacto de Flubberhome)",
-  "diferencia_flubberhome": "No se sabe si hoy hay control antes del despacho ni cuál es la tasa de fallas del proveedor.",
-  "adaptable": "Responder a la objeción con un proceso real, no con una promesa.",
-  "no_replicar": "Afirmar 'probado uno por uno' si no se hace.",
-  "propuesta_original": "Si la logística lo permite, encender y probar cada unidad antes de despachar y poner una tarjeta en la caja; sumar a la Guía una página de cuidado (carga con cable original, secar antes de cargar, nunca bajo el agua).",
-  "ejemplo": "Tarjeta: 'Este ScalpCare se encendió y se probó antes de salir' + QR a la Guía (solo si el proceso existe).",
-  "recursos": "Consultar con el proveedor/depósito si es viable y cuánto cuesta por unidad",
-  "costos_riesgos": "Costo operativo por unidad desconocido",
-  "metrica": "Tasa de reclamos por defecto en los primeros 30 días",
-  "proximo_paso": "Preguntar al proveedor la tasa de defectos y si el depósito puede hacer la prueba (lo decide el dueño; no se contactó a nadie).",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 3,
-   "facilidad": 3,
-   "costo": 2,
-   "riesgo": 1,
-   "urgencia": 3
+  "OPP-010-control-funcionamiento-y-cuidado-bateria": {
+    "id": "OPP-010-control-funcionamiento-y-cuidado-bateria",
+    "competidor_observado": "Genéricos con fallas (Yaxa 3 en 1, JIODTMER MX, HEREE, Zinnor)",
+    "producto_estrategia": "Reseñas de fallas de fábrica y de carga",
+    "fuente_evidencia": "reviews.json, patrón 'Durabilidad y fallas de fábrica' (6 fuentes, 17/10/2026)",
+    "hallazgo": "Que el aparato no encienda al llegar o deje de andar en semanas es la segunda queja más repetida de la categoría.",
+    "explicacion": "[HIPÓTESIS] Es el mismo producto genérico de fábrica con control de calidad variable; el comprador lo vive como estafa.",
+    "confianza": "media (6 fuentes, ninguna sobre el producto exacto de Flubberhome)",
+    "diferencia_flubberhome": "No se sabe si hoy hay control antes del despacho ni cuál es la tasa de fallas del proveedor.",
+    "adaptable": "Responder a la objeción con un proceso real, no con una promesa.",
+    "no_replicar": "Afirmar 'probado uno por uno' si no se hace.",
+    "propuesta_original": "Si la logística lo permite, encender y probar cada unidad antes de despachar y poner una tarjeta en la caja; sumar a la Guía una página de cuidado (carga con cable original, secar antes de cargar, nunca bajo el agua).",
+    "ejemplo": "Tarjeta: 'Este ScalpCare se encendió y se probó antes de salir' + QR a la Guía (solo si el proceso existe).",
+    "recursos": "Consultar con el proveedor/depósito si es viable y cuánto cuesta por unidad",
+    "costos_riesgos": "Costo operativo por unidad desconocido",
+    "metrica": "Tasa de reclamos por defecto en los primeros 30 días",
+    "proximo_paso": "Preguntar al proveedor la tasa de defectos y si el depósito puede hacer la prueba (lo decide el dueño; no se contactó a nadie).",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 3,
+      "facilidad": 3,
+      "costo": 2,
+      "riesgo": 1,
+      "urgencia": 3
+    },
+    "score": 18.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "creada"
+      }
+    ]
   },
-  "score": 18.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "creada"
-   }
-  ]
- },
- "OPP-011-demo-pelo-largo": {
-  "id": "OPP-011-demo-pelo-largo",
-  "competidor_observado": "Zinnor y reseñas de Amazon citadas por el blog de Alibaba",
-  "producto_estrategia": "Quejas de tirones con pelo largo",
-  "fuente_evidencia": "https://juicer.deals/review-item/28926386/ ; https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com ; https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html ; https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
-  "hallazgo": "El pelo largo es una objeción que casi nadie muestra resuelta en video.",
-  "explicacion": "[HIPÓTESIS] Las demos usan modelos de pelo corto o pelo suelto sin mover el aparato.",
-  "confianza": "media (4 fuentes de 4 productos; 2 editoriales)",
-  "diferencia_flubberhome": "Puntas redondeadas; sin prueba documentada en pelo largo.",
-  "adaptable": "Mostrar la técnica por secciones.",
-  "no_replicar": "Nada específico.",
-  "propuesta_original": "Episodio del Edificio Flubber con un personaje de pelo largo que lo usa por secciones, sin arrastrar, en seco.",
-  "ejemplo": "15 s: raya al medio, apoya, masajea en el lugar, levanta y pasa a la siguiente sección.",
-  "recursos": "Prueba real con pelo largo + guion",
-  "costos_riesgos": "Si el aparato tira el pelo, no publicar y ajustar la Guía",
-  "metrica": "Comentarios sobre enredos; retención del Reel",
-  "proximo_paso": "Probar el aparato en pelo largo junto con la prueba de goteo de OPP-001.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 3,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 3
+  "OPP-011-demo-pelo-largo": {
+    "id": "OPP-011-demo-pelo-largo",
+    "competidor_observado": "Zinnor y reseñas de Amazon citadas por el blog de Alibaba",
+    "producto_estrategia": "Quejas de tirones con pelo largo",
+    "fuente_evidencia": "https://juicer.deals/review-item/28926386/ ; https://seller.alibaba.com/blogs/2026/southeast-asia/head-massager/beyond-scalp-massage-alibaba-com ; https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html ; https://balancedbrawn.com/2025/07/15/breo-scalp-massager-review/",
+    "hallazgo": "El pelo largo es una objeción que casi nadie muestra resuelta en video.",
+    "explicacion": "[HIPÓTESIS] Las demos usan modelos de pelo corto o pelo suelto sin mover el aparato.",
+    "confianza": "media (4 fuentes de 4 productos; 2 editoriales)",
+    "diferencia_flubberhome": "Puntas redondeadas; sin prueba documentada en pelo largo.",
+    "adaptable": "Mostrar la técnica por secciones.",
+    "no_replicar": "Nada específico.",
+    "propuesta_original": "Episodio del Edificio Flubber con un personaje de pelo largo que lo usa por secciones, sin arrastrar, en seco.",
+    "ejemplo": "15 s: raya al medio, apoya, masajea en el lugar, levanta y pasa a la siguiente sección.",
+    "recursos": "Prueba real con pelo largo + guion",
+    "costos_riesgos": "Si el aparato tira el pelo, no publicar y ajustar la Guía",
+    "metrica": "Comentarios sobre enredos; retención del Reel",
+    "proximo_paso": "Probar el aparato en pelo largo junto con la prueba de goteo de OPP-001.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 3,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 3
+    },
+    "score": 36.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Score 24.0→36.0: confianza 2→3 y urgencia 2→3. El País vio frizz al usar en seco con pelo largo, que es el uso que exige Flubberhome; Breo también se enreda.",
+        "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
+      }
+    ]
   },
-  "score": 36.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T19-55",
-    "change": "Score 24.0→36.0: confianza 2→3 y urgencia 2→3. El País vio frizz al usar en seco con pelo largo, que es el uso que exige Flubberhome; Breo también se enreda.",
-    "source": "https://elpais.com/escaparate/comparativas/2024-06-06/mejores-masajeadores-electricos-para-el-cuero-cabelludo-y-beneficios.html"
-   }
-  ]
- },
- "OPP-012-costo-total-y-plazo-claros-latam": {
-  "id": "OPP-012-costo-total-y-plazo-claros-latam",
-  "competidor_observado": "Locales de AR y CO (Lena, Microshop, Holy Cosmetics, Mercado Libre AR)",
-  "producto_estrategia": "Condiciones de compra: moneda, costo total, plazo y forma de pago",
-  "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega' | 11-57 (20/10): Gadnic AR ARS 97.299, 3 cuotas, envío en el día AMBA (https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) | 03-56 (21/10): https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/ ; https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/",
-  "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales. [CORRECCIÓN 21/10/2026, ESTIMACIÓN] Con el dólar tarjeta de ARS 2.002 (oficial BNA 1.540 + percepción; Cronista, 19/10/2026), 1 u + envío ≈ ARS 104.000: más caro que Gadnic (ARS 97.299 con envío gratis, 3 cuotas y entrega en el día en AMBA). El Pack Dúo baja a ≈ ARS 71.950 por unidad. En MX, ≈ MXN 957 frente a genéricos locales de MXN 426–499.",
-  "explicacion": "[HIPÓTESIS] En LatAm la fricción principal no es el precio de lista sino la incertidumbre sobre cuánto se paga al final y cuándo llega. Una ficha que lo deja claro antes del checkout reduce abandonos; no aclararlo puede generar reclamos.",
-  "confianza": "media (condiciones verificadas; impacto en conversión no medido; tipo de cambio aproximado)",
-  "diferencia_flubberhome": "La ficha ya informa plazo, moneda y posibles impuestos más abajo del precio; no muestra el precio aproximado en moneda local ni la fecha estimada de llegada junto al botón.",
-  "adaptable": "Claridad de condiciones como hacen los locales (cuotas, plazo y medio de pago visibles junto al precio), sin copiar sus precios.",
-  "no_replicar": "Prometer plazos que la logística no cumple; mostrar 'envío gratis' que esconde impuestos.",
-  "propuesta_original": "Bloque corto junto al botón, por país: 'Pagás en USD; con tarjeta son aprox. $X de tu moneda' + 'Llega entre el <fecha> y el <fecha>' + qué impuestos pueden aplicar. Empujar el Pack Dúo como el que absorbe el envío. Decisión aparte del dueño (no se recomienda sin datos de costos): evaluar stock local o precio en moneda local para AR. [21/10] En AR y MX, presentar el Pack Dúo como la opción principal (precio por unidad en moneda local) y la unidad suelta como secundaria.",
-  "ejemplo": "Debajo del precio: 'Llega aprox. del 5 al 19 de noviembre · Pagás en dólares; tu banco lo convierte'.",
-  "recursos": "Edición de la ficha o una app de conversión de moneda (lectura del dueño); verificar plazos reales con el proveedor logístico.",
-  "costos_riesgos": "Bajo costo; riesgo de mostrar una conversión desactualizada; el stock local tiene costo y riesgo altos.",
-  "metrica": "Tasa de checkout iniciado → compra por país y consultas a soporte sobre plazo o impuestos, cuando se reactiven las campañas.",
-  "proximo_paso": "El dueño confirma plazos reales por país y si existen percepciones o impuestos al pagar en USD desde AR; luego redactar el bloque.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 3,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 4
+  "OPP-012-costo-total-y-plazo-claros-latam": {
+    "id": "OPP-012-costo-total-y-plazo-claros-latam",
+    "competidor_observado": "Locales de AR y CO (Lena, Microshop, Holy Cosmetics, Mercado Libre AR)",
+    "producto_estrategia": "Condiciones de compra: moneda, costo total, plazo y forma de pago",
+    "fuente_evidencia": "Shopify (lectura, 18/10/2026); ficha de Flubberhome (18/10/2026); políticas de Holy (18/10/2026); fichas de Lena y Microshop (18/10/2026); demand_signals 'flubberhome-vs-local-entrega' | 11-57 (20/10): Gadnic AR ARS 97.299, 3 cuotas, envío en el día AMBA (https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) | 03-56 (21/10): https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/ ; https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/",
+    "hallazgo": "[HECHO] Flubberhome cobra en USD en AR/MX/CO, con entrega de 10–20 días hábiles y posibles impuestos de importación. Los locales cobran en moneda local, con cuotas sin interés, descuento por transferencia o contra entrega, y entregan en 1–8 días. [ESTIMACIÓN] 1 unidad + envío = USD 51,93 ≈ ARS 79.500 con el oficial BNA de ARS 1.530 (15/10/2026), sin percepciones de tarjeta ni impuestos: más que cualquier eléctrico local relevado (ARS 25.600–69.999). En CO ≈ COP 164.600 (TRM 3.170,46) frente a Holy COP 149.990 + envío. En MX ≈ MXN 934 frente a MXN 990–1.038 de las DTC locales. [CORRECCIÓN 21/10/2026, ESTIMACIÓN] Con el dólar tarjeta de ARS 2.002 (oficial BNA 1.540 + percepción; Cronista, 19/10/2026), 1 u + envío ≈ ARS 104.000: más caro que Gadnic (ARS 97.299 con envío gratis, 3 cuotas y entrega en el día en AMBA). El Pack Dúo baja a ≈ ARS 71.950 por unidad. En MX, ≈ MXN 957 frente a genéricos locales de MXN 426–499.",
+    "explicacion": "[HIPÓTESIS] En LatAm la fricción principal no es el precio de lista sino la incertidumbre sobre cuánto se paga al final y cuándo llega. Una ficha que lo deja claro antes del checkout reduce abandonos; no aclararlo puede generar reclamos.",
+    "confianza": "media (condiciones verificadas; impacto en conversión no medido; tipo de cambio aproximado)",
+    "diferencia_flubberhome": "La ficha ya informa plazo, moneda y posibles impuestos más abajo del precio; no muestra el precio aproximado en moneda local ni la fecha estimada de llegada junto al botón.",
+    "adaptable": "Claridad de condiciones como hacen los locales (cuotas, plazo y medio de pago visibles junto al precio), sin copiar sus precios.",
+    "no_replicar": "Prometer plazos que la logística no cumple; mostrar 'envío gratis' que esconde impuestos.",
+    "propuesta_original": "Bloque corto junto al botón, por país: 'Pagás en USD; con tarjeta son aprox. $X de tu moneda' + 'Llega entre el <fecha> y el <fecha>' + qué impuestos pueden aplicar. Empujar el Pack Dúo como el que absorbe el envío. Decisión aparte del dueño (no se recomienda sin datos de costos): evaluar stock local o precio en moneda local para AR. [21/10] En AR y MX, presentar el Pack Dúo como la opción principal (precio por unidad en moneda local) y la unidad suelta como secundaria.",
+    "ejemplo": "Debajo del precio: 'Llega aprox. del 5 al 19 de noviembre · Pagás en dólares; tu banco lo convierte'.",
+    "recursos": "Edición de la ficha o una app de conversión de moneda (lectura del dueño); verificar plazos reales con el proveedor logístico.",
+    "costos_riesgos": "Bajo costo; riesgo de mostrar una conversión desactualizada; el stock local tiene costo y riesgo altos.",
+    "metrica": "Tasa de checkout iniciado → compra por país y consultas a soporte sobre plazo o impuestos, cuando se reactiven las campañas.",
+    "proximo_paso": "El dueño confirma plazos reales por país y si existen percepciones o impuestos al pagar en USD desde AR; luego redactar el bloque.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 3,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 4
+    },
+    "score": 37.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T03-55",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T19-54",
+        "change": "Nota AR: Carrello vende el mismo formato a ARS 66.599 con 6 cuotas y envío gratis (~36% menos que Flubberhome con envío). Refuerza mostrar costo total y por qué vale la diferencia. Sin cambio de score.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Más evidencia, score sin cambios (37): Frávega/nocnoc vende en AR un aplicador eléctrico importado mostrando el total final en pesos (ARS 93.302 ≈ USD 61) y el precio sin impuestos nacionales. Demuestra que el formato 'total final visible' ya existe en AR para productos importados.",
+        "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Más evidencia, score sin cambios (37): Gadnic, marca local, vende el mismo formato a ARS 97.299 (≈ USD 63,6 al BNA de 15/10), por encima de la estimación de Flubberhome (≈ ARS 79.500 sin percepciones). El rango local relevado pasa a ARS 25.600–97.299. La diferencia de Flubberhome en AR ya no es solo precio: es plazo (10–20 días hábiles frente a entrega en el día) y garantía.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T03-56",
+        "change": "Corrección de la estimación AR (con dólar tarjeta la unidad suelta supera a Gadnic) y datos de MX. Score sin cambios (37).",
+        "source": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/"
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T03-55",
+        "change": "Tipos de cambio actualizados (dólar tarjeta ARS 2.008,50 del 20/10; FIX 18,6425 del 21/10; TRM 3.174,67 del 17–19/10): AR ≈ ARS 104.300, MX ≈ MXN 968, CO ≈ COP 164.900 por 1 u + envío. Pack Dúo por unidad: ≈ ARS 72.200 / MXN 670 / COP 114.100. Sin cambio de score (37).",
+        "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026 ; https://www.banxico.org.mx/tipcamb/tipCamMIAction.do ; https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Recalculo AR con dólar tarjeta 2.015 (22/10): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic). Score sin cambios.",
+        "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+      }
+    ]
   },
-  "score": 37.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T03-55",
-    "change": "creada"
-   }
-  ],
-  "history": [
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Más evidencia, score sin cambios (37): Frávega/nocnoc vende en AR un aplicador eléctrico importado mostrando el total final en pesos (ARS 93.302 ≈ USD 61) y el precio sin impuestos nacionales. Demuestra que el formato 'total final visible' ya existe en AR para productos importados.",
-    "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Más evidencia, score sin cambios (37): Gadnic, marca local, vende el mismo formato a ARS 97.299 (≈ USD 63,6 al BNA de 15/10), por encima de la estimación de Flubberhome (≈ ARS 79.500 sin percepciones). El rango local relevado pasa a ARS 25.600–97.299. La diferencia de Flubberhome en AR ya no es solo precio: es plazo (10–20 días hábiles frente a entrega en el día) y garantía.",
-    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T03-56",
-    "change": "Corrección de la estimación AR (con dólar tarjeta la unidad suelta supera a Gadnic) y datos de MX. Score sin cambios (37).",
-    "source": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-lunes-19-de-octubre/"
-   },
-   {
-    "date": "2026-10-22",
-    "run_id": "2026-10-22T03-55",
-    "change": "Tipos de cambio actualizados (dólar tarjeta ARS 2.008,50 del 20/10; FIX 18,6425 del 21/10; TRM 3.174,67 del 17–19/10): AR ≈ ARS 104.300, MX ≈ MXN 968, CO ≈ COP 164.900 por 1 u + envío. Pack Dúo por unidad: ≈ ARS 72.200 / MXN 670 / COP 114.100. Sin cambio de score (37).",
-    "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026 ; https://www.banxico.org.mx/tipcamb/tipCamMIAction.do ; https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692"
-   },
-   {
-    "date": "2026-10-24",
-    "run_id": "2026-10-24T03-55",
-    "change": "Recalculo AR con dólar tarjeta 2.015 (22/10): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic). Score sin cambios.",
-    "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
-   }
-  ]
- },
- "OPP-013-angulo-regalo-temporada": {
-  "id": "OPP-013-angulo-regalo-temporada",
-  "competidor_observado": "INIA (TikTok Shop), eléctrico \"con caja de regalo\" (TikTok Shop), Glokore (BF26)",
-  "producto_estrategia": "Ángulo de regalo de autocuidado para la temporada (CyberMonday AR, Black Friday, fiestas)",
-  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026) ; https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools (Holiday Duo de TYMO, 19/10/2026) | 11-57 (20/10): demand_signals regalo-en-listados-us-2026",
-  "hallazgo": "[HECHO] INIA titula su listado como regalo navideño; el eléctrico con más vendidos del listado se presenta con caja de regalo (9,3 mil, contador acumulado); Glokore tiene \"BF26\" cargado. CyberMonday AR es el 2–4/11/2026.",
-  "explicacion": "[HIPÓTESIS] En noviembre-diciembre el comprador también es quien regala; el Pack Dúo (\"uno para vos, uno para regalar\") encaja sin bajar el precio.",
-  "confianza": "media (ángulo visible en la competencia; efecto no medido)",
-  "diferencia_flubberhome": "Flubberhome no tiene ángulo de regalo ni presentación de regalo; sí tiene Pack Dúo y Familiar con envío gratis.",
-  "adaptable": "Usar la temporada como contexto, no como descuento.",
-  "no_replicar": "Descuentos inflados o códigos con cuenta regresiva falsa; claims de crecimiento.",
-  "propuesta_original": "Microdrama del Edificio Flubber: un vecino no sabe qué regalar y termina armando la rutina de a dos con el Pack Dúo. En la ficha: línea \"ideal para regalar\" junto al Pack Dúo y fecha límite de pedido para que llegue antes de las fiestas (según plazos reales).",
-  "ejemplo": "\"Uno para vos, otro para quien siempre se queja de la cabeza tensa\" (texto propio, sin claims).",
-  "recursos": "1 episodio corto + 1 línea en la ficha; confirmar fecha límite con logística.",
-  "costos_riesgos": "Bajo. Riesgo: prometer llegada antes de fiestas con 10–20 días hábiles a LatAm; sin datos de margen no se recomienda descuento.",
-  "metrica": "Proporción de Pack Dúo sobre el total de pedidos y CTR del ángulo regalo frente al ángulo base, cuando se reactiven las campañas.",
-  "proximo_paso": "El dueño confirma la fecha límite de pedido por país; preparar el episodio para principios de noviembre.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 4,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 4
+  "OPP-013-angulo-regalo-temporada": {
+    "id": "OPP-013-angulo-regalo-temporada",
+    "competidor_observado": "INIA (TikTok Shop), eléctrico \"con caja de regalo\" (TikTok Shop), Glokore (BF26)",
+    "producto_estrategia": "Ángulo de regalo de autocuidado para la temporada (CyberMonday AR, Black Friday, fiestas)",
+    "fuente_evidencia": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair-growth/1731074879890559250 ; https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://glokore.com/scalpmassager/checkout4 (18/10/2026) ; https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools (Holiday Duo de TYMO, 19/10/2026) | 11-57 (20/10): demand_signals regalo-en-listados-us-2026",
+    "hallazgo": "[HECHO] INIA titula su listado como regalo navideño; el eléctrico con más vendidos del listado se presenta con caja de regalo (9,3 mil, contador acumulado); Glokore tiene \"BF26\" cargado. CyberMonday AR es el 2–4/11/2026.",
+    "explicacion": "[HIPÓTESIS] En noviembre-diciembre el comprador también es quien regala; el Pack Dúo (\"uno para vos, uno para regalar\") encaja sin bajar el precio.",
+    "confianza": "media (ángulo visible en la competencia; efecto no medido)",
+    "diferencia_flubberhome": "Flubberhome no tiene ángulo de regalo ni presentación de regalo; sí tiene Pack Dúo y Familiar con envío gratis.",
+    "adaptable": "Usar la temporada como contexto, no como descuento.",
+    "no_replicar": "Descuentos inflados o códigos con cuenta regresiva falsa; claims de crecimiento.",
+    "propuesta_original": "Microdrama del Edificio Flubber: un vecino no sabe qué regalar y termina armando la rutina de a dos con el Pack Dúo. En la ficha: línea \"ideal para regalar\" junto al Pack Dúo y fecha límite de pedido para que llegue antes de las fiestas (según plazos reales).",
+    "ejemplo": "\"Uno para vos, otro para quien siempre se queja de la cabeza tensa\" (texto propio, sin claims).",
+    "recursos": "1 episodio corto + 1 línea en la ficha; confirmar fecha límite con logística.",
+    "costos_riesgos": "Bajo. Riesgo: prometer llegada antes de fiestas con 10–20 días hábiles a LatAm; sin datos de margen no se recomienda descuento.",
+    "metrica": "Proporción de Pack Dúo sobre el total de pedidos y CTR del ángulo regalo frente al ángulo base, cuando se reactiven las campañas.",
+    "proximo_paso": "El dueño confirma la fecha límite de pedido por país; preparar el episodio para principios de noviembre.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 4,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 4
+    },
+    "score": 49.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T11-54",
+        "change": "creada"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T11-55",
+        "change": "Más evidencia (score sin cambio, 37): otro eléctrico con aplicador en TikTok Shop US usa la palabra 'regalo' en el título (555 vendidos, USD 32,96)."
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T19-54",
+        "change": "Score 37→49 (confianza 3→4): una marca establecida (TYMO) lanza en Ulta un pack de regalo de dos aparatos para las fiestas. Confirma el formato 'dúo de regalo' fuera de los genéricos."
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Score sin cambios (49). [ESTIMACIÓN] Fecha límite de pedido para que llegue antes del 24/12, con los plazos que publica la ficha (despacho 1–2 + entrega 10–20 días hábiles LatAm; 7–15 EE. UU.) y contando solo días hábiles sin feriados: LatAm ≈ 24/11/2026; EE. UU. ≈ 01/12/2026. Margen de error: feriados locales y demoras de aduana pueden adelantar la fecha 1 semana o más; confirmar con logística."
+      },
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T11-55",
+        "change": "Score sin cambios (49). Se suma el calendario MX: Buen Fin 13–17/11/2026, antes de la fecha límite estimada para LatAm (≈24/11). Si se reactiva MX, el ángulo regalo con el Pack Dúo puede salir esa semana sin descuento inflado."
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T11-55",
+        "change": "Sin cambio de score. Más títulos 'Christmas Gift' en TikTok Shop US: en US el regalo solo no diferencia; conviene atarlo al Pack Dúo con ahorro real y la guía incluida."
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Fecha del CyberMonday AR confirmada: 2–4/11/2026 (faltan 14 días). Con entrega de 10–20 días hábiles, un pedido del CyberMonday llegaría entre mediados y fines de noviembre. Sin cambio de score; la decisión sigue siendo del dueño.",
+        "source": "https://www.tiendanube.com/blog/cuando-es-el-cybermonday"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Más evidencia, score sin cambios (49): 4 listados de EE. UU. ya usan el regalo como argumento (caja o set de regalo). El ángulo 'es un buen regalo' no diferencia; sí lo hacen la fecha límite de pedido y el Pack Dúo como 'uno para vos y uno para regalar'.",
+        "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Más evidencia, score sin cambios (49): Breo (premium, US) ya publicó Black Friday con un pack de 2 que casi no ahorra por unidad (≈3%) y una garantía de precio de 30 días. El Pack Dúo de Flubberhome ahorra bastante más por unidad sin precio tachado; ese contraste sigue siendo el argumento.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
+      }
+    ]
   },
-  "score": 49.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T11-54",
-    "change": "creada"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T11-55",
-    "change": "Más evidencia (score sin cambio, 37): otro eléctrico con aplicador en TikTok Shop US usa la palabra 'regalo' en el título (555 vendidos, USD 32,96)."
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T19-54",
-    "change": "Score 37→49 (confianza 3→4): una marca establecida (TYMO) lanza en Ulta un pack de regalo de dos aparatos para las fiestas. Confirma el formato 'dúo de regalo' fuera de los genéricos."
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Score sin cambios (49). [ESTIMACIÓN] Fecha límite de pedido para que llegue antes del 24/12, con los plazos que publica la ficha (despacho 1–2 + entrega 10–20 días hábiles LatAm; 7–15 EE. UU.) y contando solo días hábiles sin feriados: LatAm ≈ 24/11/2026; EE. UU. ≈ 01/12/2026. Margen de error: feriados locales y demoras de aduana pueden adelantar la fecha 1 semana o más; confirmar con logística."
-   },
-   {
-    "date": "2026-10-22",
-    "run_id": "2026-10-22T11-55",
-    "change": "Score sin cambios (49). Se suma el calendario MX: Buen Fin 13–17/11/2026, antes de la fecha límite estimada para LatAm (≈24/11). Si se reactiva MX, el ángulo regalo con el Pack Dúo puede salir esa semana sin descuento inflado."
-   },
-   {
-    "date": "2026-10-23",
-    "run_id": "2026-10-23T11-55",
-    "change": "Sin cambio de score. Más títulos 'Christmas Gift' en TikTok Shop US: en US el regalo solo no diferencia; conviene atarlo al Pack Dúo con ahorro real y la guía incluida."
-   }
-  ],
-  "history": [
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Fecha del CyberMonday AR confirmada: 2–4/11/2026 (faltan 14 días). Con entrega de 10–20 días hábiles, un pedido del CyberMonday llegaría entre mediados y fines de noviembre. Sin cambio de score; la decisión sigue siendo del dueño.",
-    "source": "https://www.tiendanube.com/blog/cuando-es-el-cybermonday"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Más evidencia, score sin cambios (49): 4 listados de EE. UU. ya usan el regalo como argumento (caja o set de regalo). El ángulo 'es un buen regalo' no diferencia; sí lo hacen la fecha límite de pedido y el Pack Dúo como 'uno para vos y uno para regalar'.",
-    "source": "https://www.amazon.com/BERNOVAS-Scalp-Massager-Hair-Growth/dp/B0G6TSXZK5"
-   },
-   {
-    "date": "2026-10-24",
-    "run_id": "2026-10-24T11-54",
-    "change": "Más evidencia, score sin cambios (49): Breo (premium, US) ya publicó Black Friday con un pack de 2 que casi no ahorra por unidad (≈3%) y una garantía de precio de 30 días. El Pack Dúo de Flubberhome ahorra bastante más por unidad sin precio tachado; ese contraste sigue siendo el argumento.",
-    "source": "https://us.breo.com/pages/black-friday-2026"
-   }
-  ]
- },
- "OPP-014-expectativa-honesta-de-la-sensacion": {
-  "id": "OPP-014-expectativa-honesta-de-la-sensacion",
-  "competidor_observado": "INIA, Yaxa 3 en 1, NAPRE (reseñas públicas)",
-  "producto_estrategia": "Expectativa de la sensación de masaje",
-  "fuente_evidencia": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/ (17/02/2026); reseña de INIA en TikTok Shop (18/10/2026); Yaxa 3 en 1 (17/10/2026). Patrón en reviews.json.",
-  "hallazgo": "[HECHO] En 3 productos distintos hay quejas de que el masaje se siente débil, incómodo o que rebota en la cabeza.",
-  "explicacion": "[HIPÓTESIS] Los anuncios de la categoría venden \"masaje profundo\" o \"como un spa\", y la expectativa no coincide con la vibración real del aparato. La decepción aparece en las reseñas.",
-  "confianza": "media (5 fuentes de 5 productos, incluido el segmento premium)",
-  "diferencia_flubberhome": "Flubberhome ya comunica masaje y alivio, pero no explica qué se siente en cada intensidad ni cómo apoyarlo.",
-  "adaptable": "Explicar la sensación antes de la compra: qué se siente, cómo empezar, cómo apoyarlo.",
-  "no_replicar": "\"Masaje profundo\", \"como un spa\" o cualquier promesa de intensidad que el aparato no cumpla.",
-  "propuesta_original": "Un bloque \"Qué vas a sentir\" en la ficha y en la Guía Digital: intensidad 1 suave y continua, intensidad 3 más marcada; empezar en la 1 con el peine apoyado plano y sin presionar. Un microdrama del Edificio Flubber donde un vecino espera un masaje de spa, descubre que es más suave y lo disfruta así.",
-  "ejemplo": "Video de 15 s: 0–3 s el texto \"¿qué se siente?\"; 3–10 s tres pasadas lentas, una por intensidad, con el sonido real; 10–15 s el texto \"empezá suave, con el pelo seco\".",
-  "recursos": "Que el dueño pruebe las 3 intensidades y describa la sensación real. AI Creative Studio para la pieza y edición de la ficha.",
-  "costos_riesgos": "Costo bajo. Riesgo: describir una sensación sin probarla. Hay que redactarlo después de usar el producto real.",
-  "metrica": "Proporción de reclamos o devoluciones por \"no es lo que esperaba\" (cuando haya ventas) y retención a 3 s de la pieza frente a los microdramas actuales.",
-  "proximo_paso": "El dueño prueba el aparato y anota en una línea qué se siente en cada intensidad. Con eso se redacta el bloque.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 4,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-014-expectativa-honesta-de-la-sensacion": {
+    "id": "OPP-014-expectativa-honesta-de-la-sensacion",
+    "competidor_observado": "INIA, Yaxa 3 en 1, NAPRE (reseñas públicas)",
+    "producto_estrategia": "Expectativa de la sensación de masaje",
+    "fuente_evidencia": "https://thehomeglow.co/product/napre-electric-scalp-massagerhead-hair-massager-scalp-stress-relaxcordless-handheld-muscle-massager-with-horizontal-vibration-for-faceneckshoulder-bodywith-charging-dock-valentines-day-gifts/ (17/02/2026); reseña de INIA en TikTok Shop (18/10/2026); Yaxa 3 en 1 (17/10/2026). Patrón en reviews.json.",
+    "hallazgo": "[HECHO] En 3 productos distintos hay quejas de que el masaje se siente débil, incómodo o que rebota en la cabeza.",
+    "explicacion": "[HIPÓTESIS] Los anuncios de la categoría venden \"masaje profundo\" o \"como un spa\", y la expectativa no coincide con la vibración real del aparato. La decepción aparece en las reseñas.",
+    "confianza": "media (5 fuentes de 5 productos, incluido el segmento premium)",
+    "diferencia_flubberhome": "Flubberhome ya comunica masaje y alivio, pero no explica qué se siente en cada intensidad ni cómo apoyarlo.",
+    "adaptable": "Explicar la sensación antes de la compra: qué se siente, cómo empezar, cómo apoyarlo.",
+    "no_replicar": "\"Masaje profundo\", \"como un spa\" o cualquier promesa de intensidad que el aparato no cumpla.",
+    "propuesta_original": "Un bloque \"Qué vas a sentir\" en la ficha y en la Guía Digital: intensidad 1 suave y continua, intensidad 3 más marcada; empezar en la 1 con el peine apoyado plano y sin presionar. Un microdrama del Edificio Flubber donde un vecino espera un masaje de spa, descubre que es más suave y lo disfruta así.",
+    "ejemplo": "Video de 15 s: 0–3 s el texto \"¿qué se siente?\"; 3–10 s tres pasadas lentas, una por intensidad, con el sonido real; 10–15 s el texto \"empezá suave, con el pelo seco\".",
+    "recursos": "Que el dueño pruebe las 3 intensidades y describa la sensación real. AI Creative Studio para la pieza y edición de la ficha.",
+    "costos_riesgos": "Costo bajo. Riesgo: describir una sensación sin probarla. Hay que redactarlo después de usar el producto real.",
+    "metrica": "Proporción de reclamos o devoluciones por \"no es lo que esperaba\" (cuando haya ventas) y retención a 3 s de la pieza frente a los microdramas actuales.",
+    "proximo_paso": "El dueño prueba el aparato y anota en una línea qué se siente en cada intensidad. Con eso se redacta el bloque.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 4,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 48.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Alta (score 36)"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T11-55",
+        "change": "Más evidencia (score sin cambio): un medio argentino (Rosario3, 15/10) presenta el cuidado del cuero cabelludo como ritual 'head spa' y pide no esperar resultados milagrosos. Coincide con el tono honesto que propone esta oportunidad."
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Score 36.0→48.0: confianza 3→4. Breo Scalp3L y VitalEveRev suman quejas por puntas firmes o metálicas incómodas. Las puntas redondeadas de ScalpCare Pro son un argumento, pero solo vale mostrarlo si es cierto en una prueba real.",
+        "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
+      },
+      {
+        "date": "2026-10-23",
+        "run_id": "2026-10-23T19-54",
+        "change": "+1 evidencia (INIA, TikTok Shop 2026: pide más fuerza). Score sin cambios (48)."
+      }
+    ]
   },
-  "score": 48.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Alta (score 36)"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T11-55",
-    "change": "Más evidencia (score sin cambio): un medio argentino (Rosario3, 15/10) presenta el cuidado del cuero cabelludo como ritual 'head spa' y pide no esperar resultados milagrosos. Coincide con el tono honesto que propone esta oportunidad."
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T19-55",
-    "change": "Score 36.0→48.0: confianza 3→4. Breo Scalp3L y VitalEveRev suman quejas por puntas firmes o metálicas incómodas. Las puntas redondeadas de ScalpCare Pro son un argumento, pero solo vale mostrarlo si es cierto en una prueba real.",
-    "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
-   },
-   {
-    "date": "2026-10-23",
-    "run_id": "2026-10-23T19-54",
-    "change": "+1 evidencia (INIA, TikTok Shop 2026: pide más fuerza). Score sin cambios (48)."
-   }
-  ]
- },
- "OPP-015-guia-en-espanol-visible-antes-de-comprar": {
-  "id": "OPP-015-guia-en-espanol-visible-antes-de-comprar",
-  "competidor_observado": "ZOKO LAB (TikTok Shop US), Yaxa 3 en 1, Breo",
-  "producto_estrategia": "Instrucciones del aparato",
-  "fuente_evidencia": "https://shop.tiktok.com/us/pdp/1732414648709452528 (reseñas del 10 al 23/06/2026, consultado 19/10/2026); patrón 'Instrucciones pobres' en reviews.json",
-  "hallazgo": "[HECHO] En un listado con 1,3 mil reseñas, varias quejas son porque el manual vino solo en chino; en otros 2 productos, porque no se entiende qué hace cada modo.",
-  "explicacion": "[HIPÓTESIS] El comprador de un aparato importado teme no saber usarlo. Ver las instrucciones antes de pagar reduce esa duda.",
-  "confianza": "media (3 fuentes de 3 productos; uno es adyacente)",
-  "diferencia_flubberhome": "Flubberhome ya incluye una Guía Digital, pero la ficha no muestra cómo es ni qué explica.",
-  "adaptable": "Hacer visible la guía en español antes de la compra.",
-  "no_replicar": "Manuales traducidos a máquina o que prometen resultados.",
-  "propuesta_original": "Una vista previa de 2 páginas de la Guía Digital en la ficha (cómo cargar el depósito, qué se siente en cada intensidad, limpieza) y una línea junto al botón: 'Guía en español incluida'. Se puede combinar con OPP-001 y OPP-014.",
-  "ejemplo": "Carrusel de 3 imágenes: 1) 'Así llega tu guía'; 2) la página de carga del depósito; 3) la página de limpieza.",
-  "recursos": "La Guía Digital existente; AI Creative Studio o diseño simple; edición de la ficha en Shopify (la hace el dueño).",
-  "costos_riesgos": "Costo bajo. Riesgo: mostrar una guía incompleta. Revisarla antes de exponerla.",
-  "metrica": "Tasa de agregar al carrito de la ficha antes y después (cuando haya tráfico) y preguntas o reclamos por uso.",
-  "proximo_paso": "El dueño revisa que la Guía cubra carga, intensidades y limpieza; después se arma la vista previa.",
-  "puntajes": {
-   "impacto": 3,
-   "confianza": 3,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 2
+  "OPP-015-guia-en-espanol-visible-antes-de-comprar": {
+    "id": "OPP-015-guia-en-espanol-visible-antes-de-comprar",
+    "competidor_observado": "ZOKO LAB (TikTok Shop US), Yaxa 3 en 1, Breo",
+    "producto_estrategia": "Instrucciones del aparato",
+    "fuente_evidencia": "https://shop.tiktok.com/us/pdp/1732414648709452528 (reseñas del 10 al 23/06/2026, consultado 19/10/2026); patrón 'Instrucciones pobres' en reviews.json",
+    "hallazgo": "[HECHO] En un listado con 1,3 mil reseñas, varias quejas son porque el manual vino solo en chino; en otros 2 productos, porque no se entiende qué hace cada modo.",
+    "explicacion": "[HIPÓTESIS] El comprador de un aparato importado teme no saber usarlo. Ver las instrucciones antes de pagar reduce esa duda.",
+    "confianza": "media (3 fuentes de 3 productos; uno es adyacente)",
+    "diferencia_flubberhome": "Flubberhome ya incluye una Guía Digital, pero la ficha no muestra cómo es ni qué explica.",
+    "adaptable": "Hacer visible la guía en español antes de la compra.",
+    "no_replicar": "Manuales traducidos a máquina o que prometen resultados.",
+    "propuesta_original": "Una vista previa de 2 páginas de la Guía Digital en la ficha (cómo cargar el depósito, qué se siente en cada intensidad, limpieza) y una línea junto al botón: 'Guía en español incluida'. Se puede combinar con OPP-001 y OPP-014.",
+    "ejemplo": "Carrusel de 3 imágenes: 1) 'Así llega tu guía'; 2) la página de carga del depósito; 3) la página de limpieza.",
+    "recursos": "La Guía Digital existente; AI Creative Studio o diseño simple; edición de la ficha en Shopify (la hace el dueño).",
+    "costos_riesgos": "Costo bajo. Riesgo: mostrar una guía incompleta. Revisarla antes de exponerla.",
+    "metrica": "Tasa de agregar al carrito de la ficha antes y después (cuando haya tráfico) y preguntas o reclamos por uso.",
+    "proximo_paso": "El dueño revisa que la Guía cubra carga, intensidades y limpieza; después se arma la vista previa.",
+    "puntajes": {
+      "impacto": 3,
+      "confianza": 3,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 2
+    },
+    "score": 36.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T19-54",
+        "change": "Alta (score 36)"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Más evidencia: Gadnic (marca local AR) publica el manual de usuario descargable en la ficha. Sin cambio de score.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T19-54",
+        "change": "Más evidencia: una compradora de Breo (revendedor UK) se sorprendió con las precauciones recién después de comprar. Carrello (AR) también destaca 'manual en español'. Sin cambio de score.",
+        "source": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush ; https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      }
+    ]
   },
-  "score": 36.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T19-54",
-    "change": "Alta (score 36)"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Más evidencia: Gadnic (marca local AR) publica el manual de usuario descargable en la ficha. Sin cambio de score.",
-    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
-   }
-  ]
- },
- "OPP-016-respuestas-honestas-y-comparacion-justa": {
-  "id": "OPP-016-respuestas-honestas-y-comparacion-justa",
-  "competidor_observado": "Gleva (India, inspiracional)",
-  "producto_estrategia": "Preguntas frecuentes y tabla comparativa en la ficha",
-  "fuente_evidencia": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator (consultado 20/10/2026)",
-  "hallazgo": "[HECHO] La primera pregunta frecuente responde que el aparato no hace crecer el pelo. La tabla compara el aparato con aplicar a mano e incluye una fila donde gana la mano.",
-  "explicacion": "[HIPÓTESIS] En una categoría donde casi todos prometen crecimiento, decir con claridad qué no hace genera confianza y filtra a quien espera otra cosa (menos reclamos).",
-  "confianza": "baja-media (1 fuente inspiracional; no hay datos de su conversión)",
-  "diferencia_flubberhome": "Flubberhome ya evita los claims médicos, pero la ficha no lo convierte en argumento: el silencio sobre crecimiento puede leerse como falta de información.",
-  "adaptable": "Responder primero la pregunta difícil y comparar de forma justa con la alternativa gratuita (la mano o el cepillo manual).",
-  "no_replicar": "Su texto, su tabla o su formato visual; cifras de pedidos sin verificar; el requisito del video de unboxing (agrega fricción).",
-  "propuesta_original": "Bloque \"Lo que sí y lo que no\" en la ficha y la Guía: \"No es un tratamiento ni promete crecimiento. Sí: masaje, alivio y el tónico repartido parejo sin ensuciarte las manos\". Y una mini comparación con 3 filas (aplicar con la mano / cepillo manual / ScalpCare Pro) que admita en qué gana cada uno.",
-  "ejemplo": "Microdrama del Edificio Flubber: la vecina pregunta si \"esto hace crecer el pelo\". El portero responde que no, que es para el masaje y para que el tónico no termine en la almohada, y lo muestra en seco.",
-  "recursos": "Texto (1 h), diseño simple, edición de la ficha en Shopify (la hace el dueño), 1 episodio en el AI Creative Studio.",
-  "costos_riesgos": "Costo bajo. Riesgo: perder a quien busca crecimiento (público que igual generaría reclamos). Revisar con la skill flubberhome-creative-engine.",
-  "metrica": "Agregar al carrito y tasa de preguntas o reclamos por expectativas (cuando haya tráfico); en anuncios, CTR y comentarios que pregunten \"¿sirve para la caída?\".",
-  "proximo_paso": "El dueño aprueba el enfoque; se redacta el bloque junto con OPP-014 (qué vas a sentir) y OPP-015 (vista previa de la guía) en una sola sección de la ficha.",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 2,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 3
+  "OPP-016-respuestas-honestas-y-comparacion-justa": {
+    "id": "OPP-016-respuestas-honestas-y-comparacion-justa",
+    "competidor_observado": "Gleva (India, inspiracional)",
+    "producto_estrategia": "Preguntas frecuentes y tabla comparativa en la ficha",
+    "fuente_evidencia": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator (consultado 20/10/2026)",
+    "hallazgo": "[HECHO] La primera pregunta frecuente responde que el aparato no hace crecer el pelo. La tabla compara el aparato con aplicar a mano e incluye una fila donde gana la mano.",
+    "explicacion": "[HIPÓTESIS] En una categoría donde casi todos prometen crecimiento, decir con claridad qué no hace genera confianza y filtra a quien espera otra cosa (menos reclamos).",
+    "confianza": "baja-media (1 fuente inspiracional; no hay datos de su conversión)",
+    "diferencia_flubberhome": "Flubberhome ya evita los claims médicos, pero la ficha no lo convierte en argumento: el silencio sobre crecimiento puede leerse como falta de información.",
+    "adaptable": "Responder primero la pregunta difícil y comparar de forma justa con la alternativa gratuita (la mano o el cepillo manual).",
+    "no_replicar": "Su texto, su tabla o su formato visual; cifras de pedidos sin verificar; el requisito del video de unboxing (agrega fricción).",
+    "propuesta_original": "Bloque \"Lo que sí y lo que no\" en la ficha y la Guía: \"No es un tratamiento ni promete crecimiento. Sí: masaje, alivio y el tónico repartido parejo sin ensuciarte las manos\". Y una mini comparación con 3 filas (aplicar con la mano / cepillo manual / ScalpCare Pro) que admita en qué gana cada uno.",
+    "ejemplo": "Microdrama del Edificio Flubber: la vecina pregunta si \"esto hace crecer el pelo\". El portero responde que no, que es para el masaje y para que el tónico no termine en la almohada, y lo muestra en seco.",
+    "recursos": "Texto (1 h), diseño simple, edición de la ficha en Shopify (la hace el dueño), 1 episodio en el AI Creative Studio.",
+    "costos_riesgos": "Costo bajo. Riesgo: perder a quien busca crecimiento (público que igual generaría reclamos). Revisar con la skill flubberhome-creative-engine.",
+    "metrica": "Agregar al carrito y tasa de preguntas o reclamos por expectativas (cuando haya tráfico); en anuncios, CTR y comentarios que pregunten \"¿sirve para la caída?\".",
+    "proximo_paso": "El dueño aprueba el enfoque; se redacta el bloque junto con OPP-014 (qué vas a sentir) y OPP-015 (vista previa de la guía) en una sola sección de la ficha.",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 2,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 3
+    },
+    "score": 32.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Alta (score 32)",
+        "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+      }
+    ]
   },
-  "score": 32.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Alta (score 32)",
-    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
-   }
-  ]
- },
- "OPP-017-demo-real-rotulada-en-microdramas-ia": {
-  "id": "OPP-017-demo-real-rotulada-en-microdramas-ia",
-  "competidor_observado": "Formato adyacente: peine eléctrico con spray (ZOKO LAB en TikTok Shop, AIRUIXIO en Amazon, anuncios en redes según un creador)",
-  "producto_estrategia": "Anuncios con transformaciones que parecen generadas con IA",
-  "fuente_evidencia": "https://www.youtube.com/watch?v=4AJ4BLt_TWg (22/06/2026, consultado 22/10/2026) ; https://shop.tiktok.com/us/pdp/1732414648709452528 (consultado 19/10/2026) ; https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ (consultado 22/10/2026)",
-  "hallazgo": "[HECHO] Un creador describe anuncios del peine con spray con resultados que parecen hechos con IA y concluye que es una estafa. [HECHO] El listado de ZOKO (2,8★ con 1,3 mil reseñas) junta quejas de que el producto no hace lo que mostraban los videos. [HECHO] El listado de AIRUIXIO muestra 1,5★ con 7 calificaciones.",
-  "explicacion": "[HIPÓTESIS] En esta categoría, el público ya asocia la estética de IA con promesas falsas. Flubberhome usa microdramas con IA (personajes de ficción declarados). Si la demo del aparato también parece generada, puede heredar esa desconfianza.",
-  "confianza": "baja (1 video de opinión y 2 listados de un formato vecino; sin datos de conversión)",
-  "diferencia_flubberhome": "Flubberhome ya declara que los personajes son de ficción y prohíbe resultados inventados. Le falta una regla visible que separe la parte de ficción de la parte que muestra el producto.",
-  "adaptable": "Usar la IA solo para la historia y mostrar el producto con imagen real.",
-  "no_replicar": "Transformaciones de antes y después, porcentajes sin método y cualquier mención o ataque a otras marcas.",
-  "propuesta_original": "Estructura híbrida para cada microdrama: la historia del Edificio Flubber con IA y, cuando aparece el aparato, un corte a imagen filmada de verdad (mano real, pelo seco, carga del tónico) con un rótulo chico tipo 'demo real, sin efectos'. La misma toma sirve para OPP-001.",
-  "ejemplo": "El portero del Edificio Flubber dice 'a ver si es cierto', corte a una mano real que carga 3 ml y pasa el cepillo por el pelo seco, rótulo 'demo real', y vuelve el microdrama.",
-  "recursos": "1 jornada corta de filmación con el producto propio (celular alcanza) y edición en el AI Creative Studio.",
-  "costos_riesgos": "Costo bajo. Riesgo: que la toma real muestre goteo o poca fuerza. Probar antes el aparato (ver OPP-001 y OPP-014). Revisar con la skill flubberhome-creative-engine.",
-  "metrica": "Comparar dos versiones del mismo microdrama (solo IA frente a IA + demo real rotulada): retención a los 3 s y a los 50%, CTR y comentarios que digan 'es IA' o 'estafa'.",
-  "proximo_paso": "El dueño aprueba la regla; se filma una toma real de 10–15 s junto con la de OPP-001.",
-  "puntajes": {
-   "impacto": 4,
-   "confianza": 2,
-   "facilidad": 4,
-   "costo": 1,
-   "riesgo": 1,
-   "urgencia": 4
-  },
-  "score": 33.0,
-  "estado": "nueva",
-  "historial": [
-   {
-    "date": "2026-10-22",
-    "run_id": "2026-10-22T19-55",
-    "change": "creada"
-   }
-  ]
- }
+  "OPP-017-demo-real-rotulada-en-microdramas-ia": {
+    "id": "OPP-017-demo-real-rotulada-en-microdramas-ia",
+    "competidor_observado": "Formato adyacente: peine eléctrico con spray (ZOKO LAB en TikTok Shop, AIRUIXIO en Amazon, anuncios en redes según un creador)",
+    "producto_estrategia": "Anuncios con transformaciones que parecen generadas con IA",
+    "fuente_evidencia": "https://www.youtube.com/watch?v=4AJ4BLt_TWg (22/06/2026, consultado 22/10/2026) ; https://shop.tiktok.com/us/pdp/1732414648709452528 (consultado 19/10/2026) ; https://www.amazon.com/Electric-Cushion-Detangling-Self-Cleaning-Enhancing/dp/B0H496R4MZ (consultado 22/10/2026)",
+    "hallazgo": "[HECHO] Un creador describe anuncios del peine con spray con resultados que parecen hechos con IA y concluye que es una estafa. [HECHO] El listado de ZOKO (2,8★ con 1,3 mil reseñas) junta quejas de que el producto no hace lo que mostraban los videos. [HECHO] El listado de AIRUIXIO muestra 1,5★ con 7 calificaciones.",
+    "explicacion": "[HIPÓTESIS] En esta categoría, el público ya asocia la estética de IA con promesas falsas. Flubberhome usa microdramas con IA (personajes de ficción declarados). Si la demo del aparato también parece generada, puede heredar esa desconfianza.",
+    "confianza": "baja (1 video de opinión y 2 listados de un formato vecino; sin datos de conversión)",
+    "diferencia_flubberhome": "Flubberhome ya declara que los personajes son de ficción y prohíbe resultados inventados. Le falta una regla visible que separe la parte de ficción de la parte que muestra el producto.",
+    "adaptable": "Usar la IA solo para la historia y mostrar el producto con imagen real.",
+    "no_replicar": "Transformaciones de antes y después, porcentajes sin método y cualquier mención o ataque a otras marcas.",
+    "propuesta_original": "Estructura híbrida para cada microdrama: la historia del Edificio Flubber con IA y, cuando aparece el aparato, un corte a imagen filmada de verdad (mano real, pelo seco, carga del tónico) con un rótulo chico tipo 'demo real, sin efectos'. La misma toma sirve para OPP-001.",
+    "ejemplo": "El portero del Edificio Flubber dice 'a ver si es cierto', corte a una mano real que carga 3 ml y pasa el cepillo por el pelo seco, rótulo 'demo real', y vuelve el microdrama.",
+    "recursos": "1 jornada corta de filmación con el producto propio (celular alcanza) y edición en el AI Creative Studio.",
+    "costos_riesgos": "Costo bajo. Riesgo: que la toma real muestre goteo o poca fuerza. Probar antes el aparato (ver OPP-001 y OPP-014). Revisar con la skill flubberhome-creative-engine.",
+    "metrica": "Comparar dos versiones del mismo microdrama (solo IA frente a IA + demo real rotulada): retención a los 3 s y a los 50%, CTR y comentarios que digan 'es IA' o 'estafa'.",
+    "proximo_paso": "El dueño aprueba la regla; se filma una toma real de 10–15 s junto con la de OPP-001.",
+    "puntajes": {
+      "impacto": 4,
+      "confianza": 2,
+      "facilidad": 4,
+      "costo": 1,
+      "riesgo": 1,
+      "urgencia": 4
+    },
+    "score": 33.0,
+    "estado": "nueva",
+    "historial": [
+      {
+        "date": "2026-10-22",
+        "run_id": "2026-10-22T19-55",
+        "change": "creada"
+      }
+    ]
+  }
 }

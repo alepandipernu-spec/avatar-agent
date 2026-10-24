@@ -1,931 +1,968 @@
 {
- "anyra-us:red-light-comb": {
-  "id": "anyra-us:red-light-comb",
-  "problema": "Aplicar aceite sin ensuciar + masaje + luz",
-  "variantes": "1 unidad (no se vieron packs)",
-  "precio": {
-   "1u": "USD 50,95 (tachado 158,95)"
+  "anyra-us:red-light-comb": {
+    "id": "anyra-us:red-light-comb",
+    "problema": "Aplicar aceite sin ensuciar + masaje + luz",
+    "variantes": "1 unidad (no se vieron packs)",
+    "precio": {
+      "1u": "USD 50,95 (tachado 158,95)"
+    },
+    "promos": "'SAVE 68%', urgencia de agotado",
+    "garantia": "No vista",
+    "devolucion": "No vista",
+    "envio": "Despacho 48 h, entrega 7–14 días hábiles",
+    "beneficios": [
+      "72 puntas",
+      "depósito 6 ml con 8 bolillas",
+      "3 modos",
+      "bolso de viaje"
+    ],
+    "objeciones_resueltas": [
+      "manos grasosas",
+      "desperdicio de sérum"
+    ],
+    "diferenciadores": "Prueba social masiva (no verificable)",
+    "merece_investigar": false,
+    "por_que": "Producto casi idéntico; poco aprendizaje adicional más allá de la plantilla.",
+    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Precio sin cambios USD 50,95.",
+        "source": "chequeo rápido de precios (Exa fetch)"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Precio sin cambios USD 50,95.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (USD 50,95, tachado 158,95).",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      }
+    ]
   },
-  "promos": "'SAVE 68%', urgencia de agotado",
-  "garantia": "No vista",
-  "devolucion": "No vista",
-  "envio": "Despacho 48 h, entrega 7–14 días hábiles",
-  "beneficios": [
-   "72 puntas",
-   "depósito 6 ml con 8 bolillas",
-   "3 modos",
-   "bolso de viaje"
-  ],
-  "objeciones_resueltas": [
-   "manos grasosas",
-   "desperdicio de sérum"
-  ],
-  "diferenciadores": "Prueba social masiva (no verificable)",
-  "merece_investigar": false,
-  "por_que": "Producto casi idéntico; poco aprendizaje adicional más allá de la plantilla.",
-  "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Precio sin cambios USD 50,95.",
-    "source": "chequeo rápido de precios (Exa fetch)"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Precio sin cambios USD 50,95.",
-    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (USD 50,95, tachado 158,95).",
-    "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
-   }
-  ]
- },
- "hairrova-us:rootglow": {
-  "id": "hairrova-us:rootglow",
-  "problema": "Pelo fino / caída (claim)",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "USD 89,99 (tachado 149,99)"
+  "hairrova-us:rootglow": {
+    "id": "hairrova-us:rootglow",
+    "problema": "Pelo fino / caída (claim)",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "USD 89,99 (tachado 149,99)"
+    },
+    "promos": "'SAVE 40%'",
+    "garantia": "1 año",
+    "devolucion": "30 días",
+    "envio": "Express gratis, 7–12 días hábiles",
+    "beneficios": [
+      "luz 630 nm",
+      "masaje",
+      "aplicador",
+      "IPX7"
+    ],
+    "objeciones_resueltas": [
+      "¿es seguro?",
+      "¿cómo se limpia?"
+    ],
+    "diferenciadores": "Garantía y devolución visibles arriba",
+    "merece_investigar": false,
+    "por_que": "Sus claims médicos no son replicables.",
+    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Sin cambios (USD 89,99; Sold out).",
+        "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (USD 89,99; Sold out).",
+        "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
+      }
+    ]
   },
-  "promos": "'SAVE 40%'",
-  "garantia": "1 año",
-  "devolucion": "30 días",
-  "envio": "Express gratis, 7–12 días hábiles",
-  "beneficios": [
-   "luz 630 nm",
-   "masaje",
-   "aplicador",
-   "IPX7"
-  ],
-  "objeciones_resueltas": [
-   "¿es seguro?",
-   "¿cómo se limpia?"
-  ],
-  "diferenciadores": "Garantía y devolución visibles arriba",
-  "merece_investigar": false,
-  "por_que": "Sus claims médicos no son replicables.",
-  "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Sin cambios (USD 89,99; Sold out).",
-    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (USD 89,99; Sold out).",
-    "source": "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
-   }
-  ]
- },
- "nordic-biolabs-us:applicator": {
-  "id": "nordic-biolabs-us:applicator",
-  "problema": "Aplicar su sérum",
-  "variantes": "Aparato (se empuja junto con el sérum propio)",
-  "precio": {
-   "1u": "USD 79 (tachado 158)"
+  "nordic-biolabs-us:applicator": {
+    "id": "nordic-biolabs-us:applicator",
+    "problema": "Aplicar su sérum",
+    "variantes": "Aparato (se empuja junto con el sérum propio)",
+    "precio": {
+      "1u": "USD 79 (tachado 158)"
+    },
+    "promos": "'SAVE 50%', stock bajo",
+    "garantia": "No vista en el extracto",
+    "devolucion": "'Free & Easy Returns'; 120 días según registro anterior",
+    "envio": "Gratis",
+    "beneficios": [
+      "655 nm",
+      "tanque 6 ml",
+      "10.000 vibraciones/min"
+    ],
+    "objeciones_resueltas": [
+      "aplicación despareja"
+    ],
+    "diferenciadores": "Aparato + consumible propio",
+    "merece_investigar": true,
+    "por_que": "El modelo con consumible da recompra; evaluar si un tónico propio sin claims tiene sentido (requiere proveedor y regulación).",
+    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Sin cambios (USD 79); suma 'Stock Status: Very Low'.",
+        "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (USD 79, tachado 158).",
+        "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
+      }
+    ]
   },
-  "promos": "'SAVE 50%', stock bajo",
-  "garantia": "No vista en el extracto",
-  "devolucion": "'Free & Easy Returns'; 120 días según registro anterior",
-  "envio": "Gratis",
-  "beneficios": [
-   "655 nm",
-   "tanque 6 ml",
-   "10.000 vibraciones/min"
-  ],
-  "objeciones_resueltas": [
-   "aplicación despareja"
-  ],
-  "diferenciadores": "Aparato + consumible propio",
-  "merece_investigar": true,
-  "por_que": "El modelo con consumible da recompra; evaluar si un tónico propio sin claims tiene sentido (requiere proveedor y regulación).",
-  "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Sin cambios (USD 79); suma 'Stock Status: Very Low'.",
-    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (USD 79, tachado 158).",
-    "source": "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
-   }
-  ]
- },
- "glokore-us:red-light-scalp-massager": {
-  "id": "glokore-us:red-light-scalp-massager",
-  "problema": "Cuero cabelludo seco / caída (claim)",
-  "variantes": "1 unidad; garantía extendida 1 año como agregado",
-  "precio": {
-   "1u": "USD 119,99 (tachado 219,98)"
+  "glokore-us:red-light-scalp-massager": {
+    "id": "glokore-us:red-light-scalp-massager",
+    "problema": "Cuero cabelludo seco / caída (claim)",
+    "variantes": "1 unidad; garantía extendida 1 año como agregado",
+    "precio": {
+      "1u": "USD 119,99 (tachado 219,98)"
+    },
+    "promos": "Código 'hasta 55% OFF' con cuenta regresiva",
+    "garantia": "60 días de devolución; plan de reemplazo pago",
+    "devolucion": "60 días menos envío",
+    "envio": "No visto",
+    "beneficios": [
+      "660 nm",
+      "bolillas",
+      "cámara de sérum",
+      "apagado a los 10 min"
+    ],
+    "objeciones_resueltas": [
+      "qué aceites usar (livianos, no ricino puro)",
+      "frecuencia de uso"
+    ],
+    "diferenciadores": "Embudo con advertorial",
+    "merece_investigar": true,
+    "por_que": "Estructura de embudo y venta adicional de garantía.",
+    "source": "https://glokore.com/scalpmassager/checkout4",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://glokore.com/scalpmassager/checkout4"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Código 'BF26' sigue cargado; precios por pack sin renderizar.",
+        "source": "https://glokore.com/scalpmassager/checkout4"
+      }
+    ]
   },
-  "promos": "Código 'hasta 55% OFF' con cuenta regresiva",
-  "garantia": "60 días de devolución; plan de reemplazo pago",
-  "devolucion": "60 días menos envío",
-  "envio": "No visto",
-  "beneficios": [
-   "660 nm",
-   "bolillas",
-   "cámara de sérum",
-   "apagado a los 10 min"
-  ],
-  "objeciones_resueltas": [
-   "qué aceites usar (livianos, no ricino puro)",
-   "frecuencia de uso"
-  ],
-  "diferenciadores": "Embudo con advertorial",
-  "merece_investigar": true,
-  "por_que": "Estructura de embudo y venta adicional de garantía.",
-  "source": "https://glokore.com/scalpmassager/checkout4",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://glokore.com/scalpmassager/checkout4"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Código 'BF26' sigue cargado; precios por pack sin renderizar.",
-    "source": "https://glokore.com/scalpmassager/checkout4"
-   }
-  ]
- },
- "breo-us:scalp3": {
-  "id": "breo-us:scalp3",
-  "problema": "Masaje de cuero cabelludo + aceite",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "USD 159,99 (Amazon)",
-   "1u_web_oficial": "USD 161,99 (tachado 239,99) en us.breo.com, 17/10/2026"
+  "breo-us:scalp3": {
+    "id": "breo-us:scalp3",
+    "problema": "Masaje de cuero cabelludo + aceite",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "USD 159,99 (Amazon)",
+      "1u_web_oficial": "USD 161,99 (tachado 239,99) en us.breo.com, 17/10/2026"
+    },
+    "promos": "No vistas",
+    "garantia": "1 año por defectos (web oficial); 365 días (Amazon)",
+    "devolucion": "30 días 'sin riesgo' en la web oficial; política de Amazon en Amazon",
+    "envio": "Amazon",
+    "beneficios": [
+      "shiatsu 360°",
+      "cabina 3 ml",
+      "IPX7"
+    ],
+    "objeciones_resueltas": [
+      "portabilidad",
+      "limpieza"
+    ],
+    "diferenciadores": "Marca establecida, techo de precio",
+    "merece_investigar": false,
+    "por_que": "Referencia de precio alto.",
+    "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K"
+      },
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Web oficial: USD 161,99, envío gratis 3–7 días, 30 días de devolución, garantía 1 año.",
+        "source": "https://us.breo.com/products/scalp3-trilogy-massager"
+      }
+    ]
   },
-  "promos": "No vistas",
-  "garantia": "1 año por defectos (web oficial); 365 días (Amazon)",
-  "devolucion": "30 días 'sin riesgo' en la web oficial; política de Amazon en Amazon",
-  "envio": "Amazon",
-  "beneficios": [
-   "shiatsu 360°",
-   "cabina 3 ml",
-   "IPX7"
-  ],
-  "objeciones_resueltas": [
-   "portabilidad",
-   "limpieza"
-  ],
-  "diferenciadores": "Marca establecida, techo de precio",
-  "merece_investigar": false,
-  "por_que": "Referencia de precio alto.",
-  "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K"
-   },
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Web oficial: USD 161,99, envío gratis 3–7 días, 30 días de devolución, garantía 1 año.",
-    "source": "https://us.breo.com/products/scalp3-trilogy-massager"
-   }
-  ]
- },
- "cepillos-manuales-ar:coony-scalp-therapy": {
-  "id": "cepillos-manuales-ar:coony-scalp-therapy",
-  "problema": "Masaje y limpieza en la ducha",
-  "variantes": "Colores",
-  "precio": {
-   "1u": "ARS 9.281 (tachado 11.599)"
+  "cepillos-manuales-ar:coony-scalp-therapy": {
+    "id": "cepillos-manuales-ar:coony-scalp-therapy",
+    "problema": "Masaje y limpieza en la ducha",
+    "variantes": "Colores",
+    "precio": {
+      "1u": "ARS 9.281 (tachado 11.599)"
+    },
+    "promos": "19% OFF",
+    "garantia": "ML",
+    "devolucion": "ML",
+    "envio": "Gratis primera compra",
+    "beneficios": [
+      "silicona",
+      "manual"
+    ],
+    "objeciones_resueltas": [],
+    "diferenciadores": "Precio",
+    "merece_investigar": true,
+    "por_que": "Mayor indicador de ventas de la categoría en ML AR (+5mil vendidos): define el ancla de precio.",
+    "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-27",
+        "change": "Alta / precio verificado",
+        "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+      }
+    ]
   },
-  "promos": "19% OFF",
-  "garantia": "ML",
-  "devolucion": "ML",
-  "envio": "Gratis primera compra",
-  "beneficios": [
-   "silicona",
-   "manual"
-  ],
-  "objeciones_resueltas": [],
-  "diferenciadores": "Precio",
-  "merece_investigar": true,
-  "por_que": "Mayor indicador de ventas de la categoría en ML AR (+5mil vendidos): define el ancla de precio.",
-  "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-27",
-    "change": "Alta / precio verificado",
-    "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
-   }
-  ]
- },
- "lena-vegetal-ar:kit-masajeador-tonico": {
-  "id": "lena-vegetal-ar:kit-masajeador-tonico",
-  "problema": "Masaje + aplicar tónico",
-  "variantes": [
-   "Kit masajeador + tónico romero y salvia 60 ml"
-  ],
-  "precio": {
-   "lista": "ARS 32.000",
-   "venta": "ARS 25.600",
-   "transferencia": "ARS 20.480"
+  "lena-vegetal-ar:kit-masajeador-tonico": {
+    "id": "lena-vegetal-ar:kit-masajeador-tonico",
+    "problema": "Masaje + aplicar tónico",
+    "variantes": [
+      "Kit masajeador + tónico romero y salvia 60 ml"
+    ],
+    "precio": {
+      "lista": "ARS 32.000",
+      "venta": "ARS 25.600",
+      "transferencia": "ARS 20.480"
+    },
+    "promos": [
+      "20% OFF",
+      "20% transferencia",
+      "cupón BIENVENIDA 10%",
+      "3 cuotas sin interés"
+    ],
+    "garantia": "no visible",
+    "devolucion": "no leída",
+    "envio": "gratis desde ARS 60.000",
+    "beneficios": [
+      "control caída (claim médico, no replicar)"
+    ],
+    "objeciones_resueltas": [
+      "qué líquido cargar"
+    ],
+    "diferenciadores": [
+      "líquido propio incluido"
+    ],
+    "merece_investigar": true,
+    "por_que": "Única señal de ventas pública AR del formato kit (+70) y stock bajo.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28",
+        "change": "alta del registro",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Precio sin cambios ARS 25.600.",
+        "source": "chequeo rápido de precios (Exa fetch)"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Sin cambios (ARS 25.600; 'Sin stock' + 'quedan 3').",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (ARS 25.600).",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      }
+    ]
   },
-  "promos": [
-   "20% OFF",
-   "20% transferencia",
-   "cupón BIENVENIDA 10%",
-   "3 cuotas sin interés"
-  ],
-  "garantia": "no visible",
-  "devolucion": "no leída",
-  "envio": "gratis desde ARS 60.000",
-  "beneficios": [
-   "control caída (claim médico, no replicar)"
-  ],
-  "objeciones_resueltas": [
-   "qué líquido cargar"
-  ],
-  "diferenciadores": [
-   "líquido propio incluido"
-  ],
-  "merece_investigar": true,
-  "por_que": "Única señal de ventas pública AR del formato kit (+70) y stock bajo.",
-  "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28",
-    "change": "alta del registro",
-    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Precio sin cambios ARS 25.600.",
-    "source": "chequeo rápido de precios (Exa fetch)"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Sin cambios (ARS 25.600; 'Sin stock' + 'quedan 3').",
-    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (ARS 25.600).",
-    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
-   }
-  ]
- },
- "microshop-ar:micro-masajeador-capilar": {
-  "id": "microshop-ar:micro-masajeador-capilar",
-  "problema": "Masaje capilar; aceites como uso secundario",
-  "variantes": [
-   "único"
-  ],
-  "precio": {
-   "lista": "ARS 60.000",
-   "venta": "ARS 45.780"
+  "microshop-ar:micro-masajeador-capilar": {
+    "id": "microshop-ar:micro-masajeador-capilar",
+    "problema": "Masaje capilar; aceites como uso secundario",
+    "variantes": [
+      "único"
+    ],
+    "precio": {
+      "lista": "ARS 60.000",
+      "venta": "ARS 45.780"
+    },
+    "promos": [
+      "24% OFF",
+      "10% transferencia"
+    ],
+    "garantia": "no visible",
+    "devolucion": "no leída",
+    "envio": "gratis",
+    "beneficios": [
+      "masaje",
+      "5 dB declarados",
+      "pet friendly"
+    ],
+    "objeciones_resueltas": [
+      "ruido"
+    ],
+    "diferenciadores": [
+      "marca registrada propia"
+    ],
+    "merece_investigar": false,
+    "por_que": "Sin señales de demanda visibles.",
+    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T15-28",
+        "change": "alta del registro"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Sin cambios (ARS 45.780).",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (ARS 45.780).",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      }
+    ]
   },
-  "promos": [
-   "24% OFF",
-   "10% transferencia"
-  ],
-  "garantia": "no visible",
-  "devolucion": "no leída",
-  "envio": "gratis",
-  "beneficios": [
-   "masaje",
-   "5 dB declarados",
-   "pet friendly"
-  ],
-  "objeciones_resueltas": [
-   "ruido"
-  ],
-  "diferenciadores": [
-   "marca registrada propia"
-  ],
-  "merece_investigar": false,
-  "por_que": "Sin señales de demanda visibles.",
-  "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T15-28",
-    "change": "alta del registro"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Sin cambios (ARS 45.780).",
-    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (ARS 45.780).",
-    "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
-   }
-  ]
- },
- "holy-cosmetics-co:luxury": {
-  "id": "holy-cosmetics-co:luxury",
-  "problema": "Masaje + limpieza + aplicación de sérum",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "COP 149.990 (tachado 199.990)"
+  "holy-cosmetics-co:luxury": {
+    "id": "holy-cosmetics-co:luxury",
+    "problema": "Masaje + limpieza + aplicación de sérum",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "COP 149.990 (tachado 199.990)"
+    },
+    "promos": "-25% / 'COP 50.000 OFF'",
+    "garantia": "Garantía legal (Ley 1480); control de calidad en devoluciones",
+    "devolucion": "Cambio dentro de 5 días hábiles, sin devolución de dinero salvo garantía",
+    "envio": "Servientrega 3–8 días hábiles; gratis desde COP 200.000; contra entrega disponible",
+    "beneficios": [
+      "masaje de amasamiento",
+      "dispensador de rodillos",
+      "LED 3 colores",
+      "5 velocidades",
+      "batería 1.500 mAh"
+    ],
+    "objeciones_resueltas": [
+      "prueba social (27 reseñas)",
+      "contacto humano (WhatsApp, horario)"
+    ],
+    "diferenciadores": "Reseñas visibles y marca local de cosmética",
+    "merece_investigar": false,
+    "por_que": "Pendientes resueltos el 18/10/2026; las reseñas publicadas no muestran fecha en el extracto.",
+    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Alta",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T03-55",
+        "change": "Envío, devolución y medios de pago completados",
+        "source": "https://holycosmetics.com.co/policies/shipping-policy"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Precio sin cambios COP 149.990; 27 reseñas.",
+        "source": "chequeo rápido de precios (Exa fetch)"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (COP 149.990, tachado 199.990).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      }
+    ]
   },
-  "promos": "-25% / 'COP 50.000 OFF'",
-  "garantia": "Garantía legal (Ley 1480); control de calidad en devoluciones",
-  "devolucion": "Cambio dentro de 5 días hábiles, sin devolución de dinero salvo garantía",
-  "envio": "Servientrega 3–8 días hábiles; gratis desde COP 200.000; contra entrega disponible",
-  "beneficios": [
-   "masaje de amasamiento",
-   "dispensador de rodillos",
-   "LED 3 colores",
-   "5 velocidades",
-   "batería 1.500 mAh"
-  ],
-  "objeciones_resueltas": [
-   "prueba social (27 reseñas)",
-   "contacto humano (WhatsApp, horario)"
-  ],
-  "diferenciadores": "Reseñas visibles y marca local de cosmética",
-  "merece_investigar": false,
-  "por_que": "Pendientes resueltos el 18/10/2026; las reseñas publicadas no muestran fecha en el extracto.",
-  "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Alta",
-    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T03-55",
-    "change": "Envío, devolución y medios de pago completados",
-    "source": "https://holycosmetics.com.co/policies/shipping-policy"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Precio sin cambios COP 149.990; 27 reseñas.",
-    "source": "chequeo rápido de precios (Exa fetch)"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (COP 149.990, tachado 199.990).",
-    "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
-   }
-  ]
- },
- "nihlo-co:masajeador": {
-  "id": "nihlo-co:masajeador",
-  "problema": "Aplicar aceite capilar con masaje",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "COP 89.900"
+  "nihlo-co:masajeador": {
+    "id": "nihlo-co:masajeador",
+    "problema": "Aplicar aceite capilar con masaje",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "COP 89.900"
+    },
+    "promos": "No vistas",
+    "garantia": "1 año por defectos de fabricación",
+    "devolucion": "No vista",
+    "envio": "No visto",
+    "beneficios": [
+      "depósito 6 ml",
+      "dosis de 1 ml",
+      "rodillo que no se atasca (según el vendedor)",
+      "carga USB-C 1 h"
+    ],
+    "objeciones_resueltas": [
+      "dosificación",
+      "durabilidad (garantía)"
+    ],
+    "diferenciadores": "Garantía larga a precio bajo; ecosistema con sus aceites",
+    "merece_investigar": false,
+    "por_que": "Referencia de garantía; producto distinto en tamaño.",
+    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Alta",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Sin cambios (COP 89.900).",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (COP 89.900).",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      }
+    ]
   },
-  "promos": "No vistas",
-  "garantia": "1 año por defectos de fabricación",
-  "devolucion": "No vista",
-  "envio": "No visto",
-  "beneficios": [
-   "depósito 6 ml",
-   "dosis de 1 ml",
-   "rodillo que no se atasca (según el vendedor)",
-   "carga USB-C 1 h"
-  ],
-  "objeciones_resueltas": [
-   "dosificación",
-   "durabilidad (garantía)"
-  ],
-  "diferenciadores": "Garantía larga a precio bajo; ecosistema con sus aceites",
-  "merece_investigar": false,
-  "por_que": "Referencia de garantía; producto distinto en tamaño.",
-  "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Alta",
-    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Sin cambios (COP 89.900).",
-    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (COP 89.900).",
-    "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
-   }
-  ]
- },
- "beltronic-ar:py008": {
-  "id": "beltronic-ar:py008",
-  "problema": "Masaje + luz + aplicación de tónico",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "ARS 149.900 (tachado 179.990); 15% off efectivo solo retiro/CABA"
+  "beltronic-ar:py008": {
+    "id": "beltronic-ar:py008",
+    "problema": "Masaje + luz + aplicación de tónico",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "ARS 149.900 (tachado 179.990); 15% off efectivo solo retiro/CABA"
+    },
+    "promos": "Tachado; 3 cuotas sin interés",
+    "garantia": "No vista",
+    "devolucion": "No vista",
+    "envio": "Envío gratis desde un monto no visible",
+    "beneficios": [
+      "luz roja 630 nm",
+      "3 modos",
+      "depósito 6 ml",
+      "USB-C"
+    ],
+    "objeciones_resueltas": [],
+    "diferenciadores": "Posicionamiento 'uso profesional'",
+    "merece_investigar": false,
+    "por_que": "Precio alto con claims de caída; referencia de techo en AR.",
+    "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/",
+    "fecha": "2026-10-17",
+    "history": [
+      {
+        "date": "2026-10-17",
+        "run_id": "2026-10-17T19-55",
+        "change": "Alta",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      }
+    ]
   },
-  "promos": "Tachado; 3 cuotas sin interés",
-  "garantia": "No vista",
-  "devolucion": "No vista",
-  "envio": "Envío gratis desde un monto no visible",
-  "beneficios": [
-   "luz roja 630 nm",
-   "3 modos",
-   "depósito 6 ml",
-   "USB-C"
-  ],
-  "objeciones_resueltas": [],
-  "diferenciadores": "Posicionamiento 'uso profesional'",
-  "merece_investigar": false,
-  "por_que": "Precio alto con claims de caída; referencia de techo en AR.",
-  "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/",
-  "fecha": "2026-10-17",
-  "history": [
-   {
-    "date": "2026-10-17",
-    "run_id": "2026-10-17T19-55",
-    "change": "Alta",
-    "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
-   }
-  ]
- },
- "mount-lai-us:vitality-qi-duo": {
-  "id": "mount-lai-us:vitality-qi-duo",
-  "problema": "Ritual de masaje + aceite para el cuero cabelludo",
-  "variantes": "Kit (masajeador + aceite)",
-  "precio": {
-   "kit": "USD 148 ('valor USD 175')"
+  "mount-lai-us:vitality-qi-duo": {
+    "id": "mount-lai-us:vitality-qi-duo",
+    "problema": "Ritual de masaje + aceite para el cuero cabelludo",
+    "variantes": "Kit (masajeador + aceite)",
+    "precio": {
+      "kit": "USD 148 ('valor USD 175')"
+    },
+    "promos": "Ninguna; ahorro mostrado como valor del kit",
+    "garantia": "No vista",
+    "devolucion": "No vista",
+    "envio": "Gratis desde USD 35 (Ulta)",
+    "beneficios": [
+      "LED rojo",
+      "calor suave",
+      "vibración",
+      "aceite botánico"
+    ],
+    "objeciones_resueltas": [
+      "qué líquido usar"
+    ],
+    "diferenciadores": "Kit cerrado con aceite propio, en retail de belleza",
+    "merece_investigar": false,
+    "por_que": "Inspiración de formato de kit; otra categoría de precio.",
+    "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064",
+    "fecha": "2026-10-18",
+    "history": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T03-55",
+        "change": "Alta",
+        "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064"
+      }
+    ]
   },
-  "promos": "Ninguna; ahorro mostrado como valor del kit",
-  "garantia": "No vista",
-  "devolucion": "No vista",
-  "envio": "Gratis desde USD 35 (Ulta)",
-  "beneficios": [
-   "LED rojo",
-   "calor suave",
-   "vibración",
-   "aceite botánico"
-  ],
-  "objeciones_resueltas": [
-   "qué líquido usar"
-  ],
-  "diferenciadores": "Kit cerrado con aceite propio, en retail de belleza",
-  "merece_investigar": false,
-  "por_que": "Inspiración de formato de kit; otra categoría de precio.",
-  "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064",
-  "fecha": "2026-10-18",
-  "history": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T03-55",
-    "change": "Alta",
-    "source": "https://www.ulta.com/p/vitality-qi-scalp-revitalizing-duo-mkt77006485?sku=77010064"
-   }
-  ]
- },
- "holy-cosmetics-co:essential": {
-  "id": "holy-cosmetics-co:essential",
-  "problema": "Masaje vibratorio + aplicación de aceites",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "COP 79.990 (tachado 99.990)"
+  "holy-cosmetics-co:essential": {
+    "id": "holy-cosmetics-co:essential",
+    "problema": "Masaje vibratorio + aplicación de aceites",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "COP 79.990 (tachado 99.990)"
+    },
+    "promos": "-20% / COP 20.000 OFF",
+    "garantia": "No revisada",
+    "devolucion": "Política general de Holy (5 días hábiles)",
+    "envio": "Política general de Holy",
+    "beneficios": [
+      "3 intensidades",
+      "recargable",
+      "aplicación de aceites"
+    ],
+    "objeciones_resueltas": [],
+    "diferenciadores": "Modelo de entrada de la marca",
+    "merece_investigar": true,
+    "por_que": "Ver si vuelve a stock y a qué precio: marca la escalera de precios en CO.",
+    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento",
+    "fecha": "2026-10-18",
+    "history": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T11-54",
+        "change": "Alta (Agotado)",
+        "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+      },
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Precio sin cambios COP 79.990.",
+        "source": "chequeo rápido de precios (Exa fetch)"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "COP 79.990 (tachado 99.990). La copia consultada no muestra 'Agotado'; stock sin confirmar.",
+        "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Sin cambios (COP 79.990, tachado 99.990); la copia no muestra 'Agotado'.",
+        "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
+      }
+    ]
   },
-  "promos": "-20% / COP 20.000 OFF",
-  "garantia": "No revisada",
-  "devolucion": "Política general de Holy (5 días hábiles)",
-  "envio": "Política general de Holy",
-  "beneficios": [
-   "3 intensidades",
-   "recargable",
-   "aplicación de aceites"
-  ],
-  "objeciones_resueltas": [],
-  "diferenciadores": "Modelo de entrada de la marca",
-  "merece_investigar": true,
-  "por_que": "Ver si vuelve a stock y a qué precio: marca la escalera de precios en CO.",
-  "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento",
-  "fecha": "2026-10-18",
-  "history": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T11-54",
-    "change": "Alta (Agotado)",
-    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
-   },
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Precio sin cambios COP 79.990.",
-    "source": "chequeo rápido de precios (Exa fetch)"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "COP 79.990 (tachado 99.990). La copia consultada no muestra 'Agotado'; stock sin confirmar.",
-    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Sin cambios (COP 79.990, tachado 99.990); la copia no muestra 'Agotado'.",
-    "source": "https://holycosmetics.com.co/products/cepillo-masajeador-capilar-electrico-estimulador-de-crecimiento"
-   }
-  ]
- },
- "kitsch-us:oil-applicator-rosemary-set": {
-  "id": "kitsch-us:oil-applicator-rosemary-set",
-  "problema": "Aplicar aceite en el cuero cabelludo sin enchastre",
-  "variantes": "Kit aplicador + aceite de romero",
-  "precio": {
-   "kit": "USD 19 (TikTok Shop US)"
+  "kitsch-us:oil-applicator-rosemary-set": {
+    "id": "kitsch-us:oil-applicator-rosemary-set",
+    "problema": "Aplicar aceite en el cuero cabelludo sin enchastre",
+    "variantes": "Kit aplicador + aceite de romero",
+    "precio": {
+      "kit": "USD 19 (TikTok Shop US)"
+    },
+    "promos": "Limited time deal",
+    "garantia": "No revisada",
+    "devolucion": "Política de TikTok Shop",
+    "envio": "No revisado",
+    "beneficios": [
+      "precisión",
+      "prolijidad"
+    ],
+    "objeciones_resueltas": [
+      "enchastre de manos"
+    ],
+    "diferenciadores": "Precio bajo y kit con líquido",
+    "merece_investigar": false,
+    "por_que": "Es manual; sirve como referencia de demanda y ancla, no como producto a sumar.",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager",
+    "fecha": "2026-10-18",
+    "history": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T11-54",
+        "change": "Alta",
+        "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+      }
+    ]
   },
-  "promos": "Limited time deal",
-  "garantia": "No revisada",
-  "devolucion": "Política de TikTok Shop",
-  "envio": "No revisado",
-  "beneficios": [
-   "precisión",
-   "prolijidad"
-  ],
-  "objeciones_resueltas": [
-   "enchastre de manos"
-  ],
-  "diferenciadores": "Precio bajo y kit con líquido",
-  "merece_investigar": false,
-  "por_que": "Es manual; sirve como referencia de demanda y ancla, no como producto a sumar.",
-  "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager",
-  "fecha": "2026-10-18",
-  "history": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T11-54",
-    "change": "Alta",
-    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
-   }
-  ]
- },
- "leerong-us:3-in-1-comb": {
-  "id": "leerong-us:3-in-1-comb",
-  "problema": "Aplicar aceite o sérum en el cuero cabelludo con masaje y sin enchastre",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "USD 49,99"
+  "leerong-us:3-in-1-comb": {
+    "id": "leerong-us:3-in-1-comb",
+    "problema": "Aplicar aceite o sérum en el cuero cabelludo con masaje y sin enchastre",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "USD 49,99"
+    },
+    "promos": "Ninguna visible",
+    "garantia": "12 meses de fábrica",
+    "devolucion": "Política de Amazon",
+    "envio": "Amazon",
+    "beneficios": [
+      "8 rodillos",
+      "72 puntas",
+      "3 modos",
+      "apagado a los 10 min",
+      "muestra de aceite de 30 ml"
+    ],
+    "objeciones_resueltas": [
+      "desborde (indica cargar media carga)",
+      "agua en el puerto (advertencia explícita)"
+    ],
+    "diferenciadores": "Kit completo con líquido y garantía al mismo precio de referencia de Flubberhome",
+    "merece_investigar": true,
+    "por_que": "Es el ejemplo más claro de cómo convertir las quejas de la categoría en instrucciones y contenido del kit.",
+    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT",
+    "fecha": "2026-10-18",
+    "history": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Alta",
+        "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+      },
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Precio sin cambios USD 49,99; sin reseñas visibles.",
+        "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
+      }
+    ]
   },
-  "promos": "Ninguna visible",
-  "garantia": "12 meses de fábrica",
-  "devolucion": "Política de Amazon",
-  "envio": "Amazon",
-  "beneficios": [
-   "8 rodillos",
-   "72 puntas",
-   "3 modos",
-   "apagado a los 10 min",
-   "muestra de aceite de 30 ml"
-  ],
-  "objeciones_resueltas": [
-   "desborde (indica cargar media carga)",
-   "agua en el puerto (advertencia explícita)"
-  ],
-  "diferenciadores": "Kit completo con líquido y garantía al mismo precio de referencia de Flubberhome",
-  "merece_investigar": true,
-  "por_que": "Es el ejemplo más claro de cómo convertir las quejas de la categoría en instrucciones y contenido del kit.",
-  "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT",
-  "fecha": "2026-10-18",
-  "history": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Alta",
-    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
-   },
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Precio sin cambios USD 49,99; sin reseñas visibles.",
-    "source": "https://www.amazon.com/LeeRong-Electric-Rechargeable-Applicator-Water-Resistant/dp/B0GXXYKTBT"
-   }
-  ]
- },
- "la-milpa-de-maria-mx:aplicador": {
-  "id": "la-milpa-de-maria-mx:aplicador",
-  "problema": "Aplicar aceite en la raíz sin desperdicio",
-  "variantes": "Aplicador + 2 goteros",
-  "precio": {
-   "kit": "MXN 199"
+  "la-milpa-de-maria-mx:aplicador": {
+    "id": "la-milpa-de-maria-mx:aplicador",
+    "problema": "Aplicar aceite en la raíz sin desperdicio",
+    "variantes": "Aplicador + 2 goteros",
+    "precio": {
+      "kit": "MXN 199"
+    },
+    "promos": "Ninguna visible",
+    "garantia": "No revisada",
+    "devolucion": "No revisada",
+    "envio": "No revisado",
+    "beneficios": [
+      "dosifica en la raíz",
+      "goteros para rellenar sin derrame"
+    ],
+    "objeciones_resueltas": [
+      "derrame al rellenar"
+    ],
+    "diferenciadores": "Accesorio de una marca de aceites",
+    "merece_investigar": false,
+    "por_que": "Es manual; sirve como evidencia del modelo de líquido más accesorio.",
+    "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador",
+    "fecha": "2026-10-18",
+    "history": [
+      {
+        "date": "2026-10-18",
+        "run_id": "2026-10-18T19-54",
+        "change": "Alta",
+        "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
+      }
+    ]
   },
-  "promos": "Ninguna visible",
-  "garantia": "No revisada",
-  "devolucion": "No revisada",
-  "envio": "No revisado",
-  "beneficios": [
-   "dosifica en la raíz",
-   "goteros para rellenar sin derrame"
-  ],
-  "objeciones_resueltas": [
-   "derrame al rellenar"
-  ],
-  "diferenciadores": "Accesorio de una marca de aceites",
-  "merece_investigar": false,
-  "por_que": "Es manual; sirve como evidencia del modelo de líquido más accesorio.",
-  "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador",
-  "fecha": "2026-10-18",
-  "history": [
-   {
-    "date": "2026-10-18",
-    "run_id": "2026-10-18T19-54",
-    "change": "Alta",
-    "source": "https://lamilpademaria.com/products/aplicador-aceite-masajeador"
-   }
-  ]
- },
- "nocnoc-crossborder-ar:mriya-fravega": {
-  "id": "nocnoc-crossborder-ar:mriya-fravega",
-  "problema": "Aplicar líquidos en la raíz con vibración, sin enchastre",
-  "variantes": "1 unidad",
-  "precio": {
-   "1u": "ARS 93.301,96 todo incluido (tachado 112.412,17); s/imp. nac. ARS 77.109,06"
+  "nocnoc-crossborder-ar:mriya-fravega": {
+    "id": "nocnoc-crossborder-ar:mriya-fravega",
+    "problema": "Aplicar líquidos en la raíz con vibración, sin enchastre",
+    "variantes": "1 unidad",
+    "precio": {
+      "1u": "ARS 93.301,96 todo incluido (tachado 112.412,17); s/imp. nac. ARS 77.109,06"
+    },
+    "promos": "Precio tachado (-17%)",
+    "garantia": "No visible en Frávega (la descripción traducida menciona reemplazo vía Amazon)",
+    "devolucion": "No revisada",
+    "envio": "Incluido en el precio; no envía a CABA (CP 1406) ni retira en sucursal",
+    "beneficios": [
+      "depósito 6 ml con ventana graduada",
+      "apagado a los 10 min",
+      "USB-C",
+      "IPX5 (según descripción)"
+    ],
+    "objeciones_resueltas": [
+      "impuestos y envío (precio final visible)"
+    ],
+    "diferenciadores": "Total final en pesos dentro de un retailer conocido",
+    "merece_investigar": true,
+    "por_que": "Es el primer caso relevado de un aparato del mismo formato vendido en AR desde EE. UU. con el costo total visible: es la referencia práctica para OPP-012.",
+    "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/",
+    "fecha": "2026-10-19",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T03-55",
+        "change": "Alta",
+        "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+      }
+    ]
   },
-  "promos": "Precio tachado (-17%)",
-  "garantia": "No visible en Frávega (la descripción traducida menciona reemplazo vía Amazon)",
-  "devolucion": "No revisada",
-  "envio": "Incluido en el precio; no envía a CABA (CP 1406) ni retira en sucursal",
-  "beneficios": [
-   "depósito 6 ml con ventana graduada",
-   "apagado a los 10 min",
-   "USB-C",
-   "IPX5 (según descripción)"
-  ],
-  "objeciones_resueltas": [
-   "impuestos y envío (precio final visible)"
-  ],
-  "diferenciadores": "Total final en pesos dentro de un retailer conocido",
-  "merece_investigar": true,
-  "por_que": "Es el primer caso relevado de un aparato del mismo formato vendido en AR desde EE. UU. con el costo total visible: es la referencia práctica para OPP-012.",
-  "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/",
-  "fecha": "2026-10-19",
-  "history": [
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T03-55",
-    "change": "Alta",
-    "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
-   }
-  ]
- },
- "tymo-us:trithera": {
-  "id": "tymo-us:trithera",
-  "problema": "Masaje del cuero cabelludo con aplicación de líquido, más luz roja y EMS",
-  "variantes": "Colores (Champagne Pink, Gold Blush, otros); Holiday Duo con plancha-peine",
-  "precio": {
-   "DTC": "USD 99,99 (tachado 129,99) + código TREAT 20% en venta de Halloween hasta el 26/10/2026",
-   "Ulta": "USD 42,99 en oferta (lista 99,99)",
-   "Target": "USD 79,99 (agotado)",
-   "Holiday Duo Ulta": "USD 89,99 (lista 159,99)",
-   "Best Buy": "USD 79,99",
-   "Macy's (vía BeyondStyle)": "USD 99,99"
+  "tymo-us:trithera": {
+    "id": "tymo-us:trithera",
+    "problema": "Masaje del cuero cabelludo con aplicación de líquido, más luz roja y EMS",
+    "variantes": "Colores (Champagne Pink, Gold Blush, otros); Holiday Duo con plancha-peine",
+    "precio": {
+      "DTC": "USD 99,99 (tachado 129,99) + código TREAT 20% en venta de Halloween hasta el 26/10/2026",
+      "Ulta": "USD 42,99 en oferta (lista 99,99)",
+      "Target": "USD 79,99 (agotado)",
+      "Holiday Duo Ulta": "USD 89,99 (lista 159,99)",
+      "Best Buy": "USD 79,99",
+      "Macy's (vía BeyondStyle)": "USD 99,99"
+    },
+    "promos": "Venta de Halloween DTC hasta el 26/10/2026 (código TREAT 20%); Mystery Box gratis desde USD 130; oferta en Ulta",
+    "garantia": "1 año por defectos de fabricación (DTC, 21/10/2026); excluye productos de cuidado capilar y accesorios",
+    "devolucion": "DTC: 30 días, envío de devolución a cargo del cliente; Target: 30 o 90 días según publicación",
+    "envio": "DTC EE. UU.: entrega estimada 23–25/10; Ulta: gratis desde USD 35",
+    "beneficios": [
+      "depósito desmontable",
+      "9 combinaciones de masaje/EMS",
+      "IPX7",
+      "apagado a 10 min",
+      "batería de ~7 días"
+    ],
+    "objeciones_resueltas": [
+      "limpieza (depósito desmontable)",
+      "aceites espesos (FAQ recomienda líquidos livianos)"
+    ],
+    "diferenciadores": "Marca conocida + retail grande + pack de regalo",
+    "merece_investigar": true,
+    "por_que": "Puede fijar el precio de referencia del formato en EE. UU. durante la temporada de regalos.",
+    "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
+    "fecha": "2026-10-19",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "run_id": "2026-10-19T19-54",
+        "change": "Alta",
+        "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T03-56",
+        "change": "Ulta sigue USD 42,99 (copia de Exa); se suman Best Buy USD 79,99 y Macy's USD 99,99. Mismo modelo HC132SP.",
+        "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
+      },
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "DTC USD 99,99 (tachado 129,99) con 4 reseñas; Ulta (copia de Exa) la presenta como apta para la ducha (IPX7).",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T03-56",
+        "change": "Promo de Halloween DTC con código TREAT 20% hasta el 26/10; precio de lista igual.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      }
+    ]
   },
-  "promos": "Venta de Halloween DTC hasta el 26/10/2026 (código TREAT 20%); Mystery Box gratis desde USD 130; oferta en Ulta",
-  "garantia": "1 año por defectos de fabricación (DTC, 21/10/2026); excluye productos de cuidado capilar y accesorios",
-  "devolucion": "DTC: 30 días, envío de devolución a cargo del cliente; Target: 30 o 90 días según publicación",
-  "envio": "DTC EE. UU.: entrega estimada 23–25/10; Ulta: gratis desde USD 35",
-  "beneficios": [
-   "depósito desmontable",
-   "9 combinaciones de masaje/EMS",
-   "IPX7",
-   "apagado a 10 min",
-   "batería de ~7 días"
-  ],
-  "objeciones_resueltas": [
-   "limpieza (depósito desmontable)",
-   "aceites espesos (FAQ recomienda líquidos livianos)"
-  ],
-  "diferenciadores": "Marca conocida + retail grande + pack de regalo",
-  "merece_investigar": true,
-  "por_que": "Puede fijar el precio de referencia del formato en EE. UU. durante la temporada de regalos.",
-  "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
-  "fecha": "2026-10-19",
-  "history": [
-   {
-    "date": "2026-10-19",
-    "run_id": "2026-10-19T19-54",
-    "change": "Alta",
-    "source": "https://www.ulta.com/brand/tymo-beauty?category=tools-brushes%2Chair-styling-tools"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T03-56",
-    "change": "Ulta sigue USD 42,99 (copia de Exa); se suman Best Buy USD 79,99 y Macy's USD 99,99. Mismo modelo HC132SP.",
-    "source": "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3"
-   },
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "DTC USD 99,99 (tachado 129,99) con 4 reseñas; Ulta (copia de Exa) la presenta como apta para la ducha (IPX7).",
-    "source": "https://tymobeauty.com/products/tymo-trithera"
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T03-56",
-    "change": "Promo de Halloween DTC con código TREAT 20% hasta el 26/10; precio de lista igual.",
-    "source": "https://tymobeauty.com/products/tymo-trithera"
-   }
-  ]
- },
- "gadnic-ar:masajeador-deposito": {
-  "id": "gadnic-ar:masajeador-deposito",
-  "problema": "Rutina de masaje capilar en casa con aplicación de líquido",
-  "variantes": [
-   "1 unidad (SKU LEDMAS55)"
-  ],
-  "precio": "ARS 97.299 (tachado 149.691); sin impuestos nacionales ARS 80.412",
-  "promos": "35% OFF; 3 cuotas sin interés con todos los bancos; planes de 9–18 cuotas en bancos seleccionados",
-  "garantia": "12 meses de fábrica",
-  "devolucion": "No relevada",
-  "envio": "Gratis a todo el país; en el día en AMBA (Bidcom)",
-  "beneficios": [
-   "3 modos + luz infrarroja",
-   "temporizador 10 min",
-   "depósito < 6 ml",
-   "USB-C, 1400 mAh, ~3 h"
-  ],
-  "objeciones_resueltas": [
-   "cuánto dura la batería",
-   "cuánto líquido cargar",
-   "limpieza del depósito"
-  ],
-  "diferenciadores": [
-   "marca local",
-   "garantía 12 meses",
-   "entrega en el día"
-  ],
-  "merece_investigar": true,
-  "por_que": "Primer competidor local de marca con el mismo formato y precio por encima de la estimación en pesos de Flubberhome.",
-  "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
-  "fecha": "2026-10-20",
-  "history": [
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T11-57",
-    "change": "Alta (antes figuraba solo como competidor en preventa)",
-    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
-   },
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T19-55",
-    "change": "Sin cambios de precio (ARS 97.299). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso.",
-    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
-   }
-  ]
- },
- "alverela-co:nuvea-combo": {
-  "id": "alverela-co:nuvea-combo",
-  "problema": "Rutina capilar en casa con aplicación de aceite",
-  "variantes": [
-   "Combo masajeador + aceite de argán"
-  ],
-  "precio": "COP 117.700 (tachado 147.700)",
-  "promos": "Precio tachado ~20%",
-  "garantia": "No visible",
-  "devolucion": "No relevada",
-  "envio": "No relevado",
-  "beneficios": [
-   "3 modos (lento, rápido, alternado)",
-   "luz roja",
-   "depósito trasero",
-   "estuche de terciopelo (según reseña)"
-  ],
-  "objeciones_resueltas": [
-   "qué cargar en el depósito (trae el aceite)"
-  ],
-  "diferenciadores": [
-   "combo con líquido incluido"
-  ],
-  "merece_investigar": true,
-  "por_que": "Primer combo aparato + líquido en CO; prueba si el kit es un formato que se repite fuera de AR (OPP-006).",
-  "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
-  "fecha": "2026-10-20",
-  "history": [
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Alta",
-    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
-   }
-  ]
- },
- "gleva-in:electric-scalp-massager": {
-  "id": "gleva-in:electric-scalp-massager",
-  "problema": "Aplicar el aceite capilar sin ensuciarse las manos",
-  "variantes": [
-   "1 unidad"
-  ],
-  "precio": "INR 1.499",
-  "promos": "Envío gratis desde INR 890",
-  "garantia": "Reposición por daño o faltante con video del unboxing en 48 h",
-  "devolucion": "No relevada",
-  "envio": "Despacho en 2 días hábiles; entrega 4–7 días",
-  "beneficios": [
-   "tanque recargable con visor",
-   "3 intensidades",
-   "USB"
-  ],
-  "objeciones_resueltas": [
-   "¿hace crecer el pelo? (no)",
-   "¿cómo sale el aceite?",
-   "¿lo puede usar mi mamá sola?",
-   "¿cuándo gana la mano?"
-  ],
-  "diferenciadores": [
-   "honestidad explícita",
-   "comparación justa con la mano"
-  ],
-  "merece_investigar": true,
-  "por_que": "Modelo de ficha aplicable a Flubberhome sin claims médicos (OPP-016).",
-  "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator",
-  "fecha": "2026-10-20",
-  "history": [
-   {
-    "date": "2026-10-20",
-    "run_id": "2026-10-20T19-54",
-    "change": "Alta",
-    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
-   }
-  ]
- },
- "hrebloom-us:pro-scalp-applicator": {
-  "id": "hrebloom-us:pro-scalp-applicator",
-  "problema": "Aplicar tratamiento capilar sin enchastre y con dosis controlada",
-  "variantes": "Pro Scalp Applicator (1 u.)",
-  "precio": "USD 79 (tachado USD 99)",
-  "promos": "Precio tachado",
-  "garantia": "No publicada en la ficha",
-  "devolucion": "30 días para pedirla, por mail",
-  "envio": "Gratis con seguimiento; EE. UU. 5–12 días, UE 6–10",
-  "beneficios": "Dosis de 1 ml, vibración, luz roja, EMS (según la marca)",
-  "objeciones_resueltas": "Derrame al cargar (frasco de 70 ml + tanque de 2 ml); limpieza (IPX5)",
-  "diferenciadores": "Sistema de dos depósitos",
-  "merece_investigar": false,
-  "por_que": "Reseñas poco creíbles y claims médicos. Solo sirve como referencia de diseño.",
-  "source": "https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth",
-  "fecha": "2026-10-21",
-  "history": [
-   {
-    "date": "2026-10-21",
-    "run_id": "2026-10-21T19-55",
-    "change": "Alta."
-   }
-  ]
- }
+  "gadnic-ar:masajeador-deposito": {
+    "id": "gadnic-ar:masajeador-deposito",
+    "problema": "Rutina de masaje capilar en casa con aplicación de líquido",
+    "variantes": [
+      "1 unidad (SKU LEDMAS55)"
+    ],
+    "precio": "ARS 97.299 (tachado 149.691); sin impuestos nacionales ARS 80.412",
+    "promos": "35% OFF; 3 cuotas sin interés con todos los bancos; planes de 9–18 cuotas en bancos seleccionados",
+    "garantia": "12 meses de fábrica",
+    "devolucion": "No relevada",
+    "envio": "Gratis a todo el país; en el día en AMBA (Bidcom)",
+    "beneficios": [
+      "3 modos + luz infrarroja",
+      "temporizador 10 min",
+      "depósito < 6 ml",
+      "USB-C, 1400 mAh, ~3 h"
+    ],
+    "objeciones_resueltas": [
+      "cuánto dura la batería",
+      "cuánto líquido cargar",
+      "limpieza del depósito"
+    ],
+    "diferenciadores": [
+      "marca local",
+      "garantía 12 meses",
+      "entrega en el día"
+    ],
+    "merece_investigar": true,
+    "por_que": "Primer competidor local de marca con el mismo formato y precio por encima de la estimación en pesos de Flubberhome.",
+    "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+    "fecha": "2026-10-20",
+    "history": [
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T11-57",
+        "change": "Alta (antes figuraba solo como competidor en preventa)",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Sin cambios de precio (ARS 97.299). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      }
+    ]
+  },
+  "alverela-co:nuvea-combo": {
+    "id": "alverela-co:nuvea-combo",
+    "problema": "Rutina capilar en casa con aplicación de aceite",
+    "variantes": [
+      "Combo masajeador + aceite de argán"
+    ],
+    "precio": "COP 117.700 (tachado 147.700)",
+    "promos": "Precio tachado ~20%",
+    "garantia": "No visible",
+    "devolucion": "No relevada",
+    "envio": "No relevado",
+    "beneficios": [
+      "3 modos (lento, rápido, alternado)",
+      "luz roja",
+      "depósito trasero",
+      "estuche de terciopelo (según reseña)"
+    ],
+    "objeciones_resueltas": [
+      "qué cargar en el depósito (trae el aceite)"
+    ],
+    "diferenciadores": [
+      "combo con líquido incluido"
+    ],
+    "merece_investigar": true,
+    "por_que": "Primer combo aparato + líquido en CO; prueba si el kit es un formato que se repite fuera de AR (OPP-006).",
+    "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento",
+    "fecha": "2026-10-20",
+    "history": [
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Alta",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      }
+    ]
+  },
+  "gleva-in:electric-scalp-massager": {
+    "id": "gleva-in:electric-scalp-massager",
+    "problema": "Aplicar el aceite capilar sin ensuciarse las manos",
+    "variantes": [
+      "1 unidad"
+    ],
+    "precio": "INR 1.499",
+    "promos": "Envío gratis desde INR 890",
+    "garantia": "Reposición por daño o faltante con video del unboxing en 48 h",
+    "devolucion": "No relevada",
+    "envio": "Despacho en 2 días hábiles; entrega 4–7 días",
+    "beneficios": [
+      "tanque recargable con visor",
+      "3 intensidades",
+      "USB"
+    ],
+    "objeciones_resueltas": [
+      "¿hace crecer el pelo? (no)",
+      "¿cómo sale el aceite?",
+      "¿lo puede usar mi mamá sola?",
+      "¿cuándo gana la mano?"
+    ],
+    "diferenciadores": [
+      "honestidad explícita",
+      "comparación justa con la mano"
+    ],
+    "merece_investigar": true,
+    "por_que": "Modelo de ficha aplicable a Flubberhome sin claims médicos (OPP-016).",
+    "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator",
+    "fecha": "2026-10-20",
+    "history": [
+      {
+        "date": "2026-10-20",
+        "run_id": "2026-10-20T19-54",
+        "change": "Alta",
+        "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+      }
+    ]
+  },
+  "hrebloom-us:pro-scalp-applicator": {
+    "id": "hrebloom-us:pro-scalp-applicator",
+    "problema": "Aplicar tratamiento capilar sin enchastre y con dosis controlada",
+    "variantes": "Pro Scalp Applicator (1 u.)",
+    "precio": "USD 79 (tachado USD 99)",
+    "promos": "Precio tachado",
+    "garantia": "No publicada en la ficha",
+    "devolucion": "30 días para pedirla, por mail",
+    "envio": "Gratis con seguimiento; EE. UU. 5–12 días, UE 6–10",
+    "beneficios": "Dosis de 1 ml, vibración, luz roja, EMS (según la marca)",
+    "objeciones_resueltas": "Derrame al cargar (frasco de 70 ml + tanque de 2 ml); limpieza (IPX5)",
+    "diferenciadores": "Sistema de dos depósitos",
+    "merece_investigar": false,
+    "por_que": "Reseñas poco creíbles y claims médicos. Solo sirve como referencia de diseño.",
+    "source": "https://hrebloom.com/products/hrebloom-pro-scalp-applicator-massager-for-hair-growth",
+    "fecha": "2026-10-21",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "run_id": "2026-10-21T19-55",
+        "change": "Alta."
+      }
+    ]
+  },
+  "carrello-ar:cepillo-6ml": {
+    "id": "carrello-ar:cepillo-6ml",
+    "problema": "Masaje del cuero cabelludo y aplicación de tónicos",
+    "variantes_packs": [
+      "Negro (otros colores sugeridos por '+6' imágenes, no confirmado)"
+    ],
+    "precio_por_variante": {
+      "1 unidad": "ARS 66.599 (tachado 87.999)"
+    },
+    "promos": "24% OFF, 6 cuotas sin interés, 10% por transferencia",
+    "garantia": "no visible",
+    "devolucion": "no visible",
+    "envio": "gratis desde ARS 39.999; plazo no visible",
+    "beneficios": [
+      "depósito 6 ml",
+      "3 modos",
+      "USB-C",
+      "manual en español",
+      "funda"
+    ],
+    "objeciones_resueltas": [
+      "instrucciones en español"
+    ],
+    "diferenciadores": [
+      "precio más bajo del formato en AR entre tiendas con marca"
+    ],
+    "cambios": [
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T19-54",
+        "change": "registrado"
+      }
+    ],
+    "merece_investigar": "sí: fija un piso de precio en AR para el mismo modelo",
+    "fuente": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/",
+    "fecha_consulta": "2026-10-24"
+  }
 }
