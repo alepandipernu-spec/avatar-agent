@@ -958,5 +958,45 @@
       "OPP-014 (+evidencia, 48)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-24T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO DTC y Ulta, Gadnic, Holy, AUREVIA/Farmatodo, DONKA, Lena (copia de Exa)",
+      "pidehoy.mx, OC Market, Introstem (copia de Exa)",
+      "Mercado Libre AR listado (copia de Exa)",
+      "dolarhistorico.com (WebFetch)"
+    ],
+    "fuentes_fallidas": [
+      "Dólar tarjeta 23–24/10: no publicado aún en la fuente; se usó el del 22/10",
+      "Romayza MX: la copia no muestra precio",
+      "TRM (CO) y FIX (MX): no se actualizaron",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "aurevia-co",
+      "ar-tiendas-chicas",
+      "mx-tiendas",
+      "lena-vegetal-ar",
+      "ml-electricos-ar",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en directos (TYMO, Gadnic, Holy) ni en AUREVIA (sostiene COP 89.900)",
+      "Lena: rótulo 'Sin stock' en el kit (no confirmado)",
+      "ML MX: publicación de EGMYMX pausada",
+      "AR: con dólar tarjeta 2.015 la unidad + envío ≈ ARS 104.600 (+7,5% vs Gadnic)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

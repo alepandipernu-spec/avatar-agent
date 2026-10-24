@@ -555,6 +555,12 @@
     "run_id": "2026-10-22T03-55",
     "change": "Tipos de cambio actualizados (dólar tarjeta ARS 2.008,50 del 20/10; FIX 18,6425 del 21/10; TRM 3.174,67 del 17–19/10): AR ≈ ARS 104.300, MX ≈ MXN 968, CO ≈ COP 164.900 por 1 u + envío. Pack Dúo por unidad: ≈ ARS 72.200 / MXN 670 / COP 114.100. Sin cambio de score (37).",
     "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026 ; https://www.banxico.org.mx/tipcamb/tipCamMIAction.do ; https://www.portafolio.co/economia/finanzas/precio-del-dolar-hoy-en-colombia-asi-cotiza-la-divisa-este-lunes-19-de-octubre-504692"
+   },
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T03-55",
+    "change": "Recalculo AR con dólar tarjeta 2.015 (22/10): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic). Score sin cambios.",
+    "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
    }
   ]
  },

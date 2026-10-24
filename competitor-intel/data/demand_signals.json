@@ -81,7 +81,15 @@
   "alcance": "Lena Vegetal, kit masajeador + tónico, AR, acumulado",
   "tipo": "HECHO (indicador de plataforma)",
   "indica": "Demanda real pero chica del formato kit en tienda propia AR",
-  "no_indica": "Ventas mensuales, ritmo actual ni rentabilidad"
+  "no_indica": "Ventas mensuales, ritmo actual ni rentabilidad",
+  "history": [
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T03-55",
+    "change": "Sigue '+70 vendidos'; aparece rótulo 'Sin stock' (no confirmado, puede ser plantilla). No indica ventas nuevas.",
+    "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+   }
+  ]
  },
  "amazon-us-electricos-deposito-baja-calificacion": {
   "id": "amazon-us-electricos-deposito-baja-calificacion",
@@ -276,6 +284,12 @@
     "run_id": "2026-10-23T03-55",
     "valor": "'8 unidades disponibles'; precio COP 89.900; sin reseñas visibles en la copia.",
     "nota": "La baja de 9 a 8 no se puede leer como 1 venta: no se conoce reposición ni reservas."
+   },
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T03-55",
+    "change": "Stock visible sigue en 8 y precio en COP 89.900.",
+    "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
    }
   ]
  },
@@ -459,6 +473,12 @@
     "date": "2026-10-22",
     "run_id": "2026-10-22T03-55",
     "change": "Recalculo con dólar tarjeta ARS 2.008,50 (20/10/2026): 1 u + envío ≈ ARS 104.300; Pack Dúo ≈ ARS 144.400 (≈ 72.200 por unidad). Gadnic sin cambios (ARS 97.299). Conclusión igual.",
+    "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+   },
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T03-55",
+    "change": "Recalculo con dólar tarjeta ARS 2.015 (22/10/2026, último dato publicado): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic 97.299); Pack Dúo ≈ ARS 144.800 (≈ 72.400 por unidad, −26% vs Gadnic). DONKA (ARS 80.000) queda ≈ 23,5% por debajo de la unidad con envío. Conclusión igual.",
     "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
    }
   ]

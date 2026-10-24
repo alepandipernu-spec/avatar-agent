@@ -37,7 +37,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -109,6 +109,12 @@
         "run_id": "2026-10-23T19-54",
         "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), \"Llega gratis mañana\", sin cambios.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sin cambios: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, 'Llega gratis mañana', rótulo propio '1º Más vendido en masajeador'.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar"
       }
     ]
   },
@@ -141,14 +147,15 @@
       "Un kit con tónico podría subir el valor percibido; requiere proveedor y verificar claims."
     ],
     "unknowns": [
-      "Anuncios, ventas."
+      "Anuncios, ventas.",
+      "[24/10/2026] Si el kit está realmente sin stock o el rótulo 'Sin stock' es de la plantilla."
     ],
     "sources": [
       "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -231,6 +238,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T03-55",
         "change": "Sin cambios: kit a ARS 25.600 (tachado 32.000), '+70 vendidos', 'Solo quedan 3 en stock'.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Kit sigue a ARS 25.600 (tachado 32.000), '+70 vendidos'. La copia muestra el rótulo 'Sin stock' (antes 'quedan 3'); puede ser rótulo de plantilla de Tiendanube, no confirmado.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
@@ -390,7 +403,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -407,6 +420,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T03-55",
         "change": "Suba de precio: COP 49.900 → 89.900 (+80%). Stock visible pasa de 9 a 8 unidades (no indica ventas: no se conoce reposición). Sigue vendido y entregado por el vendedor AUREVIA dentro de Farmatodo.",
+        "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sostiene COP 89.900 sin tachado; '8 unidades disponibles' (igual que el 23/10), despacho 4–5 días, sin reseñas ni preguntas.",
         "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
       }
     ]
@@ -1038,7 +1057,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Precio de referencia local en pesos para el mismo tipo de producto.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1068,6 +1087,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T03-55",
         "change": "Listado público (copia de Exa) sin cambios en los de referencia: MegaCuper ARS 37.692 (+50 vendidos); ARS 59.800 y 69.999 (+5 vendidos). Manual Coony sigue en '+5mil vendidos'.",
+        "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Listado ML AR (copia de Exa) sin cambios en los eléctricos: ARS 59.800 y 69.999 con '+5 vendidos'; Coony manual '+5mil'.",
         "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
       }
     ]
@@ -1300,7 +1325,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1402,6 +1427,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T19-54",
         "change": "Chequeo rápido: COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas, sin cambios.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas. Entre las reseñas destacadas de la ficha hay una con relato de recrecimiento de pelo tras una enfermedad (claim de salud en boca de cliente, publicado por la marca).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
@@ -1516,7 +1547,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1571,6 +1602,12 @@
         "run_id": "2026-10-23T19-54",
         "change": "+1 referencia indirecta: Anyeluz (manual con depósito) a COP 28.000 en Letengo, ligado a su propio tónico.",
         "source": "https://letengo.com/products/cepillo-masajeador-estimulante-capilar-con-deposito-anyeluz"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sin cambios: NeXo Colombia sigue agotado a COP 79.900 (tachado 139.900); Smartjoys COP 64.900 (tachado 116.000), garantía 2 meses. Se vio en Addi Marketplace un cepillo con vapor/microcorriente a COP 253.200 sin depósito: no se abre ficha (no compite en formato).",
+        "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -1632,7 +1669,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1675,6 +1712,12 @@
         "run_id": "2026-10-23T11-55",
         "change": "Mercado Libre MX (vía búsqueda de Exa): masajeador eléctrico Viviya a MXN 949,47 vendido por NOCNOC (cross-border, '+25 disponibles'); la ficha no menciona depósito, así que no compite de forma directa. El listado de ML MX sigue sin poder leerse (SOURCE_NOT_AVAILABLE).",
         "source": "https://www.mercadolibre.com.mx/masajeador-electrico-de-cuero-cabelludo-viviya-portatil-reca/p/MLM2036701863"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sin cambios: pidehoy.mx sigue 'Agotado' con precios contradictorios (MXN 990 / 1.390) y contadores propios (+2.790 vendidas, 970 reseñas); OC Market agotado a MXN 1.038; Introstem MXN 890 sin reseñas. La publicación de EGMYMX en ML MX figura 'pausada'. Romayza: la copia no muestra precio (solo '29% OFF').",
+        "source": "https://pidehoy.mx/products/peine-electrico-de-masaje-capilar-multifuncion-masajea-y-distribuye-tu-serum"
       }
     ],
     "id": "mx-tiendas",
@@ -1723,7 +1766,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1741,6 +1784,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T19-54",
         "change": "+1 tienda: DONKA Beauty, eléctrico con tanque de 3 ml a ARS 80.000.",
+        "source": "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "DONKA Beauty sin cambios: ARS 80.000; la copia sigue sin mostrar stock, garantía, envío ni reseñas.",
         "source": "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo"
       }
     ],
@@ -2121,7 +2170,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-19",
@@ -2187,6 +2236,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T19-54",
         "change": "Chequeo rápido: USD 99,99 (tachado 129,99), sin cambios.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T03-55",
+        "change": "Sin cambios: tienda USD 99,99 (tachado 129,99); Ulta USD 42,99 (lista 99,99), 'In stock', envío gratis desde USD 35. Las fechas por estado (27–29/10) son estimaciones de entrega.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
