@@ -53,13 +53,19 @@
       "prueba social"
     ],
     "primera_vez_visto": "2026-10-17",
-    "ultima_vez_visto": "2026-10-21",
-    "repeticiones": 4,
+    "ultima_vez_visto": "2026-10-24",
+    "repeticiones": 5,
     "history": [
       {
         "date": "2026-10-21",
         "run_id": "2026-10-21T11-54",
         "change": "Sigue visible el bloque de 'más de 4,5 M de vistas' y 68% OFF (USD 50,95). Sin creatividades nuevas.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Sigue visible el bloque de '4,5 M de vistas' y 68% OFF (USD 50,95). Sin creatividades nuevas.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -255,8 +261,16 @@
       "Claims de crecimiento"
     ],
     "primera_vez_visto": "2026-10-20",
-    "ultima_vez_visto": "2026-10-20",
-    "repeticiones": 1
+    "ultima_vez_visto": "2026-10-24",
+    "repeticiones": 2,
+    "history": [
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Misma landing y oferta (USD 39,99, 60% OFF, 60 días de devolución).",
+        "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
+      }
+    ]
   },
   "bernovas-us:listado-set-regalo": {
     "id": "bernovas-us:listado-set-regalo",
@@ -288,5 +302,42 @@
     "primera_vez_visto": "2026-10-20",
     "ultima_vez_visto": "2026-10-20",
     "repeticiones": 1
+  },
+  "breo-us:landing-black-friday-2026": {
+    "id": "breo-us:landing-black-friday-2026",
+    "run_id": "2026-10-24T11-54",
+    "competidor": "breo-us",
+    "fuente": "Landing de promoción en la web oficial (NO es la Biblioteca de Meta)",
+    "url": "https://us.breo.com/pages/black-friday-2026",
+    "fecha_vista": "2026-10-24",
+    "formato": "Landing de temporada con grilla de productos, videos de producto y bloque de packs",
+    "gancho": "Descuento de Black Friday con garantía de precio (paráfrasis)",
+    "primeros_segundos": "No aplica (página)",
+    "problema": "Miedo a comprar antes y que el precio baje (interpretación)",
+    "demostracion": "Videos de producto embebidos (no se reprodujeron)",
+    "beneficio": "Ahorro y compra sin riesgo",
+    "objeciones": [
+      "precio",
+      "miedo a que baje el precio",
+      "devolución",
+      "garantía"
+    ],
+    "estructura": "Titular de descuento → 3 garantías (entrega, devolución, 1 año) → pack de 2 → productos sueltos con precio tachado",
+    "texto_en_pantalla": "No aplica",
+    "cta": "Comprar",
+    "oferta": "Hasta USD 100 de descuento; pack 2 × S3 USD 309,99; S3 USD 159,99; garantía de precio 30 días",
+    "motivaciones_INTERPRETACION": [
+      "ahorro",
+      "reducción del riesgo",
+      "regalo"
+    ],
+    "observaciones_verificables": [
+      "La página ya está publicada el 24/10, un mes antes de Black Friday",
+      "Pack de 2 con ahorro por unidad bajo (≈3%) frente a la unidad"
+    ],
+    "primera_vez_visto": "2026-10-24",
+    "ultima_vez_visto": "2026-10-24",
+    "repeticiones": 1,
+    "history": []
   }
 }

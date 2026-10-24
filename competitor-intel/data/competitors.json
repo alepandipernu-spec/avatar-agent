@@ -466,7 +466,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -537,6 +537,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T11-55",
         "change": "Sin cambios: USD 50,95 (tachado 158,95); la ficha sigue declarando '4.5M views' en TikTok e Instagram (dato propio, no verificable).",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Sin cambios: USD 50,95 (tachado 158,95), '12.319 clientes', 'agotado 3 veces', bloque de '4,5 M de vistas' y el bloque reciclado del cojín de coxis.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -889,13 +895,16 @@
       "Garantía de 365 días y atención 'de por vida' en el listado.",
       "Web oficial (17/10/2026): USD 161,99 (tachado 239,99), envío gratis 3–7 días, 30 días de devolución 'si no estás conforme', garantía de 1 año por defectos (reemplazo por reacondicionado o nuevo).",
       "La web oficial afirma 'clínicamente probado' para crecimiento en 56 días y promueve uso en la ducha (IPX7); su FAQ, en cambio, dice que no es un dispositivo de recrecimiento.",
-      "TikTok Shop US: Breo Scalp3 a USD 239,99 con \"1.2K sold\" (indicador de la plataforma, 18/10/2026), por encima del precio de su web y de Amazon."
+      "TikTok Shop US: Breo Scalp3 a USD 239,99 con \"1.2K sold\" (indicador de la plataforma, 18/10/2026), por encima del precio de su web y de Amazon.",
+      "Página 'Black Friday 2026' publicada en la web oficial (vista 24/10/2026, sin fecha de publicación): 'hasta USD 100 de descuento', garantía de precio de 30 días, Breo S3 a USD 159,99 (tachado 239,99) y pack de 2 × S3 a USD 309,99 (tachado 479,98), envío gratis 3–7 días, 30 días de devolución y 1 año de garantía."
     ],
     "inferences": [
       "Techo de precio de la categoría (~USD 160) con marca reconocida.",
       "[HIPÓTESIS] La contradicción entre la ficha (crecimiento) y la FAQ (no es de recrecimiento) sugiere que hasta la marca premium cuida el riesgo legal del claim."
     ],
-    "hypotheses": [],
+    "hypotheses": [
+      "[HIPÓTESIS] La 'garantía de precio de 30 días' sirve para que el cliente compre antes de Black Friday sin miedo a que baje el precio. El pack de 2 × S3 ahorra solo ≈3% por unidad frente a la unidad: el pack se vende como 'regalo para dos', no por ahorro."
+    ],
     "unknowns": [
       "Ventas, anuncios."
     ],
@@ -903,11 +912,12 @@
       "https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K",
       "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light",
       "https://us.breo.com/products/scalp3-trilogy-massager",
-      "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+      "https://shop.tiktok.com/us/k/hair-oil-and-massager",
+      "https://us.breo.com/pages/black-friday-2026"
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-21",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -944,6 +954,12 @@
         "run_id": "2026-10-21T19-55",
         "change": "Reseña de medical-insiders (15/04/2026) sobre Breo Scalp3L: puntas finas y firmes que irritan cueros cabelludos sensibles, precio alto y varias quejas por aparatos fallados.",
         "source": "https://www.medical-insiders.com/test-scalp3l-masseur-de-cuir-chevelu-laser-pour-la-repousse-des-cheveux-masseur-shiatsu-pour-cuir-chevelu-avec-therapie-a-la-lumiere-rouge-etancheite-ipx7-masseur-electrique-sans-fil-pour-la"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Página de Black Friday 2026 ya publicada: S3 a USD 159,99 (web oficial 17/10: 161,99, −1,2%), pack 2 × S3 a USD 309,99 (≈154,99 c/u), garantía de precio de 30 días. Cambio de precio menor; lo nuevo es la estructura de la promo.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
   },
@@ -989,7 +1005,7 @@
     ],
     "relevance": "baja",
     "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1020,6 +1036,12 @@
         "run_id": "2026-10-23T19-54",
         "change": "Se suma la tienda propia (theinia.com): USD 149,99 / 129,99, agotado; garantía inconsistente en la misma página (2 años vs. 1 año). Reseñas nuevas en TikTok Shop: una pide más fuerza y otra reporta caída de pelo tras el primer uso.",
         "source": "https://theinia.com/products/inia-vibra-4-in-1-scalp-therapy-device"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Listado 'LIVE EXCLUSIVE' sin cambios: USD 259,99, 103 vendidos, 4,7★ con 15 reseñas. Entre las reseñas visibles, una (07/08/2026) cuenta caída de pelo después del primer uso.",
+        "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
       }
     ]
   },
@@ -1272,7 +1294,7 @@
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-17",
@@ -1303,6 +1325,12 @@
         "run_id": "2026-10-22T19-55",
         "change": "Se suma Litevisage (USD 109,99; reseñas de credibilidad dudosa).",
         "source": "https://litevisage.com/product/scalp-massager-for-hair-growth/"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "DHactive sin cambios: USD 39,99 (lista 99,99), devolución de 60 días, envío gratis desde USD 59, tanque de 15 ml; sigue mencionando minoxidil y resultados en 8–12 semanas.",
+        "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
       }
     ]
   },
@@ -1894,7 +1922,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-24",
     "history": [
       {
         "date": "2026-10-18",
@@ -1918,6 +1946,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T11-55",
         "change": "Sin cambios en TikTok Shop US: kit aplicador + aceite USD 19, '43.6K sold'.",
+        "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "TikTok Shop US: kit aplicador + aceite de romero sigue en USD 19 con 43,6 mil vendidos; tienda con '2.0M Sold' acumulado.",
         "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
       }
     ]
@@ -2242,6 +2276,12 @@
         "date": "2026-10-24",
         "run_id": "2026-10-24T03-55",
         "change": "Sin cambios: tienda USD 99,99 (tachado 129,99); Ulta USD 42,99 (lista 99,99), 'In stock', envío gratis desde USD 35. Las fechas por estado (27–29/10) son estimaciones de entrega.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-24",
+        "run_id": "2026-10-24T11-54",
+        "change": "Sin cambios: tienda USD 99,99 (tachado 129,99); Ulta USD 42,99 (lista 99,99), en stock. Sin promo de Halloween ni de Black Friday visible.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]

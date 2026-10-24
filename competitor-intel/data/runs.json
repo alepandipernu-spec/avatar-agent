@@ -998,5 +998,40 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-24T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO DTC y Ulta, Anyra, DHactive, Breo Black Friday (copia de Exa)",
+      "TikTok Shop US: 2 búsquedas y PDP de INIA (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL y nadie respondió; no hay navegador conectado (8.º día sin anuncios verificados)",
+      "TikTok Creative Center Top Ads: 'No search results found' en la copia",
+      "Amazon Live: la copia no trae el contenido del video"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "inia-us",
+      "kitsch-us",
+      "breo-us",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Breo publicó su página de Black Friday 2026: S3 USD 159,99, pack 2 × S3 USD 309,99, garantía de precio de 30 días",
+      "TYMO sin promo de Halloween ni Black Friday visible",
+      "TikTok Shop US: eléctrico con tanque de 6 ml a USD 17,51 (187 vendidos)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013-angulo-regalo-temporada (nota, score igual)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

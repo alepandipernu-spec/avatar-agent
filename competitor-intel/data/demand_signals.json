@@ -216,6 +216,12 @@
     "run_id": "2026-10-23T11-55",
     "change": "Sin cambios en los de referencia (Kitsch 43,6 mil; con caja de regalo 9,3 mil; 3 modos 2,0 mil). El listado 'LIVE EXCLUSIVE' de INIA aparece con 103 vendidos (antes 78) a USD 259,99. En 'hair massager for scalp' aparecen arboleaf (sin depósito) con 11,9 mil y NAPRE con 5,0 mil, ambos con 'Christmas Gift' en el título.",
     "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://shop.tiktok.com/us/k/hair-massager-for-scalp"
+   },
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T11-54",
+    "change": "Kitsch sigue en 43,6 mil y el eléctrico de 3 modos (USD 35,98) en 2,0 mil. El de 'caja de regalo' (9,3 mil) no aparece en esta copia. Un eléctrico con tanque de 6 ml figura a USD 17,51 (−42%) con 187 vendidos. En 'hair massager for scalp' la copia cambió: Comfier (sin depósito) 5,0 mil, peine con luz roja e 'infusión de sérum' 1,4 mil, eléctrico aplicador de aceite USD 34,15 con 767; arboleaf y NAPRE no aparecen. Copias de Exa sin fecha: los cambios de orden no prueban cambios de venta.",
+    "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager ; https://shop.tiktok.com/us/k/hair-massager-for-scalp"
    }
   ]
  },
@@ -229,7 +235,15 @@
   "alcance": "US, AR",
   "tipo": "HECHO (oferta visible)",
   "indica": "Los competidores se preparan para la temporada de regalos.",
-  "no_indica": "Que el ángulo regalo convierta mejor."
+  "no_indica": "Que el ángulo regalo convierta mejor.",
+  "history": [
+   {
+    "date": "2026-10-24",
+    "run_id": "2026-10-24T11-54",
+    "change": "Breo ya tiene publicada su página de Black Friday 2026 (con pack de 2 y garantía de precio de 30 días). Essence (23/10/2026) incluye un masajeador de cuero cabelludo en una guía de regalos de Black Friday. CyberMonday AR (2–4/11) queda a 9 días.",
+    "source": "https://us.breo.com/pages/black-friday-2026 ; https://www.essence.com/shopping/black-friday-holiday-hair-gifts/"
+   }
+  ]
  },
  "ar-crossborder-precio-final": {
   "id": "ar-crossborder-precio-final",

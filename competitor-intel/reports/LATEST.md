@@ -1,92 +1,105 @@
-# Inteligencia competitiva — run 2026-10-24T03-55
+# Inteligencia competitiva — run 2026-10-24T11-54
 
-**Foco:** catálogo, tiendas y precios (franja 03:54).
+**Foco:** anuncios, creatividades y demanda (franja 11:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 24/10/2026, 03:55–04:15 (Buenos Aires). Las fichas salen de copias de Exa sin fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 24/10/2026, 11:54–12:15 (Buenos Aires). Las páginas salen de copias de Exa sin fecha visible.
 
-**Informe corto:** no hay cambios de precio, competidores nuevos ni oportunidades nuevas. Abajo, lo que se comprobó.
+**Informe corto:** una novedad menor (Breo ya lanzó Black Friday) y nada más. Abajo, lo que se comprobó.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Precios sin cambios** en los directos (TYMO, Gadnic, Holy) y en AUREVIA, que sostiene COP 89.900 después de la suba del 23/10.
-- **AR, costo total recalculado** con el dólar tarjeta del 22/10 (ARS 2.015): la unidad + envío de Flubberhome ronda ARS 104.600, un 7,5% arriba de Gadnic. El Pack Dúo sigue ≈26% por debajo por unidad. La conclusión no cambia.
-- **Cambios menores:** Lena (AR) muestra "Sin stock" en el kit (sin confirmar) y una publicación de ML MX (EGMYMX) figura pausada.
+- **Breo (premium, US) ya publicó su página de Black Friday 2026.** Trae un pack de 2 unidades y una garantía de precio de 30 días. El precio de la unidad casi no cambia (USD 159,99 contra 161,99 el 17/10).
+- **Siguen sin aparecer anuncios verificados** (8.º día). La Biblioteca de Meta no se pudo leer y TikTok Creative Center volvió a cargar vacío.
+- **TYMO, Anyra, INIA y DHactive siguen igual**, sin promo de Halloween ni de Black Friday visible.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| gadnic-ar, lena-vegetal-ar, ml-electricos-ar, ar-tiendas-chicas (DONKA) | AR | A | Sin cambios de precio; Lena con rótulo "Sin stock" |
-| holy-cosmetics-co, aurevia-co, co-dtc-tiendas | CO | A | Sin cambios |
-| tymo-us | US | A | Sin cambios |
-| mx-tiendas | MX | A | Sin cambios; 1 publicación de ML pausada |
+| breo-us | US | A | Página de Black Friday publicada (ver C y D) |
+| tymo-us, anyra-us, inia-us | US | A | Sin cambios |
+| kitsch-us | US | B | Sin cambios (43,6 mil vendidos) |
+| dtc-clones-us (DHactive) | US | A | Sin cambios |
 
-No hay competidores nuevos. Apareció en Addi Marketplace (CO) un cepillo con vapor y microcorriente a COP 253.200, sin depósito: no se le abre ficha porque no compite en formato.
+No hay competidores nuevos.
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Chequeo de directos** ([HECHO], 24/10/2026):
+**Chequeo rápido de directos** ([HECHO], 24/10/2026):
 - **TYMO** ([tienda](https://tymobeauty.com/products/tymo-trithera), [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264)): USD 99,99 (tachado 129,99) y USD 42,99 en Ulta (lista 99,99), en stock.
-- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)): ARS 97.299 (tachado 149.691), 3 cuotas, "Llega gratis mañana".
-- **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
-  - [HECHO] La marca muestra entre sus reseñas destacadas un relato de pelo que volvió a crecer después de una enfermedad. Es un claim de salud en boca de una clienta, publicado por la marca.
-  - [HIPÓTESIS] Es un riesgo regulatorio para Holy. Para Flubberhome, confirma la regla de no mostrar testimonios con resultados de salud.
-
-**Resto del catálogo** ([HECHO], 24/10/2026):
-- **AUREVIA en Farmatodo** ([ficha](https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1)): sigue a COP 89.900, con "8 unidades disponibles" y sin reseñas.
-- **DONKA Beauty** ([ficha](https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo)): ARS 80.000. Sigue sin mostrar stock, garantía ni envío.
-- **Lena** ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)): kit a ARS 25.600 (tachado 32.000), "+70 vendidos". Pasa de "quedan 3" a "Sin stock". [HIPÓTESIS] El rótulo puede ser de la plantilla de Tiendanube; hay que confirmarlo en el próximo run.
-- **MX:**
-  - pidehoy.mx sigue "Agotado", con los precios contradictorios (MXN 990 / 1.390).
-  - OC Market sigue agotado a MXN 1.038 e Introstem sigue a MXN 890.
-  - La publicación de EGMYMX en [ML MX](https://articulo.mercadolibre.com.mx/MLM-2843105018-aplicador-electrico-de-aceite-capilar-w-2-en-1-masajeador-d-_JM) figura "pausada".
-- **CO:** NeXo Colombia sigue agotado a COP 79.900 y Smartjoys sigue a COP 64.900.
-
-**Tipo de cambio AR** ([fuente](https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026)): dólar tarjeta ARS 2.015 (22/10, último publicado).
-- [ESTIMACIÓN] 1 u + envío (USD 51,93) ≈ ARS 104.600, +7,5% sobre Gadnic. Pack Dúo ≈ ARS 144.800 (≈ 72.400 por unidad, −26% vs Gadnic). DONKA queda ≈23,5% por debajo de la unidad con envío. Método: conversión simple; margen ±5% por banco y fecha de cierre; no incluye posibles impuestos de importación.
+- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95).
+- **DHactive** ([ficha](https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)): USD 39,99 (lista 99,99), 60 días de devolución.
+- **Breo** ([Black Friday 2026](https://us.breo.com/pages/black-friday-2026)):
+  - S3 a USD 159,99 (tachado 239,99).
+  - Pack de 2 × S3 a USD 309,99 (tachado 479,98).
+  - Promete hasta USD 100 de descuento, garantía de precio de 30 días, envío gratis en 3–7 días, 30 días de devolución y 1 año de garantía.
+  - [ESTIMACIÓN] En el pack, cada unidad sale ≈ USD 155, apenas ≈3% menos que la unidad suelta. Método: 309,99 ÷ 2 contra 159,99.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 23/10/2026 11:55.
+- **Biblioteca de Meta:** no accesible (ver L). Ningún dato de esta sección viene de ahí.
+- **TikTok Creative Center** ([Top Ads, US, 30 días, "scalp massager"](https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=US&keyword=scalp%20massager)): la copia dice que no hay resultados. No prueba que no haya anuncios.
+- **Landing de Black Friday de Breo** (registrada en `ads.json`; es una página de la marca, no un anuncio):
+  - Estructura: titular de descuento → tres garantías (entrega, devolución, 1 año) → pack de 2 → productos sueltos con precio tachado.
+  - [HIPÓTESIS] La garantía de precio está para que la gente compre antes de Black Friday sin miedo a que el precio baje después.
+  - [HIPÓTESIS] Como el pack casi no ahorra, se vende como "comprar de a dos" o regalo, no por precio.
+- **Anyra y DHactive:** las mismas páginas y ofertas de antes.
+- **Amazon Live:** aparecieron videos de creadores mostrando eléctricos con aplicador de aceite. La copia no trae el contenido, así que no se analizó la creatividad.
+- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
 
 ## E. Demanda y señales de ventas
-- **Mercado Libre AR** [HECHO: indicador de ML, [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo)]: sin cambios. Los eléctricos de ARS 59.800 y 69.999 siguen en "+5 vendidos" y el manual Coony en "+5mil".
-- **AUREVIA:** el stock visible sigue en 8. **No indica** ventas.
-- **Lena:** "+70 vendidos" igual. El "Sin stock" **no indica** que se haya vendido más.
+| Señal | Valor | Tipo |
+|---|---|---|
+| TikTok Shop US ([buscador](https://shop.tiktok.com/us/k/hair-oil-and-massager)) | Kitsch 43,6 mil y eléctrico de 3 modos 2,0 mil (sin cambios). Un eléctrico con tanque de 6 ml a USD 17,51 (−42%) con 187 vendidos | HECHO: indicador de la plataforma |
+| "hair massager for scalp" ([buscador](https://shop.tiktok.com/us/k/hair-massager-for-scalp)) | La copia cambió de orden: Comfier (sin depósito) 5,0 mil; peine con luz roja 1,4 mil; eléctrico aplicador USD 34,15 con 767 | HECHO: indicador de la plataforma |
+| Temporada | Breo ya publicó Black Friday. [Essence](https://www.essence.com/shopping/black-friday-holiday-hair-gifts/) (23/10) pone un masajeador en una guía de regalos. Faltan 9 días para el CyberMonday AR (2–4/11) | HECHO |
+
+- **Qué no indican:** ventas por período ni rentabilidad. Los contadores son acumulados, y que un producto aparezca o desaparezca en la copia no prueba que se venda más o menos.
+- [HIPÓTESIS] En EE. UU. hay eléctricos con tanque por debajo de USD 20. Flubberhome no puede competir por precio ahí; tiene que diferenciarse por demostración y confianza (OPP-001, OPP-016).
 
 ## F. Experiencia de compra
-Sin novedades. No se completó ningún checkout. Último dato con cambios: 22/10/2026 03:55.
+Sin revisión en esta ejecución. Último dato: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 23/10/2026 19:54. Solo se suma la nota sobre la reseña de Holy (sección C).
+Sin revisión en esta ejecución. Último dato: 23/10/2026 19:54. Solo un apunte: entre las reseñas visibles de INIA en TikTok Shop hay una (07/08/2026) que cuenta caída de pelo después del primer uso.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas.
+**Black Friday temprano** ([HIPÓTESIS], confianza media):
+- **Evidencia:** Breo publicó su promo un mes antes y le sumó una garantía de precio.
+- **Interpretación:** las marcas premium ya empiezan a captar la demanda de regalo.
+- **Acción:** si el dueño reactiva campañas antes de noviembre, el Pack Dúo con ahorro real por unidad (sin precio tachado) contrasta con un pack premium que casi no ahorra. **No conviene** copiar la garantía de precio: compromete plata y se tiene que decidir aparte.
+- **Métrica:** proporción de Pack Dúo sobre el total de pedidos.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
 |---|---|---|---|
 | 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | Nota: el pack de Breo casi no ahorra; el Dúo sí |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
-| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Recalculo AR sin cambios de conclusión |
+| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
+| 8 | OPP-017 demo real rotulada en microdramas con IA | 33 | — |
 
 No hay oportunidades nuevas.
 
 ## J. Próximas acciones
-- **Para el dueño:** sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017. También falta conectar un navegador para leer la Biblioteca de Meta.
-- **Próximo run de anuncios (11:54):** reintentar la Biblioteca de Meta y ver si TYMO cambia la promo después de Halloween.
-- **Próximo run de catálogo:** confirmar el stock de Lena, precio de Romayza (MX), actualizar TRM y FIX.
+- **Para el dueño:**
+  - Sin un navegador conectado, la franja de anuncios no puede verificar anuncios. Conectar Claude in Chrome a esta tarea (o activar "Require this computer") destrabaría la Biblioteca de Meta.
+  - Sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017.
+  - Faltan 9 días para el CyberMonday AR (2–4/11). Si se quiere estar, hay que decidirlo ya.
+- **Próximo run de reseñas (19:54):** reseñas recientes de INIA y Breo.
+- **Próximo run de catálogo (03:54):** stock de Lena, precio de Romayza (MX), TRM y FIX; ver si TYMO o Anyra publican Black Friday.
 
 ## K. Nuevos hallazgos
-- Sin competidores, oportunidades ni cambios de precio nuevos.
-- Actualizados: gadnic-ar, holy-cosmetics-co, tymo-us, aurevia-co, ar-tiendas-chicas, mx-tiendas, lena-vegetal-ar, ml-electricos-ar y co-dtc-tiendas.
-- Señales actualizadas: `ar-costo-total-con-tarjeta`, `aurevia-farmatodo-stock` y `lena-mas-70-vendidos`.
+- No hay competidores ni oportunidades nuevas.
+- Nuevo anuncio registrado: `breo-us:landing-black-friday-2026` (es una landing, no viene de la Biblioteca de Meta).
+- Actualizados: breo-us, tymo-us, anyra-us, inia-us, kitsch-us y dtc-clones-us. Señales `tiktok-shop-us-contadores-vendidos` y `temporada-regalo-2026`. Nota en OPP-013.
 
 ## L. Limitaciones
-- **Tipos de cambio:** el dólar tarjeta del 23–24/10 no estaba publicado y se usó el del 22/10. No se actualizaron la TRM (CO) ni el FIX (MX); siguen los del 22/10.
-- **Romayza (MX):** la copia no muestra el precio.
-- **Fichas sin fecha:** las copias de Exa no tienen fecha, así que no se puede afirmar desde cuándo vale cada precio ni desde cuándo está el rótulo "Sin stock" de Lena.
-- **Biblioteca de anuncios de Meta:** no se intentó, porque no es la franja de anuncios.
+- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
+- **TikTok Creative Center:** sin resultados en la copia.
+- **Amazon Live:** la copia no trae el video.
+- **Breo:** no se sabe desde cuándo está publicada la página de Black Friday.
+- **Datos sin fecha:** las copias de Exa no tienen fecha. El orden de los listados de TikTok Shop cambia entre copias.
+- **LatAm:** en esta franja no se revisaron publicaciones de Gadnic ni de Holy.
 - **Repo público:** sin datos internos. Conviene volverlo privado.
