@@ -263,6 +263,14 @@
         "change": "Breo sube su promesa de Black Friday a 'hasta USD 150'. Bask and Lather Co (vendedora de un eléctrico aplicador en TikTok Shop) ya publicó su colección Black Friday / Cyber Monday 2026, sin el eléctrico. Faltan 8 días para el CyberMonday AR.",
         "source": "https://us.breo.com/pages/black-friday-2026 ; https://baskandlatherco.com/collections/black-friday-cyber-monday-2026"
       }
+    ],
+    "historial": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Practical Review Spot (25/10/2026) presenta un masajeador con aplicador como regalo para maridos y papás: el ángulo regalo también apunta al comprador hombre.",
+        "source": "https://practicalreviewspot.com/best-electric-scalp-massager/"
+      }
     ]
   },
   "ar-crossborder-precio-final": {
@@ -659,5 +667,17 @@
     "tipo": "HECHO (precios) + ESTIMACIÓN (Flubberhome en ARS, ±5%)",
     "indica": "El precio de referencia del formato en AR está bajando y hay oferta local con cuotas.",
     "no_indica": "Ventas, rentabilidad ni que el precio bajo convierta mejor."
+  },
+  "formato-bruma-vapor-editorial-2026": {
+    "id": "formato-bruma-vapor-editorial-2026",
+    "fecha": "2026-10-25",
+    "run_id": "2026-10-25T19-55",
+    "senal": "Formato bruma/vapor (sin rodillos) en listas editoriales y catálogos 2026",
+    "valor": "Fortune (03/06/2026) elige como mejor general un masajeador con 'nano-steam' (Era of Nature). Practical Review Spot (25/10/2026) pone un 2 en 1 con 'nano mist' como opción premium y lo presenta como regalo para maridos y papás. En MX: FANA (atomización térmica) y Joinet MR-902 (nano pulverización, mayorista). En AR: Movex (bruma 15 ml, ARS 20.800).",
+    "fuente": "https://fortune.com/article/best-hair-growth-scalp-massager/ ; https://practicalreviewspot.com/best-electric-scalp-massager/ ; https://fana.com.mx/ ; https://joinet.com/producto/cepillo-masageador-para-cuero-cabelludo-con-vibracion-variedad-de-colores-mr-902/",
+    "alcance": "US, MX, AR",
+    "tipo": "HECHO (presencia en listas y catálogos)",
+    "indica": "Hay un formato vecino que se diferencia por 'bruma' en vez de rodillos y que la prensa de compras muestra como premium o regalo.",
+    "no_indica": "Ventas, que el formato convierta mejor ni que reemplace al de rodillos. Las listas de afiliados no son pruebas independientes."
   }
 }

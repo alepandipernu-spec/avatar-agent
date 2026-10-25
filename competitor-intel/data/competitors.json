@@ -127,6 +127,12 @@
         "run_id": "2026-10-25T03-55",
         "change": "Sin cambios: ARS 97.299 (tachado 149.691), 3 cuotas sin interés, 'Llega gratis mañana'. Su página de CyberMonday 2026 muestra 0 productos en oferta (el evento empieza el 2/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Chequeo rápido: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, igual que antes. La ficha propia no muestra reseñas de compradores; Bidcom muestra solo un 4,5 sin texto. No se pudo leer reseñas de Mercado Libre.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -316,6 +322,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T11-55",
         "change": "PY008 baja de ARS 149.900 (17/10) a ARS 129.900 con tachado 149.900 (−13%). La ficha dice 'quedan 90 en stock' y a la vez 'es el último' (texto de plantilla de Tiendanube). Sigue con claims de caída y crecimiento. Sigue por encima de Gadnic (ARS 97.299).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Chequeo rápido: ARS 129.900 (tachado 149.900), igual que el 25/10 11:55. La ficha no muestra reseñas de compradores.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2677,6 +2689,96 @@
         "run_id": "2026-10-25T03-55",
         "change": "Sin cambios de precio: ARS 66.599 (tachado 87.999), 6 cuotas sin interés, 10% por transferencia (ARS 59.939,10). La copia completa muestra un bloque genérico de 'Cambios y devoluciones' (sin plazo), certificaciones declaradas CE/ROHS/FCC y sigue sin garantía, plazo de entrega ni reseñas.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Chequeo rápido: ARS 66.599 (tachado 87.999), sin cambios. El aviso '¡Uy! No tenemos más stock…' es texto de plantilla del carrito de Tiendanube (también aparece en Movex con stock), no un agotado.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      }
+    ]
+  },
+  "era-of-nature-us": {
+    "id": "era-of-nature-us",
+    "name": "Era of Nature (4-in-1 Electric Scalp Massager)",
+    "domain": "amazon.com (marca de Amazon; dominio propio no verificado)",
+    "market": "US",
+    "category": "B_indirecto",
+    "product_focus": "Masajeador eléctrico con vibración, luz roja y azul y 'nano-steam' con depósito chico de agua",
+    "relevant_products": [
+      "Era of Nature 4-in-1 Electric Scalp Massager"
+    ],
+    "price_visible": "No visto en la copia (Fortune lo menciona como la opción más cara de su lista).",
+    "value_prop": "Experiencia tipo spa con vapor; ayuda a repartir el producto en pelo grueso.",
+    "claims_observed": "Exfoliar, 'vigorizar folículos', densidad capilar a largo plazo (palabras de la marca citadas por Fortune).",
+    "channels": [
+      "Amazon (según Fortune)"
+    ],
+    "ads": "No obtenido.",
+    "facts": [
+      "[HECHO 2026-10-25] Fortune (03/06/2026) lo elige 'mejor masajeador en general' tras pruebas propias. Contras que menciona: el más caro de la lista, batería corta (60–75 min) y depósito chico. Fuente: https://fortune.com/article/best-hair-growth-scalp-massager/"
+    ],
+    "inferences": [],
+    "hypotheses": [
+      "[HIPÓTESIS] El formato de bruma/vapor gana visibilidad editorial en US como alternativa al de rodillos con tanque; compite por el mismo comprador de 'rutina spa'."
+    ],
+    "unknowns": [
+      "Precio actual, ventas, reseñas, anuncios."
+    ],
+    "sources": [
+      "https://fortune.com/article/best-hair-growth-scalp-massager/"
+    ],
+    "last_reviewed": "2026-10-25",
+    "relevance": "baja",
+    "follow_reason": "Referencia editorial del formato bruma/vapor en US; seguir solo si aparece en anuncios o baja de precio.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Alta (indirecto, relevancia baja).",
+        "source": "https://fortune.com/article/best-hair-growth-scalp-massager/"
+      }
+    ]
+  },
+  "fana-mx": {
+    "id": "fana-mx",
+    "name": "FANA",
+    "domain": "fana.com.mx",
+    "market": "MX",
+    "category": "B_indirecto",
+    "product_focus": "Peine eléctrico con atomización térmica de aceite (cartucho magnético), microvibración de 2 niveles y 152 cerdas",
+    "relevant_products": [
+      "Peine atomizador FANA"
+    ],
+    "price_visible": "No visible en la home (copia de Exa).",
+    "value_prop": "Peinar y aplicar aceite en bruma en un paso.",
+    "claims_observed": "Fortalece el cabello y reduce la caída (claim de la marca).",
+    "channels": [
+      "Sitio propio (home multilingüe: español, inglés, ruso, chino)"
+    ],
+    "ads": "No obtenido.",
+    "facts": [
+      "[HECHO 2026-10-25] La home describe atomización térmica, cartucho de aceite magnético y 'caja de aceites esenciales próximamente'. No muestra precio, reseñas ni envío. Fuente: https://fana.com.mx/"
+    ],
+    "inferences": [
+      "[HIPÓTESIS] Sitio de marca de fábrica con dominio .mx, no tienda local consolidada; la venta de cartuchos sugiere modelo de recompra."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Precio, canal de venta en MX, ventas, reseñas."
+    ],
+    "sources": [
+      "https://fana.com.mx/"
+    ],
+    "last_reviewed": "2026-10-25",
+    "relevance": "baja",
+    "follow_reason": "Formato bruma con cartucho de recompra en MX; mirar si lanza la caja de aceites.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T19-55",
+        "change": "Alta (indirecto, relevancia baja).",
+        "source": "https://fana.com.mx/"
       }
     ]
   }

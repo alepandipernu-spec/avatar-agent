@@ -1145,5 +1145,46 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-25T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic, Beltronic, Carrello (fichas, copia de Exa)",
+      "Guías editoriales: Fortune, Practical Review Spot, ThinkingReviews",
+      "Amazon US/MX, Joinet, Znice, FANA (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Reseñas de Mercado Libre: la búsqueda no devolvió fichas con opiniones legibles; no se intentó entrar (antecedente de muro de login)",
+      "Reseñas en fichas de Gadnic y Beltronic: no hay reseñas públicas en sus tiendas",
+      "Reddit: la búsqueda no trajo hilos de 2026",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "mx-tiendas",
+      "amazon-generics-us"
+    ],
+    "competidores_nuevos": [
+      "era-of-nature-us",
+      "fana-mx"
+    ],
+    "novedades": [
+      "Patrón nuevo (aislado): miedo previo a la compra a raíces grasosas o irritación por exceso de líquido",
+      "Formato bruma/vapor visible en listas editoriales 2026 (Fortune, Practical Review Spot) y en MX (FANA)",
+      "Sin cambios de precio en Gadnic, Beltronic ni Carrello"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (nota)",
+      "OPP-013 (nota)",
+      "OPP-015 (nota)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

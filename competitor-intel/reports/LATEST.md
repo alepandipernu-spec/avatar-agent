@@ -1,105 +1,98 @@
-# Inteligencia competitiva — run 2026-10-25T11-55
+# Inteligencia competitiva — run 2026-10-25T19-55
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54).
+**Foco:** reseñas, competidores nuevos y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 25/10/2026, 11:55–12:15 (Buenos Aires). Las páginas salen de copias de Exa sin fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 25/10/2026, 19:55–20:20 (Buenos Aires), con copias de Exa sin fecha visible salvo donde se indica.
 
-**Informe corto:** dos novedades menores y nada accionable de urgencia. Abajo, lo que se comprobó.
+**Informe corto:** no hay nada urgente. Aparecieron una duda de compra que todavía no estaba registrada y dos competidores indirectos de relevancia baja.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Breo (premium, US) subió su promesa de Black Friday** a "hasta USD 150" (el 24/10 decía hasta USD 100). Lo hizo sumando dos productos más caros; el S3 y el pack de 2 no cambiaron de precio.
-- **Beltronic (AR) bajó su eléctrico con depósito 13%:** de ARS 149.900 a 129.900. Sigue por encima de Gadnic (97.299).
-- **Siguen sin aparecer anuncios verificados** (9.º día). La Biblioteca de Meta no se pudo leer y TikTok Creative Center volvió a cargar vacío.
+- **Duda nueva antes de comprar (aislada):** hay gente que teme que el aplicador suelte demasiado líquido y deje las raíces grasosas o irrite un cuero cabelludo sensible. Es lo contrario del goteo, y la misma toma real de OPP-001 lo puede responder.
+- **El formato de bruma o vapor gana espacio en listas de compras de 2026** (Fortune, Practical Review Spot) y aparece en México (FANA). Es un formato vecino; no cambia la estrategia.
+- **Directos sin cambios de precio:** Gadnic sigue a ARS 97.299, Beltronic a 129.900 y Carrello a 66.599.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| breo-us | US | A | Landing de Black Friday ampliada (ver C y D) |
-| beltronic-ar | AR | A | Baja de precio del 13% (ver C) |
-| inia-us, anyra-us, dtc-clones-us | US | A | Sin cambios de precio ni de oferta |
-| kitsch-us | US | B | Sin cambios (43,6 mil vendidos) |
-| gadnic-ar | AR | A | Sin cambios; todavía sin ofertas de CyberMonday |
-
-No hay competidores nuevos.
+| gadnic-ar | AR | A | Sin cambios. No muestra reseñas públicas en su tienda |
+| beltronic-ar | AR | A | Sin cambios. No muestra reseñas públicas |
+| carrello-ar | AR | A | Sin cambios. El aviso "no tenemos más stock" es texto de plantilla de Tiendanube |
+| mx-tiendas, amazon-generics-us | MX/US | A | Solo fichas ya registradas; nada nuevo |
+| **era-of-nature-us** (nuevo) | US | B | Masajeador con "nano-steam"; Fortune lo elige como mejor en general. Relevancia baja |
+| **fana-mx** (nuevo) | MX | B | Peine con atomización térmica y cartucho de aceite. No muestra precio. Relevancia baja |
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Novedades** ([HECHO], 25/10/2026):
-- **Beltronic PY008** ([ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/)): ARS 129.900 (tachado 149.900, "13% OFF"). El 17/10 estaba a ARS 149.900 sin tachado.
-  - En efectivo sale ARS 110.415, pero solo con retiro o envío en moto dentro de CABA. Tiene 3 cuotas.
-  - La ficha dice a la vez "quedan 90" y "es el último". Es el mismo texto de plantilla de Tiendanube que ya se había visto en Lena y Carrello.
-  - Sigue prometiendo que frena la caída y estimula el crecimiento. Flubberhome no debe usar esos claims.
-- **Breo** ([Black Friday 2026](https://us.breo.com/pages/black-friday-2026)):
-  - Ahora promete "hasta USD 150".
-  - Suma el masajeador de cabeza iDream 5S (USD 299,99, con regalo) y el LumiHeal Pro láser (USD 179,99).
-  - S3 a USD 159,99 y pack de 2 a USD 309,99, igual que el 24/10.
-
-**Chequeo rápido de directos** ([HECHO], 25/10/2026), sin cambios:
-- **Gadnic** ([página](https://www.gadnic.com.ar/bellezahotsale2026)): ARS 97.299.
-- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95.
-- **DHactive** ([ficha](https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)): USD 39,99.
+**Chequeo rápido de directos** ([HECHO], 25/10/2026):
+- [Gadnic](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c): ARS 97.299, tachado 149.691, con 3 cuotas.
+- [Beltronic PY008](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/): ARS 129.900.
+- [Carrello](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/): ARS 66.599, con 6 cuotas.
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** no accesible (ver L). Ningún dato de esta sección viene de ahí.
-- **TikTok Creative Center** ([Top Ads, US, 30 días, "scalp massager"](https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=US&keyword=scalp%20massager)): la copia dice que no hay resultados. No prueba que no haya anuncios.
-- **Landing de Black Friday de Breo** (actualizada en `ads.json`; es una página de la marca, no un anuncio):
-  - La estructura no cambió. Subió el tope del descuento y sumó productos más caros.
-  - [HIPÓTESIS] El "hasta USD 150" sale del producto más caro, no del masajeador capilar. Es un titular más grande sin bajar el precio del producto que compite con Flubberhome.
-- **Instagram y TikTok de marcas LatAm:** la búsqueda no devolvió publicaciones de Gadnic ni de Holy. No se analizó ninguna creatividad nueva.
-- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
+Sin revisión en esta ejecución. Último dato: 25/10/2026 11:55 (sin anuncios verificados de la Biblioteca de Meta).
 
 ## E. Demanda y señales de ventas
-| Señal | Valor | Tipo |
-|---|---|---|
-| TikTok Shop US ([buscador](https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light)) | INIA VIBRA 820 vendidos (816 el 18/10). Breo tiene un listado con 741 y otro con 1,2 mil, los dos a USD 239,99. Peine con luz roja: 1,4 mil | HECHO: indicador de la plataforma |
-| Tarjeta de la tienda INIA Official | 351,5 mil vendidos y 55,5 mil seguidores | HECHO: total de la tienda, **no** de este producto |
-| "hair oil and massager" ([buscador](https://shop.tiktok.com/us/k/hair-oil-and-massager)) | Kitsch 43,6 mil, eléctrico de 3 modos 2,0 mil y eléctrico de 6 ml 187, iguales al 24/10 | HECHO: indicador de la plataforma |
-| Temporada | Breo amplió su Black Friday. [Bask and Lather Co](https://baskandlatherco.com/collections/black-friday-cyber-monday-2026), que vende un eléctrico aplicador en TikTok Shop, ya publicó su colección de Black Friday y Cyber Monday 2026, pero sin el eléctrico. Faltan 8 días para el CyberMonday AR (2–4/11) y Gadnic sigue con 0 productos cargados | HECHO |
-
-- [ESTIMACIÓN] INIA VIBRA sumó ≈4 ventas en 7 días según el contador. Método: 820 − 816, entre el 18/10 y una copia sin fecha. Es poco confiable: el contador es acumulado y la fecha de la copia es incierta.
-- **Qué no indican:** ventas por período ni rentabilidad.
+- **Señal nueva** `formato-bruma-vapor-editorial-2026` ([HECHO]: aparición en listas, no ventas):
+  - [Fortune](https://fortune.com/article/best-hair-growth-scalp-massager/) (03/06/2026) elige el Era of Nature con vapor. Sus contras: el más caro, poca batería y depósito chico.
+  - [Practical Review Spot](https://practicalreviewspot.com/best-electric-scalp-massager/) (25/10/2026) pone un 2 en 1 con "nano mist" como opción premium y como regalo para maridos y papás.
+  - En México, [FANA](https://fana.com.mx/) y Joinet MR-902. En Argentina, Movex (registrado el 24/10).
+- **Qué no indica:** que ese formato venda más. Además, las listas de afiliados no son pruebas independientes.
 
 ## F. Experiencia de compra
 Sin revisión en esta ejecución. Último dato con cambios: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 24/10/2026 19:54.
+- **Nuevo (aislado):** en una [guía de compras](https://thinkingreviews.com/skincare/best-electric-scalp-massagers/), dos lectores preguntan antes de comprar cómo evitar dos cosas:
+  - Que el aplicador suelte demasiado e irrite un cuero cabelludo sensible (06/03/2026).
+  - Que deje las raíces grasosas (14/06/2026).
+  - Son preguntas de lectores, no reseñas de compradores. Se registró el patrón en `reviews.json`.
+- **Gadnic y Beltronic:** sus tiendas no muestran reseñas de compradores. En Bidcom, Gadnic tiene un 4,5 sin texto. Las reseñas de Mercado Libre siguen sin poder leerse.
+- **Patrones existentes:** no cambian. Las tendencias principales siguen siendo:
+  - Problemas para dosificar el líquido.
+  - Fallas de fábrica.
+  - Una sensación de masaje más floja de lo esperado.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas. Lo que se vio de Breo confirma la nota del 24/10 en OPP-013: los descuentos grandes de temporada salen de productos caros, y el Pack Dúo de Flubberhome puede mostrar un ahorro real por unidad sin precio tachado.
+- [HIPÓTESIS] La duda sobre las raíces grasosas se responde mostrando, no prometiendo. La toma real de 10–15 s (OPP-001/OPP-017) debería mostrar:
+  - Una carga chica.
+  - Pasadas cortas sobre pelo seco.
+  - El resultado sin brillo grasoso.
+
+  No hay que prometer nada sobre irritación ni dar cifras de dosis que no estén probadas.
+- [HIPÓTESIS] El ángulo regalo (OPP-013) también puede apuntar a quien le compra a un hombre (pareja o papá), no solo a "regalo para ella". Se mide con un A/B de titular del Pack Dúo.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
 |---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
+| 1 | OPP-001 demo de aplicación sin goteo | 80 | Nota: mostrar una carga chica y pasadas cortas |
+| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | Nota: probar también el regalo para un hombre |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
 | 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
-| 8 | OPP-017 demo real rotulada en microdramas con IA | 33 | — |
+| 6 | OPP-015 guía en español visible antes de comprar | 36 | Nota: incluir "empezá con poco y ajustá" |
 
-No hay oportunidades nuevas.
+No hay oportunidades nuevas ni cambios de puntaje.
 
 ## J. Próximas acciones
 - **Para el dueño:**
-  - Sin un navegador conectado, esta franja no puede verificar anuncios. Conectar Claude in Chrome a esta tarea (o activar "Require this computer") destrabaría la Biblioteca de Meta.
-  - Sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017.
-  - Faltan 8 días para el CyberMonday AR. Hay que decidir si AR participa o sigue en pausa.
-- **Próximo run de reseñas (19:54):** reseñas recientes de Gadnic y Beltronic.
+  - Sigue pendiente la toma real de 10–15 s; ahora conviene que muestre también una carga chica.
+  - Faltan 8 días para el CyberMonday AR (2–4/11). Hay que decidir si AR participa.
+  - Para la franja de anuncios hace falta un navegador conectado.
 - **Próximo run de catálogo (03:54):** ver si Gadnic carga ofertas de CyberMonday, si Beltronic sostiene el precio y si TYMO o Anyra publican Black Friday.
 
 ## K. Nuevos hallazgos
-- No hay competidores ni oportunidades nuevas.
-- Actualizados: beltronic-ar (precio y producto `beltronic-ar:py008`), breo-us e inia-us.
-- Anuncio actualizado: `breo-us:landing-black-friday-2026`, visto por 2.ª vez.
-- Señales actualizadas: `tiktok-shop-us-contadores-vendidos`, `temporada-regalo-2026` y `cybermonday-ar-2026-fecha`.
+- Competidores nuevos: `era-of-nature-us` y `fana-mx` (indirectos, relevancia baja).
+- Señal nueva: `formato-bruma-vapor-editorial-2026`. Actualizada: `temporada-regalo-2026`.
+- Reseñas: 2 ítems nuevos y 1 patrón nuevo (miedo a excederse con el líquido).
+- Notas agregadas en OPP-001, OPP-013 y OPP-015.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
-- **TikTok Creative Center:** sin resultados en la copia.
-- **Redes de marcas LatAm:** la búsqueda no trajo publicaciones de Gadnic ni de Holy.
-- **Datos sin fecha:** las copias de Exa no tienen fecha, así que no se sabe desde cuándo vale el precio de Beltronic ni el cambio de Breo.
+- **Reseñas de Mercado Libre:** no se pudieron leer (la búsqueda no trajo opiniones legibles; antecedente de muro de login).
+- **Fichas de Gadnic y Beltronic:** no tienen reseñas públicas.
+- **Reddit:** sin hilos de 2026.
+- **Biblioteca de Meta:** no se intentó (no es la franja de anuncios).
+- **Datos sin fecha:** las copias de Exa no la tienen, salvo las fechas de publicación que se indican.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

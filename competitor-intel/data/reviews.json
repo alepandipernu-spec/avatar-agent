@@ -271,6 +271,23 @@
           "source": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush"
         }
       ]
+    },
+    {
+      "problema": "Miedo a excederse con el líquido: raíces grasosas o irritación del cuero cabelludo sensible (duda previa a la compra)",
+      "n_fuentes": 1,
+      "n_competidores": 0,
+      "clasificacion": "aislado (2 preguntas de lectores en una misma guía, mar. y jun. 2026; no son reseñas de compradores)",
+      "oportunidad": "[HIPÓTESIS] Es la otra cara del goteo: además de 'no chorrea', el comprador quiere saber que puede usar poco. Mostrar en la demo real (OPP-001/OPP-017) una carga chica y pasadas cortas, y en la Guía (OPP-015) cómo empezar con poco y ajustar. Sin claims médicos ni promesas sobre irritación.",
+      "fecha": "2026-10-25",
+      "run_id": "2026-10-25T19-55",
+      "historial": [
+        {
+          "date": "2026-10-25",
+          "run_id": "2026-10-25T19-55",
+          "change": "Patrón nuevo (aislado).",
+          "source": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/"
+        }
+      ]
     }
   ],
   "items": [
@@ -740,6 +757,26 @@
       "parafrasis": "Una compradora se sorprendió al leer, ya con el aparato en casa, una lista de precauciones que no figuraba en la descripción; también pidió que aclaren qué aceites se pueden usar.",
       "fecha_consulta": "2026-10-24",
       "run_id": "2026-10-24T19-54"
+    },
+    {
+      "fuente": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/",
+      "producto": "Masajeadores eléctricos con aplicador (guía comparativa, comentarios de lectores)",
+      "problema": "duda previa a la compra: miedo a que el aplicador automático suelte demasiado aceite e irrite un cuero cabelludo sensible",
+      "fecha": "2026-03-06",
+      "parafrasis": "Un lector con cuero cabelludo sensible que quiere usar menos aceite pregunta si el aplicador automático es demasiado y cómo regularlo para no irritarse.",
+      "fecha_consulta": "2026-10-25",
+      "run_id": "2026-10-25T19-55",
+      "tipo": "pregunta de lector (no es reseña de compra)"
+    },
+    {
+      "fuente": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/",
+      "producto": "Masajeadores eléctricos con aplicador (guía comparativa, comentarios de lectores)",
+      "problema": "duda previa a la compra: miedo a terminar con las raíces grasosas",
+      "fecha": "2026-06-14",
+      "parafrasis": "Una lectora que está por comprar un modelo con aplicador pregunta cómo usarlo para no dejar las raíces grasosas.",
+      "fecha_consulta": "2026-10-25",
+      "run_id": "2026-10-25T19-55",
+      "tipo": "pregunta de lector (no es reseña de compra)"
     }
   ]
 }
