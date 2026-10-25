@@ -473,10 +473,8 @@
     "id": "beltronic-ar:py008",
     "problema": "Masaje + luz + aplicación de tónico",
     "variantes": "1 unidad",
-    "precio": {
-      "1u": "ARS 149.900 (tachado 179.990); 15% off efectivo solo retiro/CABA"
-    },
-    "promos": "Tachado; 3 cuotas sin interés",
+    "precio": "ARS 129.900 (tachado 149.900), efectivo ARS 110.415 con retiro (25/10/2026)",
+    "promos": "Tachado 13% OFF; 3 cuotas sin interés; 15% en efectivo solo con retiro o moto CABA",
     "garantia": "No vista",
     "devolucion": "No vista",
     "envio": "Envío gratis desde un monto no visible",
@@ -497,6 +495,12 @@
         "date": "2026-10-17",
         "run_id": "2026-10-17T19-55",
         "change": "Alta",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T11-55",
+        "change": "Precio ARS 149.900 → 129.900 (tachado 149.900)",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]

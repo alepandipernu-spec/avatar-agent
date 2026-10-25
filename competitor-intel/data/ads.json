@@ -325,7 +325,7 @@
     "estructura": "Titular de descuento → 3 garantías (entrega, devolución, 1 año) → pack de 2 → productos sueltos con precio tachado",
     "texto_en_pantalla": "No aplica",
     "cta": "Comprar",
-    "oferta": "Hasta USD 100 de descuento; pack 2 × S3 USD 309,99; S3 USD 159,99; garantía de precio 30 días",
+    "oferta": "Hasta USD 150 de descuento (25/10; era hasta USD 100 el 24/10); pack 2 × S3 USD 309,99; S3 USD 159,99; iDream 5S USD 299,99 con regalo; LumiHeal Pro USD 179,99; garantía de precio 30 días",
     "motivaciones_INTERPRETACION": [
       "ahorro",
       "reducción del riesgo",
@@ -336,8 +336,15 @@
       "Pack de 2 con ahorro por unidad bajo (≈3%) frente a la unidad"
     ],
     "primera_vez_visto": "2026-10-24",
-    "ultima_vez_visto": "2026-10-24",
-    "repeticiones": 1,
-    "history": []
+    "ultima_vez_visto": "2026-10-25",
+    "repeticiones": 2,
+    "history": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T11-55",
+        "change": "Sube el tope de descuento a USD 150 y suma dos productos más caros (iDream 5S y LumiHeal Pro). La estructura no cambia.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
+      }
+    ]
   }
 }

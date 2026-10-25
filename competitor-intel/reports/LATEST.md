@@ -1,73 +1,76 @@
-# Inteligencia competitiva — run 2026-10-25T03-55
+# Inteligencia competitiva — run 2026-10-25T11-55
 
-**Foco:** catálogo, tiendas y precios (franja 03:54).
+**Foco:** anuncios, creatividades y demanda (franja 11:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 25/10/2026, 03:55–04:15 (Buenos Aires). Las fichas salen de copias de Exa sin fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 25/10/2026, 11:55–12:15 (Buenos Aires). Las páginas salen de copias de Exa sin fecha visible.
 
-**Informe corto:** no hay cambios de precio, competidores nuevos ni oportunidades nuevas. Abajo, lo que se comprobó.
+**Informe corto:** dos novedades menores y nada accionable de urgencia. Abajo, lo que se comprobó.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Precios sin cambios** en los directos: TYMO, Gadnic, Holy, Anyra y Carrello.
-- **Lena (AR):** se descarta el "Sin stock" del run anterior. La ficha muestra a la vez "Sin stock" y "Solo quedan 3": el primero es texto de la plantilla de Tiendanube, que también aparece en Carrello.
-- **CyberMonday AR (2–4/11):** la página de Gadnic en el sitio oficial del evento todavía muestra 0 productos en oferta. Faltan 8 días.
-- **Tipos de cambio al día** (C). Las conclusiones de costo total no cambian.
+- **Breo (premium, US) subió su promesa de Black Friday** a "hasta USD 150" (el 24/10 decía hasta USD 100). Lo hizo sumando dos productos más caros; el S3 y el pack de 2 no cambiaron de precio.
+- **Beltronic (AR) bajó su eléctrico con depósito 13%:** de ARS 149.900 a 129.900. Sigue por encima de Gadnic (97.299).
+- **Siguen sin aparecer anuncios verificados** (9.º día). La Biblioteca de Meta no se pudo leer y TikTok Creative Center volvió a cargar vacío.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| gadnic-ar, carrello-ar, lena-vegetal-ar, ar-tiendas-chicas (DONKA) | AR | A | Sin cambios de precio |
-| holy-cosmetics-co, co-dtc-tiendas (Smartjoys) | CO | A | Sin cambios |
-| mx-tiendas (Romayza) | MX | A | Precio visible otra vez, igual que el 21/10 |
-| tymo-us, anyra-us | US | A | Sin cambios; sin Black Friday visible |
+| breo-us | US | A | Landing de Black Friday ampliada (ver C y D) |
+| beltronic-ar | AR | A | Baja de precio del 13% (ver C) |
+| inia-us, anyra-us, dtc-clones-us | US | A | Sin cambios de precio ni de oferta |
+| kitsch-us | US | B | Sin cambios (43,6 mil vendidos) |
+| gadnic-ar | AR | A | Sin cambios; todavía sin ofertas de CyberMonday |
 
-No hay competidores nuevos. Apareció Tecnoimpor (mayorista AR) con un masajeador "pulpo" de 8 cabezales sin depósito a ARS 21.000: no compite en formato y no se le abre ficha.
+No hay competidores nuevos.
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Chequeo de directos** ([HECHO], 25/10/2026):
-- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): USD 99,99 (tachado 129,99), entrega estimada 28–30/10. No muestra promo de Black Friday. [Rakuten](https://www.rakuten.com/black-friday/store/tymobeauty) ubica el Black Friday el 27/11/2026.
-- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)): ARS 97.299 (tachado 149.691), 3 cuotas, "Llega gratis mañana".
-- **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
-- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95), entrega en 7–14 días hábiles.
-- **Carrello** ([ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/)): ARS 66.599 (tachado 87.999), 6 cuotas, ARS 59.939 por transferencia.
-  - La copia completa muestra un bloque genérico de cambios y devoluciones, sin plazo.
-  - Sigue sin garantía, plazo de entrega ni reseñas.
+**Novedades** ([HECHO], 25/10/2026):
+- **Beltronic PY008** ([ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/)): ARS 129.900 (tachado 149.900, "13% OFF"). El 17/10 estaba a ARS 149.900 sin tachado.
+  - En efectivo sale ARS 110.415, pero solo con retiro o envío en moto dentro de CABA. Tiene 3 cuotas.
+  - La ficha dice a la vez "quedan 90" y "es el último". Es el mismo texto de plantilla de Tiendanube que ya se había visto en Lena y Carrello.
+  - Sigue prometiendo que frena la caída y estimula el crecimiento. Flubberhome no debe usar esos claims.
+- **Breo** ([Black Friday 2026](https://us.breo.com/pages/black-friday-2026)):
+  - Ahora promete "hasta USD 150".
+  - Suma el masajeador de cabeza iDream 5S (USD 299,99, con regalo) y el LumiHeal Pro láser (USD 179,99).
+  - S3 a USD 159,99 y pack de 2 a USD 309,99, igual que el 24/10.
 
-**Resto del catálogo** ([HECHO], 25/10/2026):
-- **Lena** ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)): kit a ARS 25.600, "+70 vendidos", "quedan 3".
-- **DONKA** ([ficha](https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo)): ARS 80.000, sin cambios.
-- **Romayza, MX** ([ficha](https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/)): MXN 499 (tachado 699), envío gratis. Sigue sugiriendo cargar minoxidil, un claim que Flubberhome no debe usar.
-- **Smartjoys, CO** ([ficha](https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/)): COP 64.900, entrega en 1–5 días hábiles, garantía de 2 meses, 0 reseñas.
-
-**Costo total de Flubberhome, 1 u + envío (USD 51,93)** [ESTIMACIÓN]:
-| Mercado | Tipo de cambio | Total aprox. | Referencia local |
-|---|---|---|---|
-| AR | Tarjeta 2.015 ([23/10](https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026)) | ARS 104.600 | Gadnic 97.299 · DONKA 80.000 · Carrello 66.599 |
-| MX | FIX 18,6670 ([Banxico, 23/10](https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp)) | MXN 969 | Romayza 499 |
-| CO | TRM 3.158,43 ([24/10](https://dolar.wilkinsonpc.com.co/2026-10-24)) | COP 164.000 | Holy 149.990 · Smartjoys 64.900 |
-
-Método: conversión simple. Margen ±5% por banco y fecha de cierre. No incluye posibles impuestos de importación. En AR, el Pack Dúo sigue ≈ ARS 72.400 por unidad (−26% vs Gadnic).
+**Chequeo rápido de directos** ([HECHO], 25/10/2026), sin cambios:
+- **Gadnic** ([página](https://www.gadnic.com.ar/bellezahotsale2026)): ARS 97.299.
+- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95.
+- **DHactive** ([ficha](https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator)): USD 39,99.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 24/10/2026 11:54.
+- **Biblioteca de Meta:** no accesible (ver L). Ningún dato de esta sección viene de ahí.
+- **TikTok Creative Center** ([Top Ads, US, 30 días, "scalp massager"](https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en?period=30&region=US&keyword=scalp%20massager)): la copia dice que no hay resultados. No prueba que no haya anuncios.
+- **Landing de Black Friday de Breo** (actualizada en `ads.json`; es una página de la marca, no un anuncio):
+  - La estructura no cambió. Subió el tope del descuento y sumó productos más caros.
+  - [HIPÓTESIS] El "hasta USD 150" sale del producto más caro, no del masajeador capilar. Es un titular más grande sin bajar el precio del producto que compite con Flubberhome.
+- **Instagram y TikTok de marcas LatAm:** la búsqueda no devolvió publicaciones de Gadnic ni de Holy. No se analizó ninguna creatividad nueva.
+- **Patrón:** sin cambios. Lo que más se repite sigue siendo la aplicación sin enchastre, el uso en la ducha y el regalo.
 
 ## E. Demanda y señales de ventas
-- **CyberMonday AR** ([cybermonday.com.ar](https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-electro-y-tecno-cuidado-personal-masajeadores_C102)) [HECHO]: empieza el 2/11 a las 00 h. Gadnic todavía no cargó masajeadores en oferta.
-- **Mercado Libre AR:** la copia del listado no trae precios ni "+N vendidos" de los eléctricos con depósito. Sin dato nuevo.
-- **Lena:** "+70 vendidos" igual. **No indica** ventas mensuales.
+| Señal | Valor | Tipo |
+|---|---|---|
+| TikTok Shop US ([buscador](https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light)) | INIA VIBRA 820 vendidos (816 el 18/10). Breo tiene un listado con 741 y otro con 1,2 mil, los dos a USD 239,99. Peine con luz roja: 1,4 mil | HECHO: indicador de la plataforma |
+| Tarjeta de la tienda INIA Official | 351,5 mil vendidos y 55,5 mil seguidores | HECHO: total de la tienda, **no** de este producto |
+| "hair oil and massager" ([buscador](https://shop.tiktok.com/us/k/hair-oil-and-massager)) | Kitsch 43,6 mil, eléctrico de 3 modos 2,0 mil y eléctrico de 6 ml 187, iguales al 24/10 | HECHO: indicador de la plataforma |
+| Temporada | Breo amplió su Black Friday. [Bask and Lather Co](https://baskandlatherco.com/collections/black-friday-cyber-monday-2026), que vende un eléctrico aplicador en TikTok Shop, ya publicó su colección de Black Friday y Cyber Monday 2026, pero sin el eléctrico. Faltan 8 días para el CyberMonday AR (2–4/11) y Gadnic sigue con 0 productos cargados | HECHO |
+
+- [ESTIMACIÓN] INIA VIBRA sumó ≈4 ventas en 7 días según el contador. Método: 820 − 816, entre el 18/10 y una copia sin fecha. Es poco confiable: el contador es acumulado y la fecha de la copia es incierta.
+- **Qué no indican:** ventas por período ni rentabilidad.
 
 ## F. Experiencia de compra
-Sin novedades. No se completó ningún checkout. Último dato con cambios: 22/10/2026 03:55.
+Sin revisión en esta ejecución. Último dato con cambios: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
 Sin revisión en esta ejecución. Último dato: 24/10/2026 19:54.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas.
+Sin estrategias nuevas. Lo que se vio de Breo confirma la nota del 24/10 en OPP-013: los descuentos grandes de temporada salen de productos caros, y el Pack Dúo de Flubberhome puede mostrar un ahorro real por unidad sin precio tachado.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
@@ -75,24 +78,28 @@ Sin estrategias nuevas.
 | 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
 | 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
-| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Recalculo sin cambios de conclusión |
+| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | — |
+| 8 | OPP-017 demo real rotulada en microdramas con IA | 33 | — |
 
 No hay oportunidades nuevas.
 
 ## J. Próximas acciones
-- **Para el dueño:** sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017. Antes del 2/11, decidir si AR participa del CyberMonday o queda en pausa.
-- **Próximo run de anuncios (11:54):** reintentar la Biblioteca de Meta y ver si aparecen anuncios de CyberMonday o Black Friday.
-- **Próximo run de catálogo:** ver si Gadnic o Carrello cargan ofertas de CyberMonday y si TYMO o Anyra publican Black Friday.
+- **Para el dueño:**
+  - Sin un navegador conectado, esta franja no puede verificar anuncios. Conectar Claude in Chrome a esta tarea (o activar "Require this computer") destrabaría la Biblioteca de Meta.
+  - Sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017.
+  - Faltan 8 días para el CyberMonday AR. Hay que decidir si AR participa o sigue en pausa.
+- **Próximo run de reseñas (19:54):** reseñas recientes de Gadnic y Beltronic.
+- **Próximo run de catálogo (03:54):** ver si Gadnic carga ofertas de CyberMonday, si Beltronic sostiene el precio y si TYMO o Anyra publican Black Friday.
 
 ## K. Nuevos hallazgos
-- Sin competidores, oportunidades ni cambios de precio nuevos.
-- Se descarta el "Sin stock" de Lena (texto de plantilla).
-- Actualizados: tymo-us, gadnic-ar, holy-cosmetics-co, anyra-us, carrello-ar, lena-vegetal-ar, mx-tiendas, co-dtc-tiendas y ar-tiendas-chicas.
-- Señales actualizadas: `ar-costo-total-con-tarjeta`, `mx-precios-locales-bajos`, `co-dtc-rango-precios` y `cybermonday-ar-2026-fecha`.
+- No hay competidores ni oportunidades nuevas.
+- Actualizados: beltronic-ar (precio y producto `beltronic-ar:py008`), breo-us e inia-us.
+- Anuncio actualizado: `breo-us:landing-black-friday-2026`, visto por 2.ª vez.
+- Señales actualizadas: `tiktok-shop-us-contadores-vendidos`, `temporada-regalo-2026` y `cybermonday-ar-2026-fecha`.
 
 ## L. Limitaciones
-- **Mercado Libre AR:** la copia del listado no trae precios ni contadores de vendidos.
-- **Fichas sin fecha:** las copias de Exa no tienen fecha, así que no se puede afirmar desde cuándo vale cada precio.
-- **Tipos de cambio:** son del 23–24/10 (fin de semana, sin publicación nueva).
-- **Biblioteca de anuncios de Meta:** no se intentó, porque no es la franja de anuncios.
+- **Biblioteca de anuncios de Meta:** WebFetch pidió un permiso de URL que nadie respondió y no hay navegador conectado. Sigue sin haber anuncios verificados desde el 17/10.
+- **TikTok Creative Center:** sin resultados en la copia.
+- **Redes de marcas LatAm:** la búsqueda no trajo publicaciones de Gadnic ni de Holy.
+- **Datos sin fecha:** las copias de Exa no tienen fecha, así que no se sabe desde cuándo vale el precio de Beltronic ni el cambio de Breo.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

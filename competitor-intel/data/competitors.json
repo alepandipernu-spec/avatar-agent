@@ -277,7 +277,7 @@
     "relevant_products": [
       "Kit masajeador infrarrojo + serum Capixyl 5%"
     ],
-    "price_visible": "Kit ARS 175.890 (lista ARS 185.990); 10% off por transferencia.",
+    "price_visible": "PY008 suelto ARS 129.900 (tachado 149.900, '13% OFF'), ARS 110.415 en efectivo solo con retiro o moto en CABA, 3 cuotas (25/10/2026). Kit con serum ARS 175.890 (17/10/2026).",
     "value_prop": "Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.",
     "claims_observed": "'Anticaída y densidad', 'reduce la caída'.",
     "channels": [],
@@ -299,7 +299,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-17",
+    "last_reviewed": "2026-10-25",
     "history": [
       {
         "date": "2026-10-17",
@@ -310,6 +310,12 @@
         "date": "2026-10-17",
         "run_id": "2026-10-17T19-55",
         "change": "Producto suelto PY008 visto a ARS 149.900 (antes solo se tenía el kit con serum a ARS 175.890). Claims 'anticaída' y 'estimula el crecimiento'.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T11-55",
+        "change": "PY008 baja de ARS 149.900 (17/10) a ARS 129.900 con tachado 149.900 (−13%). La ficha dice 'quedan 90 en stock' y a la vez 'es el último' (texto de plantilla de Tiendanube). Sigue con claims de caída y crecimiento. Sigue por encima de Gadnic (ARS 97.299).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -948,7 +954,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-10-25",
     "history": [
       {
         "date": "2026-10-17",
@@ -997,6 +1003,12 @@
         "run_id": "2026-10-24T19-54",
         "change": "Reseñas: dispensado irregular, tapón del tanque difícil de abrir, dientes de aceite más cortos que el resto; precauciones solo en letra chica. Precio S3 USD 159,99 sin cambios.",
         "source": "https://us.breo.com/products/scalp3-trilogy-massager"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T11-55",
+        "change": "La landing de Black Friday 2026 ahora promete 'hasta USD 150 de descuento' (el 24/10 decía hasta USD 100). Suma el masajeador de cabeza iDream 5S (USD 299,99, con regalo) y el LumiHeal Pro láser (USD 179,99). S3 sigue a USD 159,99 y el pack de 2 a USD 309,99.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
   },
@@ -1042,7 +1054,7 @@
     ],
     "relevance": "baja",
     "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-10-25",
     "history": [
       {
         "date": "2026-10-17",
@@ -1079,6 +1091,12 @@
         "run_id": "2026-10-24T11-54",
         "change": "Listado 'LIVE EXCLUSIVE' sin cambios: USD 259,99, 103 vendidos, 4,7★ con 15 reseñas. Entre las reseñas visibles, una (07/08/2026) cuenta caída de pelo después del primer uso.",
         "source": "https://shop.tiktok.com/us/pdp/inia-vibra-4-in-1-scalp-therapy-device-waterproof-massager-red-light-microcurrent-serum-infusion/1731476401773711634"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T11-55",
+        "change": "TikTok Shop: el listado VIBRA muestra 820 vendidos (816 el 18/10) y el 'LIVE EXCLUSIVE' sigue en 103 a USD 259,99. La tarjeta de la tienda 'INIA Official' muestra '351.5K Sold' y 55,5 mil seguidores: es un total de la tienda, no de este producto.",
+        "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
       }
     ]
   },

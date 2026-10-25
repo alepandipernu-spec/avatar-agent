@@ -1111,5 +1111,39 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-25T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Breo Black Friday, Bask and Lather, Beltronic, Gadnic, cybermonday.com.ar (copia de Exa)",
+      "TikTok Shop US: 2 búsquedas (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL y nadie respondió; no hay navegador conectado (9.º día sin anuncios verificados)",
+      "TikTok Creative Center Top Ads: 'No search results found' en la copia",
+      "Perfiles de Instagram/TikTok de Gadnic y Holy: la búsqueda no devolvió publicaciones"
+    ],
+    "competidores_revisados": [
+      "breo-us",
+      "inia-us",
+      "anyra-us",
+      "kitsch-us",
+      "gadnic-ar",
+      "beltronic-ar",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Breo sube su Black Friday a 'hasta USD 150' y suma iDream 5S y LumiHeal Pro",
+      "Beltronic (AR) baja el PY008 de ARS 149.900 a 129.900 (−13%)",
+      "INIA VIBRA 820 vendidos en TikTok Shop (816 el 18/10)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
