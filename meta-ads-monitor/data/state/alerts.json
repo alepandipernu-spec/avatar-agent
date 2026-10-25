@@ -5,19 +5,19 @@
     "object": "account",
     "priority": "P1",
     "category": "debilidad",
-    "title": "USD 227.93 gastados en el período sin compras",
-    "evidence": "Gasto Meta USD 227.93; compras Shopify 0; compras atribuidas por Meta 0.",
+    "title": "USD 221.00 gastados en el período sin compras",
+    "evidence": "Gasto Meta USD 221.00; compras Shopify 0; compras atribuidas por Meta 0.",
     "diagnosis": "El embudo no llega a compra. No alcanza para culpar al anuncio: también pueden fallar oferta, precio, confianza o checkout.",
     "confidence": "media",
     "impact": "Gasto sin retorno verificable.",
     "action": "Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).",
     "needs_approval": false,
-    "value": 227.9331,
+    "value": 221.0029,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 23,
+    "occurrences": 24,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -46,8 +46,8 @@
     "object": "52611570448264",
     "priority": "P2",
     "category": "debilidad",
-    "title": "'US - VID Demo (V02)': CPM 20× la mediana",
-    "evidence": "CPM USD 137.29 vs mediana USD 6.94.",
+    "title": "'US - VID Demo (V02)': CPM 22× la mediana",
+    "evidence": "CPM USD 137.29 vs mediana USD 6.21.",
     "diagnosis": "Audiencia o mercado caro (p. ej. US) o entrega con poca competencia por presupuesto bajo.",
     "confidence": "media",
     "impact": "Cada visita cuesta mucho más.",
@@ -56,9 +56,9 @@
     "value": 137.2880593607306,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 23,
+    "occurrences": 24,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -67,7 +67,7 @@
     "priority": "P2",
     "category": "anomalia",
     "title": "Entrega intermitente: el gasto se prende y se apaga",
-    "evidence": "9 de 30 días con gasto; 9 cortes en el período.",
+    "evidence": "8 de 30 días con gasto; 9 cortes en el período.",
     "diagnosis": "Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje.",
     "confidence": "media",
     "impact": "Los resultados no son comparables entre días y Meta no sale de aprendizaje.",
@@ -76,9 +76,9 @@
     "value": 9,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 23,
+    "occurrences": 24,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -201,9 +201,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 23,
+    "occurrences": 24,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -221,9 +221,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 23,
+    "occurrences": 24,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -262,9 +262,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 22,
+    "occurrences": 23,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -282,9 +282,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 22,
+    "occurrences": 23,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "4b8ebd031e42": {
     "key": "mp-currency-risk",
@@ -302,9 +302,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 22,
+    "occurrences": 23,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -322,8 +322,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 22,
+    "occurrences": 23,
     "status": "abierta",
-    "last_seen": "2026-10-24T23:46-03:00"
+    "last_seen": "2026-10-25T07:46-03:00"
   }
 }
