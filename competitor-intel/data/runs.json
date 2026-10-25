@@ -1074,5 +1074,42 @@
       "OPP-012 (nota)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-25T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO, Gadnic, Holy, Anyra, Carrello, Lena, Romayza, Smartjoys, DONKA (copia de Exa)",
+      "Tipos de cambio: dolarhistorico.com, Banxico, wilkinsonpc.com.co",
+      "cybermonday.com.ar"
+    ],
+    "fuentes_fallidas": [
+      "Listado de Mercado Libre AR: la copia no trae precios ni '+N vendidos' de los eléctricos con depósito",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "anyra-us",
+      "carrello-ar",
+      "lena-vegetal-ar",
+      "mx-tiendas",
+      "co-dtc-tiendas",
+      "ar-tiendas-chicas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en directos",
+      "Lena: el 'Sin stock' es texto de plantilla (se descarta el cambio)",
+      "Gadnic aún sin productos en su página de CyberMonday (empieza 2/11)",
+      "Tipos de cambio actualizados (TRM 3.158,43; FIX 18,6670; tarjeta 2.015)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

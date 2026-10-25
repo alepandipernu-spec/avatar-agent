@@ -1,90 +1,73 @@
-# Inteligencia competitiva — run 2026-10-24T19-54
+# Inteligencia competitiva — run 2026-10-25T03-55
 
-**Foco:** reseñas, competidores nuevos y oportunidades (franja 19:54).
+**Foco:** catálogo, tiendas y precios (franja 03:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 24/10/2026, 19:54–20:20 (Buenos Aires). Las fichas salen de copias de Exa sin fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 25/10/2026, 03:55–04:15 (Buenos Aires). Las fichas salen de copias de Exa sin fecha visible.
 
-**Informe corto:** un competidor nuevo en AR y dos reseñas útiles de Breo. No hay oportunidades nuevas ni cambios de precio en los directos.
+**Informe corto:** no hay cambios de precio, competidores nuevos ni oportunidades nuevas. Abajo, lo que se comprobó.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Competidor nuevo en AR: Carrello.** Vende el mismo formato que Gadnic (depósito de 6 ml, 72 dientes, 8 bolillas) a **ARS 66.599** (tachado 87.999), con 6 cuotas sin interés y envío gratis desde ARS 39.999.
-  - [ESTIMACIÓN] Queda ~32% por debajo de Gadnic y ~36% por debajo de Flubberhome con envío (≈ ARS 104.600). Método en C.
-  - Es el piso de precio más bajo visto en AR entre tiendas con marca para este formato.
-- **Reseñas de Breo (premium):** dos quejas útiles para la ficha propia (ver G):
-  - Los dientes que sueltan aceite son más cortos que los de masaje, así que llega poco producto.
-  - Las precauciones de uso se descubren recién después de comprar.
-- **Precios sin cambios** en TYMO, Gadnic, Holy, Anyra, Breo y Smartjoys.
+- **Precios sin cambios** en los directos: TYMO, Gadnic, Holy, Anyra y Carrello.
+- **Lena (AR):** se descarta el "Sin stock" del run anterior. La ficha muestra a la vez "Sin stock" y "Solo quedan 3": el primero es texto de la plantilla de Tiendanube, que también aparece en Carrello.
+- **CyberMonday AR (2–4/11):** la página de Gadnic en el sitio oficial del evento todavía muestra 0 productos en oferta. Faltan 8 días.
+- **Tipos de cambio al día** (C). Las conclusiones de costo total no cambian.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
-| id | Mercado | Cat. | Qué se revisó |
+| id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| **carrello-ar** (nuevo) | AR | A | Ficha, precio, cuotas, envío |
-| breo-us | US | A | Reseñas (The Mirror, Aetheo UK, Amazon US), precio |
-| tymo-us, gadnic-ar, holy-cosmetics-co, anyra-us | US / AR / CO | A | Chequeo rápido de precio |
-| ar-tiendas-chicas | AR | A | Se suma Movex (formato vecino) |
-| mx-tiendas | MX | A | Se suma Znice; rango de Amazon MX |
-| co-dtc-tiendas | CO | A | Smartjoys sin cambios |
+| gadnic-ar, carrello-ar, lena-vegetal-ar, ar-tiendas-chicas (DONKA) | AR | A | Sin cambios de precio |
+| holy-cosmetics-co, co-dtc-tiendas (Smartjoys) | CO | A | Sin cambios |
+| mx-tiendas (Romayza) | MX | A | Precio visible otra vez, igual que el 21/10 |
+| tymo-us, anyra-us | US | A | Sin cambios; sin Black Friday visible |
+
+No hay competidores nuevos. Apareció Tecnoimpor (mayorista AR) con un masajeador "pulpo" de 8 cabezales sin depósito a ARS 21.000: no compite en formato y no se le abre ficha.
 
 ## C. Productos y ofertas
 **Flubberhome** ([HECHO], Shopify en modo lectura): sin cambios. 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado.
 
-**Chequeo rápido de directos** ([HECHO], 24/10/2026):
-- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): USD 99,99 (tachado 129,99).
-- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)): ARS 97.299 (tachado 149.691), "Llega gratis mañana".
+**Chequeo de directos** ([HECHO], 25/10/2026):
+- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): USD 99,99 (tachado 129,99), entrega estimada 28–30/10. No muestra promo de Black Friday. [Rakuten](https://www.rakuten.com/black-friday/store/tymobeauty) ubica el Black Friday el 27/11/2026.
+- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar)): ARS 97.299 (tachado 149.691), 3 cuotas, "Llega gratis mañana".
 - **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
-- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95).
-- **Breo S3** ([ficha](https://us.breo.com/products/scalp3-trilogy-massager)): USD 159,99 (tachado 239,99).
+- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95), entrega en 7–14 días hábiles.
+- **Carrello** ([ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/)): ARS 66.599 (tachado 87.999), 6 cuotas, ARS 59.939 por transferencia.
+  - La copia completa muestra un bloque genérico de cambios y devoluciones, sin plazo.
+  - Sigue sin garantía, plazo de entrega ni reseñas.
 
-**Referencias nuevas** ([HECHO], 24/10/2026):
-- **Carrello, AR** ([ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/)): ARS 66.599 (tachado 87.999), 6 cuotas de ARS 11.099,83 y 10% de descuento por transferencia.
-  - Incluye manual en español y funda.
-  - Es una tienda generalista de gadgets. La ficha dice a la vez "es el último" y "quedan 420 en stock".
-  - No muestra garantía, plazo de entrega ni reseñas.
-  - Promete fortalecer raíces y estimular folículos: son claims que Flubberhome no debe usar.
-  - [ESTIMACIÓN] Queda ~32% por debajo de Gadnic (ARS 97.299) y ~36% por debajo de Flubberhome 1 u + envío (≈ ARS 104.600, dólar tarjeta 2.015 del 22/10). Método: comparación de precios de lista, ±5% por tipo de cambio.
-- **Movex, AR** ([ficha](https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/)): cepillo con bruma (depósito de 15 ml) y LED a ARS 20.800. Es un formato vecino, no compite de forma directa.
-- **Znice, MX** ([ficha](https://znice.mx/producto/cepillo-electrico-terapia-de-luz/)): MXN 565 (precio original 1.610), pago contra entrega.
-  - Promete cabello más grueso en 30 días (claim fuerte).
-  - La sección de envíos habla de Colombia, así que la ficha se contradice.
-- **Amazon MX** ([búsqueda](https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico)): eléctricos con aplicador entre MXN 247 y 685, casi todos con 1–19 calificaciones.
+**Resto del catálogo** ([HECHO], 25/10/2026):
+- **Lena** ([ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/)): kit a ARS 25.600, "+70 vendidos", "quedan 3".
+- **DONKA** ([ficha](https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo)): ARS 80.000, sin cambios.
+- **Romayza, MX** ([ficha](https://www.romayza.com.mx/productos/cepillo-masajeador-electrico-3-en-1-para-cuero-cabelludo-estimulacion-y-crecimiento-capilar-1cnlq/)): MXN 499 (tachado 699), envío gratis. Sigue sugiriendo cargar minoxidil, un claim que Flubberhome no debe usar.
+- **Smartjoys, CO** ([ficha](https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/)): COP 64.900, entrega en 1–5 días hábiles, garantía de 2 meses, 0 reseñas.
+
+**Costo total de Flubberhome, 1 u + envío (USD 51,93)** [ESTIMACIÓN]:
+| Mercado | Tipo de cambio | Total aprox. | Referencia local |
+|---|---|---|---|
+| AR | Tarjeta 2.015 ([23/10](https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026)) | ARS 104.600 | Gadnic 97.299 · DONKA 80.000 · Carrello 66.599 |
+| MX | FIX 18,6670 ([Banxico, 23/10](https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp)) | MXN 969 | Romayza 499 |
+| CO | TRM 3.158,43 ([24/10](https://dolar.wilkinsonpc.com.co/2026-10-24)) | COP 164.000 | Holy 149.990 · Smartjoys 64.900 |
+
+Método: conversión simple. Margen ±5% por banco y fecha de cierre. No incluye posibles impuestos de importación. En AR, el Pack Dúo sigue ≈ ARS 72.400 por unidad (−26% vs Gadnic).
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 24/10/2026 11:54.
 
 ## E. Demanda y señales de ventas
-- **Señal nueva `ar-piso-precio-formato-6ml-2026`:** Carrello ARS 66.599 < DONKA 80.000 < Gadnic 97.299 < Flubberhome ≈ 104.600 con envío.
-  - **Tipo:** HECHO en los precios; ESTIMACIÓN en la conversión de Flubberhome a ARS.
-  - **Indica:** en AR baja el precio de referencia del formato, y hay oferta local con cuotas.
-  - **No indica:** ventas de nadie. El "420 en stock" de Carrello es stock, no ventas.
+- **CyberMonday AR** ([cybermonday.com.ar](https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-electro-y-tecno-cuidado-personal-masajeadores_C102)) [HECHO]: empieza el 2/11 a las 00 h. Gadnic todavía no cargó masajeadores en oferta.
+- **Mercado Libre AR:** la copia del listado no trae precios ni "+N vendidos" de los eléctricos con depósito. Sin dato nuevo.
+- **Lena:** "+70 vendidos" igual. **No indica** ventas mensuales.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 22/10/2026 03:55.
+Sin novedades. No se completó ningún checkout. Último dato con cambios: 22/10/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
-Reseñas nuevas, parafraseadas ([HECHO]):
-- **Breo Scalp3, reseña editorial** ([The Mirror](https://www.mirror.co.uk/3am/style/3am-fashion-celebrity-beauty/this-led-scalp-massager-helped-34567396), 28/01/2025):
-  - Casi no pudo sacar el tapón del tanque.
-  - Los dientes que sueltan aceite son más cortos que los de masaje, así que llegaba poco producto al cuero cabelludo y terminó aplicándolo a mano.
-  - Suma al patrón de **dispensado**, que pasa a 21 fuentes.
-- **Breo Scalp3, revendedor UK** ([Aetheo](https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush), sin fecha):
-  - Una compradora se sorprendió con la lista de precauciones, que solo leyó con el aparato en casa.
-  - También pidió que aclaren qué aceites se pueden usar.
-  - Abre el patrón **"precauciones o líquidos compatibles que se descubren después de comprar"**. Por ahora es un caso aislado.
-- **Ya contadas, sin sumar:** el aparato de TYMO que dejó de encender, la reseña de Yaxa que dejó de funcionar a los 30 usos y el atasco de Breo con el servicio técnico (claytonnotes). Eso último vale como fuente secundaria: el texto parece armado para SEO.
-
-[HIPÓTESIS] El ScalpCare Pro puede contrastar sin nombrar a nadie:
-- **Cómo:** mostrar en la demo (OPP-001) que el tónico llega a la raíz, y poner antes del botón de compra una línea de uso: pelo seco o apenas húmedo, nunca bajo el agua, y qué líquidos van.
-- **Confianza:** media.
-- **Antes de comunicarlo:** hay que verificar en el aparato real que los dientes de salida tocan el cuero cabelludo.
+Sin revisión en esta ejecución. Último dato: 24/10/2026 19:54.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas. Contra Carrello no conviene bajar el precio. El camino sigue siendo explicar el valor:
-- costo total claro (OPP-012);
-- Guía en español visible antes de comprar (OPP-015);
-- garantía publicada (OPP-003).
+Sin estrategias nuevas.
 
 ## I. Oportunidades priorizadas
 | # | id | Score | Cambio en este run |
@@ -92,29 +75,24 @@ Sin estrategias nuevas. Contra Carrello no conviene bajar el precio. El camino s
 | 1 | OPP-001 demo de aplicación sin goteo | 80 | — |
 | 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
 | 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
-| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Nota: Carrello, ~36% más barato en AR |
-| 6 | OPP-015 Guía en español visible antes de comprar | 36 | Nota: las precauciones de Breo se descubren después de comprar |
+| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Recalculo sin cambios de conclusión |
 
 No hay oportunidades nuevas.
 
 ## J. Próximas acciones
-- **Para el dueño:**
-  - Sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017. En esa toma, comprobar que los dientes de salida tocan el cuero cabelludo.
-  - En AR, el mismo formato ya se consigue a ARS 66.599 en cuotas. Antes de reactivar AR, decidir si se compite con Pack Dúo, garantía y Guía, o si AR queda en pausa.
-  - Faltan 9 días para el CyberMonday AR (2–4/11).
-- **Próximo run de catálogo (03:54):** garantía y plazo de Carrello; tipos de cambio; ver si TYMO o Anyra publican Black Friday.
+- **Para el dueño:** sigue pendiente la toma real de 10–15 s que cubre OPP-001, OPP-014 y OPP-017. Antes del 2/11, decidir si AR participa del CyberMonday o queda en pausa.
+- **Próximo run de anuncios (11:54):** reintentar la Biblioteca de Meta y ver si aparecen anuncios de CyberMonday o Black Friday.
+- **Próximo run de catálogo:** ver si Gadnic o Carrello cargan ofertas de CyberMonday y si TYMO o Anyra publican Black Friday.
 
 ## K. Nuevos hallazgos
-- **Competidor nuevo:** `carrello-ar` (relevancia media), con su producto `carrello-ar:cepillo-6ml`.
-- **Referencias nuevas:** Movex (en ar-tiendas-chicas) y Znice (en mx-tiendas).
-- **Reseñas:** 2 ítems nuevos, 1 patrón actualizado (dispensado, 21 fuentes) y 1 patrón nuevo (aislado).
-- **Señal nueva:** `ar-piso-precio-formato-6ml-2026`.
-- **Notas** en OPP-012 y OPP-015.
+- Sin competidores, oportunidades ni cambios de precio nuevos.
+- Se descarta el "Sin stock" de Lena (texto de plantilla).
+- Actualizados: tymo-us, gadnic-ar, holy-cosmetics-co, anyra-us, carrello-ar, lena-vegetal-ar, mx-tiendas, co-dtc-tiendas y ar-tiendas-chicas.
+- Señales actualizadas: `ar-costo-total-con-tarjeta`, `mx-precios-locales-bajos`, `co-dtc-rango-precios` y `cybermonday-ar-2026-fecha`.
 
 ## L. Limitaciones
-- **Mercado Libre:** no se leyeron reseñas (antecedente de muro de login). La búsqueda en español trajo fichas, no reseñas nuevas.
-- **Reddit:** la búsqueda no trajo hilos de 2026.
-- **Reseñas viejas o sin fecha:** la de The Mirror es de enero de 2025 y la de Aetheo no tiene fecha. Valen como contexto, no como tendencia reciente.
-- **Carrello:** la copia no muestra garantía, plazo ni reseñas, y el dato de stock se contradice.
+- **Mercado Libre AR:** la copia del listado no trae precios ni contadores de vendidos.
+- **Fichas sin fecha:** las copias de Exa no tienen fecha, así que no se puede afirmar desde cuándo vale cada precio.
+- **Tipos de cambio:** son del 23–24/10 (fin de semana, sin publicación nueva).
 - **Biblioteca de anuncios de Meta:** no se intentó, porque no es la franja de anuncios.
 - **Repo público:** sin datos internos. Conviene volverlo privado.

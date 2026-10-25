@@ -137,7 +137,15 @@
     "alcance": "CO, 8 tiendas propias",
     "tipo": "HECHO (precios) + ESTIMACIÓN (conversión)",
     "indica": "Oferta abundante y precio de referencia bajo; el precio base de Flubberhome (≈ COP 133 mil) queda en el tercio superior.",
-    "no_indica": "Ventas; precios por mercado de Shopify pueden ser distintos al precio base en USD."
+    "no_indica": "Ventas; precios por mercado de Shopify pueden ser distintos al precio base en USD.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T03-55",
+        "change": "Recalculo con TRM 3.158,43 (vigente 24–26/10/2026): Flubberhome 1 u + envío ≈ COP 164.000. Holy 149.990 y Smartjoys 64.900 sin cambios.",
+        "source": "https://dolar.wilkinsonpc.com.co/2026-10-24"
+      }
+    ]
   },
   "mx-dtc-escaso": {
     "id": "mx-dtc-escaso",
@@ -267,7 +275,15 @@
     "alcance": "AR",
     "tipo": "HECHO",
     "que_indica": "Ventana de alta intención de compra y alta competencia de descuentos en AR.",
-    "que_no_indica": "No indica que la categoría venda más ni que convenga descontar."
+    "que_no_indica": "No indica que la categoría venda más ni que convenga descontar.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T03-55",
+        "change": "cybermonday.com.ar confirma inicio el 2/11/2026 00 h; la página de Gadnic en masajeadores todavía muestra 0 productos en oferta.",
+        "source": "https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-electro-y-tecno-cuidado-personal-masajeadores_C102"
+      }
+    ]
   },
   "head-spa-cepillo-japones-ar-medios": {
     "id": "head-spa-cepillo-japones-ar-medios",
@@ -494,6 +510,12 @@
         "run_id": "2026-10-24T03-55",
         "change": "Recalculo con dólar tarjeta ARS 2.015 (22/10/2026, último dato publicado): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic 97.299); Pack Dúo ≈ ARS 144.800 (≈ 72.400 por unidad, −26% vs Gadnic). DONKA (ARS 80.000) queda ≈ 23,5% por debajo de la unidad con envío. Conclusión igual.",
         "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T03-55",
+        "change": "Dólar tarjeta sigue en ARS 2.015 (23/10, último publicado): 1 u + envío ≈ ARS 104.600; Pack Dúo ≈ ARS 144.800 (≈ 72.400 por unidad). Gadnic 97.299, DONKA 80.000 y Carrello 66.599 sin cambios. Conclusión igual.",
+        "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
       }
     ]
   },
@@ -520,6 +542,12 @@
         "run_id": "2026-10-22T03-55",
         "change": "Recalculo con FIX 18,6425 (21/10/2026, Banxico): Flubberhome 1 u + envío ≈ MXN 968; Pack Dúo ≈ MXN 670 por unidad. Romayza sigue en MXN 499; las DTC de ~MXN 1.000 (pidehoy, OC Market) figuran agotadas.",
         "source": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do"
+      },
+      {
+        "date": "2026-10-25",
+        "run_id": "2026-10-25T03-55",
+        "change": "Recalculo con FIX 18,6670 (23/10/2026): Flubberhome 1 u + envío ≈ MXN 969. Romayza sigue en MXN 499 (≈ 48% por debajo).",
+        "source": "https://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp"
       }
     ]
   },
