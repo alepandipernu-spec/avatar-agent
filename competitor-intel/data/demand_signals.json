@@ -709,5 +709,17 @@
     "tipo": "HECHO (presencia en listas y catálogos)",
     "indica": "Hay un formato vecino que se diferencia por 'bruma' en vez de rodillos y que la prensa de compras muestra como premium o regalo.",
     "no_indica": "Ventas, que el formato convierta mejor ni que reemplace al de rodillos. Las listas de afiliados no son pruebas independientes."
+  },
+  "medios-escepticismo-gadgets-oct-2026": {
+    "id": "medios-escepticismo-gadgets-oct-2026",
+    "fecha": "2026-10-26",
+    "run_id": "2026-10-26T19-55",
+    "senal": "Cobertura editorial de los aparatos de cuero cabelludo con tono escéptico",
+    "valor": "NBC News Select actualizó el 26/10/2026 su guía con dermatólogos: los masajeadores tienen poca evidencia para crecimiento y son 'bienestar'. DESIblitz (26/10/2026) compara los aparatos de GBP 30–100 con el aceitado tradicional y concluye que su valor es el ahorro de tiempo y enchastre.",
+    "fuente": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814 ; https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it",
+    "alcance": "US/UK (medios en inglés)",
+    "tipo": "HECHO (cobertura editorial)",
+    "indica": "La categoría tiene atención de medios en plena temporada de regalos, y el discurso de crecimiento empieza a recibir críticas.",
+    "no_indica": "Ventas, ni que el público de LatAm lea estas notas, ni que el escepticismo baje la demanda."
   }
 }

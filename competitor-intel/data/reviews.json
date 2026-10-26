@@ -274,9 +274,9 @@
     },
     {
       "problema": "Miedo a excederse con el líquido: raíces grasosas o irritación del cuero cabelludo sensible (duda previa a la compra)",
-      "n_fuentes": 1,
+      "n_fuentes": 2,
       "n_competidores": 0,
-      "clasificacion": "aislado (2 preguntas de lectores en una misma guía, mar. y jun. 2026; no son reseñas de compradores)",
+      "clasificacion": "aislado/incipiente (2 fuentes: preguntas de lectores en una guía de 2026 y una guía editorial de 2025; ninguna es reseña de compra)",
       "oportunidad": "[HIPÓTESIS] Es la otra cara del goteo: además de 'no chorrea', el comprador quiere saber que puede usar poco. Mostrar en la demo real (OPP-001/OPP-017) una carga chica y pasadas cortas, y en la Guía (OPP-015) cómo empezar con poco y ajustar. Sin claims médicos ni promesas sobre irritación.",
       "fecha": "2026-10-25",
       "run_id": "2026-10-25T19-55",
@@ -286,6 +286,29 @@
           "run_id": "2026-10-25T19-55",
           "change": "Patrón nuevo (aislado).",
           "source": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/"
+        },
+        {
+          "date": "2026-10-26",
+          "run_id": "2026-10-26T19-55",
+          "change": "+1 fuente editorial (Wimpole): los dispensadores baratos pueden largar demasiado aceite y dejar el pelo graso.",
+          "source": "https://wimpole.com/blog/12-best-and-worst-scalp-massagers-for-hair-growth/"
+        }
+      ]
+    },
+    {
+      "problema": "Escepticismo editorial sobre gadgets de cuero cabelludo: poca evidencia de crecimiento y precio alto frente al masaje manual",
+      "n_fuentes": 2,
+      "n_competidores": 0,
+      "clasificacion": "incipiente (2 notas editoriales del 26/10/2026; no son reseñas de compradores)",
+      "oportunidad": "[HIPÓTESIS] Refuerza el posicionamiento honesto de Flubberhome (bienestar, no tratamiento; OPP-016). Las dos notas reconocen como valor real el ahorro de tiempo y de enchastre al aplicar (OPP-001) y la ayuda para sostener la rutina (OPP-008). Riesgo para las marcas que prometen crecimiento.",
+      "fecha": "2026-10-26",
+      "run_id": "2026-10-26T19-55",
+      "historial": [
+        {
+          "date": "2026-10-26",
+          "run_id": "2026-10-26T19-55",
+          "change": "Alta del patrón.",
+          "source": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814 ; https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it"
         }
       ]
     }
@@ -777,6 +800,36 @@
       "fecha_consulta": "2026-10-25",
       "run_id": "2026-10-25T19-55",
       "tipo": "pregunta de lector (no es reseña de compra)"
+    },
+    {
+      "fuente": "https://wimpole.com/blog/12-best-and-worst-scalp-massagers-for-hair-growth/",
+      "producto": "Masajeadores con dispensador (guía de una clínica capilar UK)",
+      "problema": "miedo a excederse con el líquido",
+      "fecha": "2025-06-09",
+      "parafrasis": "La guía advierte que los dispensadores de mala calidad pueden largar demasiado aceite, dejar el pelo graso y tapar poros.",
+      "fecha_consulta": "2026-10-26",
+      "run_id": "2026-10-26T19-55",
+      "tipo": "editorial (no es reseña de compra)"
+    },
+    {
+      "fuente": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814",
+      "producto": "Masajeadores y cepillos de cuero cabelludo (nota con dermatólogos, actualizada 26/10/2026)",
+      "problema": "escepticismo sobre promesas de crecimiento",
+      "fecha": "2026-10-26",
+      "parafrasis": "Expertos dicen que la evidencia de que los masajeadores hagan crecer el pelo es escasa; sirven para higiene y relax, y no hay que usarlos con fuerza.",
+      "fecha_consulta": "2026-10-26",
+      "run_id": "2026-10-26T19-55",
+      "tipo": "editorial (no es reseña de compra)"
+    },
+    {
+      "fuente": "https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it",
+      "producto": "Aparatos de 'scalp spa' (LED, EMS, cepillos con aceite)",
+      "problema": "escepticismo sobre promesas de crecimiento / precio",
+      "fecha": "2026-10-26",
+      "parafrasis": "La nota sostiene que el masaje manual da beneficios parecidos y que el valor real de los cepillos con aceite es ahorrar tiempo y enchastre, lo que ayuda a sostener la rutina.",
+      "fecha_consulta": "2026-10-26",
+      "run_id": "2026-10-26T19-55",
+      "tipo": "editorial (no es reseña de compra)"
     }
   ]
 }

@@ -3,7 +3,7 @@
 Verificado: 17/10/2026, 14:56 (Buenos Aires). Fuentes: Shopify (lectura), skill `flubberhome-creative-engine`, config del monitor de Meta Ads (rama `claude/affectionate-fermat-ps9s9g`). Volver a verificar precios y variantes en Shopify en cada ejecución; si algo cambió, actualizar este archivo y anotarlo en "Cambios".
 
 ## Producto
-- Único producto activo: **ScalpCare Pro™ — Cepillo Exfoliante** (marca FlubberHomme), tienda flubberhomme.com (Shopify).
+- Único producto activo: **ScalpCare Pro™ — Masajeador capilar eléctrico con depósito** (título desde el 26/10/2026; antes "Cepillo Exfoliante") (marca FlubberHomme), tienda flubberhomme.com (Shopify).
 - Masajeador capilar eléctrico e inalámbrico, carga USB-C, 3 intensidades, depósito trasero para tónico o aceite, puntas redondeadas. Colores verde y rojo con detalles dorados.
 - Uso: pelo seco o apenas húmedo, antes o después de la ducha. Nunca bajo el agua, con champú ni espuma.
 - Beneficios que se pueden comunicar: masaje, alivio, rutina de cuidado, aplicación más pareja del tónico. Prohibido: claims médicos (caída, crecimiento, curar), luz roja como beneficio, "más elegido", testimonios inventados.
@@ -63,3 +63,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 - 25/10/2026 19:55 (run 2026-10-25T19-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los runs anteriores.
 - 26/10/2026 03:55 (run 2026-10-26T03-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los runs anteriores. Dólar tarjeta 2.015 (25/10): 1 u + envío ≈ ARS 104.600.
 - 26/10/2026 11:57 (run 2026-10-26T11-57): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). Producto actualizado en Shopify el 18/10/2026 02:45 (BA), igual que en los runs anteriores.
+- 26/10/2026 19:55 (run 2026-10-26T19-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). **La ficha cambió** (Shopify, actualizada el 26/10/2026 19:48 BA): el título pasa a "ScalpCare Pro™ — Masajeador capilar eléctrico con depósito" (antes "Cepillo Exfoliante"); la descripción nueva muestra el precio por unidad de cada pack (USD 35,94 y 29,95), suma reenvío o reintegro si el pedido no llega, atención por WhatsApp y email, FAQ sobre moneda y percepciones, "¿quién está detrás?" (marca argentina) y la aclaración "no es un dispositivo médico". La Guía Digital es ahora una página pública (https://flubberhomme.com/pages/guia-scalpcare-pro). La ventana por falla sigue en 72 h.

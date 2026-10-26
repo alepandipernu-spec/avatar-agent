@@ -64,6 +64,12 @@
         "run_id": "2026-10-25T19-55",
         "change": "Nota: además de 'no gotea', conviene que la toma real muestre una carga chica y pasadas cortas (duda de 'raíces grasosas' vista en comentarios de lectores). Sin cambio de score.",
         "source": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Nota: la prensa (DESIblitz, 26/10/2026) identifica como valor real del formato aplicar el aceite en la raíz sin empapar el largo. Es justo lo que la toma real debería mostrar. Sin cambio de score.",
+        "source": "https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it"
       }
     ]
   },
@@ -177,6 +183,12 @@
         "date": "2026-10-23",
         "run_id": "2026-10-23T19-54",
         "change": "Nota, score sin cambios (11): INIA y Magoo Gadgets se contradicen sobre la garantía en su propia ficha. Si Flubberhome publica una, que sea una sola frase, igual en la ficha, las FAQ y el checkout."
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "La ficha suma 'si tu pedido no llega, reenvío o reintegro' y atención por WhatsApp/email. La ventana por falla sigue en 72 h (Cecotec ES da 3 años; Gadnic 12 meses). Sin cambio de score.",
+        "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
       }
     ]
   },
@@ -349,6 +361,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T03-56",
         "change": "Más evidencia, score sin cambios (30). [HECHO] TYMO TriThera se vende a USD 42,99, 79,99 y 99,99 según el canal (Ulta, Best Buy, Macy's/DTC), y el formato aparece en TJ Maxx por menos de USD 20. En EE. UU. el precio 'de lista' pierde credibilidad; un precio único con ahorro real por pack es más defendible."
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Atendida en la ficha: cada pack muestra el precio por unidad (USD 35,94 y 29,95) sin tachados. Falta el dato real de conversión por pack. Sin cambio de score.",
+        "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
       }
     ]
   },
@@ -541,6 +559,12 @@
         "run_id": "2026-10-24T19-54",
         "change": "Nota AR: Carrello vende el mismo formato a ARS 66.599 con 6 cuotas y envío gratis (~36% menos que Flubberhome con envío). Refuerza mostrar costo total y por qué vale la diferencia. Sin cambio de score.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Parcialmente atendida por el dueño: la ficha nueva tiene una FAQ '¿Cuánto pago en mi moneda?' (USD, conversión del medio de pago, posibles percepciones) y ofrece WhatsApp antes de comprar. Sigue faltando el monto aproximado en moneda local y la fecha estimada junto al botón. Sin cambio de score hasta medir.",
+        "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
       }
     ],
     "history": [
@@ -763,6 +787,12 @@
         "run_id": "2026-10-25T19-55",
         "change": "Más evidencia (aislada): dos lectores de una guía de compras de 2026 preguntan, antes de comprar, cómo no dejar las raíces grasosas ni irritar el cuero sensible con el aplicador. La Guía visible puede incluir 'empezá con poco y ajustá'. Sin cambio de score.",
         "source": "https://thinkingreviews.com/skincare/best-electric-scalp-massagers/"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Parcialmente atendida: la Guía Digital ya es una página pública enlazada desde la ficha (incluye 'distribuí una pequeña cantidad por secciones', 3–5 min, intensidad baja primero). Queda por medir si la visitan antes de comprar. Sin cambio de score.",
+        "source": "https://flubberhomme.com/pages/guia-scalpcare-pro"
       }
     ]
   },
@@ -799,6 +829,12 @@
         "run_id": "2026-10-20T19-54",
         "change": "Alta (score 32)",
         "source": "https://glevacosmetics.com/products/electric-scalp-massager-and-hair-oil-applicator"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Más evidencia: NBC (26/10/2026) y DESIblitz (26/10/2026) tratan los aparatos como bienestar y no tratamiento, y valoran el ahorro de enchastre. La ficha nueva ya cierra con 'no es un dispositivo médico'. Sin cambio de score.",
+        "source": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814 ; https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it"
       }
     ]
   },

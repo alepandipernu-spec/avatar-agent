@@ -2353,7 +2353,8 @@
       "[HECHO] Ulta lista un 'Holiday Duo' (plancha-peine + cepillo masajeador) a USD 89,99, marcado como nuevo.",
       "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC.",
       "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída.",
-      "[HECHO 21/10/2026] DTC: venta de Halloween con cuenta regresiva al 26/10/2026, código TREAT del 20%, cuotas de 4 × USD 24,99, garantía de 1 año por defectos, devolución 30 días con envío a cargo del cliente, 4 reseñas (4,5★)."
+      "[HECHO 21/10/2026] DTC: venta de Halloween con cuenta regresiva al 26/10/2026, código TREAT del 20%, cuotas de 4 × USD 24,99, garantía de 1 año por defectos, devolución 30 días con envío a cargo del cliente, 4 reseñas (4,5★).",
+      "[HECHO 2026-10-26] DTC: USD 99,99 (tachado 129,99), entrega estimada 30/10 a 01/11 según estado; siguen 4 reseñas (4,5★). La venta de Halloween terminaba hoy."
     ],
     "inferences": [
       "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -2480,6 +2481,12 @@
         "date": "2026-10-26",
         "run_id": "2026-10-26T11-57",
         "change": "Sin cambios: USD 99,99 (tachado 129,99), entrega estimada desde 29/10; sin Black Friday visible.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Sin cambio de precio; 4 reseñas, ninguna nueva.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
@@ -2851,6 +2858,56 @@
         "run_id": "2026-10-25T19-55",
         "change": "Alta (indirecto, relevancia baja).",
         "source": "https://fana.com.mx/"
+      }
+    ]
+  },
+  "cecotec-es": {
+    "id": "cecotec-es",
+    "name": "Cecotec (HairCare Revitalize TotalCare)",
+    "domain": "cecotec.es",
+    "market": "ES/PT",
+    "category": "C_inspiracional",
+    "product_focus": "Cepillo con depósito para sérum, vibración, EMS, LED rojo y azul, 5 intensidades, 70 min de batería",
+    "relevant_products": [
+      "HairCare Revitalize TotalCare"
+    ],
+    "price_visible": "EUR 49,90 en la web oficial (ES y PT); ManoMano ES EUR 50,90 (copias de Exa, 26/10/2026)",
+    "value_prop": "Marca grande de electrodomésticos que lleva el formato 'cepillo con depósito' a precio masivo en Europa.",
+    "claims_observed": "Claims de crecimiento, reparación y prevención de caída (de la marca y de la nota de 20minutos).",
+    "channels": [
+      "Web propia",
+      "Carrefour ES",
+      "PcComponentes (no disponible)",
+      "ManoMano",
+      "Prensa de ofertas (20minutos, 25/10/2026)"
+    ],
+    "ads": "No obtenido.",
+    "facts": [
+      "[HECHO 2026-10-26] Web oficial: EUR 49,90, envío 24–72 h, devolución 14 días, garantía 3 años en España. Fuente: https://cecotec.es/es/cepillos-reparadores/haircare-revitalize-totalcare",
+      "[HECHO 2026-10-26] 20minutos (nota de ofertas, 25/10/2026) lo presenta como 'menos de 50 euros'. Fuente: https://www.20minutos.es/ofertas-descuentos/este-cepillo-es-mucho-mas-que-parece-dispensa-serum-para-reparar-cabello-con-cada-pasada_7052367_0.html",
+      "[HECHO 2026-10-26] En PcComponentes figura 'no disponible' y sin opiniones."
+    ],
+    "inferences": [
+      "[HIPÓTESIS] Que una marca masiva europea entre al formato con garantía de 3 años sube la vara de garantía esperada; no afecta hoy a los 4 mercados de Flubberhome."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Si se vende en MX, CO, AR o US; ventas; reseñas."
+    ],
+    "sources": [
+      "https://cecotec.es/es/cepillos-reparadores/haircare-revitalize-totalcare",
+      "https://www.carrefour.es/cepillo-reparador-con-microcorrientes-ems-luz-led-roja-y-azul-haircare-revitalize-totalcare-aplicador-de-serum-y-5-niv-cecotec/8447420185955/p",
+      "https://cecotec.pt/pt/escovas-reparadoras"
+    ],
+    "last_reviewed": "2026-10-26",
+    "relevance": "baja",
+    "follow_reason": "Si aparece en Mercado Libre MX/CO o en Amazon US, pasa a competidor directo con marca conocida.",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T19-55",
+        "change": "Alta (inspiracional, relevancia baja; fuera de los 4 mercados).",
+        "source": "https://cecotec.es/es/cepillos-reparadores/haircare-revitalize-totalcare"
       }
     ]
   }
