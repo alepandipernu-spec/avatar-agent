@@ -236,6 +236,12 @@
         "run_id": "2026-10-25T11-55",
         "change": "'electric scalp massager with red light': INIA VIBRA 820 vendidos (816 el 18/10); la tarjeta de tienda 'INIA Official' muestra 351,5 mil vendidos (total de tienda, no del producto); un listado de Breo con 741 y otro con 1,2 mil, los dos a USD 239,99; peine con luz roja 1,4 mil. En 'hair oil and massager', Kitsch 43,6 mil, eléctrico 3 modos 2,0 mil y eléctrico 6 ml 187, iguales al 24/10. Copias sin fecha.",
         "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light ; https://shop.tiktok.com/us/k/hair-oil-and-massager"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T11-57",
+        "change": "Contadores iguales al 25/10 en los dos buscadores: INIA VIBRA 820, LIVE EXCLUSIVE 103, Breo 741 y 1,2 mil, peine con luz roja 1,4 mil; Kitsch 43,6 mil, eléctrico 3 modos 2,0 mil, con caja de regalo 9,3 mil, 6 ml 187. Copias sin fecha: la falta de cambio puede ser caché.",
+        "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light ; https://shop.tiktok.com/us/k/hair-oil-and-massager"
       }
     ]
   },
@@ -262,6 +268,12 @@
         "run_id": "2026-10-25T11-55",
         "change": "Breo sube su promesa de Black Friday a 'hasta USD 150'. Bask and Lather Co (vendedora de un eléctrico aplicador en TikTok Shop) ya publicó su colección Black Friday / Cyber Monday 2026, sin el eléctrico. Faltan 8 días para el CyberMonday AR.",
         "source": "https://us.breo.com/pages/black-friday-2026 ; https://baskandlatherco.com/collections/black-friday-cyber-monday-2026"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T11-57",
+        "change": "Sin novedades: Breo mantiene su landing; TYMO y Anyra sin Black Friday visible; CyberMonday AR a 6 días.",
+        "source": "https://us.breo.com/pages/black-friday-2026 ; https://tymobeauty.com/products/tymo-trithera ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ],
     "historial": [
@@ -313,6 +325,12 @@
         "date": "2026-10-26",
         "run_id": "2026-10-26T03-55",
         "change": "Faltan 7 días (2/11 00 h). La página de Gadnic en masajeadores sigue con 0 productos en oferta.",
+        "source": "https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-electro-y-tecno-cuidado-personal-masajeadores_C102"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T11-57",
+        "change": "Faltan 6 días (2/11 00 h). Gadnic sigue con 0 productos en oferta en masajeadores.",
         "source": "https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-electro-y-tecno-cuidado-personal-masajeadores_C102"
       }
     ]

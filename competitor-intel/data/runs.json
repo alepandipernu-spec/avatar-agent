@@ -1223,5 +1223,39 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-26T11-57",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TikTok Shop US: 2 búsquedas (copia de Exa)",
+      "Breo (landing y colección), TYMO, Anyra, cybermonday.com.ar (copia de Exa)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL y nadie respondió; no hay navegador conectado (10.º día sin anuncios verificados)",
+      "TikTok Creative Center Top Ads: 'No search results found' en la copia",
+      "Búsqueda de videos LatAm recientes: solo devolvió piezas ya registradas"
+    ],
+    "competidores_revisados": [
+      "breo-us",
+      "inia-us",
+      "kitsch-us",
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de oferta ni contadores",
+      "Breo Scalp Mini Pro a USD 99,99 sin depósito (no directo)",
+      "CyberMonday AR a 6 días; Gadnic sigue sin ofertas cargadas"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
