@@ -1186,5 +1186,42 @@
       "OPP-015 (nota)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-26T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TYMO, Gadnic, Beltronic, Carrello, Anyra, Holy (copia de Exa)",
+      "Amazon US (búsqueda Exa)",
+      "Tipo de cambio: Clarín, TN, Cronista",
+      "cybermonday.com.ar"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre AR/MX/CO: no se consultó en esta ejecución (antecedente: la copia no trae precios ni contadores)",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)",
+      "Banxico FIX y TRM de Colombia: no se actualizaron (fin de semana, sin publicación nueva)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "anyra-us",
+      "holy-cosmetics-co",
+      "amazon-generics-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos",
+      "Gadnic sigue sin ofertas cargadas para CyberMonday (faltan 7 días)",
+      "TYMO: entrega estimada desde 29/10",
+      "Amazon US: +1 genérico (Dayln, USD 49,99)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

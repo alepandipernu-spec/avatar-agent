@@ -37,7 +37,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-17",
@@ -132,6 +132,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T19-55",
         "change": "Chequeo rápido: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, igual que antes. La ficha propia no muestra reseñas de compradores; Bidcom muestra solo un 4,5 sin texto. No se pudo leer reseñas de Mercado Libre.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "Sin cambios: ARS 97.299 (tachado 149.691), 3 cuotas sin interés; precio sin impuestos nacionales ARS 80.412. Su página de CyberMonday sigue con 0 productos en oferta.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -305,7 +311,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-17",
@@ -328,6 +334,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T19-55",
         "change": "Chequeo rápido: ARS 129.900 (tachado 149.900), igual que el 25/10 11:55. La ficha no muestra reseñas de compradores.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "Sin cambios: ARS 129.900 (tachado 149.900), 3 cuotas; ARS 110.415 en efectivo (solo retiro o moto CABA). Contador de stock de plantilla ('Solo quedan 90').",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -503,7 +515,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-17",
@@ -592,6 +604,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T03-55",
         "change": "Sin cambios: USD 50,95 (tachado 158,95); procesamiento 48 h y entrega 7–14 días hábiles.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "Sin cambios: USD 50,95 (tachado 158,95); entrega 7–14 días hábiles. Sin Black Friday visible.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -787,7 +805,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-23",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-17",
@@ -817,6 +835,12 @@
         "run_id": "2026-10-23T19-54",
         "change": "+1 listado: chufa, doble depósito spray + aceite, USD 49,99 (desde 06/05/2026), sin reseñas.",
         "source": "https://www.amazon.com/chufa-Massager-Applicator-Dual-Chamber-Rechargeable/dp/B0GZNTPPJY"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "+1 listado: Dayln 3 en 1 con luz LED y aplicador, USD 49,99 (disponible desde 16/06/2026), sin reseñas visibles. Satorix sigue a USD 29,99.",
+        "source": "https://www.amazon.com/Electric-Massager-Applicator-Cordless-Vibration/dp/B0H5C4NXKX"
       }
     ]
   },
@@ -1420,7 +1444,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-17",
@@ -1539,6 +1563,12 @@
       {
         "date": "2026-10-25",
         "run_id": "2026-10-25T03-55",
+        "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
         "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
@@ -2324,7 +2354,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "history": [
       {
         "date": "2026-10-19",
@@ -2414,6 +2444,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T03-55",
         "change": "Sin cambios: USD 99,99 (tachado 129,99) en la tienda propia; entrega estimada 28–30/10. Sin promo de Black Friday visible en la ficha; Rakuten ubica el Black Friday el 27/11/2026.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "Sin cambios: USD 99,99 (tachado 129,99). Entrega estimada ahora desde 29/10. Sin promo de Black Friday visible.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
@@ -2674,7 +2710,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-26",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -2694,6 +2730,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T19-55",
         "change": "Chequeo rápido: ARS 66.599 (tachado 87.999), sin cambios. El aviso '¡Uy! No tenemos más stock…' es texto de plantilla del carrito de Tiendanube (también aparece en Movex con stock), no un agotado.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-26",
+        "run_id": "2026-10-26T03-55",
+        "change": "Sin cambios: ARS 66.599 (tachado 87.999), 6 cuotas sin interés, ARS 59.939 por transferencia, envío gratis desde ARS 39.999.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
