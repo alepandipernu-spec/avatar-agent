@@ -1,12 +1,12 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-26T07:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-26T15:46-03:00
 
 Período: 2026-09-27 → 2026-10-26 · comparado con 2026-08-28 → 2026-09-26 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Sin cambios en la cuenta: pausa intencional, 0 ventas. El 26/09 (USD 31,19) salió del período de 30 días: el gasto baja a USD 189,81 y la tienda a 626 sesiones (7 con carrito, 5 al checkout).
+- Sin cambios en Meta ni en la tienda: pausa intencional, 0 ventas, 626 sesiones en 30 días. Competencia: sin cambios de precio; Satorix (Amazon) usa el mismo ángulo de "aplicar sin ensuciarse las manos" que propone EXP-004.
 - Siguen pendientes del dueño: completar el pedido de prueba #D1, compras reales con Mercado Pago y PayPal, OK para quitar 'Envío Gratis Prioritario' (sigue activo) y datos legales para publicar la política (la actual es del 31/08).
-- Alertas abiertas: 10 (5 P0/P1). Nuevas o con cambio en esta ejecución: 1. Resueltas: 0.
+- Alertas abiertas: 10 (5 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
@@ -14,7 +14,7 @@ Período: 2026-09-27 → 2026-10-26 · comparado con 2026-08-28 → 2026-09-26 �
 | --- | --- | --- |
 | escalafy | ok | Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto). |
 | shopify | ok | Embudo, pedidos, precios, perfiles de envío y políticas leídos. |
-| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 25/10; próxima revisión 15:46 del 26/10) |
+| competencia_web | partial | Exa: Microshop y Anyra sin cambios; Satorix (Amazon) usa el ángulo "sin manos grasosas", precio no visible. Biblioteca de anuncios bloqueada. |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | blocked | graph.facebook.com rechazado por el proxy (403) y conector Adspirer caído (403). Sin estado de facturación, revisión de anuncios, ventana de atribución ni eventos del Pixel. |
 
@@ -126,7 +126,39 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## F. Inteligencia competitiva
 
-- No se examinaron competidores en esta ejecución.
+**Microshop** (cambió) · microshop.com.ar · mercado AR · verificado 2026-10-26
+- Precio/oferta: ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.
+- Propuesta: Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').
+- Mensajes: 'Revitaliza tu cabello', 'placentero masaje'.
+- Formatos: No obtenido.
+- Hecho observado: Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.
+- No obtenible: Anuncios, ventas.
+- Fuentes: https://www.microshop.com.ar/productos/micro-masajeador-capilar/
+
+**Anyra** (cambió) · shopanyra.com · mercado US · verificado 2026-10-26
+- Precio/oferta: USD 50,95 (tachado USD 158,95, 'SAVE 68%').
+- Propuesta: DTC con prueba social masiva y estadísticas de 'clientes'.
+- Mensajes: 'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.; 'NOTE: We Already Sold Out 3 Times, Don't Wait!'
+- Formatos: No obtenido.
+- Hecho observado: Usa porcentajes de satisfacción y conteo de clientes en la página.
+- Hecho observado: 18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable.
+- Hecho observado: 23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles.
+- No obtenible: Si las cifras de clientes y reseñas son verificables.
+- No obtenible: Anuncios, ventas.
+- Fuentes: https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator
+
+**Genéricos en Amazon (mriya, Satorix, UniiSuui, ABVOT)** (cambió) · amazon.com · mercado US · verificado 2026-10-26
+- Precio/oferta: USD 21,99 – 49,99.
+- Propuesta: 'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.
+- Mensajes: Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.
+- Formatos: Listados de Amazon.
+- Hecho observado: El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.
+- Hecho observado: 23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído.
+- Hecho observado: 26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto.
+- Inferencia: En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido.
+- No obtenible: Anuncios.
+- Fuentes: https://www.amazon.com/mriya-Electric-Applicator-Massager-Treatment/dp/B0DLWC7WXC, https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4
+
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -227,16 +259,16 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 27 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 27 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 26 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 26 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 26 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 27 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 27 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 27 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · nueva · detectada 2026-10-26T07:46-03:00 · veces: 1 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 26 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 28 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 28 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Envío gratis sin condiciones en el perfil de envío de ScalpCare** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 27 · confianza media · impacto: Margen de la unidad baja de ~USD 13 a ~USD 3; promesa de 'prioritario' que no existe. · acción: Quitar el método y dejar USD 10 bajo USD 70 / gratis desde USD 70 (decisión de la arena). · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 27 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 27 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 28 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 28 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 28 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · ya conocida · detectada 2026-10-26T07:46-03:00 · veces: 2 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 27 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -248,10 +280,12 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-26T07:46-03:00 · Fin del análisis: 2026-10-26T07:49:03-03:00
-- Completado: Escalafy: dashboard, reporte por anuncio (20 anuncios, actualizado por el corte del período) y catálogo (0 objetos activos)
+- Inicio: 2026-10-26T15:46-03:00 · Fin del análisis: 2026-10-26T15:48:25-03:00
+- Completado: Escalafy: dashboard (totales iguales a la ejecución anterior) y catálogo (0 objetos activos)
 - Completado: Shopify: embudo (626 sesiones), pedidos (0), precios sin tachados, envíos, políticas y #D1 (OPEN)
-- Parcial: Competencia: sin actualizar (una vez por día, 15:46)
+- Completado: Competencia: 3 páginas revisadas (Microshop, Anyra, Satorix/Amazon)
+- Parcial: Por anuncio: filas de la ejecución de las 07:46 (mismo período, sin gasto nuevo)
+- Parcial: Competencia: 6 de 9 fichas sin revisar hoy; precio de Amazon no visible
 - Falló: Meta directo (Ads Manager, Pixel, Facturación, Biblioteca de anuncios): bloqueado por la red
-- Próxima ejecución programada: 2026-10-26 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-26T07-46-03-00.json
+- Próxima ejecución programada: 2026-10-26 23:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-26T15-46-03-00.json

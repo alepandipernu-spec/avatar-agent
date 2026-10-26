@@ -170,7 +170,7 @@
     "domain": "microshop.com.ar",
     "category": "Masajeador capilar recargable",
     "market": "AR",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "price": "ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.",
     "value_prop": "Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').",
     "claims": "'Revitaliza tu cabello', 'placentero masaje'.",
@@ -187,7 +187,7 @@
       "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-23T15:46-03:00",
+    "updated": "2026-10-26T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -199,6 +199,12 @@
         "run": "2026-10-23T15:46-03:00",
         "before": {
           "verified_at": "2026-10-18"
+        }
+      },
+      {
+        "run": "2026-10-26T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-23"
         }
       }
     ]
@@ -255,7 +261,7 @@
     "domain": "shopanyra.com",
     "category": "Peine masajeador eléctrico con luz roja y depósito",
     "market": "US",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "price": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
     "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
     "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.; 'NOTE: We Already Sold Out 3 Times, Don't Wait!'",
@@ -275,7 +281,7 @@
       "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-23T15:46-03:00",
+    "updated": "2026-10-26T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -295,6 +301,12 @@
             "Usa porcentajes de satisfacción y conteo de clientes en la página.",
             "18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable."
           ]
+        }
+      },
+      {
+        "run": "2026-10-26T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-23"
         }
       }
     ]
@@ -406,14 +418,15 @@
     "domain": "amazon.com",
     "category": "Aplicador de aceite + masajeador",
     "market": "US",
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "price": "USD 21,99 – 49,99.",
     "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
     "claims": "Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.",
     "formats": "Listados de Amazon.",
     "facts": [
       "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
-      "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído."
+      "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído.",
+      "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto."
     ],
     "inferences": [
       "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido."
@@ -427,7 +440,7 @@
       "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-23T15:46-03:00",
+    "updated": "2026-10-26T15:46-03:00",
     "history": [
       {
         "run": "2026-10-23T15:46-03:00",
@@ -435,6 +448,16 @@
           "verified_at": "2026-10-17",
           "facts": [
             "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU."
+          ]
+        }
+      },
+      {
+        "run": "2026-10-26T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-23",
+          "facts": [
+            "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
+            "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído."
           ]
         }
       }
