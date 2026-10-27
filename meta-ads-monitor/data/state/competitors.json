@@ -317,14 +317,14 @@
     "domain": "hairrova.com",
     "category": "Masajeador con luz roja y aplicador",
     "market": "US",
-    "verified_at": "2026-10-24",
+    "verified_at": "2026-10-27",
     "price": "USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.",
     "value_prop": "Promesa de resultado con plazo.",
     "claims": "'Clinically proven… visible hair growth in 56 days'.",
     "formats": "No obtenido.",
     "facts": [
       "Garantía de devolución explícita y destacada.",
-      "18/10, 21/10 y 24/10: figura 'Sold out' (precio sin cambios)."
+      "18/10, 21/10, 24/10 y 27/10: figura 'Sold out' (precio sin cambios)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -336,7 +336,7 @@
       "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-24T15:46-03:00",
+    "updated": "2026-10-27T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -366,6 +366,16 @@
             "18/10 y 21/10: figura 'Sold out' (precio sin cambios)."
           ]
         }
+      },
+      {
+        "run": "2026-10-27T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-24",
+          "facts": [
+            "Garantía de devolución explícita y destacada.",
+            "18/10, 21/10 y 24/10: figura 'Sold out' (precio sin cambios)."
+          ]
+        }
       }
     ]
   },
@@ -375,7 +385,7 @@
     "domain": "nordic-biolabs.com",
     "category": "Aplicador eléctrico + solución capilar",
     "market": "US",
-    "verified_at": "2026-10-24",
+    "verified_at": "2026-10-27",
     "price": "USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.",
     "value_prop": "Aparato como vehículo de un consumible propio (recompra).",
     "claims": "'Hair regrowth', testimonios y cita profesional.",
@@ -393,7 +403,7 @@
       "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-24T15:46-03:00",
+    "updated": "2026-10-27T15:46-03:00",
     "history": [
       {
         "run": "2026-10-21T15:46-03:00",
@@ -408,6 +418,12 @@
         "run": "2026-10-24T15:46-03:00",
         "before": {
           "verified_at": "2026-10-21"
+        }
+      },
+      {
+        "run": "2026-10-27T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-24"
         }
       }
     ]
