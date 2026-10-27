@@ -1379,5 +1379,37 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-27T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch: TYMO DTC, Ulta, Anyra, Gadnic, tiendas MX/CO, reseñas en español"
+    ],
+    "fuentes_fallidas": [
+      "Copia pública de flubberhomme.com en Exa: desactualizada (título viejo), no sirve para verificar la ficha actual",
+      "Reseñas en español de ML: los listados no muestran reseñas en la copia",
+      "Sin reseñas nuevas de TYMO ni Anyra"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "TYMO en Ulta: USD 42,99 → 64,99 con 'Early Black Friday Deal'",
+      "Descripción propia en Shopify más corta: sin plazos, moneda, 72 h ni reenvío; 3 fotos nuevas (en uso, detalles)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013-angulo-regalo-temporada",
+      "OPP-012-costo-total-y-plazo-claros-latam"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

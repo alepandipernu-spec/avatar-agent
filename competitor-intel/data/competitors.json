@@ -157,6 +157,12 @@
         "run_id": "2026-10-27T11-57",
         "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), sin ofertas de CyberMonday cargadas.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Sin cambios: ARS 97.299 (tachado 149.691), 3 cuotas sin interés.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -652,6 +658,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T11-57",
         "change": "Chequeo rápido: USD 50,95 (tachado 158,95), sin cambios ni Black Friday.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Sin cambios: USD 50,95 (tachado 158,95), contador propio de '12.319 clientes' sin verificar; no aparecieron reseñas externas.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -1770,7 +1782,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-27",
     "history": [
       {
         "date": "2026-10-17",
@@ -1842,6 +1854,12 @@
         "date": "2026-10-25",
         "run_id": "2026-10-25T03-55",
         "change": "Smartjoys sin cambios: COP 64.900 (tachado 116.000), entrega 1–5 días hábiles, garantía de 2 meses, 0 reseñas.",
+        "source": "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Búsqueda de tiendas nuevas en CO: solo aparecieron Smartjoys (COP 64.900, tachado 116.000), Holy y Nihlo ya registrados.",
         "source": "https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
       }
     ],
@@ -1973,6 +1991,12 @@
         "run_id": "2026-10-27T03-55",
         "change": "Amazon MX (búsqueda): rango de eléctricos con aplicador visto entre MXN 398 y 828 (antes 247–685); un listado a MXN 629,10 (lista 699) con oferta relámpago con cuenta regresiva, 3,3★ con 4 calificaciones. Peosaard sigue a MXN 426,59. Joinet sin cambios (MXN 345, 'cantidad vendida: 17').",
         "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Búsqueda de tiendas nuevas en MX: solo aparecieron Joinet (MXN 345, 'cantidad vendida: 17', igual), OC Market, Znice y ML MX ya registrados.",
+        "source": "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/"
       }
     ],
     "id": "mx-tiendas",
@@ -2400,7 +2424,7 @@
       "TYMO TriThera (DTC, Ulta, Target)",
       "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
     ],
-    "price_visible": "DTC USD 99,99 (tachado 129,99) + código TREAT 20% y venta de Halloween 'hasta 30% OFF' hasta el 26/10/2026 (21/10/2026) · Ulta USD 42,99 en oferta (lista 99,99; copia de Exa sin fecha, 21/10/2026) · Best Buy USD 79,99 · Macy's USD 99,99 (vía BeyondStyle) · Target agotado (4★ con 8 reseñas) · Holiday Duo Ulta USD 89,99.",
+    "price_visible": "DTC USD 99,99 (tachado 129,99, 27/10/2026) · Ulta USD 64,99 'Early Black Friday Deal' (lista 99,99; antes 42,99; 27/10/2026) · Best Buy USD 79,99 · Macy's USD 99,99 · Target agotado (4★ con 8 reseñas) · Holiday Duo Ulta USD 89,99.",
     "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
     "claims_observed": [
       "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
@@ -2422,7 +2446,8 @@
       "[HECHO 20/10/2026] Mismo aparato (modelo HC132SP) en 5 canales de EE. UU. con precios de USD 42,99 a 99,99: Ulta, Best Buy, Macy's, Target y DTC.",
       "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída.",
       "[HECHO 21/10/2026] DTC: venta de Halloween con cuenta regresiva al 26/10/2026, código TREAT del 20%, cuotas de 4 × USD 24,99, garantía de 1 año por defectos, devolución 30 días con envío a cargo del cliente, 4 reseñas (4,5★).",
-      "[HECHO 2026-10-26] DTC: USD 99,99 (tachado 129,99), entrega estimada 30/10 a 01/11 según estado; siguen 4 reseñas (4,5★). La venta de Halloween terminaba hoy."
+      "[HECHO 2026-10-26] DTC: USD 99,99 (tachado 129,99), entrega estimada 30/10 a 01/11 según estado; siguen 4 reseñas (4,5★). La venta de Halloween terminaba hoy.",
+      "[HECHO 27/10/2026] Ulta muestra el TriThera (variante sku 77001264) a USD 64,99 con la etiqueta 'Early Black Friday Deal' (lista 99,99), en stock y despachado por TYMO. En los runs anteriores figuraba a USD 42,99. La misma ficha de Ulta dice IPX7 y uso en la ducha. Fuente: https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
     ],
     "inferences": [
       "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -2568,6 +2593,12 @@
         "run_id": "2026-10-27T11-57",
         "change": "Chequeo rápido: USD 99,99 (tachado 129,99), sin Black Friday visible; entrega estimada 30/10–1/11.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Ulta: de USD 42,99 a USD 64,99 con etiqueta 'Early Black Friday Deal' (lista 99,99). Es la primera acción de Black Friday de TYMO que se ve. DTC sin cambios (USD 99,99, entrega estimada 31/10–1/11). Reseñas DTC: siguen 4, ninguna nueva.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },

@@ -597,6 +597,12 @@
         "run_id": "2026-10-24T03-55",
         "change": "Recalculo AR con dólar tarjeta 2.015 (22/10): 1 u + envío ≈ ARS 104.600 (+7,5% vs Gadnic). Score sin cambios.",
         "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Alerta propia, score sin cambios (37): la descripción del producto en Shopify (actualizada 27/10 19:37 BA) quedó más corta y ya no incluye plazos de entrega, la conversión de moneda, impuestos de importación, la cobertura por falla (72 h) ni el reenvío si no llega. Puede que se hayan movido a otro bloque del tema; no se pudo verificar porque la copia pública de Exa es vieja.",
+        "source": "Shopify Admin (lectura), producto gid://shopify/Product/9166132805686"
       }
     ]
   },
@@ -683,6 +689,12 @@
         "run_id": "2026-10-24T11-54",
         "change": "Más evidencia, score sin cambios (49): Breo (premium, US) ya publicó Black Friday con un pack de 2 que casi no ahorra por unidad (≈3%) y una garantía de precio de 30 días. El Pack Dúo de Flubberhome ahorra bastante más por unidad sin precio tachado; ese contraste sigue siendo el argumento.",
         "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T19-55",
+        "change": "Más evidencia, score sin cambios (49): TYMO hace su primera jugada de Black Friday en Ulta (USD 64,99, etiqueta 'Early Black Friday Deal'). La temporada de ofertas ya empezó en EE. UU.; la fecha límite de pedido para que llegue a tiempo (7–15 días hábiles) pasa a ser el dato clave.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
