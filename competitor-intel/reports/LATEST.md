@@ -1,101 +1,74 @@
-# Inteligencia competitiva — run 2026-10-26T19-55
+# Inteligencia competitiva — run 2026-10-27T03-55
 
-**Foco:** reseñas, competidores nuevos y oportunidades (franja 19:54).
+**Foco:** catálogo, tiendas y precios (franja 03:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 26/10/2026, 19:55–20:20 (Buenos Aires). Salvo que se indique otra cosa, las páginas son copias de Exa sin fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 27/10/2026, 03:55–04:15 (Buenos Aires). Las fichas salen de copias de Exa sin fecha visible.
 
-**Informe corto:** no hay nada urgente. Lo más relevante es propio: la ficha de Flubberhome se reescribió hoy y cubre en parte cuatro oportunidades.
+**Informe corto:** no hay cambios de precio, competidores nuevos ni oportunidades nuevas.
 
 ---
 
 ## A. Resumen ejecutivo
-- **La ficha de Flubberhome cambió hoy (19:48)** [HECHO, Shopify en modo lectura]. Tiene título nuevo, precio por unidad en cada pack, FAQ de moneda, reenvío si el pedido no llega, WhatsApp y la Guía Digital en una página pública. Los precios no cambiaron. Cubre en parte OPP-003, OPP-007, OPP-012 y OPP-015.
-- **Patrón nuevo (incipiente): la prensa empieza a dudar de estos aparatos.** Dos notas del 26/10 ([NBC News](https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814) y [DESIblitz](https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it)) dicen que hay poca evidencia de que hagan crecer el pelo. Lo que sí les reconocen es que aplican el aceite sin enchastre y ayudan a sostener la rutina. Eso favorece el posicionamiento honesto de Flubberhome.
-- **Competidor nuevo de relevancia baja:** Cecotec vende en España un cepillo con depósito para sérum a EUR 49,90, con 3 años de garantía. No está en los 4 mercados.
+- **Precios sin cambios** en los 8 directos revisados: Gadnic, Beltronic, TYMO, Anyra, Holy, NIHLO, Breo y Amazon MX/US. De Carrello no se pudo leer el precio.
+- **CyberMonday AR (2–4/11):** faltan 6 días y todavía no hay ofertas cargadas. El sitio del evento abre el 2/11 a las 00 h.
+- **Black Friday US:** Breo sigue siendo el único con landing ("hasta USD 150"). TYMO y Anyra todavía no muestran promo.
+- **Ficha propia:** Shopify la marca como actualizada el 26/10 a las 21:40 (BA), pero el texto y los precios coinciden con lo registrado ayer.
 - **Oportunidad nº 1 sin cambios:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado |
 |---|---|---|---|
-| tymo-us | US | A | USD 99,99 sin cambios. Siguen 4 reseñas y no hay ninguna nueva. Entrega estimada del 30/10 al 1/11 |
-| anyra-us | US | A | Ficha sin cambios: USD 50,95, con un contador propio de "12.319 clientes" que no se puede verificar |
-| breo-us | US | A | Solo apareció un resumen de reseñas de 2025 que ya estaba registrado |
-| gadnic-ar, aurevia-co, amazon-generics-us | AR/CO/US | A | Solo fichas ya registradas. Gadnic sigue a ARS 97.299 |
-| **cecotec-es** (nuevo) | ES/PT | C | [Cepillo HairCare Revitalize TotalCare](https://cecotec.es/es/cepillos-reparadores/haircare-revitalize-totalcare): EUR 49,90, depósito para sérum, EMS y LED, 3 años de garantía en España. Relevancia baja |
+| gadnic-ar, beltronic-ar | AR | A | Sin cambios de precio |
+| carrello-ar | AR | A | La ficha carga, pero la copia no trajo el precio (último dato: ARS 66.599) |
+| holy-cosmetics-co, nihlo-co | CO | A | Sin cambios |
+| mx-tiendas | MX | A | Amazon MX: el techo del rango sube a MXN 828 |
+| tymo-us, anyra-us, breo-us | US | A | Sin cambios; Black Friday solo en Breo |
+
+No hay competidores nuevos. Lo que apareció en las búsquedas (Joinet, OC Market, Addi, Smartjoys, LeeRong, Satorix, Lvseeman) ya estaba registrado.
 
 ## C. Productos y ofertas
-**Flubberhome** ([HECHO], Shopify en modo lectura, 26/10/2026):
-- Las 6 variantes siguen a USD 41,93 / 71,88 / 89,85, sin precio tachado.
-- La ficha se actualizó el 26/10 a las 19:48 (hora de Buenos Aires):
-  - **Título nuevo:** "Masajeador capilar eléctrico con depósito". Antes era "Cepillo Exfoliante".
-  - **Precio por unidad en cada pack:** USD 35,94 en el Dúo y USD 29,95 en el Familiar.
-  - **Pedido que no llega:** se reenvía o se reintegra.
-  - **Atención:** WhatsApp y email.
-  - **FAQ nuevas:** cuánto se paga en moneda local y quién está detrás de la marca.
-  - **Aclaración nueva:** "no es un dispositivo médico".
-- La [Guía Digital](https://flubberhomme.com/pages/guia-scalpcare-pro) ya es pública. Recomienda usar poca cantidad, empezar en intensidad baja y hacer sesiones de 3 a 5 minutos.
-- Lo que sigue igual: la ventana por falla sigue siendo de 72 h.
+**Flubberhome** ([HECHO], Shopify en modo lectura, 27/10/2026): 6 variantes a USD 41,93 / 71,88 / 89,85, sin precio tachado. La descripción es la misma del 26/10. La ventana por falla sigue en 72 h.
+
+**Chequeo de directos** ([HECHO], 27/10/2026):
+- **Gadnic** ([ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)): ARS 97.299 (tachado 149.691), 3 cuotas sin interés.
+- **Beltronic PY008** ([ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/)): ARS 129.900 (tachado 149.900). La ficha dice a la vez "solo quedan 90 en stock" y "es el último": son mensajes de la tienda que se contradicen y no sirven como dato de stock.
+- **TYMO** ([ficha](https://tymobeauty.com/products/tymo-trithera)): USD 99,99 (tachado 129,99). Entrega estimada del 30/10 al 1/11.
+- **Anyra** ([ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator)): USD 50,95 (tachado 158,95).
+- **Breo** ([Black Friday](https://us.breo.com/pages/black-friday-2026)): S3 a USD 159,99 (tachado 239,99), pack de 2 a USD 309,99, garantía de precio por 30 días.
+- **Holy** ([ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar)): COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas.
+- **NIHLO** ([ficha](https://www.nihlo.com.co/products/masajeador-capilar-nihlo)): COP 89.900, 1 año de garantía por defectos.
+- **Amazon MX** ([búsqueda](https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico)): los eléctricos con aplicador van de MXN 398 a 828 (el 24/10 iban de 247 a 685). Un listado está en oferta relámpago a MXN 629,10 (lista 699), con 3,3★ y 4 calificaciones. Casi todos tienen menos de 6 calificaciones.
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 26/10/2026 11:57 (sin anuncios verificados de la Biblioteca de Meta).
 
 ## E. Demanda y señales de ventas
-**Señal nueva:** `medios-escepticismo-gadgets-oct-2026` ([HECHO]: cobertura editorial, no ventas).
-- **NBC News Select** (actualizada el 26/10/2026): según los dermatólogos consultados, los masajeadores son de "bienestar" y hay poca evidencia de que sirvan para el crecimiento.
-- **DESIblitz** (26/10/2026): compara los aparatos de GBP 30–100 con el aceitado manual y concluye que su valor está en el tiempo y el enchastre que se ahorran.
-- **Qué indica:** la categoría tiene atención de los medios en plena temporada de regalos, y el discurso del crecimiento empieza a recibir críticas.
-- **Qué no indica:** ventas, ni que el público de LatAm lea estas notas.
+Sin señales nuevas. Último dato: 26/10/2026 19:55 (cobertura editorial escéptica).
 
 ## F. Experiencia de compra
-Sin revisión de competidores en esta ejecución. Último dato con cambios: 22/10/2026 03:55. La ficha propia cambió hoy (ver C).
+Sin cambios en las fichas revisadas. Último cambio registrado en competidores: 22/10/2026.
 
 ## G. Reseñas y debilidades competitivas
-- **Patrón nuevo (incipiente):** escepticismo editorial sobre los aparatos para el cuero cabelludo. Se basa en 2 notas del 26/10 (NBC y DESIblitz), que no son reseñas de compradores.
-- **El miedo a excederse con el líquido pasa a 2 fuentes.** Se sumó la [guía de Wimpole](https://wimpole.com/blog/12-best-and-worst-scalp-massagers-for-hair-growth/) (2025). Advierte que los dispensadores baratos pueden largar demasiado aceite y dejar el pelo graso. Sigue siendo un patrón débil, porque ninguna de las dos fuentes es una reseña de compra.
-- **Sin reseñas de compradores nuevas.** La de TYMO sobre "dejó de encender" y la de mriya sobre "se tapa y pierde" ya estaban registradas, así que no se duplicaron.
-- **Patrones principales sin cambios:**
-  - Problemas para dosificar el líquido (21 fuentes).
-  - Fallas de fábrica (12 fuentes).
-  - Una sensación de masaje más floja de lo esperado (7 fuentes).
+Sin revisión en esta ejecución. Último dato: 26/10/2026 19:55.
 
 ## H. Estrategias adaptables
-- [HIPÓTESIS] El escepticismo de los medios es una ventaja para quien no promete crecimiento. El mensaje ya cerrado ("masaje y tónico en la raíz, sin ensuciarte las manos; no es un dispositivo médico") encaja con lo que la prensa reconoce como valor real. No hace falta cambiar el posicionamiento. Sí conviene que los microdramas eviten cualquier insinuación de "antes y después" del pelo.
-  - **Métrica:** comentarios de "¿sirve para la caída?" en los anuncios, cuando se reactiven.
-- [HIPÓTESIS] La ventana de 72 h por falla queda corta frente a lo que se ve en el mercado: Gadnic da 12 meses y Cecotec ES, 3 años. Cualquier extensión de la garantía es una decisión de costo del dueño (OPP-003). No se recomienda ningún plazo sin conocer la tasa real de fallas.
+Nada nuevo. Sigue vigente la hipótesis del 26/10: el escepticismo de la prensa favorece a quien no promete crecimiento.
 
 ## I. Oportunidades priorizadas
-| # | id | Score | Cambio en este run |
-|---|---|---|---|
-| 1 | OPP-001 demo de aplicación sin goteo | 80 | Nota: es el valor que la prensa reconoce al formato |
-| 2 | OPP-013 ángulo regalo con el Pack Dúo | 49 | — |
-| 3 | OPP-002 pasar del manual al eléctrico (AR) / OPP-014 expectativa honesta de la sensación | 48 | — |
-| 5 | OPP-012 costo total y plazo claros en LatAm | 37 | Atendida en parte: hay FAQ de moneda. Falta el monto en moneda local junto al botón |
-| 6 | OPP-015 guía en español visible antes de comprar | 36 | Atendida en parte: la guía ya es pública y está enlazada |
-| — | OPP-007 precio honesto con ahorro por unidad | 30 | Atendida en la ficha: muestra el precio por unidad |
-| — | OPP-016 respuestas honestas | 32 | Más evidencia (NBC, DESIblitz) |
-| — | OPP-003 garantía publicada | 11 | Se sumó reenvío si no llega. La falla sigue con 72 h |
-
-No hay oportunidades nuevas ni cambios de puntaje: no hay datos de conversión para medir los cambios de la ficha.
+Sin cambios: OPP-001 (80), OPP-013 (49), OPP-002 y OPP-014 (48), OPP-012 (37), OPP-015 (36). No hay datos nuevos que muevan los puntajes.
 
 ## J. Próximas acciones
-- **Para el dueño:**
-  - Medir los cambios de la ficha cuando haya tráfico: clics en la Guía y en WhatsApp, y la proporción de compras del Pack Dúo frente a la unidad suelta.
-  - Para cerrar OPP-012 falta poner, junto al botón de compra, un monto aproximado en ARS, MXN y COP.
-  - Sigue pendiente la toma real de 10–15 s (OPP-001/014/017).
-  - Faltan 6 días para el CyberMonday AR (2–4/11). Hay que decidir si AR participa.
-- **Próximo run de catálogo (03:54):** ver si hay ofertas anticipadas de CyberMonday (Gadnic) y de Black Friday (TYMO, Anyra, Breo), y si Cecotec aparece en MX o CO.
+- **Para el dueño:** faltan 6 días para el CyberMonday AR (2–4/11). Hay que decidir si AR participa. Si participa, conviene una oferta que no sea un precio tachado inflado (ver OPP-007).
+- **Próximo run de catálogo (28/10 03:54):** ver si Gadnic, Carrello o Beltronic cargan ofertas anticipadas, si TYMO o Anyra activan Black Friday y si se puede leer el precio de Carrello.
 
 ## K. Nuevos hallazgos
-- **Competidor nuevo:** `cecotec-es` (inspiracional, relevancia baja). **Actualizado:** `tymo-us`.
-- **Reseñas:** 3 ítems editoriales nuevos, 1 patrón nuevo (escepticismo editorial) y 1 patrón reforzado (miedo a excederse, ahora con 2 fuentes).
-- **Señal nueva:** `medios-escepticismo-gadgets-oct-2026`.
-- **Notas en oportunidades:** OPP-001, 003, 007, 012, 015 y 016.
-- **Contexto de Flubberhome:** se registró el cambio de título y de ficha.
+- **Actualizados:** 9 competidores (historial con fecha y fuente). No hay competidores, productos, reseñas, señales ni oportunidades nuevas.
+- **Contexto de Flubberhome:** se registró la verificación del 27/10.
 
 ## L. Limitaciones
-- **Reseñas en español** (Mercado Libre, foros): la búsqueda trajo resultados que no son de la categoría. No hay reseñas de LatAm nuevas.
-- **Reddit:** sin hilos de 2026.
-- **Walmart:** muro anti-bot. No se intentó saltearlo.
+- **Gadnic CyberMonday:** la página de la marca dio timeout en Exa. Se usó el sitio oficial del evento.
+- **Carrello:** la copia no trajo el bloque de precio.
+- **Mercado Libre AR/MX/CO:** no se consultó. Las copias no traen precios ni contadores.
+- **Tipo de cambio:** no se actualizó, porque no hubo comparaciones nuevas en moneda local.
 - **Biblioteca de Meta:** no se intentó, porque no es la franja de anuncios.
-- **Datos sin fecha:** las copias de Exa no la tienen, salvo las fechas de publicación que se indican. El contador de clientes de Anyra es propio de la marca y no se puede verificar.
-- **Repo público:** sin datos internos (stock, ventas, costos). Conviene volverlo privado.
+- **Repo público:** sin datos internos. Conviene volverlo privado.

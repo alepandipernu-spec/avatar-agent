@@ -1303,5 +1303,46 @@
       "OPP-016"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-27T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "Gadnic, Beltronic, Carrello, TYMO, Anyra, Holy, Breo, NIHLO (copia de Exa)",
+      "Amazon US y Amazon MX (búsqueda Exa)",
+      "cybermonday.com.ar"
+    ],
+    "fuentes_fallidas": [
+      "Página de CyberMonday de Gadnic: timeout de Exa",
+      "Carrello: la copia no trajo el precio",
+      "Mercado Libre AR/MX/CO: no se consultó (antecedente: la copia no trae precios ni contadores)",
+      "Tipo de cambio: no se actualizó",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "tymo-us",
+      "anyra-us",
+      "holy-cosmetics-co",
+      "breo-us",
+      "mx-tiendas",
+      "nihlo-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos",
+      "CyberMonday AR (2–4/11) sin ofertas cargadas; faltan 6 días",
+      "Black Friday: solo Breo tiene landing; TYMO y Anyra sin promo",
+      "Amazon MX: techo del rango sube a MXN 828; una oferta relámpago a MXN 629,10",
+      "Ficha propia: updatedAt 27/10 00:40 UTC, sin cambios de precio ni de texto respecto del run anterior"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
