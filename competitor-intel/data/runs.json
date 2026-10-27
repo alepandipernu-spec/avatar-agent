@@ -1344,5 +1344,40 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-27T11-57",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch",
+      "TikTok Shop US: 2 búsquedas (copia de Exa)",
+      "Breo, TYMO, Anyra, Gadnic, cybermonday.com.ar (copia de Exa)",
+      "WebSearch (clips de ML CO)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL y nadie respondió; no hay navegador conectado (11.º día sin anuncios verificados)",
+      "TikTok Creative Center Top Ads: 'No search results found' en la copia",
+      "Búsqueda de videos LatAm: solo piezas ya registradas"
+    ],
+    "competidores_revisados": [
+      "breo-us",
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "inia-us",
+      "kitsch-us",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de oferta ni de contadores",
+      "eterus (US, USD 40) sumado a dtc-clones-us",
+      "Ficha propia: updatedAt 27/10 05:08 BA, precios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

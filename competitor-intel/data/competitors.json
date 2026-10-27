@@ -151,6 +151,12 @@
         "run_id": "2026-10-27T03-55",
         "change": "Sin cambios: ARS 97.299 (tachado 149.691), 3 cuotas sin interés; sin impuestos nacionales ARS 80.412. El sitio de CyberMonday sigue diciendo que las ofertas empiezan el 2/11 00 h.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T11-57",
+        "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), sin ofertas de CyberMonday cargadas.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -641,6 +647,12 @@
         "run_id": "2026-10-27T03-55",
         "change": "Sin cambios: USD 50,95 (tachado 158,95, 'SAVE 68%'), mismos contadores propios (4,9 / 12.319 clientes) y aviso de 'agotado 3 veces'. Sin Black Friday visible.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T11-57",
+        "change": "Chequeo rápido: USD 50,95 (tachado 158,95), sin cambios ni Black Friday.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -1087,6 +1099,12 @@
         "run_id": "2026-10-27T03-55",
         "change": "Landing de Black Friday sin cambios: 'hasta USD 150', garantía de precio 30 días, S3 USD 159,99 (tachado 239,99), pack de 2 USD 309,99.",
         "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T11-57",
+        "change": "Landing de Black Friday sin cambios (4.ª vista).",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
   },
@@ -1399,7 +1417,8 @@
       "Ryslnte 3 en 1 (Amazon) USD 34,84",
       "Sunluxy 'Electric Scalp Massager Hair Oil Applicator' USD 29,99 (tachado 59,99), agotado",
       "DHactive 3 en 1 USD 39,99 (tachado 99,99), garantía de devolución de 60 días, envío gratis desde USD 59",
-      "Litevisage 'Nano Mist & LED' USD 109,99 (tachado 189,99), tanque de 20 ml con atomizador"
+      "Litevisage 'Nano Mist & LED' USD 109,99 (tachado 189,99), tanque de 20 ml con atomizador",
+      "eterus 'Electric Oil Applicator and Vibration Scalp Massager 2 in 1' USD 40, envío gratis, figura agotado (27/10/2026)"
     ],
     "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
     "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
@@ -1414,7 +1433,8 @@
       "https://dovence.com/products/electric-massage-comb-with-vibration-red-light-therapy-scalp-brush-hair-growth-anti-hair-loss-liquid-oil-applicator-hair-care",
       "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/",
       "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator",
-      "https://litevisage.com/product/scalp-massager-for-hair-growth/"
+      "https://litevisage.com/product/scalp-massager-for-hair-growth/",
+      "https://www.eterus.us/products/electric-oil-applicator-and-vibration-scalp-massager-2-in-1"
     ],
     "relevance": "baja",
     "follow_reason": "Señal de saturación de la oferta en US; Pilore introduce variante con atomizador (niebla) en lugar de rodillos.",
@@ -1433,7 +1453,7 @@
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-10-27",
     "history": [
       {
         "date": "2026-10-17",
@@ -1470,6 +1490,12 @@
         "run_id": "2026-10-24T11-54",
         "change": "DHactive sin cambios: USD 39,99 (lista 99,99), devolución de 60 días, envío gratis desde USD 59, tanque de 15 ml; sigue mencionando minoxidil y resultados en 8–12 semanas.",
         "source": "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T11-57",
+        "change": "Nueva tienda del mismo formato: eterus (US), USD 40 con envío gratis, tanque de 6 ml con escala, promesa de crecimiento; la ficha dice agotado (no prueba ventas). Relevancia baja, se agrega acá y no como competidor aparte.",
+        "source": "https://www.eterus.us/products/electric-oil-applicator-and-vibration-scalp-massager-2-in-1"
       }
     ]
   },
@@ -2535,6 +2561,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T03-55",
         "change": "Sin cambios: USD 99,99 (tachado 129,99, 'Save 30%'); entrega estimada 30/10–1/11. Sin promo de Black Friday visible en la ficha.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-27",
+        "run_id": "2026-10-27T11-57",
+        "change": "Chequeo rápido: USD 99,99 (tachado 129,99), sin Black Friday visible; entrega estimada 30/10–1/11.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
