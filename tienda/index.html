@@ -1,0 +1,696 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ScalpCare Pro FlubberHomme</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="ScalpCare Pro™: masajeador capilar eléctrico con depósito para tu tónico. Envío a todo México, gratis desde USD 70.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Onest:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: tienda de un solo producto. Ficha de compra arriba (galería + caja de compra), luego bandas de información en una columna ancha, carrito lateral y barra fija en celular. */
+:root{
+  --bg:#edf1f0;        /* azulejo de baño, gris frío */
+  --surface:#ffffff;
+  --sunk:#e2e8e6;
+  --ink:#0f2230;       /* tinta azul profunda */
+  --muted:#53646d;
+  --line:#cfd8d6;
+  --red:#d9412f;       /* acento: el rojo del aparato */
+  --red-ink:#ffffff;
+  --green:#1d7a63;     /* el verde del aparato */
+  --green-soft:#d5ebe3;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Onest",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  --r:14px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0d171d; --surface:#14222a; --sunk:#1b2b34; --ink:#e6eef0; --muted:#9db0b8; --line:#263a44;
+  --red:#ff6a55; --red-ink:#1a0703; --green:#5fcfae; --green-soft:#173a31; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0d171d; --surface:#14222a; --sunk:#1b2b34; --ink:#e6eef0; --muted:#9db0b8; --line:#263a44;
+  --red:#ff6a55; --red-ink:#1a0703; --green:#5fcfae; --green-soft:#173a31; color-scheme:dark}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:80px}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--surface)}
+img{max-width:100%;display:block}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--red);outline-offset:3px;border-radius:6px}
+h1,h2,h3{font-family:var(--display);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.02em}
+h2{font-size:clamp(1.8rem,4vw,2.7rem);font-weight:800}
+h3{font-size:1.15rem;font-weight:700;letter-spacing:-.01em}
+p{margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.eyebrow{font:500 .75rem/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.num{font-variant-numeric:tabular-nums}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* Barra de anuncio + encabezado */
+.announce{background:var(--ink);color:var(--bg);font:500 .8rem/1.3 var(--mono);text-align:center;padding-block:9px}
+.announce .wrap{display:flex;gap:8px 22px;justify-content:center;flex-wrap:wrap}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;align-items:center;gap:20px;height:64px}
+.logo{font:800 1.3rem/1 var(--display);letter-spacing:-.03em;text-decoration:none;white-space:nowrap}
+.logo span{color:var(--red)}
+nav.main{display:flex;gap:22px;margin-left:auto;font-size:.93rem}
+nav.main a{text-decoration:none;color:var(--muted)}
+nav.main a:hover{color:var(--ink)}
+.cart-btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--surface);padding:8px 14px;border-radius:99px;cursor:pointer;font-weight:600;font-size:.92rem}
+.cart-btn .count{min-width:22px;height:22px;border-radius:99px;background:var(--red);color:var(--red-ink);font:600 .75rem/22px var(--mono);text-align:center;padding:0 6px}
+@media (max-width:820px){nav.main{display:none}.cart-btn{margin-left:auto}}
+
+/* Ficha de producto */
+.pdp{padding-block:32px 56px}
+.pdp .wrap{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:48px;align-items:start}
+@media (max-width:900px){.pdp .wrap{grid-template-columns:minmax(0,1fr);gap:28px}}
+.gallery{position:sticky;top:96px;display:grid;gap:12px}
+@media (max-width:900px){.gallery{position:static}}
+.stage{position:relative;aspect-ratio:1/1;max-width:100%;border-radius:22px;overflow:hidden;background:var(--surface);border:1px solid var(--line)}
+.stage img,.stage svg{width:100%;height:100%;object-fit:cover}
+.stage .tag{position:absolute;left:14px;top:14px;background:var(--surface);border:1px solid var(--line);padding:6px 10px;border-radius:99px;font:500 .72rem/1 var(--mono);letter-spacing:.04em}
+.thumbs{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
+.thumbs button{padding:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface);aspect-ratio:1/1;cursor:pointer}
+.thumbs button[aria-current="true"]{border-color:var(--ink);box-shadow:0 0 0 1px var(--ink)}
+.thumbs img,.thumbs svg{width:100%;height:100%;object-fit:cover}
+
+.buy{display:flex;flex-direction:column;gap:22px;min-width:0}
+.buy h1{font-size:clamp(2.4rem,5.4vw,3.9rem);font-weight:800}
+.buy h1 sup{font-size:.4em;vertical-align:.9em;font-weight:500}
+.lede{font-size:1.08rem;color:var(--muted);max-width:52ch}
+.price-row{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.price{font:700 2rem/1 var(--display);letter-spacing:-.02em}
+.price small{font:500 .85rem var(--body);color:var(--muted);letter-spacing:0}
+.mxn{font:500 .85rem/1.3 var(--mono);color:var(--muted)}
+.opt-label{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:10px;font-weight:600;font-size:.95rem}
+.opt-label span{font-weight:400;color:var(--muted)}
+.swatches{display:flex;gap:10px}
+.swatch{display:flex;align-items:center;gap:10px;padding:8px 16px 8px 8px;border:1px solid var(--line);border-radius:99px;background:var(--surface);cursor:pointer;font-weight:500}
+.swatch i{width:26px;height:26px;border-radius:50%;display:block;box-shadow:inset 0 0 0 2px rgba(255,255,255,.35)}
+.swatch[aria-checked="true"]{border-color:var(--ink);box-shadow:0 0 0 1px var(--ink)}
+.packs{display:grid;gap:16px;padding-top:4px}
+.pack{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:14px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--r);background:var(--surface);cursor:pointer;text-align:left;position:relative}
+.pack[aria-checked="true"]{border-color:var(--ink);box-shadow:0 0 0 1px var(--ink)}
+.pack .dot{width:20px;height:20px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center}
+.pack[aria-checked="true"] .dot{border-color:var(--ink)}
+.pack[aria-checked="true"] .dot::after{content:"";width:10px;height:10px;border-radius:50%;background:var(--ink)}
+.pack b{display:block;font-size:1rem}
+.pack .sub{font-size:.85rem;color:var(--muted)}
+.pack .amt{text-align:right;font:600 1.05rem var(--display)}
+.pack .amt s{display:block;font:400 .78rem var(--mono);color:var(--muted)}
+.pack .flag{position:absolute;top:-10px;right:14px;background:var(--green);color:var(--surface);font:600 .68rem/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:5px 8px;border-radius:6px}
+.ctas{display:grid;gap:10px}
+.btn{display:inline-flex;justify-content:center;align-items:center;gap:10px;border:0;border-radius:var(--r);padding:17px 22px;font-weight:600;font-size:1.02rem;cursor:pointer;text-decoration:none;transition:transform .15s ease,background-color .2s ease}
+.btn:active{transform:scale(.985)}
+.btn-primary{background:var(--red);color:var(--red-ink)}
+.btn-primary:hover{background:color-mix(in srgb,var(--red) 88%,var(--ink))}
+.btn-ghost{background:transparent;border:1px solid var(--ink);color:var(--ink)}
+.btn-ghost:hover{background:var(--sunk)}
+.btn.done{background:var(--green);color:var(--surface)}
+.assure{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;font-size:.82rem;color:var(--muted)}
+.assure div{display:flex;gap:8px;align-items:flex-start;background:var(--sunk);border-radius:10px;padding:10px}
+.assure svg{flex:none;width:18px;height:18px;color:var(--ink)}
+@media (max-width:460px){.assure{grid-template-columns:minmax(0,1fr)}}
+.ship-meter{font-size:.88rem;display:grid;gap:6px}
+.bar{height:6px;border-radius:99px;background:var(--sunk);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--green);border-radius:99px;transition:width .4s ease}
+
+/* Ficha técnica */
+.specs{border-block:1px solid var(--line);background:var(--surface)}
+.specs .wrap{display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
+.specs div{padding:22px 18px;border-left:1px solid var(--line);display:grid;gap:4px}
+.specs div:first-child{border-left:0}
+.specs b{font:700 1.6rem/1 var(--display);letter-spacing:-.02em}
+.specs span{font:400 .78rem/1.3 var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+@media (max-width:720px){.specs .wrap{grid-template-columns:repeat(2,minmax(0,1fr))}.specs div:nth-child(3){border-left:0}.specs div:nth-child(n+3){border-top:1px solid var(--line)}}
+
+section.band{padding-block:80px}
+.band-head{display:grid;gap:12px;margin-bottom:36px;max-width:60ch}
+.band-head p{color:var(--muted);font-size:1.05rem}
+
+/* Beneficios */
+.benefits{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:20px;overflow:hidden}
+.benefits article{background:var(--surface);padding:26px 24px;display:grid;gap:10px;align-content:start}
+.benefits svg{width:28px;height:28px;color:var(--green)}
+.benefits p{color:var(--muted);font-size:.95rem}
+@media (max-width:860px){.benefits{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:520px){.benefits{grid-template-columns:minmax(0,1fr)}}
+
+/* Cómo se usa */
+.how{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px;align-items:center}
+@media (max-width:860px){.how{grid-template-columns:minmax(0,1fr)}}
+.how figure{margin:0;border-radius:22px;overflow:hidden;aspect-ratio:4/5;max-width:100%;background:var(--surface);border:1px solid var(--line)}
+.how figure img,.how figure svg{width:100%;height:100%;object-fit:cover}
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:0;counter-reset:s}
+.steps li{display:grid;grid-template-columns:56px minmax(0,1fr);gap:16px;padding-block:22px;border-top:1px solid var(--line);counter-increment:s}
+.steps li:last-child{border-bottom:1px solid var(--line)}
+.steps li::before{content:counter(s);font:800 2.4rem/1 var(--display);color:var(--red)}
+.steps p{color:var(--muted);margin-top:6px}
+.note{font-size:.88rem;color:var(--muted);margin-top:18px}
+
+/* Qué incluye */
+.box{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:40px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:32px}
+@media (max-width:860px){.box{grid-template-columns:minmax(0,1fr);padding:20px}}
+.box figure{margin:0;border-radius:16px;overflow:hidden;aspect-ratio:1/1;max-width:100%;background:var(--sunk)}
+.box figure img,.box figure svg{width:100%;height:100%;object-fit:cover}
+.inbox{list-style:none;padding:0;margin:20px 0 0;display:grid;gap:10px}
+.inbox li{display:flex;gap:12px;align-items:baseline;padding:12px 14px;background:var(--sunk);border-radius:10px}
+.inbox li b{font:500 .8rem var(--mono);color:var(--muted);min-width:2.5ch}
+
+/* Envío y precios */
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:18px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:560px}
+th,td{padding:16px 18px;text-align:left;border-bottom:1px solid var(--line)}
+th{font:500 .74rem var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+td{font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+td.r,th.r{text-align:right}
+.free{color:var(--green);font-weight:600}
+.pay{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:20px}
+.pay div{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:20px;display:grid;gap:6px;align-content:start}
+.pay p{color:var(--muted);font-size:.93rem}
+@media (max-width:760px){.pay{grid-template-columns:minmax(0,1fr)}}
+
+/* Preguntas */
+.faq{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:40px}
+@media (max-width:860px){.faq{grid-template-columns:minmax(0,1fr)}}
+details{border-top:1px solid var(--line)}
+details:last-child{border-bottom:1px solid var(--line)}
+summary{list-style:none;cursor:pointer;padding:20px 0;font-weight:600;font-size:1.05rem;display:flex;justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:400 1.5rem/1 var(--mono);color:var(--muted);transition:transform .2s ease}
+details[open] summary::after{transform:rotate(45deg)}
+details p{padding:0 0 20px;color:var(--muted);max-width:62ch}
+
+/* Cierre */
+.closing{background:var(--ink);color:var(--bg);border-radius:28px;padding:56px 40px;display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:32px;align-items:center}
+.closing h2{font-size:clamp(2rem,5vw,3.4rem)}
+.closing p{opacity:.75;margin-top:12px}
+.closing .btn-primary{width:100%}
+@media (max-width:760px){.closing{grid-template-columns:minmax(0,1fr);padding:36px 22px}}
+
+footer{padding-block:56px 120px;color:var(--muted);font-size:.9rem}
+footer .wrap{display:grid;grid-template-columns:minmax(0,1.4fr) repeat(2,minmax(0,1fr));gap:32px}
+footer h3{font-size:.8rem;font-family:var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--ink);margin-bottom:12px;font-weight:500}
+footer ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+footer .legal{grid-column:1/-1;border-top:1px solid var(--line);padding-top:20px;font-size:.82rem}
+@media (max-width:720px){footer .wrap{grid-template-columns:minmax(0,1fr)}}
+.copy-mail{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:4px 10px;cursor:pointer;font-size:.8rem;margin-left:6px}
+
+/* Barra fija en celular */
+.sticky-buy{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:none;align-items:center;gap:12px;transform:translateY(110%);transition:transform .3s ease}
+.sticky-buy.show{transform:none}
+.sticky-buy .info{min-width:0;flex:1;font-size:.85rem;line-height:1.3}
+.sticky-buy .info b{display:block;font-size:1rem}
+.sticky-buy .btn{padding:13px 18px;font-size:.95rem}
+@media (max-width:900px){.sticky-buy{display:flex}}
+
+/* Carrito */
+.scrim{position:fixed;inset:0;background:rgba(5,14,20,.45);z-index:70;opacity:0;pointer-events:none;transition:opacity .25s ease}
+.scrim.open{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(420px,100%);z-index:80;background:var(--surface);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .3s cubic-bezier(.2,.8,.2,1);padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);padding-right:env(safe-area-inset-right,0px)}
+.drawer.open{transform:none}
+.drawer-head{display:flex;justify-content:space-between;align-items:center;padding:18px 20px;border-bottom:1px solid var(--line)}
+.drawer-head h2{font-size:1.4rem}
+.x{border:0;background:var(--sunk);width:36px;height:36px;border-radius:50%;cursor:pointer;font-size:1.1rem}
+.lines{flex:1;overflow:auto;padding:8px 20px;display:grid;align-content:start;gap:0}
+.line{display:grid;grid-template-columns:64px minmax(0,1fr) auto;gap:12px;padding-block:16px;border-bottom:1px solid var(--line);align-items:start}
+.line .ph{width:64px;height:64px;border-radius:10px;overflow:hidden;background:var(--sunk)}
+.line .ph img,.line .ph svg{width:100%;height:100%;object-fit:cover}
+.line b{display:block;font-size:.95rem}
+.line .meta{font-size:.82rem;color:var(--muted)}
+.qty{display:inline-flex;align-items:center;border:1px solid var(--line);border-radius:99px;margin-top:8px}
+.qty button{border:0;background:none;width:30px;height:30px;cursor:pointer;font-size:1rem}
+.qty span{min-width:22px;text-align:center;font:500 .85rem var(--mono)}
+.line .rm{border:0;background:none;color:var(--muted);font-size:.8rem;text-decoration:underline;cursor:pointer;padding:0;margin-left:10px}
+.line .lp{font-weight:600;text-align:right}
+.empty{padding:40px 0;text-align:center;color:var(--muted);display:grid;gap:14px;justify-items:center}
+.drawer-foot{border-top:1px solid var(--line);padding:18px 20px;display:grid;gap:12px}
+.sum{display:grid;gap:6px;font-size:.93rem}
+.sum div{display:flex;justify-content:space-between;gap:10px}
+.sum .tot{font:700 1.2rem var(--display);padding-top:6px;border-top:1px dashed var(--line);margin-top:4px}
+.fine{font-size:.76rem;color:var(--muted);line-height:1.45}
+
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+
+<div class="announce"><div class="wrap"><span>Envío a todo México</span><span>Gratis desde USD 70</span><span>Paga con PayPal o tarjeta</span></div></div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="FlubberHomme, inicio">Flubber<span>Homme</span></a>
+    <nav class="main" aria-label="Secciones">
+      <a href="#producto">Producto</a>
+      <a href="#como-se-usa">Cómo se usa</a>
+      <a href="#envio">Envío y pago</a>
+      <a href="#preguntas">Preguntas</a>
+    </nav>
+    <button class="cart-btn" type="button" id="open-cart" aria-haspopup="dialog">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 7h14l-1.2 12.2a2 2 0 0 1-2 1.8H8.2a2 2 0 0 1-2-1.8L5 7Z"/><path d="M9 7V5a3 3 0 0 1 6 0v2"/></svg>
+      Carrito <span class="count num" id="cart-count">0</span>
+    </button>
+  </div>
+</header>
+
+<main id="top">
+<section class="pdp" id="producto" aria-label="ScalpCare Pro">
+  <div class="wrap">
+    <div class="gallery">
+      <div class="stage" id="stage"><span class="tag" id="stage-tag">Rojo</span></div>
+      <div class="thumbs" id="thumbs" role="list" aria-label="Fotos del producto"></div>
+    </div>
+
+    <div class="buy">
+      <div style="display:grid;gap:14px">
+        <p class="eyebrow">Masajeador capilar eléctrico con depósito</p>
+        <h1>ScalpCare Pro<sup>™</sup></h1>
+        <p class="lede">Masajea tu cuero cabelludo y aplica tu tónico directo en la raíz, sin ensuciarte las manos. Tres intensidades, carga por USB-C.</p>
+      </div>
+
+      <div style="display:grid;gap:6px">
+        <div class="price-row"><span class="price num" id="price">USD 41.93</span><small class="mxn" id="unit-note">USD 41.93 por pieza</small></div>
+        <p class="mxn num" id="price-mxn">≈ $784 MXN</p>
+      </div>
+
+      <div>
+        <div class="opt-label">Color <span id="color-name">Rojo</span></div>
+        <div class="swatches" role="radiogroup" aria-label="Color" id="swatches"></div>
+      </div>
+
+      <div>
+        <div class="opt-label">Elige tu pack <span>Más piezas, menos por pieza</span></div>
+        <div class="packs" role="radiogroup" aria-label="Pack" id="packs"></div>
+      </div>
+
+      <div class="ship-meter" id="ship-meter" aria-live="polite"></div>
+
+      <div class="ctas">
+        <button class="btn btn-primary" type="button" id="add">Agregar al carrito · <span id="add-price" class="num">USD 41.93</span></button>
+        <a class="btn btn-ghost" id="buy-now" href="#" target="_blank" rel="noopener">Comprar ahora</a>
+      </div>
+
+      <div class="assure">
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="11" width="18" height="10" rx="2"/><path d="M7 11V8a5 5 0 0 1 10 0v3"/></svg>Pago seguro con el checkout de Shopify</div>
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 7h11v10H3zM14 10h4l3 3v4h-7"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="18" r="2"/></svg>Número de rastreo en tu correo</div>
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 12h16M4 6h16M4 18h10"/></svg>Guía digital de uso incluida</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="specs" aria-label="Ficha técnica">
+  <div class="wrap">
+    <div><b>3</b><span>intensidades de masaje</span></div>
+    <div><b>USB-C</b><span>carga, sin pilas</span></div>
+    <div><b>1</b><span>depósito para tónico o aceite ligero</span></div>
+    <div><b>0</b><span>cables mientras lo usas</span></div>
+  </div>
+</div>
+
+<section class="band" aria-labelledby="ben-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Por qué lo vas a usar todos los días</p>
+      <h2 id="ben-h">Tu rutina de cuero cabelludo, en un solo aparato</h2>
+    </div>
+    <div class="benefits">
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 12c3-5 6-5 9 0s6 5 9 0"/></svg><h3>Relajación</h3><p>Un masaje suave en el cuero cabelludo, al ritmo que elijas.</p></article>
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11Z"/></svg><h3>Aplicación pareja</h3><p>Carga tu tónico o aceite ligero y distribúyelo directo en la raíz.</p></article>
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 20h16M6 16l4-10 4 10M8 12h4M16 6v10"/></svg><h3>Limpieza cómoda</h3><p>Ayuda a retirar residuos de productos con movimientos controlados.</p></article>
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="6" cy="8" r="2"/><circle cx="12" cy="8" r="2"/><circle cx="18" cy="8" r="2"/><path d="M6 10v8M12 10v8M18 10v8"/></svg><h3>Sin jalones</h3><p>Las puntas con esfera se deslizan sin enganchar el cabello si lo usas sin presionar.</p></article>
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 18v-4M12 18V9M18 18V5"/></svg><h3>3 intensidades</h3><p>Elige la que te resulte más cómoda y cámbiala con un botón.</p></article>
+      <article><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="7" y="2" width="10" height="20" rx="3"/><path d="M11 6h2M10 13l2-3v3h2l-2 3"/></svg><h3>Inalámbrico</h3><p>Se carga por USB-C. Úsalo en el baño o en el sillón, sin cable.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="como-se-usa" aria-labelledby="how-h" style="padding-top:0">
+  <div class="wrap how">
+    <figure id="how-img"></figure>
+    <div>
+      <div class="band-head" style="margin-bottom:20px">
+        <p class="eyebrow">Cómo se usa</p>
+        <h2 id="how-h">Tres pasos, un par de minutos</h2>
+      </div>
+      <ol class="steps">
+        <li><div><h3>Carga el depósito</h3><p>Pon tu tónico o aceite ligero de uso cosmético en el depósito.</p></div></li>
+        <li><div><h3>Elige la intensidad</h3><p>Empieza por la más suave y sube si te resulta cómoda.</p></div></li>
+        <li><div><h3>Deslízalo sin presionar</h3><p>Pásalo sobre el cabello seco o apenas húmedo, con movimientos suaves, de la frente hacia la nuca.</p></div></li>
+      </ol>
+      <p class="note">Producto cosmético y de bienestar; no es un dispositivo médico. Si tienes alguna condición en el cuero cabelludo, consulta a tu dermatólogo antes de usarlo.</p>
+    </div>
+  </div>
+</section>
+
+<section class="band" aria-labelledby="box-h" style="padding-top:0">
+  <div class="wrap">
+    <div class="box">
+      <figure id="box-img"></figure>
+      <div>
+        <p class="eyebrow">Qué incluye cada pieza</p>
+        <h2 id="box-h" style="margin-top:10px">Todo listo para usarlo el mismo día</h2>
+        <ul class="inbox">
+          <li><b>01</b>ScalpCare Pro™ en el color que elijas</li>
+          <li><b>01</b>Cable de carga USB</li>
+          <li><b>01</b>Manual impreso</li>
+          <li><b>01</b>Guía digital de uso, enviada por correo</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="envio" aria-labelledby="ship-h" style="padding-top:0">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Envío y pago</p>
+      <h2 id="ship-h">Precios claros, en dólares y en pesos</h2>
+      <p>Cobramos en dólares (USD). El monto en pesos es una referencia con el tipo de cambio de Banxico del <span class="num" id="tc-fecha"></span>: <span class="num" id="tc-label"></span> por dólar. Tu banco o PayPal hace la conversión y puede sumar una comisión.</p>
+    </div>
+    <div class="tbl">
+      <table>
+        <thead><tr><th>Pack</th><th class="r">Precio USD</th><th class="r">Por pieza</th><th class="r">≈ MXN</th><th class="r">Envío</th></tr></thead>
+        <tbody id="price-table"></tbody>
+      </table>
+    </div>
+    <div class="pay">
+      <div><h3>PayPal</h3><p>Paga con tu cuenta PayPal desde México. El checkout muestra la opción al final de la compra.</p></div>
+      <div><h3>Tarjeta</h3><p>Débito o crédito, procesadas por el checkout seguro de Shopify.</p></div>
+      <div><h3>Rastreo</h3><p>Cuando tu pedido sale, te llega el número de seguimiento por correo para que veas dónde va.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="preguntas" aria-labelledby="faq-h" style="padding-top:0">
+  <div class="wrap faq">
+    <div class="band-head">
+      <p class="eyebrow">Preguntas frecuentes</p>
+      <h2 id="faq-h">Lo que más nos preguntan</h2>
+      <p>¿Te queda otra duda? Escríbenos a <b>flubberhomme@gmail.com</b>.</p>
+    </div>
+    <div>
+      <details><summary>¿Qué tónico o aceite puedo poner en el depósito?</summary><p>Tónicos y aceites ligeros de uso cosmético. Evita productos espesos, cremas o mascarillas, porque pueden tapar las salidas.</p></details>
+      <details><summary>¿Lo puedo usar con el cabello mojado?</summary><p>Úsalo con el cabello seco o apenas húmedo. No lo sumerjas en agua ni lo uses en la regadera.</p></details>
+      <details><summary>¿Cómo se carga y cuánto dura?</summary><p>Se carga con el cable USB incluido por el puerto USB-C. La guía digital explica cómo saber cuándo está lleno.</p></details>
+      <details><summary>¿Cuál es la diferencia entre los packs?</summary><p>Es el mismo aparato. El Pack Dúo trae 2 piezas y el Familiar 3, a menor precio por pieza y con envío gratis. Sirven para regalar o para que cada quien tenga el suyo.</p></details>
+      <details><summary>¿En qué moneda me cobran?</summary><p>En dólares (USD). Tu banco o PayPal convierte a pesos al tipo de cambio del día y puede sumar una comisión. En la tabla de arriba ves el monto aproximado.</p></details>
+      <details><summary>¿Cómo sé dónde va mi pedido?</summary><p>Cuando tu pedido sale te enviamos el número de rastreo por correo. El tiempo estimado de entrega se muestra en el checkout antes de pagar.</p></details>
+      <details><summary>¿Puedo devolverlo?</summary><p>Sí. Las condiciones de cambios y devoluciones están en nuestra <a href="https://flubberhomme.com/policies/refund-policy" target="_blank" rel="noopener">política de reembolsos</a>.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="band" style="padding-top:0" aria-labelledby="close-h">
+  <div class="wrap">
+    <div class="closing">
+      <div>
+        <h2 id="close-h">Dos minutos al día para tu cuero cabelludo</h2>
+        <p>Pack Dúo y Familiar con envío gratis a todo México.</p>
+      </div>
+      <div style="display:grid;gap:10px">
+        <a class="btn btn-primary" href="#producto">Elegir mi pack</a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="logo" href="#top">Flubber<span>Homme</span></a>
+      <p style="margin-top:12px;max-width:38ch">Herramientas simples para cuidar tu cuero cabelludo en casa.</p>
+    </div>
+    <div>
+      <h3>Políticas</h3>
+      <ul>
+        <li><a href="https://flubberhomme.com/policies/shipping-policy" target="_blank" rel="noopener">Envíos</a></li>
+        <li><a href="https://flubberhomme.com/policies/refund-policy" target="_blank" rel="noopener">Reembolsos</a></li>
+        <li><a href="https://flubberhomme.com/policies/privacy-policy" target="_blank" rel="noopener">Privacidad</a></li>
+        <li><a href="https://flubberhomme.com/policies/terms-of-service" target="_blank" rel="noopener">Términos</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Contacto</h3>
+      <ul>
+        <li><span id="mail">flubberhomme@gmail.com</span><button type="button" class="copy-mail" id="copy-mail">Copiar</button></li>
+        <li><a href="https://flubberhomme.com/pages/guia-scalpcare-pro" target="_blank" rel="noopener">Guía digital de uso</a></li>
+      </ul>
+    </div>
+    <p class="legal">© <span id="yr">2026</span> FlubberHomme. ScalpCare Pro™ es un producto cosmético y de bienestar; no es un dispositivo médico ni trata enfermedades del cuero cabelludo.</p>
+  </div>
+</footer>
+
+<div class="sticky-buy" id="sticky-buy" aria-hidden="true">
+  <div class="info"><b id="sb-name">1 pieza · Rojo</b><span class="num" id="sb-price">USD 41.93</span></div>
+  <button class="btn btn-primary" type="button" id="sb-add" tabindex="-1">Agregar</button>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="cart-h" aria-hidden="true">
+  <div class="drawer-head"><h2 id="cart-h">Tu carrito</h2><button class="x" type="button" id="close-cart" aria-label="Cerrar carrito">✕</button></div>
+  <div class="lines" id="lines"></div>
+  <div class="drawer-foot" id="foot">
+    <div class="ship-meter" id="cart-meter"></div>
+    <div class="sum">
+      <div><span>Subtotal</span><span class="num" id="c-sub"></span></div>
+      <div><span>Envío</span><span class="num" id="c-ship"></span></div>
+      <div class="tot"><span>Total</span><span class="num" id="c-tot"></span></div>
+      <div class="mxn"><span>Aproximado en pesos</span><span class="num" id="c-mxn"></span></div>
+    </div>
+    <a class="btn btn-primary" id="checkout" href="#" target="_blank" rel="noopener">Pagar de forma segura</a>
+    <p class="fine">Te llevamos al checkout de flubberhomme.com, donde pagas con PayPal o tarjeta. El envío final se confirma ahí según tu dirección.</p>
+  </div>
+</aside>
+
+<script>
+(function(){
+  // Tipo de cambio de referencia: actualizar estas 2 líneas
+  var TC = 18.70, TC_FECHA = '23/10/2026';
+  var STORE = 'https://flubberhomme.com';
+  var FREE_FROM = 70, SHIP = 10;
+  var CDN = 'https://cdn.shopify.com/s/files/1/0760/8418/3094/files/';
+
+  var COLORS = {
+    rojo:  {name:'Rojo',  hex:'#d9412f', img:'65d6f069-cb70-4b98-96a9-b064502187b1.jpg', box:'3761346d-bafc-4ac5-bd6c-b82c95bb5f9f.jpg'},
+    verde: {name:'Verde', hex:'#1d7a63', img:'scalpcare-pro-verde.jpg', box:'88119058-9f93-43bf-9d3b-70e3cd92df63.jpg'}
+  };
+  var PACKS = [
+    {key:'1', name:'1 pieza', units:1, price:41.93, ids:{verde:'47249932943414', rojo:'47249932976182'}},
+    {key:'2', name:'Pack Dúo', units:2, price:71.88, ids:{verde:'47598891925558', rojo:'47598891991094'}, flag:'Más elegido'},
+    {key:'3', name:'Pack Familiar', units:3, price:89.85, ids:{verde:'47598891958326', rojo:'47598892023862'}, flag:'Mejor precio'}
+  ];
+  var GALLERY = [
+    {src:COLORS.rojo.img, alt:'ScalpCare Pro rojo: masajeador capilar eléctrico con depósito', tag:'Rojo', draw:'rojo'},
+    {src:COLORS.verde.img, alt:'ScalpCare Pro verde: masajeador capilar eléctrico', tag:'Verde', draw:'verde'},
+    {src:'scalpcare-pro-en-uso.jpg', alt:'Persona usando ScalpCare Pro sobre el cabello', tag:'En uso', draw:'verde'},
+    {src:'scalpcare-pro-detalles.jpg', alt:'Detalles: puntas con esfera, depósito para tónico y carga USB-C', tag:'Detalles', draw:'rojo'},
+    {src:COLORS.rojo.box, alt:'Qué incluye: ScalpCare Pro rojo, cable USB y manual', tag:'Incluye', draw:'rojo'},
+    {src:COLORS.verde.box, alt:'Qué incluye: ScalpCare Pro verde, cable USB y manual', tag:'Incluye', draw:'verde'}
+  ];
+
+  var $ = function(id){return document.getElementById(id)};
+  var usd = function(n){return 'USD ' + n.toFixed(2)};
+  var mxn = function(n){return '$' + Math.round(n * TC).toLocaleString('es-MX') + ' MXN'};
+  var ship = function(sub){return sub === 0 || sub >= FREE_FROM ? 0 : SHIP};
+
+  // Dibujo del aparato: se muestra si la foto no carga
+  function drawing(color){
+    var c = COLORS[color].hex;
+    return '<svg viewBox="0 0 400 400" role="img" aria-label="Ilustración de ScalpCare Pro ' + COLORS[color].name + '">' +
+      '<rect width="400" height="400" fill="' + c + '" opacity=".12"/>' +
+      '<circle cx="200" cy="200" r="150" fill="' + c + '" opacity=".12"/>' +
+      '<g transform="rotate(-18 200 210)">' +
+      '<rect x="168" y="190" width="64" height="170" rx="30" fill="' + c + '"/>' +
+      '<rect x="186" y="230" width="28" height="44" rx="12" fill="#fff" opacity=".85"/>' +
+      '<circle cx="200" cy="244" r="5" fill="' + c + '"/><circle cx="200" cy="260" r="3" fill="' + c + '" opacity=".6"/>' +
+      '<rect x="190" y="340" width="20" height="8" rx="3" fill="#0f2230" opacity=".5"/>' +
+      '<rect x="120" y="120" width="160" height="80" rx="38" fill="' + c + '"/>' +
+      '<rect x="150" y="135" width="100" height="22" rx="11" fill="#fff" opacity=".45"/>' +
+      (function(){var s='';for(var i=0;i<6;i++){var x=136+i*25.6;s+='<rect x="'+(x-3)+'" y="70" width="6" height="56" rx="3" fill="#0f2230" opacity=".75"/><circle cx="'+x+'" cy="68" r="8" fill="#fff" stroke="#0f2230" stroke-opacity=".35" stroke-width="2"/>'}return s})() +
+      '</g></svg>';
+  }
+  function img(src, alt, color, cls){
+    var w = document.createElement('div');
+    w.innerHTML = '<img src="' + CDN + src + '?width=1000" alt="' + alt + '" loading="lazy" decoding="async"' + (cls ? ' class="' + cls + '"' : '') + '>';
+    var el = w.firstChild;
+    el.addEventListener('error', function(){ el.outerHTML = drawing(color); });
+    return el;
+  }
+
+  var state = {color:'rojo', pack:'1'};
+  var cart = [];
+  try { cart = JSON.parse(localStorage.getItem('fh-cart') || '[]') || []; } catch(e){ cart = []; }
+  function save(){ try { localStorage.setItem('fh-cart', JSON.stringify(cart)); } catch(e){} }
+  var packOf = function(k){ return PACKS.filter(function(p){return p.key === k})[0] };
+
+  // Galería
+  var gi = 0;
+  function showStage(i){
+    gi = i; var g = GALLERY[i]; var stage = $('stage');
+    Array.prototype.slice.call(stage.querySelectorAll('img,svg')).forEach(function(n){n.remove()});
+    stage.insertBefore(img(g.src, g.alt, g.draw), stage.firstChild);
+    $('stage-tag').textContent = g.tag;
+    Array.prototype.forEach.call($('thumbs').children, function(b, j){ b.setAttribute('aria-current', j === i ? 'true' : 'false') });
+  }
+  GALLERY.forEach(function(g, i){
+    var b = document.createElement('button'); b.type = 'button'; b.setAttribute('role','listitem');
+    b.setAttribute('aria-label', 'Ver foto: ' + g.tag);
+    b.appendChild(img(g.src, '', g.draw));
+    b.addEventListener('click', function(){ showStage(i) });
+    $('thumbs').appendChild(b);
+  });
+
+  // Opciones
+  function renderOptions(){
+    var sw = $('swatches'); sw.innerHTML = '';
+    Object.keys(COLORS).forEach(function(k){
+      var c = COLORS[k], b = document.createElement('button');
+      b.type = 'button'; b.className = 'swatch'; b.setAttribute('role','radio');
+      b.setAttribute('aria-checked', state.color === k ? 'true' : 'false');
+      b.innerHTML = '<i style="background:' + c.hex + '"></i>' + c.name;
+      b.addEventListener('click', function(){ state.color = k; showStage(k === 'rojo' ? 0 : 1); update(); });
+      sw.appendChild(b);
+    });
+    var pk = $('packs'); pk.innerHTML = '';
+    PACKS.forEach(function(p){
+      var full = 41.93 * p.units, save = full - p.price;
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'pack'; b.setAttribute('role','radio');
+      b.setAttribute('aria-checked', state.pack === p.key ? 'true' : 'false');
+      b.innerHTML = (p.flag ? '<span class="flag">' + p.flag + '</span>' : '') +
+        '<span class="dot" aria-hidden="true"></span>' +
+        '<span><b>' + p.name + (p.units > 1 ? ' · ' + p.units + ' piezas' : '') + '</b>' +
+        '<span class="sub">' + (p.units > 1 ? usd(p.price / p.units) + ' c/u · <span class="free">envío gratis</span>' : '+ envío USD ' + SHIP) + '</span></span>' +
+        '<span class="amt num">' + usd(p.price) + (save > 0 ? '<s>' + usd(full) + '</s>' : '') + '</span>';
+      b.addEventListener('click', function(){ state.pack = p.key; update(); });
+      pk.appendChild(b);
+    });
+  }
+
+  function meter(el, sub){
+    if (sub >= FREE_FROM) { el.innerHTML = '<span class="free">Tu envío es gratis.</span><div class="bar"><i style="width:100%"></i></div>'; return; }
+    var left = FREE_FROM - sub;
+    el.innerHTML = '<span>' + (sub === 0 ? 'Envío gratis desde <b>USD ' + FREE_FROM + '</b>.' : 'Te faltan <b class="num">' + usd(left) + '</b> para el envío gratis.') + '</span>' +
+      '<div class="bar"><i style="width:' + Math.min(100, sub / FREE_FROM * 100) + '%"></i></div>';
+  }
+  var cartSub = function(){ return cart.reduce(function(s, l){ return s + packOf(l.pack).price * l.qty }, 0) };
+  var permalink = function(lines){ return STORE + '/cart/' + lines.map(function(l){ return packOf(l.pack).ids[l.color] + ':' + l.qty }).join(',') };
+
+  function update(){
+    renderOptions();
+    var p = packOf(state.pack), c = COLORS[state.color];
+    $('color-name').textContent = c.name;
+    $('price').textContent = usd(p.price);
+    $('unit-note').textContent = p.units > 1 ? usd(p.price / p.units) + ' por pieza · envío gratis' : 'por pieza + envío USD ' + SHIP;
+    $('price-mxn').textContent = '≈ ' + mxn(p.price) + ' · tipo de cambio ' + TC.toFixed(2);
+    $('add-price').textContent = usd(p.price);
+    $('buy-now').href = permalink([{pack:p.key, color:state.color, qty:1}]);
+    $('sb-name').textContent = p.name + ' · ' + c.name;
+    $('sb-price').textContent = usd(p.price) + (p.units > 1 ? ' · envío gratis' : '');
+    meter($('ship-meter'), cartSub() + p.price);
+  }
+
+  // Carrito
+  function renderCart(){
+    var n = cart.reduce(function(s, l){ return s + l.qty }, 0);
+    $('cart-count').textContent = n;
+    var lines = $('lines'); lines.innerHTML = '';
+    if (!cart.length) {
+      lines.innerHTML = '<div class="empty"><p>Tu carrito está vacío.</p><button class="btn btn-ghost" type="button" id="empty-go">Elegir mi pack</button></div>';
+      $('empty-go').addEventListener('click', closeCart);
+      $('foot').hidden = true; return;
+    }
+    $('foot').hidden = false;
+    cart.forEach(function(l, i){
+      var p = packOf(l.pack), c = COLORS[l.color];
+      var row = document.createElement('div'); row.className = 'line';
+      var ph = document.createElement('div'); ph.className = 'ph'; ph.appendChild(img(c.img, '', l.color));
+      var mid = document.createElement('div');
+      mid.innerHTML = '<b>ScalpCare Pro™ · ' + p.name + '</b><span class="meta">' + c.name + ' · ' + p.units + (p.units > 1 ? ' piezas' : ' pieza') + '</span><div>' +
+        '<span class="qty"><button type="button" aria-label="Quitar uno">−</button><span>' + l.qty + '</span><button type="button" aria-label="Agregar uno">+</button></span>' +
+        '<button type="button" class="rm">Eliminar</button></div>';
+      var q = mid.querySelectorAll('button');
+      q[0].addEventListener('click', function(){ l.qty--; if (l.qty < 1) cart.splice(i, 1); commit(); });
+      q[1].addEventListener('click', function(){ l.qty++; commit(); });
+      q[2].addEventListener('click', function(){ cart.splice(i, 1); commit(); });
+      var lp = document.createElement('span'); lp.className = 'lp num'; lp.textContent = usd(p.price * l.qty);
+      row.appendChild(ph); row.appendChild(mid); row.appendChild(lp); lines.appendChild(row);
+    });
+    var sub = cartSub(), s = ship(sub);
+    $('c-sub').textContent = usd(sub);
+    $('c-ship').innerHTML = s ? usd(s) : '<span class="free">Gratis</span>';
+    $('c-tot').textContent = usd(sub + s);
+    $('c-mxn').textContent = '≈ ' + mxn(sub + s);
+    meter($('cart-meter'), sub);
+    $('checkout').href = permalink(cart);
+  }
+  function commit(){ save(); renderCart(); update(); }
+  function add(){
+    var hit = cart.filter(function(l){ return l.pack === state.pack && l.color === state.color })[0];
+    if (hit) hit.qty++; else cart.push({pack:state.pack, color:state.color, qty:1});
+    commit();
+    var b = $('add'), old = b.innerHTML;
+    b.classList.add('done'); b.textContent = '¡Agregado!';
+    setTimeout(function(){ b.classList.remove('done'); b.innerHTML = old; update(); }, 1100);
+    setTimeout(openCart, 350);
+  }
+  var lastFocus = null;
+  function openCart(){
+    lastFocus = document.activeElement;
+    $('drawer').classList.add('open'); $('scrim').classList.add('open');
+    $('drawer').setAttribute('aria-hidden','false'); $('close-cart').focus();
+  }
+  function closeCart(){
+    $('drawer').classList.remove('open'); $('scrim').classList.remove('open');
+    $('drawer').setAttribute('aria-hidden','true');
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+  $('add').addEventListener('click', add);
+  $('sb-add').addEventListener('click', add);
+  $('open-cart').addEventListener('click', openCart);
+  $('close-cart').addEventListener('click', closeCart);
+  $('scrim').addEventListener('click', closeCart);
+  document.addEventListener('keydown', function(e){ if (e.key === 'Escape') closeCart(); });
+
+  // Barra fija: aparece cuando la caja de compra sale de pantalla
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function(es){
+      var show = !es[0].isIntersecting && es[0].boundingClientRect.top < 0;
+      $('sticky-buy').classList.toggle('show', show);
+      $('sticky-buy').setAttribute('aria-hidden', show ? 'false' : 'true');
+      $('sb-add').tabIndex = show ? 0 : -1;
+    }).observe($('add'));
+  }
+
+  // Tabla de precios
+  $('tc-fecha').textContent = TC_FECHA;
+  $('tc-label').textContent = '$' + TC.toFixed(2);
+  $('price-table').innerHTML = PACKS.map(function(p){
+    var s = ship(p.price);
+    return '<tr><td><b>' + p.name + '</b> · ' + p.units + (p.units > 1 ? ' piezas' : ' pieza') + '</td><td class="r">' + usd(p.price) + '</td><td class="r">' + usd(p.price / p.units) + '</td><td class="r">≈ ' + mxn(p.price) + '</td><td class="r">' + (s ? '+ ' + usd(s) + ' (≈ ' + mxn(s) + ')' : '<span class="free">Gratis</span>') + '</td></tr>';
+  }).join('');
+
+  $('how-img').appendChild(img('scalpcare-pro-en-uso.jpg', 'Persona usando ScalpCare Pro sobre el cabello', 'verde'));
+  $('box-img').appendChild(img(COLORS.verde.box, 'Qué incluye: ScalpCare Pro, cable USB y manual', 'verde'));
+  $('yr').textContent = new Date().getFullYear();
+  $('copy-mail').addEventListener('click', function(){
+    var b = this, t = $('mail').textContent;
+    var ok = function(){ b.textContent = 'Copiado'; setTimeout(function(){ b.textContent = 'Copiar' }, 1500) };
+    var sel = function(){ var r = document.createRange(); r.selectNodeContents($('mail')); var s = getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent = 'Seleccionado'; };
+    try { navigator.clipboard.writeText(t).then(ok, sel); } catch(e){ sel(); }
+  });
+
+  showStage(0); update(); renderCart();
+})();
+</script>
+</body>
+</html>
