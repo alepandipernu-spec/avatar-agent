@@ -93,6 +93,13 @@
       "change": "Límite de gasto y costos estimados de la arena cargados en config.",
       "approved_by": "dueño (delegó en la arena)",
       "revert": "git"
+    },
+    {
+      "date": "2026-10-26",
+      "system": "Shopify",
+      "change": "Detectado por el monitor: 'Envío Gratis Prioritario' desactivado; nuevos métodos 'Envío estándar con seguimiento' USD 10 (hasta USD 69,99) y 'Envío gratis con seguimiento (desde USD 70)' en AR/CO/MX y EE. UU. Variantes renombradas a Verde/Rojo.",
+      "approved_by": "dueño (lo hizo en Shopify)",
+      "revert": "reactivar el método en Shopify"
     }
   ]
 }
