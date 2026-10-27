@@ -15,9 +15,9 @@
     "value": 189.8138,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 29,
+    "occurrences": 30,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -56,9 +56,9 @@
     "value": 137.2880593607306,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 29,
+    "occurrences": 30,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -76,9 +76,9 @@
     "value": 8,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 29,
+    "occurrences": 30,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -201,9 +201,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 29,
+    "occurrences": 30,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -221,9 +221,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 29,
+    "occurrences": 30,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -262,9 +262,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 28,
+    "occurrences": 29,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -292,7 +292,7 @@
     "category": "anomalia",
     "priority": "P1",
     "title": "Posible cobro en pesos del monto en dólares con Mercado Pago",
-    "evidence": "Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial.",
+    "evidence": "Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial. 27/10: la ficha nueva agrega una pregunta frecuente ('Los precios están en dólares; tu medio de pago hace la conversión…'). Avisa al cliente, pero no prueba qué cobra Mercado Pago.",
     "diagnosis": "PROBABLE causa de 6 checkouts y 0 compras, o de ventas a pérdida. No verificado.",
     "confidence": "baja",
     "impact": "Bloquea o arruina las ventas en Argentina.",
@@ -303,16 +303,16 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 28,
+    "occurrences": 29,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
     "category": "debilidad",
     "priority": "P1",
     "title": "La política de devoluciones no cumple la Ley 24.240",
-    "evidence": "Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025).",
+    "evidence": "Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025). 27/10: la ficha nueva de ScalpCare repite 'avisanos dentro de las 72 h' para fallas y no menciona los 10 días de arrepentimiento ni los 6 meses de garantía; la política publicada sigue siendo la del 31/08.",
     "diagnosis": "Riesgo legal y de confianza; los competidores ofrecen 6–12 meses.",
     "confidence": "alta",
     "impact": "Multas, reclamos y menor conversión.",
@@ -323,9 +323,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 28,
+    "occurrences": 29,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -343,8 +343,8 @@
     "value": 26.293350923482848,
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
-    "occurrences": 3,
+    "occurrences": 4,
     "status": "abierta",
-    "last_seen": "2026-10-26T23:46-03:00"
+    "last_seen": "2026-10-27T07:46-03:00"
   }
 }
