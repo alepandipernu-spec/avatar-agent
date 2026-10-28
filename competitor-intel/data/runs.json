@@ -1477,5 +1477,42 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-28T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch: TYMO DTC, Ulta, Target, Macy's, BBB, Anyra, Gadnic, Amazon MX (listado), ISYRA MX/CL, búsquedas de reseñas y tiendas AR/MX/CO"
+    ],
+    "fuentes_fallidas": [
+      "Página propia publicada: la copia de Exa sigue siendo la versión vieja (título 'Cepillo Exfoliante')",
+      "Reseñas de Mercado Libre: no se buscaron en profundidad; las copias no las muestran",
+      "Copias de Exa sin fecha"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "mx-tiendas",
+      "co-dtc-tiendas",
+      "amazon-generics-us"
+    ],
+    "competidores_nuevos": [
+      "isyra-mx-cl"
+    ],
+    "novedades": [
+      "Competidor nuevo MX: ISYRA, MXN 949–999, kits con aceites, '50+ comprados el mes pasado' en Amazon MX",
+      "TYMO: perfil BBB de la empresa con F (41 quejas, 27 sin respuesta)",
+      "Sin cambios de precio en TYMO, Anyra, Gadnic",
+      "Ficha propia: updatedAt 28/10 09:44 UTC, igual que el run anterior"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-006-kit-liquido-compatible",
+      "OPP-016-respuestas-honestas-y-comparacion-justa"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

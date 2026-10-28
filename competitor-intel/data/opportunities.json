@@ -321,6 +321,12 @@
         "run_id": "2026-10-20T19-54",
         "change": "Más evidencia: Alverela (CO) vende un combo aparato + aceite de argán a COP 117.700. Es el segundo kit relevado (después de Lena en AR). Sin cambio de score: falta evaluar proveedor y logística.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "+1 señal: ISYRA (MX) vende el aparato en kits con 2 o 4 aceites y muestra '50+ comprados el mes pasado' en Amazon MX. Sin cambio de puntaje: el costo y el riesgo regulatorio de un líquido propio siguen altos.",
+        "source": "https://isyra.com.mx/products/isyra%E2%84%A2-tratamiento-de-estimulacion-capilar-copia"
       }
     ]
   },
@@ -847,6 +853,12 @@
         "run_id": "2026-10-26T19-55",
         "change": "Más evidencia: NBC (26/10/2026) y DESIblitz (26/10/2026) tratan los aparatos como bienestar y no tratamiento, y valoran el ahorro de enchastre. La ficha nueva ya cierra con 'no es un dispositivo médico'. Sin cambio de score.",
         "source": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814 ; https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "+1 evidencia: el perfil BBB de TYMO (F por quejas sin responder) muestra que la atención es un punto débil de marcas grandes. Refuerza publicar quién responde y en cuánto tiempo. Sin cambio de puntaje.",
+        "source": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217"
       }
     ]
   },

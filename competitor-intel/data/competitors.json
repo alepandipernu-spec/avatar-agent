@@ -175,6 +175,12 @@
         "run_id": "2026-10-28T11-58",
         "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), 3 cuotas. Sin cambios. cybermonday.com.ar sigue con 0 productos de Gadnic (evento desde 2/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), sin cambios.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -694,6 +700,12 @@
         "date": "2026-10-28",
         "run_id": "2026-10-28T11-58",
         "change": "Chequeo rápido: USD 50,95 (tachado 158,95), 'Rated 4.9 | 12,319 Customers', aviso de agotado 3 veces y bloque '4.5M views' (dato propio). Sin cambios ni Black Friday visible.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Chequeo rápido: USD 50,95 (tachado 158,95), sin cambios; sin reseñas externas nuevas.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -1964,7 +1976,8 @@
       "[HECHO 22/10/2026] OC Market sigue en MXN 1.038 y 'Agotado'. Amazon MX JIODTMER (2,0★, 2 calificaciones): 'no disponible'. Joinet suma otro modelo (MR-902, vibración + luz + 'nano pulverización', sin depósito) a MXN 87 mayorista con 'cantidad vendida: 33'.",
       "[HECHO 22/10/2026] Introstem (introstem.com.mx): 'SCALPTECH', cepillo con vibración, luz roja de 625 nm y tanque de aceite de 6 ml, a MXN 890. Se vende como apto para la ducha y con claims de fortalecimiento y crecimiento. La copia de Exa no muestra stock, envío ni garantía.",
       "[HECHO 2026-10-24] Znice (znice.mx): cepillo eléctrico con luz y difusor de aceites a MXN 565 (precio original 1.610, −65%), pago contra entrega, envío gratis en 3–5 días hábiles, 4 valoraciones 5★. Promete cabello más grueso en 30 días (claim fuerte). La sección de envíos habla de Colombia. Fuente: https://znice.mx/producto/cepillo-electrico-terapia-de-luz/",
-      "[HECHO 2026-10-24] Amazon MX (búsqueda 'masajeador capilar eléctrico'): eléctricos con aplicador entre MXN 247 y 685, casi todos con 1–19 calificaciones. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
+      "[HECHO 2026-10-24] Amazon MX (búsqueda 'masajeador capilar eléctrico'): eléctricos con aplicador entre MXN 247 y 685, casi todos con 1–19 calificaciones. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
+      "[HECHO 2026-10-28] Amazon MX: 'Cepillo Vibratorio Capilar, Depósito de 6 ml' a MXN 890 con entrega gratis; un 3 en 1 con depósito para sérum a MXN 599 (1★, 1 calificación); peine LED con depósito de 8 ml a MXN 499. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
     ],
     "inferences": [
       "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir.",
@@ -1976,7 +1989,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-17",
@@ -2049,6 +2062,12 @@
         "run_id": "2026-10-27T19-55",
         "change": "Búsqueda de tiendas nuevas en MX: solo aparecieron Joinet (MXN 345, 'cantidad vendida: 17', igual), OC Market, Znice y ML MX ya registrados.",
         "source": "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Búsqueda de competidores nuevos: aparece ISYRA (alta aparte) y listados de Amazon MX de MXN 499–890.",
+        "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
       }
     ],
     "id": "mx-tiendas",
@@ -2499,7 +2518,9 @@
       "20/10/2026: la ficha DTC de TriThera muestra solo 4 reseñas (una por falla: dejó de encender). En la búsqueda de la tienda TYMO en TikTok Shop US (1,9 M vendidos en total) no aparece TriThera. La copia de Ulta lo presenta como apto para la ducha (IPX7) y con promesas sobre caída.",
       "[HECHO 21/10/2026] DTC: venta de Halloween con cuenta regresiva al 26/10/2026, código TREAT del 20%, cuotas de 4 × USD 24,99, garantía de 1 año por defectos, devolución 30 días con envío a cargo del cliente, 4 reseñas (4,5★).",
       "[HECHO 2026-10-26] DTC: USD 99,99 (tachado 129,99), entrega estimada 30/10 a 01/11 según estado; siguen 4 reseñas (4,5★). La venta de Halloween terminaba hoy.",
-      "[HECHO 27/10/2026] Ulta muestra el TriThera (variante sku 77001264) a USD 64,99 con la etiqueta 'Early Black Friday Deal' (lista 99,99), en stock y despachado por TYMO. En los runs anteriores figuraba a USD 42,99. La misma ficha de Ulta dice IPX7 y uso en la ducha. Fuente: https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      "[HECHO 27/10/2026] Ulta muestra el TriThera (variante sku 77001264) a USD 64,99 con la etiqueta 'Early Black Friday Deal' (lista 99,99), en stock y despachado por TYMO. En los runs anteriores figuraba a USD 42,99. La misma ficha de Ulta dice IPX7 y uso en la ducha. Fuente: https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
+      "[HECHO 2026-10-28] BBB (perfil de la empresa TYMO Beauty, Sacramento): calificación F, 41 quejas, 27 sin respuesta; no acreditada. Es a nivel empresa (sobre todo herramientas de peinado), no específico del TriThera. Fuente: https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217",
+      "[HECHO 2026-10-28] Target: una ficha del TriThera con 4★ y 8 reseñas y otra sin reseñas; Macy's a USD 99,99 sin reseñas. Fuentes: https://www.target.com/p/tymo-trithera-scalp-therapy-red-light-massage-brush-hair-appliance-accessories-champagne-pink/-/A-94433316 ; https://www.macys.com/shop/product/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?ID=28540104"
     ],
     "inferences": [
       "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -2664,6 +2685,12 @@
         "run_id": "2026-10-28T11-58",
         "change": "Chequeo rápido (franja anuncios): DTC USD 99,99 (tachado 129,99), entrega estimada 31/10–1/11; 4 reseñas DTC. Sin cambios ni Black Friday propio visible.",
         "source": "https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Reseñas/confianza: DTC sigue con 4 reseñas y USD 99,99 (entrega estimada ahora 1–2/11); Ulta USD 64,99 sin cambios. Nuevo: perfil BBB de la empresa con F (41 quejas, 27 sin responder).",
+        "source": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217"
       }
     ]
   },
@@ -3096,6 +3123,57 @@
         "run_id": "2026-10-26T19-55",
         "change": "Alta (inspiracional, relevancia baja; fuera de los 4 mercados).",
         "source": "https://cecotec.es/es/cepillos-reparadores/haircare-revitalize-totalcare"
+      }
+    ]
+  },
+  "isyra-mx-cl": {
+    "id": "isyra-mx-cl",
+    "name": "ISYRA (Renacer Capilar)",
+    "domain": "isyra.com.mx ; isyra.cl",
+    "market": "MX (también CL)",
+    "category": "A_directo",
+    "product_focus": "Cepillo eléctrico con luz roja y microcorriente (EMS), vendido solo o en kits con aceites",
+    "relevant_products": [
+      "ISYRA Renacer Capilar (Solo Dispositivo / Kit Inicio / Kit Renacer)",
+      "ISYRA PRO + 2 o + 4 aceites"
+    ],
+    "price_visible": "MXN 949 (isyra.com.mx, URL 'renacer-capilar-ab-test') y MXN 999 en otra ficha y en Amazon MX; CLP 49.990–89.990 en isyra.cl (copias de Exa sin fecha, consultadas 28/10/2026).",
+    "value_prop": "Dispositivo + kits con aceites; promesa de resultados desde el primer uso.",
+    "claims_observed": "Claims médicos fuertes (folículos, crecimiento, 'si no actuás, la caída continúa'): no replicables.",
+    "channels": [
+      "Tienda propia MX y CL (Shopify)",
+      "Amazon MX"
+    ],
+    "ads": "No obtenido (sin acceso a la Biblioteca de anuncios).",
+    "facts": [
+      "[HECHO 2026-10-28] Amazon MX (búsqueda 'masajeador capilar eléctrico'): ISYRA Renacer Capilar a MXN 999, 3,8★ con 8 calificaciones e indicador '50+ comprados el mes pasado'; entrega con costo, 5–12/11. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
+      "[HECHO 2026-10-28] Tienda MX con selector 'Solo Dispositivo / Kit Inicio / Kit Renacer' a MXN 949 y otra ficha con variantes 'PRO + 2 Aceites' y '+ 4 Aceites' a MXN 999. Fuentes: https://isyra.com.mx/products/renacer-capilar-ab-test ; https://isyra.com.mx/products/isyra%E2%84%A2-tratamiento-de-estimulacion-capilar-copia",
+      "[HECHO 2026-10-28] También opera en Chile (isyra.cl, CLP 49.990 y 89.990). Fuente: https://www.isyra.cl/products/isyra"
+    ],
+    "inferences": [
+      "[ESTIMACIÓN] MXN 999 ≈ USD 53–54 (FIX ≈18,6 del 23/10; ±3%): por encima de la unidad de Flubberhome (USD 41,93 + 10 de envío ≈ 51,93), casi a la par.",
+      "[HIPÓTESIS] El nombre de URL 'ab-test' sugiere que prueba ofertas/kits; la venta en kit con aceites es la misma idea de OPP-006."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Si el aparato tiene depósito para líquido (la copia no lo dice)",
+      "Garantía, plazos, anuncios activos, ventas reales"
+    ],
+    "sources": [
+      "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
+      "https://isyra.com.mx/",
+      "https://isyra.com.mx/products/renacer-capilar-ab-test",
+      "https://www.isyra.cl/products/isyra"
+    ],
+    "last_reviewed": "2026-10-28",
+    "relevance": "media",
+    "follow_reason": "Primer eléctrico en Amazon MX con indicador mensual visible ('50+ el mes pasado') en el rango de precio de Flubberhome; vende en kit con aceites.",
+    "history": [
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Alta (competidor nuevo, MX).",
+        "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
       }
     ]
   }

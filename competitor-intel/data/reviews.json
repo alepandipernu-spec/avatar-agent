@@ -194,9 +194,9 @@
     },
     {
       "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
-      "n_fuentes": 2,
-      "n_competidores": 2,
-      "clasificacion": "incipiente (2 fuentes de 2 productos)",
+      "n_fuentes": 3,
+      "n_competidores": 3,
+      "clasificacion": "incipiente (3 fuentes de 3 marcas; una es a nivel empresa)",
       "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
       "fecha": "2026-10-19",
       "run_id": "2026-10-19T19-54",
@@ -212,6 +212,12 @@
           "run_id": "2026-10-21T19-55",
           "change": "Contraejemplo: en Trustpilot varias opiniones de Glokore elogian la atención rápida, aunque otras se quejan de la garantía. Sin cambio de conteo.",
           "source": "https://www.trustpilot.com/review/glokore.com"
+        },
+        {
+          "date": "2026-10-28",
+          "run_id": "2026-10-28T19-54",
+          "change": "+1 fuente: BBB de TYMO (F, 27 de 41 quejas sin respuesta). Nivel empresa, no producto. Pasa a 3 fuentes de 3 marcas.",
+          "source": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217"
         }
       ]
     },
@@ -830,6 +836,16 @@
       "fecha_consulta": "2026-10-26",
       "run_id": "2026-10-26T19-55",
       "tipo": "editorial (no es reseña de compra)"
+    },
+    {
+      "fuente": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217",
+      "producto": "TYMO Beauty (empresa; quejas sobre todo de herramientas de peinado)",
+      "problema": "atención al cliente sin respuesta / confianza en la marca",
+      "fecha": "sin fecha visible (período de 3 años de BBB)",
+      "parafrasis": "El perfil de BBB le da F a la empresa por no responder 27 de 41 quejas; las reseñas visibles hablan de pedidos y atención frustrantes.",
+      "fecha_consulta": "2026-10-28",
+      "run_id": "2026-10-28T19-54",
+      "tipo": "perfil de reclamos (no es reseña del TriThera)"
     }
   ]
 }

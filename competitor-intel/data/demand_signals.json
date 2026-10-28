@@ -745,5 +745,25 @@
     "tipo": "HECHO (cobertura editorial)",
     "indica": "La categoría tiene atención de medios en plena temporada de regalos, y el discurso de crecimiento empieza a recibir críticas.",
     "no_indica": "Ventas, ni que el público de LatAm lea estas notas, ni que el escepticismo baje la demanda."
+  },
+  "amazon-mx-isyra-comprados-mes": {
+    "id": "amazon-mx-isyra-comprados-mes",
+    "fecha": "2026-10-28",
+    "run_id": "2026-10-28T19-54",
+    "senal": "Indicador de Amazon MX 'comprados el mes pasado' en un eléctrico de la categoría",
+    "valor": "ISYRA Renacer Capilar (MXN 999): '50+ comprados el mes pasado', 3,8★ (8 calificaciones). El resto de los eléctricos con aplicador del listado no muestra indicador mensual.",
+    "fuente": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
+    "alcance": "MX",
+    "tipo": "HECHO: indicador de la plataforma (redondeado, sin fecha en la copia de Exa)",
+    "indica": "Que en MX hay demanda mensual visible a ~USD 53 para un eléctrico vendido con promesas fuertes y kits con aceite.",
+    "no_indica": "Ventas exactas, rentabilidad, ni que el comprador acepte el mismo precio sin claims médicos.",
+    "history": [
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T19-54",
+        "change": "Alta",
+        "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
+      }
+    ]
   }
 }
