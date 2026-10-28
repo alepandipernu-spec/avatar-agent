@@ -1446,5 +1446,36 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-28T11-58",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch: TYMO DTC, Anyra, Gadnic, Breo BF, TikTok Shop US (2 búsquedas), cybermonday.com.ar, Mercado Libre AR (listados)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch pidió permiso de URL y nadie respondió; sin navegador conectado (12.º día sin anuncios verificados)",
+      "TikTok Creative Center: 'No search results found' en la copia",
+      "Copias de Exa sin fecha (contadores pueden estar en caché)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "breo-us",
+      "inia-us",
+      "kitsch-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio ni oferta en los directos",
+      "Breo BF landing: 5.ª vista sin cambios",
+      "Ficha propia: updatedAt 28/10 09:44 UTC (06:44 BA); descripción igual a la versión corta del 27/10"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

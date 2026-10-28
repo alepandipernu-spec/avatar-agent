@@ -169,6 +169,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "Chequeo de catálogo: ARS 97.299 (tachado 149.691, 35% OFF; sin impuestos nacionales 80.412), 3 cuotas sin interés. Sin cambios. La página de Gadnic en cybermonday.com.ar muestra 0 productos en oferta (el evento arranca el 2/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T11-58",
+        "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), 3 cuotas. Sin cambios. cybermonday.com.ar sigue con 0 productos de Gadnic (evento desde 2/11).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -683,6 +689,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "Chequeo de catálogo: USD 50,95 (tachado 158,95, \"SAVE 68%\"), \"Rated 4.9 | 12,319 Customers\" y aviso de \"agotado 3 veces\"; sin Black Friday visible. Sin cambios.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T11-58",
+        "change": "Chequeo rápido: USD 50,95 (tachado 158,95), 'Rated 4.9 | 12,319 Customers', aviso de agotado 3 veces y bloque '4.5M views' (dato propio). Sin cambios ni Black Friday visible.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -1141,6 +1153,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "Chequeo de catálogo: S3 a USD 159,99 precio regular en la tienda oficial, envío gratis y 30 días de devolución; sin precio de Black Friday en la ficha.",
         "source": "https://us.breo.com/products/scalp3-trilogy-massager"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T11-58",
+        "change": "Landing de Black Friday vista por 5.ª vez sin cambios (hasta USD 150, 2×S3 USD 309,99, S3 USD 159,99, garantía de precio 30 días).",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
   },
@@ -2640,6 +2658,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "Chequeo de catálogo: Ulta sigue en USD 64,99 con \"Early Black Friday Deal\" (lista 99,99); DTC USD 99,99 (tachado 129,99), entrega estimada 31/10–1/11; 4 reseñas DTC, sin cambios. Aparece un dominio parecido (tymbauty.com) que se presenta como \"Tymo Beauty Official Shop\" con el mismo precio; ver dtc-clones-us.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T11-58",
+        "change": "Chequeo rápido (franja anuncios): DTC USD 99,99 (tachado 129,99), entrega estimada 31/10–1/11; 4 reseñas DTC. Sin cambios ni Black Friday propio visible.",
+        "source": "https://tymobeauty.com/products/tymo-trithera"
       }
     ]
   },

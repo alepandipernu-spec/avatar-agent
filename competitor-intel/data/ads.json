@@ -336,8 +336,8 @@
       "Pack de 2 con ahorro por unidad bajo (≈3%) frente a la unidad"
     ],
     "primera_vez_visto": "2026-10-24",
-    "ultima_vez_visto": "2026-10-27",
-    "repeticiones": 4,
+    "ultima_vez_visto": "2026-10-28",
+    "repeticiones": 5,
     "history": [
       {
         "date": "2026-10-25",
@@ -355,6 +355,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T11-57",
         "change": "Vista por 4.ª vez, sin cambios: hasta USD 150, pack 2×S3 USD 309,99, S3 USD 159,99, garantía de precio 30 días.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T11-58",
+        "change": "Vista por 5.ª vez, sin cambios.",
         "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
