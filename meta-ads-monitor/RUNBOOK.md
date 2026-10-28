@@ -19,13 +19,14 @@ Lo sigue la tarea programada cada 8 horas (07:46, 15:46 y 23:46, hora de Buenos 
 
 ## 2. Recolectar (cada fuente es independiente: si una falla, seguí con las otras)
 
-**Escalafy** (es la fuente de Meta Ads; `tool_list_version: 9`):
+**Escalafy** (es la fuente de Meta Ads; `tool_list_version: 9` en las herramientas de reportes, `13` en las nuevas):
 - `list_organizations` → confirmar org `flubberhome`, `advanced_features: true`, scopes.
 - `list_ad_objects platform=meta` → estado de campañas, conjuntos y anuncios, presupuestos.
 - `get_ads_report platform=meta level=ad currency=USD` con `metrics: [meta_impressions, meta_reach, meta_clicks, meta_link_clicks, meta_landing_page_views, meta_adds_to_cart, meta_checkouts_initiated, meta_orders, meta_video_plays, meta_thruplays]` para el período actual.
 - `get_dashboard_report currency=USD include_previous_period=true include_daily_rows=true` con `metrics: [meta_ad_spend, meta_impressions, meta_reach, meta_clicks, meta_link_clicks, meta_landing_page_views, meta_adds_to_cart, meta_checkouts_initiated, meta_orders, meta_revenue, meta_video_plays, meta_thruplays, ad_spend, revenue, non_zero_orders]`.
 - `get_additional_costs is_ad_spend=true`: si vuelve a aparecer un costo manual que coincide con `meta_ad_spend` en los mismos días, sigue el doble conteo (alerta ya conocida).
 - Usá `meta_ad_spend` (no `ad_spend`) como gasto de Meta.
+- Una vez por día (15:46), solo lectura: `list_ad_accounts` (token_status) y `list_ad_assets ad_account_id=3984236798375831` (píxeles, páginas, Instagram). Desde la v12/v13 Escalafy también tiene herramientas de escritura en Meta (`create_*`, `update_ad_object`, `duplicate_ad_object`, `replace_ad_creative`, `upload_ad_media`): están PROHIBIDAS para el monitor.
 
 **Shopify**:
 - `run-analytics-query`: `FROM sessions SHOW sessions, sessions_with_cart_additions, sessions_that_reached_checkout, sessions_that_completed_checkout SINCE <inicio> UNTIL <fin> COMPARE TO previous_period`; sesiones por país y por `referrer_source, referrer_name`.

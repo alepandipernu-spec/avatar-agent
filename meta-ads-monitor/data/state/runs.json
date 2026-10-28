@@ -558,5 +558,23 @@
       "meta_ad_library": "blocked",
       "meta_ads_manager_pixel_facturacion": "blocked"
     }
+  },
+  {
+    "run_id": "2026-10-28T15:46-03:00",
+    "started_at": "2026-10-28T15:46-03:00",
+    "finished_at": "2026-10-28T15:48:25-03:00",
+    "report": "2026-10-28T15-46-03-00.md",
+    "alerts_open": 11,
+    "alerts_notify": [
+      "[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre (nueva)"
+    ],
+    "resolved": [],
+    "sources": {
+      "escalafy": "ok",
+      "shopify": "ok",
+      "competencia_web": "partial",
+      "meta_ad_library": "blocked",
+      "meta_ads_manager_pixel_facturacion": "partial"
+    }
   }
 ]
