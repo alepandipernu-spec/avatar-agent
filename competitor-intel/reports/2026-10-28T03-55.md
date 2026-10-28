@@ -36,7 +36,7 @@ No hay competidores nuevos relevantes.
 - **Flubberhome** [HECHO, Shopify en modo lectura]:
   - Las 6 variantes siguen a USD 41,93 / 71,88 / 89,85, sin precio tachado.
   - La fecha de actualización (27/10, 19:37 BA) es la misma que en el run anterior.
-- **Posición de precio** [HECHO]: Flubberhome sigue por debajo de TYMO en todos los canales relevados y de Breo. Queda por encima de Anyra en la diferencia de envío: la unidad paga USD 10 de envío.
+- **Posición de precio** [HECHO]: Flubberhome sigue por debajo de TYMO en todos los canales relevados y de Breo. Frente a Anyra (USD 50,95), la unidad suelta cuesta menos, pero con los USD 10 de envío llega a USD 51,93 y queda casi igual.
 - **tymbauty.com** [HECHO]: USD 99,99 (tachado 129,99), color rosa, tanque de 4 ml, entrega de 3 a 6 días en EE. UU. y de 12 a 26 días internacional.
 
 ## D. Análisis publicitario
