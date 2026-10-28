@@ -790,6 +790,12 @@
         "run_id": "2026-10-27T19-55",
         "change": "Ulta: USD 64,99 'Early Black Friday Deal' (antes 42,99; lista 99,99). DTC USD 99,99 sin cambios.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Sin cambios: Ulta USD 64,99 (Early Black Friday Deal), DTC USD 99,99.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },

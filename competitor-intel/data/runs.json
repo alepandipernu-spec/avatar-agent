@@ -1411,5 +1411,40 @@
       "OPP-012-costo-total-y-plazo-claros-latam"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-28T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch: Ulta, TYMO DTC, Anyra, Gadnic, Breo, cybermonday.com.ar"
+    ],
+    "fuentes_fallidas": [
+      "Carrello y Beltronic: la copia de Exa no trajo el precio",
+      "Copia pública de flubberhomme.com en Exa: sigue desactualizada (título viejo)",
+      "Mercado Libre AR/MX/CO y Amazon: no consultados en detalle",
+      "Tipo de cambio: no se actualizó",
+      "Biblioteca de anuncios de Meta: no se intentó (no es la franja de anuncios)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "breo-us",
+      "carrello-ar",
+      "beltronic-ar",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos (TYMO Ulta 64,99 / DTC 99,99, Anyra 50,95, Gadnic ARS 97.299, Breo 159,99)",
+      "CyberMonday AR: ofertas aún no cargadas (arranca 2/11)",
+      "tymbauty.com: dominio parecido al de TYMO que se presenta como tienda oficial (sumado a dtc-clones-us)",
+      "Ficha propia: updatedAt 27/10 22:37 UTC, sin cambios desde el run anterior"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

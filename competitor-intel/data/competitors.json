@@ -37,7 +37,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-17",
@@ -162,6 +162,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T19-55",
         "change": "Sin cambios: ARS 97.299 (tachado 149.691), 3 cuotas sin interés.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Chequeo de catálogo: ARS 97.299 (tachado 149.691, 35% OFF; sin impuestos nacionales 80.412), 3 cuotas sin interés. Sin cambios. La página de Gadnic en cybermonday.com.ar muestra 0 productos en oferta (el evento arranca el 2/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -371,6 +377,12 @@
         "run_id": "2026-10-27T03-55",
         "change": "Sin cambios: PY008 ARS 129.900 (tachado 149.900), ARS 110.415 en efectivo solo con retiro o moto a CABA; la ficha dice 'solo quedan 90 en stock' y a la vez 'es el último' (mensajes de la tienda, contradictorios).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "La copia de Exa del PY008 no trajo el precio y muestra aviso de sin stock para agregar al carrito (no se pudo confirmar si está agotado).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
       }
     ]
   },
@@ -545,7 +557,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-17",
@@ -664,6 +676,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T19-55",
         "change": "Sin cambios: USD 50,95 (tachado 158,95), contador propio de '12.319 clientes' sin verificar; no aparecieron reseñas externas.",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Chequeo de catálogo: USD 50,95 (tachado 158,95, \"SAVE 68%\"), \"Rated 4.9 | 12,319 Customers\" y aviso de \"agotado 3 veces\"; sin Black Friday visible. Sin cambios.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -1044,7 +1062,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-17",
@@ -1117,6 +1135,12 @@
         "run_id": "2026-10-27T11-57",
         "change": "Landing de Black Friday sin cambios (4.ª vista).",
         "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Chequeo de catálogo: S3 a USD 159,99 precio regular en la tienda oficial, envío gratis y 30 días de devolución; sin precio de Black Friday en la ficha.",
+        "source": "https://us.breo.com/products/scalp3-trilogy-massager"
       }
     ]
   },
@@ -1430,7 +1454,8 @@
       "Sunluxy 'Electric Scalp Massager Hair Oil Applicator' USD 29,99 (tachado 59,99), agotado",
       "DHactive 3 en 1 USD 39,99 (tachado 99,99), garantía de devolución de 60 días, envío gratis desde USD 59",
       "Litevisage 'Nano Mist & LED' USD 109,99 (tachado 189,99), tanque de 20 ml con atomizador",
-      "eterus 'Electric Oil Applicator and Vibration Scalp Massager 2 in 1' USD 40, envío gratis, figura agotado (27/10/2026)"
+      "eterus 'Electric Oil Applicator and Vibration Scalp Massager 2 in 1' USD 40, envío gratis, figura agotado (27/10/2026)",
+      "tymbauty.com 'TYMO TRITHERA' USD 99,99 (tachado 129,99), se presenta como 'Official Shop' con dominio distinto del oficial (28/10/2026)"
     ],
     "price_visible": "USD 54,90 (thickroots), USD 69,21 (Pilore, con atomizador de niebla), USD 66,95 (tachado 103, monalisamedical).",
     "value_prop": "Mismo producto genérico con nombre ™ propio y promesas de crecimiento.",
@@ -1446,26 +1471,29 @@
       "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/",
       "https://dhactive.com/products/3-in-1-red-light-scalp-massager-electric-hair-growth-brush-oil-applicator",
       "https://litevisage.com/product/scalp-massager-for-hair-growth/",
-      "https://www.eterus.us/products/electric-oil-applicator-and-vibration-scalp-massager-2-in-1"
+      "https://www.eterus.us/products/electric-oil-applicator-and-vibration-scalp-massager-2-in-1",
+      "https://www.tymbauty.com/product/tymo-trithera/"
     ],
     "relevance": "baja",
     "follow_reason": "Señal de saturación de la oferta en US; Pilore introduce variante con atomizador (niebla) en lugar de rodillos.",
     "facts": [
       "Precios USD 54,90–69,21 (17/10/2026, vía índice de Exa).",
       "18/10/2026: 3 tiendas/listados más del mismo formato en US (Cosvu USD 48, publicado 06/2026; ScalpRevive USD 59,99 con promesas de crecimiento, 05/2026; Ryslnte USD 34,84 en Amazon desde 01/2026 con 5 reseñas).",
-      "[HECHO 22/10/2026] Litevisage (litevisage.com): USD 109,99 (tachado 189,99), envío gratis desde USD 69. Muestra 20 reseñas, todas de 5★, fechadas entre el 28/01 y el 24/03/2026. Su ficha advierte no cargar aceites espesos como el de ricino porque tapan el atomizador."
+      "[HECHO 22/10/2026] Litevisage (litevisage.com): USD 109,99 (tachado 189,99), envío gratis desde USD 69. Muestra 20 reseñas, todas de 5★, fechadas entre el 28/01 y el 24/03/2026. Su ficha advierte no cargar aceites espesos como el de ricino porque tapan el atomizador.",
+      "[HECHO 28/10/2026] tymbauty.com vende un \"TYMO TRITHERA\" a USD 99,99 (tachado 129,99) con el título \"Tymo Beauty Official Shop\", contador \"66 sold in last 7 hours\", entrega 3–6 días en EE. UU. y 12–26 internacional, color rosa y tanque de 4 ml. El dominio oficial de TYMO es tymobeauty.com."
     ],
     "inferences": [
       "El rango DTC US se concentra en USD 50–90; Flubberhome (41,93) queda abajo."
     ],
     "hypotheses": [
-      "[HIPÓTESIS 22/10/2026] Las 20 reseñas de Litevisage son poco creíbles: todas de 5★, en un período de 2 meses, mezclan uso en la ducha con 'se me cae a la bañera' y varias prometen recrecimiento. No se puede probar que sean falsas. Mismo patrón de credibilidad que Alverela."
+      "[HIPÓTESIS 22/10/2026] Las 20 reseñas de Litevisage son poco creíbles: todas de 5★, en un período de 2 meses, mezclan uso en la ducha con 'se me cae a la bañera' y varias prometen recrecimiento. No se puede probar que sean falsas. Mismo patrón de credibilidad que Alverela.",
+      "[HIPÓTESIS 28/10/2026] tymbauty.com parece una tienda que copia la marca TYMO; el contador de ventas por hora es un recurso de urgencia que no prueba ventas. Refuerza que en esta categoría el comprador desconfía y que las señales de confianza verificables (contacto real, políticas claras) diferencian."
     ],
     "unknowns": [
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-17",
@@ -1508,6 +1536,12 @@
         "run_id": "2026-10-27T11-57",
         "change": "Nueva tienda del mismo formato: eterus (US), USD 40 con envío gratis, tanque de 6 ml con escala, promesa de crecimiento; la ficha dice agotado (no prueba ventas). Relevancia baja, se agrega acá y no como competidor aparte.",
         "source": "https://www.eterus.us/products/electric-oil-applicator-and-vibration-scalp-massager-2-in-1"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Nuevo dominio parecido al de TYMO (tymbauty.com) que se presenta como tienda oficial, USD 99,99 con contador de ventas por hora. Se registra acá; relevancia baja.",
+        "source": "https://www.tymbauty.com/product/tymo-trithera/"
       }
     ]
   },
@@ -2454,7 +2488,8 @@
     ],
     "hypotheses": [
       "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio.",
-      "TriThera parece un producto secundario para TYMO: mucha distribución en retail, poca tracción visible propia. No hay señales de una campaña fuerte en este run."
+      "TriThera parece un producto secundario para TYMO: mucha distribución en retail, poca tracción visible propia. No hay señales de una campaña fuerte en este run.",
+      "[HIPÓTESIS 28/10/2026] tymbauty.com (dominio distinto del oficial tymobeauty.com) se presenta como tienda oficial con un contador \"66 sold in last 7 hours\"; podría ser una tienda no oficial que usa la marca. No verificado con TYMO."
     ],
     "unknowns": [
       "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon.",
@@ -2472,7 +2507,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-28",
     "history": [
       {
         "date": "2026-10-19",
@@ -2598,6 +2633,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T19-55",
         "change": "Ulta: de USD 42,99 a USD 64,99 con etiqueta 'Early Black Friday Deal' (lista 99,99). Es la primera acción de Black Friday de TYMO que se ve. DTC sin cambios (USD 99,99, entrega estimada 31/10–1/11). Reseñas DTC: siguen 4, ninguna nueva.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "Chequeo de catálogo: Ulta sigue en USD 64,99 con \"Early Black Friday Deal\" (lista 99,99); DTC USD 99,99 (tachado 129,99), entrega estimada 31/10–1/11; 4 reseñas DTC, sin cambios. Aparece un dominio parecido (tymbauty.com) que se presenta como \"Tymo Beauty Official Shop\" con el mismo precio; ver dtc-clones-us.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -2890,6 +2931,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T03-55",
         "change": "Ficha accesible; la copia de Exa no trajo el bloque de precio en esta ejecución (último dato: ARS 66.599). Envío gratis desde ARS 39.999 sin cambios.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-28",
+        "run_id": "2026-10-28T03-55",
+        "change": "La copia de Exa no trajo el precio (solo el menú). Último precio: ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
