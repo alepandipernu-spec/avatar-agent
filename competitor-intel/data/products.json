@@ -49,6 +49,12 @@
         "run_id": "2026-10-20T03-56",
         "change": "Sin cambios (USD 50,95, tachado 158,95).",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Sin cambios (USD 50,95, tachado 158,95).",
+        "source": "https://shopanyra.com"
       }
     ]
   },
@@ -980,5 +986,39 @@
     "merece_investigar": "sí: fija un piso de precio en AR para el mismo modelo",
     "fuente": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/",
     "fecha_consulta": "2026-10-24"
+  },
+  "isyra-mx-cl:renacer-capilar": {
+    "id": "isyra-mx-cl:renacer-capilar",
+    "problema": "Caída del cabello (comunicado con claims médicos)",
+    "variantes": "Aparato solo o kits con aceites (ver competitors.json; los kits se vieron el 28/10)",
+    "precio": {
+      "1u": "MXN 999 (tachado 1.999)"
+    },
+    "promos": "'Oferta de aniversario', 'Últimas 7 unidades' (escasez)",
+    "garantia": "90 días de devolución 'sin preguntas' si no hay resultados",
+    "devolucion": "Incluida en la garantía de 90 días",
+    "envio": "No visto",
+    "beneficios": [
+      "microcorriente y vibración",
+      "luz roja",
+      "aceite propio con romero, jengibre, ginseng"
+    ],
+    "objeciones_resueltas": [
+      "miedo a falsificaciones (aviso sobre Amazon/AliExpress/Temu)",
+      "riesgo de compra (90 días)"
+    ],
+    "diferenciadores": "Kit aparato + aceite propio; garantía larga; prueba social declarada muy alta (+10.839 reseñas) no verificable y en contraste con 8 calificaciones en Amazon MX",
+    "merece_investigar": true,
+    "por_que": "Competidor directo en MX casi al mismo precio total que Flubberhome; su garantía de 90 días contrasta con la ventana de 72 h por falla de Flubberhome. No copiar los claims.",
+    "source": "https://isyra.com.mx/products/renacer-capilar-ab-test",
+    "fecha": "2026-10-29",
+    "history": [
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Alta del producto",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      }
+    ]
   }
 }

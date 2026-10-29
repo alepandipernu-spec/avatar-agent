@@ -765,5 +765,15 @@
         "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
       }
     ]
+  },
+  "isyra-mx-resenas-declaradas": {
+    "señal": "ISYRA declara en su tienda '4.8/5 basado en +10,839 reseñas'",
+    "valor": "+10.839 (declarado por la marca)",
+    "fuente": "https://isyra.com.mx/products/renacer-capilar-ab-test",
+    "fecha": "2026-10-29",
+    "alcance": "MX (tienda propia)",
+    "tipo": "HECHO (lo que dice la página)",
+    "indica": "Que la marca usa prueba social masiva como argumento central.",
+    "no_indica": "Ventas ni reseñas verificadas: en Amazon MX el mismo producto tiene 8 calificaciones (3,8★, 28/10/2026). El número no es verificable."
   }
 }

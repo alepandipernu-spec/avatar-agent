@@ -37,7 +37,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -180,6 +180,12 @@
         "date": "2026-10-28",
         "run_id": "2026-10-28T19-54",
         "change": "Chequeo rápido: ARS 97.299 (tachado 149.691), sin cambios.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Chequeo de precios: ARS 97.299 (tachado 149.691), sin impuestos nacionales ARS 80.412, 3 cuotas de ARS 32.433. Sin cambios.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -569,7 +575,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -707,6 +713,12 @@
         "run_id": "2026-10-28T19-54",
         "change": "Chequeo rápido: USD 50,95 (tachado 158,95), sin cambios; sin reseñas externas nuevas.",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Chequeo de precios: USD 50,95 (tachado 158,95). Sin cambios.",
+        "source": "https://shopanyra.com"
       }
     ]
   },
@@ -1302,7 +1314,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Precio de referencia local en pesos para el mismo tipo de producto.",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -1338,6 +1350,12 @@
         "date": "2026-10-24",
         "run_id": "2026-10-24T03-55",
         "change": "Listado ML AR (copia de Exa) sin cambios en los eléctricos: ARS 59.800 y 69.999 con '+5 vendidos'; Coony manual '+5mil'.",
+        "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Listado público (copia de Exa sin fecha): MegaCuper ARS 37.692 (tachado 60.793, +50 vendidos), otros ARS 58.006–69.999 con +5/+25 vendidos. Sin cambios respecto de lo registrado.",
         "source": "https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo"
       }
     ]
@@ -2546,7 +2564,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-19",
@@ -2691,6 +2709,12 @@
         "run_id": "2026-10-28T19-54",
         "change": "Reseñas/confianza: DTC sigue con 4 reseñas y USD 99,99 (entrega estimada ahora 1–2/11); Ulta USD 64,99 sin cambios. Nuevo: perfil BBB de la empresa con F (41 quejas, 27 sin responder).",
         "source": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Chequeo de precios (franja catálogo): DTC USD 99,99 (tachado 129,99), entrega estimada 1–2/11; Ulta USD 64,99 'Early Black Friday Deal' (lista 99,99). Sin cambios.",
+        "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -2950,7 +2974,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-29",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -2988,6 +3012,12 @@
         "date": "2026-10-28",
         "run_id": "2026-10-28T03-55",
         "change": "La copia de Exa no trajo el precio (solo el menú). Último precio: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "La copia de Exa mostró '24% OFF' y envío gratis, pero no el monto ni el stock con claridad (aparece aviso de sin stock al agregar, posiblemente genérico). Último precio: ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
@@ -3137,7 +3167,7 @@
       "ISYRA Renacer Capilar (Solo Dispositivo / Kit Inicio / Kit Renacer)",
       "ISYRA PRO + 2 o + 4 aceites"
     ],
-    "price_visible": "MXN 949 (isyra.com.mx, URL 'renacer-capilar-ab-test') y MXN 999 en otra ficha y en Amazon MX; CLP 49.990–89.990 en isyra.cl (copias de Exa sin fecha, consultadas 28/10/2026).",
+    "price_visible": "MXN 999 (tachado 1.999, 'Oferta de aniversario') en isyra.com.mx (29/10/2026); MXN 949 en otra variante de la URL y MXN 999 en Amazon MX (28/10); CLP 49.990–89.990 en isyra.cl.",
     "value_prop": "Dispositivo + kits con aceites; promesa de resultados desde el primer uso.",
     "claims_observed": "Claims médicos fuertes (folículos, crecimiento, 'si no actuás, la caída continúa'): no replicables.",
     "channels": [
@@ -3165,7 +3195,7 @@
       "https://isyra.com.mx/products/renacer-capilar-ab-test",
       "https://www.isyra.cl/products/isyra"
     ],
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-10-29",
     "relevance": "media",
     "follow_reason": "Primer eléctrico en Amazon MX con indicador mensual visible ('50+ el mes pasado') en el rango de precio de Flubberhome; vende en kit con aceites.",
     "history": [
@@ -3174,6 +3204,12 @@
         "run_id": "2026-10-28T19-54",
         "change": "Alta (competidor nuevo, MX).",
         "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Ficha MX leída: MXN 999 (tachado 1.999, 'Oferta de aniversario'), 'Últimas 7 unidades', garantía de devolución de 90 días, kit con aceite propio, uso 7–10 min/día. La página dice '4.8/5 basado en +10,839 reseñas' y muestra testimonios con nombre y edad; en Amazon MX tiene 3,8★ con 8 calificaciones (28/10). Claims médicos fuertes (caída, crecimiento en 21 días, porcentajes de clientes). No se vio si el aparato tiene depósito ni plazos de envío.",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
       }
     ]
   }

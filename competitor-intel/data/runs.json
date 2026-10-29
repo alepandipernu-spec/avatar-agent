@@ -1514,5 +1514,40 @@
       "OPP-016-respuestas-honestas-y-comparacion-justa"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-29T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, vía MCP)",
+      "Exa search/fetch: TYMO DTC, Ulta, Anyra, Gadnic, ISYRA MX, Carrello, Mercado Libre AR (listado vía búsqueda), búsqueda Black Friday US"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre AR: fetch directo dio 403 (se usó la copia del buscador)",
+      "Carrello: la copia no trajo el monto",
+      "Tipo de cambio: no se actualizó (se usa FIX ≈18,6 del 28/10)",
+      "Copia pública de flubberhomme.com: no se reintentó",
+      "Biblioteca de anuncios de Meta: no corresponde a la franja"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "isyra-mx-cl",
+      "ml-electricos-ar",
+      "carrello-ar"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos (TYMO DTC 99,99 / Ulta 64,99, Anyra 50,95, Gadnic ARS 97.299)",
+      "ISYRA MX: MXN 999 (tachado 1.999), 90 días de devolución, escasez 'últimas 7 unidades', '+10.839 reseñas' declaradas vs 8 en Amazon MX",
+      "Ficha propia: updatedAt 28/10 09:44 UTC, sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-003-garantia-publicada"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

@@ -190,6 +190,14 @@
         "change": "La ficha suma 'si tu pedido no llega, reenvío o reintegro' y atención por WhatsApp/email. La ventana por falla sigue en 72 h (Cecotec ES da 3 años; Gadnic 12 meses). Sin cambio de score.",
         "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
       }
+    ],
+    "history": [
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T03-55",
+        "change": "Nueva evidencia: ISYRA (MX, competidor directo a ~USD 53) publica 90 días de devolución; Flubberhome tiene 72 h por falla y 30 días de cambio sin abrir. Sin cambio de puntaje (el costo y el riesgo de extender la garantía los decide el dueño).",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      }
     ]
   },
   "OPP-004-embudo-explicativo": {
