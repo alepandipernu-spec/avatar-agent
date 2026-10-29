@@ -1,24 +1,24 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-28T23:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-29T07:46-03:00
 
-Período: 2026-09-29 → 2026-10-28 · comparado con 2026-08-30 → 2026-09-28 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
+Período: 2026-09-30 → 2026-10-29 · comparado con 2026-08-31 → 2026-09-29 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Sin cambios materiales desde las 15:46: pausa intencional, USD 189,81 en 30 días, 0 compras. Tienda: 681 sesiones (12 con carrito, 9 al checkout, 0 compras).
-- Siguen abiertas las dos alertas P2 nuevas de hoy: 2 píxeles con el mismo nombre en la cuenta y la ficha de ScalpCare sin envío, soporte ni preguntas frecuentes.
+- Sin cambios materiales desde las 23:46: pausa intencional, USD 189,81 en 30 días, 0 compras. Tienda: 680 sesiones (12 con carrito, 9 al checkout, 0 compras).
+- Ficha, precios, políticas y #D1 sin cambios (ficha guardada por última vez el 28/10 09:44 UTC). Siguen abiertas las alertas P2 de píxeles duplicados y de la ficha sin envío, soporte ni preguntas frecuentes.
 - Alertas abiertas: 11 (4 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto). |
-| shopify | ok | Embudo, pedidos, precios, perfiles de envío y políticas leídos. |
-| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 28/10) |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (09/30–10/29) y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales coinciden exactamente (09/29 sin gasto). |
+| shopify | ok | Embudo, pedidos, precios, ficha, políticas y #D1 leídos. |
+| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 28/10; próxima revisión 15:46 del 29/10) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados a las 15:46 del 28/10 (token OK, 2 píxeles con el mismo nombre, 0 páginas en Escalafy). Facturación y eventos del píxel sin acceso. |
 
-- los últimos días hasta 2026-10-28 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
+- los últimos días hasta 2026-10-29 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
 - El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).
 - Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.
@@ -86,7 +86,7 @@ Por anuncio (ordenado por gasto):
 | Impresiones (Meta) | 22,942 | no disponible |
 | Clics en enlace (Meta) | 727 | 3.17% |
 | Visitas a la página de destino (Meta) | 570 | 78.40% |
-| Sesiones de la tienda (Shopify, todas las fuentes) | 681 | 119.47% |
+| Sesiones de la tienda (Shopify, todas las fuentes) | 680 | 119.30% |
 | Sesiones con agregado al carrito (Shopify) | 12 | 1.76% |
 | Sesiones que llegaron al checkout (Shopify) | 9 | 75.00% |
 | Compras (Shopify) | 0 | 0.00% |
@@ -121,7 +121,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 - [P1] Posible cobro en pesos del monto en dólares con Mercado Pago — Evidencia: Tienda solo en USD; la ficha ofrece Mercado Pago. Varios hilos de la comunidad de Shopify reportan que MP cobra el mismo número en moneda local (USD 41,93 → ARS 41,93). Sin documentación oficial. 27/10 19:37: se quitó de la ficha la pregunta frecuente sobre la conversión de moneda. Diagnóstico: PROBABLE causa de 6 checkouts y 0 compras, o de ventas a pérdida. No verificado. Confianza: baja. Acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. (requiere aprobación)
 - [P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre — Evidencia: Escalafy (lectura en vivo de Meta, 28/10): "FLUBBERHOMME PIXEL" id 1619735073111741 y "FLUBBERHOMME PIXEL" id 1992478898822629. Diagnóstico: Si la tienda manda eventos a uno y las campañas optimizan con el otro, Meta no ve las compras ni los carritos. Podría explicar parte del desfase de carritos entre Meta y Shopify. No verificado: no se puede ver desde acá qué píxel está instalado en Shopify ni cuál usan los conjuntos. Confianza: media. Acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. (requiere aprobación)
-- [P2] Entrega intermitente: el gasto se prende y se apaga — Evidencia: 7 de 30 días con gasto; 8 cortes en el período. Diagnóstico: Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje. Confianza: media. Acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- [P2] Entrega intermitente: el gasto se prende y se apaga — Evidencia: 7 de 30 días con gasto; 7 cortes en el período. Diagnóstico: Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje. Confianza: media. Acción: Revisar el historial de actividad y Facturación en Ads Manager.
 - [P3] Campaña de agosto–septiembre que ya no existe: clics sin visitas registradas — Evidencia: Campaña 52604677081664 (10 anuncios, sin nombre en el catálogo): USD 82,50 del 7 al 16/09, 1.289 clics en enlace, 0 visitas a la página; el 12/09 tuvo 984 clics en 8.940 impresiones (11%). Shopify contó 913 sesiones esa semana. Diagnóstico: Probablemente la campaña 'Ventajas' (Advantage+) que se borró. Los clics llegaron a la tienda; Meta no registró la visita a la página (evento no configurado o campaña de tráfico). Un CTR de 11% en un día sugiere clics accidentales (Audience Network). Confianza: baja. Acción: Ninguna ahora. Si se reactiva una campaña de tráfico, excluir Audience Network.
 - [P3] Campañas en pausa intencional (decisión del dueño) — Evidencia: 4 campañas pausadas desde antes del 2026-10-17. Último día con gasto: 2026-10-14. Motivo: El dueño decidió no gastar hasta revisar y resolver tienda, envíos, pago y medición.. Diagnóstico: Es una decisión, no una falla. Confianza: alta. Acción: Reactivar solo con un experimento aprobado.
 
@@ -232,17 +232,17 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · ya conocida · detectada 2026-10-26T07:46-03:00 · veces: 9 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 4 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 2 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 36 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 36 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 35 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 35 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 36 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 36 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 36 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · ya conocida · detectada 2026-10-26T07:46-03:00 · veces: 10 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 5 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 3 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 35 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -253,11 +253,11 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-28T23:46-03:00 · Fin del análisis: 2026-10-28T23:47:24-03:00
+- Inicio: 2026-10-29T07:47:42-03:00 · Fin del análisis: 2026-10-29T07:49:28-03:00
 - Completado: Escalafy: dashboard (totales iguales) y catálogo (0 objetos activos)
-- Completado: Shopify: embudo (681 sesiones), pedidos (0), ficha (sin cambios desde 06:44), precios, envíos, políticas y #D1 (OPEN)
+- Completado: Shopify: embudo (680 sesiones), pedidos (0), ficha (sin cambios desde 28/10 09:44 UTC), precios, políticas y #D1 (OPEN)
 - Parcial: Por anuncio: filas de la ejecución anterior (mismos totales)
 - Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-10-29 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-28T23-46-03-00.json
+- Próxima ejecución programada: 2026-10-29 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-29T07-46-03-00.json

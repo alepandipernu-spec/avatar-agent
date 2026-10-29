@@ -15,9 +15,9 @@
     "value": 189.8138,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -56,9 +56,9 @@
     "value": 137.2880593607306,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -67,18 +67,18 @@
     "priority": "P2",
     "category": "anomalia",
     "title": "Entrega intermitente: el gasto se prende y se apaga",
-    "evidence": "7 de 30 días con gasto; 8 cortes en el período.",
+    "evidence": "7 de 30 días con gasto; 7 cortes en el período.",
     "diagnosis": "Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje.",
     "confidence": "media",
     "impact": "Los resultados no son comparables entre días y Meta no sale de aprendizaje.",
     "action": "Revisar el historial de actividad y Facturación en Ads Manager.",
     "needs_approval": false,
-    "value": 8,
+    "value": 7,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -201,9 +201,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -221,9 +221,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -262,9 +262,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 34,
+    "occurrences": 35,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -303,9 +303,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 34,
+    "occurrences": 35,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -323,9 +323,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 34,
+    "occurrences": 35,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -343,9 +343,9 @@
     "value": 26.293350923482848,
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
-    "occurrences": 9,
+    "occurrences": 10,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "8832469c9d71": {
     "key": "pdp-trust-removed",
@@ -363,9 +363,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 4,
+    "occurrences": 5,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -383,8 +383,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 2,
+    "occurrences": 3,
     "status": "abierta",
-    "last_seen": "2026-10-28T23:46-03:00"
+    "last_seen": "2026-10-29T07:46-03:00"
   }
 }
