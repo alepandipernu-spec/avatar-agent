@@ -1020,5 +1020,34 @@
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
       }
     ]
+  },
+  "dayin-us:3-in-1": {
+    "id": "dayin-us:3-in-1",
+    "problema": "Masaje y aplicación de aceite en un solo aparato",
+    "variantes_packs": [
+      "Chrome Silver (única vista)"
+    ],
+    "precio_por_variante": "USD 35,99 (HashIQ, 22/10/2026)",
+    "promos": "'60% off' (precio de referencia no visible)",
+    "garantia": "desconocida",
+    "devolucion": "desconocida (TikTok Shop)",
+    "envio": "desconocido",
+    "beneficios": [
+      "3 en 1: masaje, luz roja, aplicador de aceite",
+      "inalámbrico, resistente al agua (según título)"
+    ],
+    "objeciones_resueltas": [],
+    "diferenciadores": [
+      "precio por debajo de USD 40"
+    ],
+    "cambios": [
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T19-54",
+        "change": "Alta.",
+        "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
+      }
+    ],
+    "merece_investigar": "Sí, poco: sirve como referencia de precio del formato en TikTok Shop US. Volumen bajo (223 vendidos)."
   }
 }

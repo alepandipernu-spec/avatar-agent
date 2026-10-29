@@ -2,7 +2,7 @@
   "patterns": [
     {
       "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-      "n_fuentes": 21,
+      "n_fuentes": 22,
       "n_competidores": 14,
       "clasificacion": "tendencia (varias fuentes y productos)",
       "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
@@ -45,6 +45,12 @@
           "run_id": "2026-10-24T19-54",
           "change": "+1 fuente: Breo Scalp3 (The Mirror, 28/01/2025): tapón muy difícil de abrir y dientes de aceite más cortos, llega poco producto. Segmento premium.",
           "source": "https://www.mirror.co.uk/3am/style/3am-fashion-celebrity-beauty/this-led-scalp-massager-helped-34567396"
+        },
+        {
+          "date": "2026-10-29",
+          "run_id": "2026-10-29T19-54",
+          "change": "+1 fuente (peine con spray de TikTok Shop US, formato adyacente).",
+          "source": "https://shop.tiktok.com/us/pdp/1732415466145222815"
         }
       ]
     },
@@ -59,7 +65,7 @@
     },
     {
       "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-      "n_fuentes": 12,
+      "n_fuentes": 13,
       "n_competidores": 10,
       "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
       "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
@@ -98,6 +104,12 @@
           "date": "2026-10-22",
           "run_id": "2026-10-22T19-55",
           "change": "+1 fuente con fecha de 2026 (Yaxa/Amazon, 23/05/2026: deja de andar a los ~30 usos)."
+        },
+        {
+          "date": "2026-10-29",
+          "run_id": "2026-10-29T19-54",
+          "change": "+1 fuente (peine con spray de TikTok Shop US, formato adyacente).",
+          "source": "https://shop.tiktok.com/us/pdp/1732415466145222815"
         }
       ]
     },
@@ -178,9 +190,9 @@
     },
     {
       "problema": "Diferencia entre lo anunciado en video y lo recibido",
-      "n_fuentes": 2,
-      "n_competidores": 2,
-      "clasificacion": "incipiente (2 fuentes de 2 productos del mismo formato adyacente: peine con spray)",
+      "n_fuentes": 3,
+      "n_competidores": 3,
+      "clasificacion": "incipiente (3 fuentes de 3 productos, todos del formato adyacente de peine con spray)",
       "oportunidad": "Mostrar solo lo que el aparato hace de verdad. En el formato de spray, los anuncios con transformaciones que parecen hechas con IA se leen como estafa. Flubberhome usa microdramas con IA: separar la ficción de la demo real y rotular la demo (ver OPP-017).",
       "fecha": "2026-10-19",
       "run_id": "2026-10-19T19-54",
@@ -189,6 +201,11 @@
           "date": "2026-10-22",
           "run_id": "2026-10-22T19-55",
           "change": "+1 fuente (video de un creador del 22/06/2026 sobre el peine con spray; apoyo: listado de Amazon con 1,5★). Pasa de aislado a incipiente y suma el ángulo de los anuncios hechos con IA."
+        },
+        {
+          "date": "2026-10-29",
+          "run_id": "2026-10-29T19-54",
+          "change": "+1 fuente: reseñas de otro peine con spray en TikTok Shop US (jun–jul 2026) que lo devuelven porque no hace lo que mostraban los anuncios."
         }
       ]
     },
@@ -846,6 +863,36 @@
       "fecha_consulta": "2026-10-28",
       "run_id": "2026-10-28T19-54",
       "tipo": "perfil de reclamos (no es reseña del TriThera)"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/1732415466145222815",
+      "producto": "Peine eléctrico con spray y cojín de aire (TikTok Shop US, formato adyacente)",
+      "problema": "diferencia entre lo anunciado y lo recibido",
+      "fecha": "2026-06-30 / 2026-07-02",
+      "parafrasis": "Varias compradoras lo devolvieron porque no alisa como mostraban los anuncios; otra dice que no se parece a lo publicitado y se siente barato.",
+      "fecha_consulta": "2026-10-29",
+      "run_id": "2026-10-29T19-54",
+      "tipo": "reseñas verificadas de la plataforma"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/1732415466145222815",
+      "producto": "Peine eléctrico con spray y cojín de aire (TikTok Shop US, formato adyacente)",
+      "problema": "durabilidad / no enciende al llegar",
+      "fecha": "2026-07-01",
+      "parafrasis": "Una compradora cuenta que se prende y se apaga, que lo cargó y no funciona, y sospecha que le mandaron uno falso.",
+      "fecha_consulta": "2026-10-29",
+      "run_id": "2026-10-29T19-54",
+      "tipo": "reseña verificada"
+    },
+    {
+      "fuente": "https://shop.tiktok.com/us/pdp/1732415466145222815",
+      "producto": "Peine eléctrico con spray y cojín de aire (TikTok Shop US, formato adyacente)",
+      "problema": "dispensado del líquido",
+      "fecha": "2026-06-26",
+      "parafrasis": "Si se cierra bien la tapa después de cargar agua y aceite, el vapor no sale.",
+      "fecha_consulta": "2026-10-29",
+      "run_id": "2026-10-29T19-54",
+      "tipo": "reseña"
     }
   ]
 }

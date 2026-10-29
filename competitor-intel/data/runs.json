@@ -1588,5 +1588,41 @@
       "OPP-013-angulo-regalo-temporada"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-29T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa search/fetch: Ulta (TYMO), Anyra, Gadnic, HashIQ (DayIn, Renergy, NAPRE), TikTok Shop US, Amazon US (Pawfan, mriya, INIA), tiendas CO (Andik, Bella, NeXo, Anyeluz), ML AR (listados), notas editoriales"
+    ],
+    "fuentes_fallidas": [
+      "Tienda propia de TYMO: CRAWL_NOT_FOUND en Exa",
+      "Opiniones de Mercado Libre AR: los listados no traen el texto de las reseñas",
+      "Biblioteca de Meta: no se intentó (no es franja de anuncios; bloqueada desde la nube)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "dayin-us",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [
+      "dayin-us"
+    ],
+    "novedades": [
+      "Competidor nuevo US: DayIn, eléctrico con aplicador a USD 35,99 en TikTok Shop (223 vendidos)",
+      "Patrón 'anunciado vs. recibido' sube a 3 fuentes",
+      "+2 tiendas CO (Andik Store con garantía de 10 días)",
+      "Precios de directos sin cambios; ficha propia sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001-demo-aplicacion-sin-goteo",
+      "OPP-017-demo-real-rotulada-en-microdramas-ia"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

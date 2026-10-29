@@ -76,6 +76,12 @@
         "run_id": "2026-10-29T12-21",
         "change": "+1 señal fuerte: en TikTok Shop US el aplicador de Kitsch (16.178 vendidos según HashIQ) vende con un solo problema repetido en 4 de 6 videos: el gotero enchastra y desperdicia. Estructura típica: gancho de 3–4 s, demo antes de 0:05, oferta ≈0:21, cierre ≈0:39. Sin cambio de score (ya es el nº 1).",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T19-54",
+        "change": "Contraste: DayIn (eléctrico con aplicador, USD 35,99) abre su único video con un gancho de crecimiento de 8,5 s y vende poco (223). No prueba causalidad. Sin cambio de puntaje.",
+        "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
       }
     ]
   },
@@ -920,6 +926,12 @@
         "date": "2026-10-22",
         "run_id": "2026-10-22T19-55",
         "change": "creada"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T19-54",
+        "change": "+1 evidencia: el patrón 'anunciado vs. recibido' pasa a 3 fuentes de 3 productos (sigue en el formato adyacente). Sin cambio de puntaje.",
+        "source": "https://shop.tiktok.com/us/pdp/1732415466145222815"
       }
     ]
   }

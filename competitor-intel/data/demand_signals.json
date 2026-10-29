@@ -101,7 +101,15 @@
     "alcance": "3 listados US",
     "tipo": "HECHO",
     "indica": "Satisfacción media-baja en la categoría con depósito",
-    "no_indica": "Unidades vendidas"
+    "no_indica": "Unidades vendidas",
+    "historial": [
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T19-54",
+        "change": "+1 listado: Pawfan (eléctrico con tanque de 6 ml, USD 23,99) con 3,1★ y 13 calificaciones.",
+        "source": "https://www.amazon.com/Pawfan-Minoxidil-Applicator-Applicator%EF%BC%8CScalp-Dispenser/dp/B0D7MQZVLH"
+      }
+    ]
   },
   "xiaomi-entrada-categoria": {
     "senal": "Entrada de marca masiva",
@@ -799,5 +807,17 @@
     "tipo": "HECHO: lo que publica HashIQ (tercero). El ritmo diario es ESTIMACIÓN de HashIQ, sin método publicado",
     "indica": "El aplicador manual barato vende mucho más rápido que los eléctricos con aplicador; entre los eléctricos, el que más vende no tiene depósito. Un video de 1,1 M de vistas no alcanzó para mover un eléctrico de USD 90.",
     "no_indica": "Ventas reales ni rentabilidad; los contadores de HashIQ no coinciden con los de TikTok Shop (Kitsch: 16.178 vs 43,6 mil) y pueden cubrir otra variante o período."
+  },
+  "hashiq-dayin-electrico-con-aplicador-36usd": {
+    "id": "hashiq-dayin-electrico-con-aplicador-36usd",
+    "fecha": "2026-10-29",
+    "run_id": "2026-10-29T19-54",
+    "senal": "Ventas visibles de un eléctrico con aplicador por debajo de USD 40 en TikTok Shop US",
+    "valor": "DayIn USD 35,99: 223 vendidos (168 antes), +5,3/día, 4,4★ con 15 reseñas, 1 video con 1,4 mil vistas",
+    "fuente": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609",
+    "alcance": "US, TikTok Shop (HashIQ actualizado 22/10/2026)",
+    "tipo": "HECHO de un tercero; el ritmo diario es ESTIMACIÓN de HashIQ sin método publicado",
+    "indica": "Hay compra del formato eléctrico con aplicador cerca del precio de Flubberhome, pero en volumen bajo y casi sin video que lo empuje.",
+    "no_indica": "Ventas reales, rentabilidad ni que el formato no venda más con mejores creatividades."
   }
 }
