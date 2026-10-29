@@ -187,6 +187,12 @@
         "run_id": "2026-10-29T03-55",
         "change": "Chequeo de precios: ARS 97.299 (tachado 149.691), sin impuestos nacionales ARS 80.412, 3 cuotas de ARS 32.433. Sin cambios.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691; 3 cuotas de ARS 32.433; 'Llega gratis hoy'). Precio sin impuestos nacionales ARS 80.412.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar"
       }
     ]
   },
@@ -432,7 +438,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -472,6 +478,12 @@
       {
         "date": "2026-10-22",
         "run_id": "2026-10-22T03-55",
+        "change": "Chequeo rápido: sin cambios (ARS 45.780, tachado 60.000; envío gratis).",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
         "change": "Chequeo rápido: sin cambios (ARS 45.780, tachado 60.000; envío gratis).",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
@@ -719,6 +731,12 @@
         "run_id": "2026-10-29T03-55",
         "change": "Chequeo de precios: USD 50,95 (tachado 158,95). Sin cambios.",
         "source": "https://shopanyra.com"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95). Sigue el aviso de 'agotado 3 veces' (no verificable).",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -1098,7 +1116,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -1183,6 +1201,12 @@
         "run_id": "2026-10-28T11-58",
         "change": "Landing de Black Friday vista por 5.ª vez sin cambios (hasta USD 150, 2×S3 USD 309,99, S3 USD 159,99, garantía de precio 30 días).",
         "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Landing de Black Friday vista por 6.ª vez, sin cambios (hasta USD 150; 2×S3 USD 309,99; S3 159,99).",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
   },
@@ -1228,7 +1252,7 @@
     ],
     "relevance": "baja",
     "follow_reason": "Uso de ventas en vivo en TikTok Shop; respuesta a la objeción de limpieza.",
-    "last_reviewed": "2026-10-26",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-17",
@@ -1276,6 +1300,12 @@
         "date": "2026-10-26",
         "run_id": "2026-10-26T11-57",
         "change": "TikTok Shop sin cambios: VIBRA 820 vendidos, LIVE EXCLUSIVE 103 a USD 259,99; tienda 351,5 mil (total de tienda).",
+        "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "TikTok Shop: tienda INIA Official sigue en '351.5K Sold' (total de tienda); listado LIVE EXCLUSIVE 103 a USD 259,99. Sin cambios.",
         "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
       }
     ]
@@ -2260,9 +2290,10 @@
       "TikTok Shop US (tienda con 310,7 mil seguidores)",
       "Tienda propia internacional"
     ],
-    "ads": "No obtenido.",
+    "ads": "Videos de afiliados en TikTok Shop vistos vía HashIQ (no es la Biblioteca de Meta; no se sabe si son pauta). Ver ads.json kitsch-us:tiktok-afiliados-aplicador-2026-10.",
     "facts": [
-      "TikTok Shop US: kit aplicador + aceite con \"43.6K sold\" y 4,2★; tienda con \"2.0M Sold\" en total (indicadores de la plataforma, 18/10/2026)."
+      "TikTok Shop US: kit aplicador + aceite con \"43.6K sold\" y 4,2★; tienda con \"2.0M Sold\" en total (indicadores de la plataforma, 18/10/2026).",
+      "[HECHO 2026-10-29, vía HashIQ, actualizado 28/10] 'Scalp Oil Applicator' de Kitsch Official: 16.178 vendidos registrados por HashIQ, USD 24,38, 712 reseñas (4,3★), 82 reseñas nuevas en 7 días; 8 videos de afiliados con 37 mil vistas. HashIQ estima +206 vendidos/día [ESTIMACIÓN de tercero, método no publicado]. Fuente: https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
     ],
     "inferences": [
       "[HIPÓTESIS] El hábito de \"aceitar\" el cuero cabelludo tiene más volumen en TikTok Shop US que los aparatos eléctricos (máximo visto: 9,3 mil vendidos)."
@@ -2277,7 +2308,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-10-29",
     "history": [
       {
         "date": "2026-10-18",
@@ -2308,6 +2339,12 @@
         "run_id": "2026-10-24T11-54",
         "change": "TikTok Shop US: kit aplicador + aceite de romero sigue en USD 19 con 43,6 mil vendidos; tienda con '2.0M Sold' acumulado.",
         "source": "https://shop.tiktok.com/us/k/hair-oil-and-massager"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "HashIQ: 16.178 vendidos (contador distinto del '43,6 mil' del listado de TikTok Shop; probablemente otra variante o período), +206/día estimado. Ganchos dominantes: el gotero enchastra y desperdicia el sérum.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
   },
@@ -2513,7 +2550,7 @@
       "TYMO TriThera (DTC, Ulta, Target)",
       "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
     ],
-    "price_visible": "DTC USD 99,99 (tachado 129,99, 27/10/2026) · Ulta USD 64,99 'Early Black Friday Deal' (lista 99,99; antes 42,99; 27/10/2026) · Best Buy USD 79,99 · Macy's USD 99,99 · Target agotado (4★ con 8 reseñas) · Holiday Duo Ulta USD 89,99.",
+    "price_visible": "DTC USD 99,99 (tachado 129,99, 29/10/2026) · Ulta USD 59,99 'Early Black Friday Deal' (lista 99,99; era 64,99 el 29/10 03:55) · Best Buy USD 79,99 · Macy's USD 99,99 (datos previos).",
     "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
     "claims_observed": [
       "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
@@ -2714,6 +2751,12 @@
         "date": "2026-10-29",
         "run_id": "2026-10-29T03-55",
         "change": "Chequeo de precios (franja catálogo): DTC USD 99,99 (tachado 129,99), entrega estimada 1–2/11; Ulta USD 64,99 'Early Black Friday Deal' (lista 99,99). Sin cambios.",
+        "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Ulta baja de USD 64,99 a 59,99 ('Early Black Friday Deal', lista 99,99; vendido por TYMO). DTC sin cambios: USD 99,99 (tachado 129,99), entrega 1–2/11.",
         "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -3174,7 +3217,7 @@
       "Tienda propia MX y CL (Shopify)",
       "Amazon MX"
     ],
-    "ads": "No obtenido (sin acceso a la Biblioteca de anuncios).",
+    "ads": "No obtenido: la búsqueda de anuncios o videos públicos de ISYRA no trajo piezas (29/10/2026). Se registró su home como pieza de página (ads.json isyra-mx:home-2026-10).",
     "facts": [
       "[HECHO 2026-10-28] Amazon MX (búsqueda 'masajeador capilar eléctrico'): ISYRA Renacer Capilar a MXN 999, 3,8★ con 8 calificaciones e indicador '50+ comprados el mes pasado'; entrega con costo, 5–12/11. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
       "[HECHO 2026-10-28] Tienda MX con selector 'Solo Dispositivo / Kit Inicio / Kit Renacer' a MXN 949 y otra ficha con variantes 'PRO + 2 Aceites' y '+ 4 Aceites' a MXN 999. Fuentes: https://isyra.com.mx/products/renacer-capilar-ab-test ; https://isyra.com.mx/products/isyra%E2%84%A2-tratamiento-de-estimulacion-capilar-copia",
@@ -3210,6 +3253,12 @@
         "run_id": "2026-10-29T03-55",
         "change": "Ficha MX leída: MXN 999 (tachado 1.999, 'Oferta de aniversario'), 'Últimas 7 unidades', garantía de devolución de 90 días, kit con aceite propio, uso 7–10 min/día. La página dice '4.8/5 basado en +10,839 reseñas' y muestra testimonios con nombre y edad; en Amazon MX tiene 3,8★ con 8 calificaciones (28/10). Claims médicos fuertes (caída, crecimiento en 21 días, porcentajes de clientes). No se vio si el aparato tiene depósito ni plazos de envío.",
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Home MX: gancho de miedo ('si no actuás, la caída continúa'), testimonios con edad y ciudad, cronograma de resultados por semana con porcentajes, y un segundo producto (AYRA, cápsulas de aceite) con 30 días de prueba y 'últimas 10 unidades'. Sin anuncios encontrados.",
+        "source": "https://isyra.com.mx/ ; https://isyra.com.mx/products/ayra"
       }
     ]
   }

@@ -1549,5 +1549,44 @@
       "OPP-003-garantia-publicada"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-29T12-21",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54; corrió 12:21 BA)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search/fetch: TYMO DTC, Ulta, Anyra, Gadnic, Breo BF, TikTok Shop US (2 búsquedas), HashIQ (Kitsch, NAPRE, Renergy, Yeamon), ISYRA home, CyberMonday AR, Microshop"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: SOURCE_NOT_AVAILABLE en Exa (sigue bloqueada desde la nube)",
+      "TikTok Creative Center Top Ads: 'No search results found'",
+      "Anuncios de ISYRA: no se encontraron piezas públicas",
+      "Copias de Exa sin fecha (salvo HashIQ)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "breo-us",
+      "kitsch-us",
+      "inia-us",
+      "isyra-mx-cl",
+      "microshop-ar"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "TYMO en Ulta baja de USD 64,99 a 59,99 ('Early Black Friday Deal')",
+      "Fuente nueva: HashIQ publica guiones, ganchos y ritmo de ventas de videos de TikTok Shop",
+      "Kitsch aplicador: el gancho dominante es el gotero que enchastra y desperdicia",
+      "Ficha propia sin cambios (updatedAt 28/10 09:44 UTC)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001-demo-aplicacion-sin-goteo",
+      "OPP-006-kit-liquido-compatible",
+      "OPP-013-angulo-regalo-temporada"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

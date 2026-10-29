@@ -336,8 +336,8 @@
       "Pack de 2 con ahorro por unidad bajo (≈3%) frente a la unidad"
     ],
     "primera_vez_visto": "2026-10-24",
-    "ultima_vez_visto": "2026-10-28",
-    "repeticiones": 5,
+    "ultima_vez_visto": "2026-10-29",
+    "repeticiones": 6,
     "history": [
       {
         "date": "2026-10-25",
@@ -362,7 +362,151 @@
         "run_id": "2026-10-28T11-58",
         "change": "Vista por 5.ª vez, sin cambios.",
         "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-10-29",
+        "run_id": "2026-10-29T12-21",
+        "change": "Vista por 6.ª vez, sin cambios.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
+  },
+  "kitsch-us:tiktok-afiliados-aplicador-2026-10": {
+    "id": "kitsch-us:tiktok-afiliados-aplicador-2026-10",
+    "run_id": "2026-10-29T12-21",
+    "competidor": "kitsch-us",
+    "fuente": "Videos de afiliados de TikTok Shop US transcritos por HashIQ (NO es la Biblioteca de Meta; no se sabe si son pauta paga)",
+    "url": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450",
+    "fecha_vista": "2026-10-29",
+    "formato": "Videos verticales de creadores (0:20–0:48; típico 0:39)",
+    "gancho": "Problema primero o resultado primero: el gotero del sérum enchastra, chorrea o desperdicia producto (paráfrasis de 4 de 6 videos)",
+    "primeros_segundos": "Gancho típico de 3,8 s; en dos videos el creador muestra el aplicador en la mano desde el segundo 0",
+    "problema": "Gotero incómodo; sérum caro que se desperdicia o cae a la cara",
+    "demostracion": "Se enrosca el aplicador en la botella y se pasa por la raya del pelo",
+    "beneficio": "Aplicación precisa, sin enchastre ni desperdicio; hace más fácil la constancia",
+    "objeciones": [
+      "enchastre",
+      "desperdicio",
+      "constancia",
+      "compatibilidad con otros frascos"
+    ],
+    "estructura": "Gancho de problema → demo (≈0:03) → oferta o kit (≈0:21, 3 de 6) → CTA (≈0:28, 4 de 6)",
+    "texto_en_pantalla": "No visible en la transcripción",
+    "cta": "Link en la tarjeta naranja de TikTok Shop",
+    "oferta": "Aplicador solo o kit con aceite; un video usa 'stocking stuffers' (regalo navideño)",
+    "motivaciones_INTERPRETACION": [
+      "comodidad",
+      "ahorro (no desperdiciar sérum)",
+      "facilidad de uso",
+      "regalo"
+    ],
+    "observaciones_verificables": [
+      "HashIQ (actualizado 28/10): 16.178 vendidos, USD 24,38, 8 videos y 37 mil vistas",
+      "Video principal 26 mil vistas (18/10)"
+    ],
+    "primera_vez_visto": "2026-10-29",
+    "ultima_vez_visto": "2026-10-29",
+    "repeticiones": 1,
+    "history": []
+  },
+  "napre-us:tiktok-reposicion-2026-10": {
+    "id": "napre-us:tiktok-reposicion-2026-10",
+    "run_id": "2026-10-29T12-21",
+    "competidor": "napre (sin ficha propia; eléctrico sin depósito)",
+    "fuente": "Videos de afiliados de TikTok Shop US transcritos por HashIQ (NO es la Biblioteca de Meta; no se sabe si son pauta paga)",
+    "url": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866",
+    "fecha_vista": "2026-10-29",
+    "formato": "Videos de creadores (típico 0:52)",
+    "gancho": "Oferta primero: 'volvió el stock' con versión mejorada (9 velocidades en lugar de 5) (paráfrasis)",
+    "primeros_segundos": "Gancho largo, 9–10 s, hablando a cámara",
+    "problema": "Ninguno explícito; urgencia por reposición",
+    "demostracion": "Comparación de velocidad entre versión vieja y nueva",
+    "beneficio": "Más potencia",
+    "objeciones": [
+      "¿vale la pena la versión nueva?"
+    ],
+    "estructura": "Oferta/reposición → demo comparativa → urgencia por fiestas → CTA (≈0:51)",
+    "texto_en_pantalla": "No visible",
+    "cta": "Link en el video",
+    "oferta": "USD 116,99 (36% off)",
+    "motivaciones_INTERPRETACION": [
+      "escasez",
+      "novedad",
+      "temporada de fiestas"
+    ],
+    "observaciones_verificables": [
+      "HashIQ (28/10): 6.370 vendidos, +71/día estimado, 23 videos con 733 mil vistas"
+    ],
+    "primera_vez_visto": "2026-10-29",
+    "ultima_vez_visto": "2026-10-29",
+    "repeticiones": 1,
+    "history": []
+  },
+  "renergy-us:tiktok-liquido-que-chorrea-2026": {
+    "id": "renergy-us:tiktok-liquido-que-chorrea-2026",
+    "run_id": "2026-10-29T12-21",
+    "competidor": "renergy (GotVoom Select; eléctrico con aplicador, USD 89,99)",
+    "fuente": "Videos de afiliados de TikTok Shop US transcritos por HashIQ (NO es la Biblioteca de Meta; no se sabe si son pauta paga)",
+    "url": "https://hashiq.io/shop/p/renergy-unisex-electric-scalp-oil-applicator-hair-growth-pro-1732292664915300633",
+    "fecha_vista": "2026-10-29",
+    "formato": "Videos cortos de creadores (típico 0:23)",
+    "gancho": "Problema primero: un tratamiento líquido muy aguado es difícil de controlar (paráfrasis; el video nombra un medicamento)",
+    "primeros_segundos": "3 s de gancho; enseguida se carga el líquido en el aparato",
+    "problema": "Líquido que chorrea",
+    "demostracion": "Carga del depósito y aplicación por zonas",
+    "beneficio": "Precisión",
+    "objeciones": [
+      "control del líquido"
+    ],
+    "estructura": "Problema → evidencia (≈0:03) → demo (≈0:07) → oferta (≈0:16) → CTA (≈0:25)",
+    "texto_en_pantalla": "No visible",
+    "cta": "Link de TikTok Shop",
+    "oferta": "No visible",
+    "motivaciones_INTERPRETACION": [
+      "solución de un problema",
+      "precisión"
+    ],
+    "observaciones_verificables": [
+      "Video principal 1,1 M de vistas (31/5/2026)",
+      "HashIQ (21/10): 446 vendidos, +2/día: muchas vistas no implicaron muchas ventas"
+    ],
+    "no_replicar": "El ángulo médico (medicamento, caída). Para Flubberhome solo vale 'tónico líquido que chorrea'.",
+    "primera_vez_visto": "2026-10-29",
+    "ultima_vez_visto": "2026-10-29",
+    "repeticiones": 1,
+    "history": []
+  },
+  "isyra-mx:home-2026-10": {
+    "id": "isyra-mx:home-2026-10",
+    "run_id": "2026-10-29T12-21",
+    "competidor": "isyra-mx-cl",
+    "fuente": "Home de la tienda propia (NO es un anuncio ni la Biblioteca de Meta)",
+    "url": "https://isyra.com.mx/",
+    "fecha_vista": "2026-10-29",
+    "formato": "Landing",
+    "gancho": "Miedo: si no hacés nada, la caída sigue (paráfrasis)",
+    "primeros_segundos": "No aplica",
+    "problema": "Caída del cabello",
+    "demostracion": "No visible en la copia",
+    "beneficio": "Resultados por semana con porcentajes de clientes",
+    "objeciones": [
+      "paciencia",
+      "¿funciona?",
+      "riesgo de compra"
+    ],
+    "estructura": "Promesa médica → testimonio con edad → cronograma semanal → '5 razones' → comunidad",
+    "texto_en_pantalla": "No aplica",
+    "cta": "Comprar",
+    "oferta": "MXN 999 (tachado 1.999) en la ficha; 2.º producto con 30 días de prueba",
+    "motivaciones_INTERPRETACION": [
+      "miedo",
+      "prueba social",
+      "reducción del riesgo"
+    ],
+    "no_replicar": "Todo el eje médico, los porcentajes de clientes y la escasez.",
+    "primera_vez_visto": "2026-10-29",
+    "ultima_vez_visto": "2026-10-29",
+    "repeticiones": 1,
+    "history": []
   }
 }
