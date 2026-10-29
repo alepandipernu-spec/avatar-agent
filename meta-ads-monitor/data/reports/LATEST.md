@@ -1,13 +1,12 @@
-# Flubberhome · Meta Ads Monitor · 2026-10-28T15:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-10-28T23:46-03:00
 
 Período: 2026-09-29 → 2026-10-28 · comparado con 2026-08-30 → 2026-09-28 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Nuevo: Escalafy ahora lee Meta en vivo. El token de Meta funciona, pero la cuenta tiene 2 píxeles llamados igual ('FLUBBERHOMME PIXEL'): hay que confirmar en Events Manager cuál recibe los eventos de la tienda (alerta P2).
-- La ficha de ScalpCare sigue sin envío, soporte ni preguntas frecuentes (alerta P2 abierta). Envío en Shopify sigue bien.
-- Meta sigue en pausa intencional: USD 189,81 en 30 días, 0 compras. Tienda: 681 sesiones (12 con carrito, 9 al checkout, 0 compras). Competencia sin cambios.
-- Alertas abiertas: 11 (4 P0/P1). Nuevas o con cambio en esta ejecución: 1. Resueltas: 0.
+- Sin cambios materiales desde las 15:46: pausa intencional, USD 189,81 en 30 días, 0 compras. Tienda: 681 sesiones (12 con carrito, 9 al checkout, 0 compras).
+- Siguen abiertas las dos alertas P2 nuevas de hoy: 2 píxeles con el mismo nombre en la cuenta y la ficha de ScalpCare sin envío, soporte ni preguntas frecuentes.
+- Alertas abiertas: 11 (4 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
@@ -15,9 +14,9 @@ Período: 2026-09-29 → 2026-10-28 · comparado con 2026-08-30 → 2026-09-28 �
 | --- | --- | --- |
 | escalafy | ok | Org flubberhome OK. Dashboard 30+30 días y catálogo (0 campañas activas). Por anuncio: filas de la ejecución anterior; los totales del período coinciden exactamente (09/18 y 10/18 sin gasto). |
 | shopify | ok | Embudo, pedidos, precios, perfiles de envío y políticas leídos. |
-| competencia_web | partial | Exa: Gadnic, Lena Vegetal y AUREVIA sin cambios desde el 22/10. Biblioteca de anuncios bloqueada. |
+| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 28/10) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
-| meta_ads_manager_pixel_facturacion | partial | Nuevo (Escalafy v13, solo lectura): token de Meta OK; 2 píxeles con el mismo nombre "FLUBBERHOMME PIXEL" (1619735073111741 y 1992478898822629); 0 páginas de Facebook compartidas con Escalafy; 1 cuenta de Instagram usada en 196 creatividades. Facturación y estado de eventos del píxel siguen sin acceso. |
+| meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados a las 15:46 del 28/10 (token OK, 2 píxeles con el mismo nombre, 0 páginas en Escalafy). Facturación y eventos del píxel sin acceso. |
 
 - los últimos días hasta 2026-10-28 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
@@ -132,44 +131,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## F. Inteligencia competitiva
 
-**Gadnic (vía Bidcom)** (cambió) · bidcom.com.ar · mercado AR · verificado 2026-10-28
-- Precio/oferta: No visible en la página consultada; ya no figura 'preventa'. Envío en el día en AMBA, envío gratis a todo el país, 10 disponibles.
-- Propuesta: Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.
-- Mensajes: Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.
-- Formatos: No obtenido (sin acceso a la Biblioteca de anuncios).
-- Hecho observado: Ofrece 12 meses de garantía y envío gratis.
-- Hecho observado: Ficha técnica completa y medible (batería, potencia, tiempos).
-- Hecho observado: 22/10: desapareció el aviso de preventa; agrega 'envío en el día en AMBA'.
-- Inferencia: Compite en confianza de marca local y garantía, no en precio.
-- Hipótesis: La garantía larga es un argumento que Flubberhome no puede igualar hoy.
-- No obtenible: Anuncios activos, presupuesto, ventas.
-- Fuentes: https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c
-
-**Lena Vegetal** (cambió) · lenacosmetica.com.ar · mercado AR · verificado 2026-10-28
-- Precio/oferta: ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia (20% off); 3 cuotas sin interés. Envío gratis desde ARS 60.000.
-- Propuesta: Kit masajeador + tónico de romero y salvia (60 ml).
-- Mensajes: 'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.
-- Formatos: No obtenido.
-- Hecho observado: Vende el aparato junto con un tónico propio.
-- Hecho observado: Descuento extra por transferencia (20%).
-- Hecho observado: 22/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 3 en stock' con botón de compra; el estado real no se puede determinar.
-- Hecho observado: La página dice '+70 vendidos' (dato del vendedor, no verificado).
-- Inferencia: El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'.
-- Hipótesis: Un kit con tónico podría subir el valor percibido; requiere proveedor y verificar claims.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/
-
-**AUREVIA (en Farmatodo)** (cambió) · farmatodo.com.co · mercado CO · verificado 2026-10-28
-- Precio/oferta: COP 89.900, sin precio tachado visible; 8 unidades; despacho 4–5 días.
-- Propuesta: Venta dentro de una cadena de farmacias (confianza del canal).
-- Mensajes: 'Rejuvenecedor de folículos', 'ideal para frenar la caída'.
-- Formatos: No obtenido.
-- Hecho observado: Producto similar vendido en farmacia en Colombia.
-- Hecho observado: 22/10: el precio subió de COP 37.425 (lista 49.900) a COP 89.900.
-- Inferencia: En CO el canal farmacia da confianza que una tienda nueva no tiene.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1
-
+- No se examinaron competidores en esta ejecución.
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -270,17 +232,17 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 34 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 34 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 33 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 33 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 34 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 34 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 34 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · ya conocida · detectada 2026-10-26T07:46-03:00 · veces: 8 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 3 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · nueva · detectada 2026-10-28T15:46-03:00 · veces: 1 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 33 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 189.81 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] 'US - VID Demo (V02)': CPM 31× la mediana** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] Entrega intermitente: el gasto se prende y se apaga** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Los resultados no son comparables entre días y Meta no sale de aprendizaje. · acción: Revisar el historial de actividad y Facturación en Ads Manager.
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 35 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] 'MX - IMG Hero': CPM 6× la mediana** · ya conocida · detectada 2026-10-26T07:46-03:00 · veces: 9 · confianza media · impacto: Cada visita cuesta mucho más. · acción: Comparar costo por visita de ese mercado antes de volver a asignarle presupuesto. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 4 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 2 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 34 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -291,13 +253,11 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-10-28T15:46-03:00 · Fin del análisis: 2026-10-28T15:48:25-03:00
-- Completado: Escalafy: dashboard, catálogo (0 objetos activos), cuentas (token OK) y activos de Meta (píxeles, páginas, Instagram)
+- Inicio: 2026-10-28T23:46-03:00 · Fin del análisis: 2026-10-28T23:47:24-03:00
+- Completado: Escalafy: dashboard (totales iguales) y catálogo (0 objetos activos)
 - Completado: Shopify: embudo (681 sesiones), pedidos (0), ficha (sin cambios desde 06:44), precios, envíos, políticas y #D1 (OPEN)
-- Completado: Competencia: Gadnic, Lena Vegetal, AUREVIA
 - Parcial: Por anuncio: filas de la ejecución anterior (mismos totales)
-- Parcial: Meta: sin facturación ni estado de eventos del píxel
-- Parcial: Competencia: 6 de 9 fichas sin revisar hoy
+- Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-10-28 23:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-10-28T15-46-03-00.json
+- Próxima ejecución programada: 2026-10-29 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-10-28T23-46-03-00.json
