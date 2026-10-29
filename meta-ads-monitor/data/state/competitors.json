@@ -182,13 +182,14 @@
     "domain": "microshop.com.ar",
     "category": "Masajeador capilar recargable",
     "market": "AR",
-    "verified_at": "2026-10-26",
+    "verified_at": "2026-10-29",
     "price": "ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.",
     "value_prop": "Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').",
     "claims": "'Revitaliza tu cabello', 'placentero masaje'.",
     "formats": "No obtenido.",
     "facts": [
-      "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR."
+      "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.",
+      "29/10: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -199,7 +200,7 @@
       "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-26T15:46-03:00",
+    "updated": "2026-10-29T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -217,6 +218,15 @@
         "run": "2026-10-26T15:46-03:00",
         "before": {
           "verified_at": "2026-10-23"
+        }
+      },
+      {
+        "run": "2026-10-29T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-26",
+          "facts": [
+            "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR."
+          ]
         }
       }
     ]
@@ -279,7 +289,7 @@
     "domain": "shopanyra.com",
     "category": "Peine masajeador eléctrico con luz roja y depósito",
     "market": "US",
-    "verified_at": "2026-10-26",
+    "verified_at": "2026-10-29",
     "price": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
     "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
     "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.; 'NOTE: We Already Sold Out 3 Times, Don't Wait!'",
@@ -287,7 +297,8 @@
     "facts": [
       "Usa porcentajes de satisfacción y conteo de clientes en la página.",
       "18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable.",
-      "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles."
+      "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles.",
+      "29/10: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes y vistas, no verificadas)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -299,7 +310,7 @@
       "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-26T15:46-03:00",
+    "updated": "2026-10-29T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -325,6 +336,17 @@
         "run": "2026-10-26T15:46-03:00",
         "before": {
           "verified_at": "2026-10-23"
+        }
+      },
+      {
+        "run": "2026-10-29T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-26",
+          "facts": [
+            "Usa porcentajes de satisfacción y conteo de clientes en la página.",
+            "18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable.",
+            "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles."
+          ]
         }
       }
     ]
@@ -452,7 +474,7 @@
     "domain": "amazon.com",
     "category": "Aplicador de aceite + masajeador",
     "market": "US",
-    "verified_at": "2026-10-26",
+    "verified_at": "2026-10-29",
     "price": "USD 21,99 – 49,99.",
     "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
     "claims": "Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.",
@@ -460,10 +482,11 @@
     "facts": [
       "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
       "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído.",
-      "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto."
+      "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto.",
+      "29/10: Satorix 3 en 1 a USD 29,99 (primera vez visible en el extracto); sigue con 'Zero mess — no more greasy hands', IPX7 y bolso de viaje."
     ],
     "inferences": [
-      "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido."
+      "En EE. UU. el precio de Flubberhome (USD 41,93 + USD 10 de envío por unidad) queda casi al doble que un aparato equivalente en Amazon (USD 29,99 con envío rápido)."
     ],
     "hypotheses": [],
     "unknowns": [
@@ -474,7 +497,7 @@
       "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-26T15:46-03:00",
+    "updated": "2026-10-29T15:46-03:00",
     "history": [
       {
         "run": "2026-10-23T15:46-03:00",
@@ -492,6 +515,20 @@
           "facts": [
             "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
             "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído."
+          ]
+        }
+      },
+      {
+        "run": "2026-10-29T15:46-03:00",
+        "before": {
+          "verified_at": "2026-10-26",
+          "facts": [
+            "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
+            "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído.",
+            "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto."
+          ],
+          "inferences": [
+            "En EE. UU. el precio de Flubberhome (USD 41,93 + envío) compite contra Amazon con envío rápido."
           ]
         }
       }
