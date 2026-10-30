@@ -1659,5 +1659,38 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-30T12-52",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54; corrió 12:52 BA)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa search/fetch: HashIQ (NAPRE, Kitsch, Renergy, DayIn, Arboleaf), Ulta (TYMO Mista), TYMO DTC (TriThera), Breo BF, Macy's, tiendas ES (CR, MX)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: SOURCE_NOT_AVAILABLE (sigue bloqueada desde la nube)",
+      "TikTok Creative Center Top Ads: No search results found",
+      "Tienda propia de TYMO (ficha Mista): CRAWL_NOT_FOUND",
+      "Copias de Exa sin fecha (salvo HashIQ)"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "breo-us",
+      "kitsch-us",
+      "dayin-us",
+      "napre (sin ficha)",
+      "arboleaf (sin ficha)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "TYMO Mista (bruma, 2 tanques) en Ulta a USD 58,49, Early Black Friday",
+      "NAPRE acelera en TikTok Shop US: +106/día estimado (antes +71)",
+      "Gancho nuevo de NAPRE: frustración con suplementos",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

@@ -529,5 +529,26 @@
     "primera_vez_visto": "2026-06-01 (fecha del video según HashIQ)",
     "ultima_vez_visto": "desconocida",
     "repeticiones": "1 video, 1,4 mil vistas"
+  },
+  "napre-us:tiktok-suplementos-2026-10-18": {
+    "id": "napre-us:tiktok-suplementos-2026-10-18",
+    "competidor": "napre-us (sin ficha propia; masajeador eléctrico sin depósito)",
+    "fuente": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 (transcripción de HashIQ; no es la Biblioteca de Meta)",
+    "fecha_vista": "2026-10-30",
+    "formato": "Video de afiliado de TikTok Shop, 0:41",
+    "gancho": "Afirmación de 3,1 s dirigida a quien ya gastó mucho en suplementos para el pelo (paráfrasis)",
+    "primeros_segundos": "Habla a cámara; plantea frustración con soluciones anteriores",
+    "problema": "Raleo y entradas (claim médico)",
+    "demostracion": "Rutina diaria de 15 min en casa",
+    "beneficio": "Fortalecer folículos (claim médico, no permitido para Flubberhome)",
+    "objeciones": "\"Ya probé de todo y nada funciona\"",
+    "estructura": "Gancho de frustración → explicación → evidencia (0:32)",
+    "texto_en_pantalla": "desconocido",
+    "cta": "desconocido en la copia",
+    "oferta": "No se menciona en la transcripción (ficha con 36% off)",
+    "motivaciones": "[INTERPRETACIÓN] Cansancio de gastar en soluciones que no se ven; búsqueda de una rutina barata y constante",
+    "primera_vez_visto": "2026-10-18 (fecha del video según HashIQ)",
+    "ultima_vez_visto": "desconocida",
+    "repeticiones": "1 video, 18 mil vistas"
   }
 }

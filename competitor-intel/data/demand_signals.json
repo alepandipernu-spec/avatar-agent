@@ -810,7 +810,7 @@
   },
   "hashiq-tiktok-shop-ritmo-diario-2026-10": {
     "id": "hashiq-tiktok-shop-ritmo-diario-2026-10",
-    "fecha": "2026-10-29",
+    "fecha": "2026-10-30",
     "run_id": "2026-10-29T12-21",
     "senal": "Vendidos acumulados y ritmo diario estimado por HashIQ para productos de cuero cabelludo en TikTok Shop US",
     "valor": "Kitsch aplicador manual USD 24,38: 16.178 (+206/día). NAPRE eléctrico sin depósito USD 116,99: 6.370 (+71/día). Yeamon eléctrico de garras USD 38,99: 4.806 (+15,5/día). Renergy eléctrico con aplicador USD 89,99: 446 (+2/día).",
@@ -818,7 +818,15 @@
     "alcance": "US, TikTok Shop (actualizado 21–28/10/2026 según HashIQ)",
     "tipo": "HECHO: lo que publica HashIQ (tercero). El ritmo diario es ESTIMACIÓN de HashIQ, sin método publicado",
     "indica": "El aplicador manual barato vende mucho más rápido que los eléctricos con aplicador; entre los eléctricos, el que más vende no tiene depósito. Un video de 1,1 M de vistas no alcanzó para mover un eléctrico de USD 90.",
-    "no_indica": "Ventas reales ni rentabilidad; los contadores de HashIQ no coinciden con los de TikTok Shop (Kitsch: 16.178 vs 43,6 mil) y pueden cubrir otra variante o período."
+    "no_indica": "Ventas reales ni rentabilidad; los contadores de HashIQ no coinciden con los de TikTok Shop (Kitsch: 16.178 vs 43,6 mil) y pueden cubrir otra variante o período.",
+    "history": [
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T12-52",
+        "change": "NAPRE 6.476 (antes 6.370), ritmo estimado +106/día (antes +71), actualizado 29/10. Kitsch 16.178 y Renergy 446 sin cambios (actualizados 28/10 y 21/10). Arboleaf (sin depósito) 12.410, +34/día, \"más lento que el mes pasado\" según HashIQ.",
+        "source": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
+      }
+    ]
   },
   "hashiq-dayin-electrico-con-aplicador-36usd": {
     "id": "hashiq-dayin-electrico-con-aplicador-36usd",

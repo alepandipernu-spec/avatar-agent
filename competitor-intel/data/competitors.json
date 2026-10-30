@@ -2605,7 +2605,8 @@
     "product_focus": "Cepillo eléctrico con masaje, EMS, luz roja y depósito desmontable para líquidos",
     "relevant_products": [
       "TYMO TriThera (DTC, Ulta, Target)",
-      "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)"
+      "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)",
+      "Mista Steam Scalp Massage Brush"
     ],
     "price_visible": "DTC USD 99,99 (tachado 129,99, 29/10/2026) · Ulta USD 59,99 'Early Black Friday Deal' (lista 99,99; era 64,99 el 29/10 03:55) · Best Buy USD 79,99 · Macy's USD 99,99 (datos previos).",
     "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
@@ -2632,7 +2633,8 @@
       "[HECHO 2026-10-26] DTC: USD 99,99 (tachado 129,99), entrega estimada 30/10 a 01/11 según estado; siguen 4 reseñas (4,5★). La venta de Halloween terminaba hoy.",
       "[HECHO 27/10/2026] Ulta muestra el TriThera (variante sku 77001264) a USD 64,99 con la etiqueta 'Early Black Friday Deal' (lista 99,99), en stock y despachado por TYMO. En los runs anteriores figuraba a USD 42,99. La misma ficha de Ulta dice IPX7 y uso en la ducha. Fuente: https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264",
       "[HECHO 2026-10-28] BBB (perfil de la empresa TYMO Beauty, Sacramento): calificación F, 41 quejas, 27 sin respuesta; no acreditada. Es a nivel empresa (sobre todo herramientas de peinado), no específico del TriThera. Fuente: https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217",
-      "[HECHO 2026-10-28] Target: una ficha del TriThera con 4★ y 8 reseñas y otra sin reseñas; Macy's a USD 99,99 sin reseñas. Fuentes: https://www.target.com/p/tymo-trithera-scalp-therapy-red-light-massage-brush-hair-appliance-accessories-champagne-pink/-/A-94433316 ; https://www.macys.com/shop/product/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?ID=28540104"
+      "[HECHO 2026-10-28] Target: una ficha del TriThera con 4★ y 8 reseñas y otra sin reseñas; Macy's a USD 99,99 sin reseñas. Fuentes: https://www.target.com/p/tymo-trithera-scalp-therapy-red-light-massage-brush-hair-appliance-accessories-champagne-pink/-/A-94433316 ; https://www.macys.com/shop/product/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?ID=28540104",
+      "[HECHO 2026-10-30] Segundo aparato de TYMO con depósito: 'Mista Steam Scalp Massage Brush' en Ulta a USD 58,49 'Early Black Friday Deal' (lista 89,99), solo online, despachado por TYMO. Bruma ultrasónica de aceites con dos tanques separados, vibración sónica y cerdas de cojín de aire. Sin reseñas ni fecha de lanzamiento visibles en la copia. Fuente: https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
     ],
     "inferences": [
       "[INTERPRETACIÓN] El precio de oferta en Ulta (USD 42,99) queda prácticamente igual al de 1 unidad de Flubberhome (USD 41,93), con marca conocida, retailer de confianza y envío gratis desde USD 35."
@@ -2640,7 +2642,8 @@
     "hypotheses": [
       "[HIPÓTESIS] Si el precio de Ulta se sostiene hasta Black Friday, en EE. UU. Flubberhome pierde el argumento de 'más barato que las marcas' y necesita competir por claridad, packs y guía, no por precio.",
       "TriThera parece un producto secundario para TYMO: mucha distribución en retail, poca tracción visible propia. No hay señales de una campaña fuerte en este run.",
-      "[HIPÓTESIS 28/10/2026] tymbauty.com (dominio distinto del oficial tymobeauty.com) se presenta como tienda oficial con un contador \"66 sold in last 7 hours\"; podría ser una tienda no oficial que usa la marca. No verificado con TYMO."
+      "[HIPÓTESIS 28/10/2026] tymbauty.com (dominio distinto del oficial tymobeauty.com) se presenta como tienda oficial con un contador \"66 sold in last 7 hours\"; podría ser una tienda no oficial que usa la marca. No verificado con TYMO.",
+      "[HIPÓTESIS 2026-10-30] TYMO arma una línea de 'masaje + líquido' con dos formatos (TriThera con depósito de goteo, Mista con bruma) y los dos quedan en ~USD 58–60 en Ulta durante el pre-Black Friday. Sin datos de ventas que lo confirmen."
     ],
     "unknowns": [
       "Ventas, anuncios, si el precio de Ulta sigue vigente hoy, fecha de lanzamiento, reseñas en Amazon.",
@@ -2654,7 +2657,8 @@
       "https://www.target.com/p/tymo-trithera-trithera-scalp-massage-brush/-/A-1012761777",
       "https://shopmy.us/shop/product/1763258",
       "https://www.bestbuy.com/product/tymo-trithera-hair-brush-champagne-pink/JXVY7ZT2X3",
-      "https://www.beyondstyle.us/prod/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?id=macys_28540104"
+      "https://www.beyondstyle.us/prod/tymo-beauty-trithera-red-light-scalp-therapy-massage-brush?id=macys_28540104",
+      "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
@@ -2827,6 +2831,12 @@
         "run_id": "2026-10-30T03-55",
         "change": "Chequeo rápido: sin cambios. Ulta USD 59,99 'Early Black Friday Deal' (lista 99,99); tienda propia USD 99,99 (tachado 129,99), entrega estimada 1–3/11.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T12-52",
+        "change": "Nuevo producto detectado: Mista (bruma ultrasónica, 2 tanques) en Ulta a USD 58,49 (lista 89,99). TriThera sigue a USD 99,99 en la tienda propia (tachado 129,99), sin cambios.",
+        "source": "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
       }
     ]
   },

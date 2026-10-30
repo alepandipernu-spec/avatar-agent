@@ -1049,5 +1049,41 @@
       }
     ],
     "merece_investigar": "Sí, poco: sirve como referencia de precio del formato en TikTok Shop US. Volumen bajo (223 vendidos)."
+  },
+  "tymo-us:mista": {
+    "id": "tymo-us:mista",
+    "problema": "Aplicar aceites en bruma mientras se masajea y desenreda",
+    "variantes": "desconocidas (una sola SKU vista en Ulta)",
+    "precio": {
+      "Ulta": "USD 58,49 Early Black Friday Deal (lista 89,99)"
+    },
+    "promos": "Early Black Friday Deal en Ulta; la marca queda excluida de la mayoría de los cupones de Ulta",
+    "garantia": "desconocida",
+    "devolucion": "desconocida (Ulta)",
+    "envio": "Ulta: gratis desde USD 35, solo online",
+    "beneficios": [
+      "bruma ultrasónica",
+      "dos tanques para dos fórmulas",
+      "vibración sónica 4.500 RPM",
+      "cerdas con cojín de aire",
+      "iones negativos"
+    ],
+    "objeciones_resueltas": [
+      "desenredar sin tirones",
+      "cambiar de fórmula sin vaciar el tanque"
+    ],
+    "diferenciadores": "Formato bruma (no goteo), marca conocida, retail grande",
+    "merece_investigar": true,
+    "por_que": "Es el segundo aparato con depósito del directo más fuerte de EE. UU. y cae en el mismo rango de precio que el TriThera en Ulta. El formato bruma en otras marcas acumula quejas de tapa y de anunciado vs. recibido.",
+    "source": "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432",
+    "fecha": "2026-10-30",
+    "history": [
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T12-52",
+        "change": "Alta del producto",
+        "source": "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
+      }
+    ]
   }
 }
