@@ -15,9 +15,9 @@
     "value": 164.5547,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 39,
+    "occurrences": 40,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -77,9 +77,9 @@
     "value": 7,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 39,
+    "occurrences": 40,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -191,7 +191,7 @@
     "category": "debilidad",
     "priority": "P2",
     "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
-    "evidence": "Ventana 01/10–30/10: US USD 69,01 de USD 164,55 (42%), 539 impresiones (CPM USD 128), 12 clics en enlace, 8 visitas → USD 8,63 por visita. AR: USD 0,15; CO: USD 0,12; MX: USD 0,53. US - VID Demo (V02) solo: USD 47,55 por 3 visitas (su alerta de CPM se cerró solo porque la ventana ya no incluye el 30/09 y quedó con pocas impresiones, no porque mejorara).",
+    "evidence": "Ventana 01/10–30/10: US USD 69,00 de USD 164,55 (42%), 539 impresiones (CPM USD 128), 12 clics en enlace, 8 visitas → USD 8,63 por visita. AR: USD 0,15; CO: USD 0,12; MX: USD 0,52. US - VID Demo (V02) solo: USD 47,55 por 3 visitas (su alerta de CPM se cerró solo porque la ventana ya no incluye el 30/09 y quedó con pocas impresiones, no porque mejorara).",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -202,9 +202,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 39,
+    "occurrences": 40,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -222,9 +222,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 39,
+    "occurrences": 40,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -263,9 +263,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -304,9 +304,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -324,9 +324,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -344,9 +344,9 @@
     "value": 26.293350923482848,
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
-    "occurrences": 13,
+    "occurrences": 14,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "8832469c9d71": {
     "key": "pdp-trust-removed",
@@ -364,9 +364,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 8,
+    "occurrences": 9,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -384,8 +384,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 6,
+    "occurrences": 7,
     "status": "abierta",
-    "last_seen": "2026-10-30T07:46-03:00"
+    "last_seen": "2026-10-30T15:46-03:00"
   }
 }
