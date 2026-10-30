@@ -1692,5 +1692,44 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-30T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa search/fetch: Gadnic (ficha), Ulta (TYMO TriThera y Mista), Holy Cosmetics, Rootique, Amazon US (Glokore, Satorix), tiendas AR/CO/MX (Beltronic, Civetta, Znice, Introstem, OC Market, Joinet)"
+    ],
+    "fuentes_fallidas": [
+      "Bidcom: CRAWL_HTTP_403",
+      "Mista: sin reseñas ni pruebas externas",
+      "Amazon US (Satorix, Glokore): las copias no traen reseñas",
+      "Mercado Libre: no consultado",
+      "Biblioteca de Meta: no corresponde a la franja (bloqueada desde la nube)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "holy-cosmetics-co",
+      "glokore-us",
+      "rootique"
+    ],
+    "competidores_nuevos": [
+      "rootique"
+    ],
+    "novedades": [
+      "Gadnic pasa de 3 a 18 cuotas sin interés (ARS 5.406), precio igual",
+      "Rootique DUO (referencia): aviso de dosis cada 1 ml, USD 134, 118 reseñas",
+      "Glokore en Amazon US a USD 99,99",
+      "Precios propios y de TYMO/Holy sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012-costo-total-y-plazo-claros-latam",
+      "OPP-015-guia-en-espanol-visible-antes-de-comprar",
+      "OPP-008-angulo-habito-paso-abandonado"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

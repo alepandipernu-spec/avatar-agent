@@ -812,7 +812,7 @@
       "1 unidad (SKU LEDMAS55)"
     ],
     "precio": "ARS 97.299 (tachado 149.691); sin impuestos nacionales ARS 80.412",
-    "promos": "35% OFF; 3 cuotas sin interés con todos los bancos; planes de 9–18 cuotas en bancos seleccionados",
+    "promos": "35% OFF; 18 cuotas sin interés de ARS 5.406 con todos los bancos (desde el 30/10/2026; antes 3 cuotas)",
     "garantia": "12 meses de fábrica",
     "devolucion": "No relevada",
     "envio": "Gratis a todo el país; en el día en AMBA (Bidcom)",
@@ -847,6 +847,12 @@
         "date": "2026-10-21",
         "run_id": "2026-10-21T19-55",
         "change": "Sin cambios de precio (ARS 97.299). La ficha recomienda cargar menos de 6 ml y limpiar el depósito después de cada uso.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Financiación: de 3 a 18 cuotas sin interés con todos los bancos; precio igual (ARS 97.299).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -1083,6 +1089,31 @@
         "run_id": "2026-10-30T12-52",
         "change": "Alta del producto",
         "source": "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
+      }
+    ]
+  },
+  "rootique:duo-gen2": {
+    "id": "rootique:duo-gen2",
+    "problema": "Aplicar tónico capilar (sobre todo minoxidil) sin goteo, sin engrasar el pelo y sin pasarse de dosis.",
+    "variantes": "Una sola versión; combo opcional con cepillo manual de limpieza (USD 16,59).",
+    "precio": "USD 134 (tachado 148)",
+    "promos": "Precio tachado; combo con cepillo.",
+    "garantia": "1 año de reemplazo",
+    "devolucion": "No vista en la copia",
+    "envio": "Internacional; despacho en 1 a 3 días hábiles",
+    "beneficios": "Micro-bruma, peine que separa el pelo, aviso sonoro cada 1 ml, luz roja, hasta 40 usos por carga.",
+    "objeciones_resueltas": "Goteo, pelo grasoso, cuánto aplicar, falta de constancia.",
+    "diferenciadores": "Dosis medida con aviso; se usa con una mano.",
+    "merece_investigar": false,
+    "por_que": "Otro público y otro precio; sirve como referencia de comunicación, no de producto.",
+    "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+    "fecha": "2026-10-30",
+    "history": [
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Alta.",
+        "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
       }
     ]
   }

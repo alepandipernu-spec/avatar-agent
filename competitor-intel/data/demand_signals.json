@@ -839,5 +839,17 @@
     "tipo": "HECHO de un tercero; el ritmo diario es ESTIMACIÓN de HashIQ sin método publicado",
     "indica": "Hay compra del formato eléctrico con aplicador cerca del precio de Flubberhome, pero en volumen bajo y casi sin video que lo empuje.",
     "no_indica": "Ventas reales, rentabilidad ni que el formato no venda más con mejores creatividades."
+  },
+  "rootique-resenas-2026-10-30": {
+    "id": "rootique-resenas-2026-10-30",
+    "fecha": "2026-10-30",
+    "run_id": "2026-10-30T19-55",
+    "senal": "Reseñas en la tienda propia de Rootique DUO",
+    "valor": "118 reseñas, 4,45★ (8% de 1★)",
+    "fuente": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+    "alcance": "Global (tienda en USD)",
+    "tipo": "HECHO",
+    "indica": "Hay compradores dispuestos a pagar más de USD 130 por resolver la aplicación de tónico.",
+    "no_indica": "Ventas, ni demanda en AR/CO/MX, ni nada sobre masajeadores."
   }
 }

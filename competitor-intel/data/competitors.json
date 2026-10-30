@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 97.299 (tachado ARS 149.691, 35% OFF; sin impuestos nacionales ARS 80.412), 3 cuotas sin interés con todos los bancos (gadnic.com.ar, copia de Exa 20/10/2026). Bidcom: envío en el día en AMBA, envío gratis a todo el país, 10 disponibles, 12 meses de garantía.",
+    "price_visible": "ARS 97.299 (tachado ARS 149.691, 35% OFF; sin impuestos nacionales ARS 80.412), 18 cuotas sin interés de ARS 5.406 con todos los bancos (gadnic.com.ar, 30/10/2026 19:55; antes 3 cuotas). Bidcom: envío en el día en AMBA, envío gratis a todo el país, 12 meses de garantía.",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -18,7 +18,8 @@
       "Ofrece 12 meses de garantía y envío gratis.",
       "Ficha técnica completa y medible (batería, potencia, tiempos).",
       "20/10/2026: ya no figura en preventa; precio visible ARS 97.299 con 35% OFF y 3 cuotas sin interés; envío en el día en AMBA (copias de Exa sin fecha visible).",
-      "[HECHO 22/10/2026 19:55] Ficha del masajeador con depósito (LEDMAS55) verificada: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, 'Llega gratis mañana'. La tienda lo rotula '1º Más vendido en masajeador' (rótulo de la propia tienda, no un dato de ventas)."
+      "[HECHO 22/10/2026 19:55] Ficha del masajeador con depósito (LEDMAS55) verificada: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, 'Llega gratis mañana'. La tienda lo rotula '1º Más vendido en masajeador' (rótulo de la propia tienda, no un dato de ventas).",
+      "[HECHO 2026-10-30 19:55] La ficha del masajeador con depósito pasa de 3 a 18 cuotas sin interés con todos los bancos (ARS 5.406 por mes); el precio no cambia (ARS 97.299). Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
     ],
     "inferences": [
       "Compite en confianza de marca local y garantía, no en precio.",
@@ -26,7 +27,8 @@
     ],
     "hypotheses": [
       "La garantía larga es un argumento que Flubberhome no puede igualar hoy.",
-      "Gadnic compite con marca local, garantía de 12 meses, cuotas y entrega en el día; Flubberhome no puede ganarle en plazo ni en garantía, sí en claridad de uso y packs."
+      "Gadnic compite con marca local, garantía de 12 meses, cuotas y entrega en el día; Flubberhome no puede ganarle en plazo ni en garantía, sí en claridad de uso y packs.",
+      "[HIPÓTESIS] Es la jugada de financiación previa al CyberMonday (2–4/11): baja la barrera de pago sin tocar el precio."
     ],
     "unknowns": [
       "Anuncios activos, presupuesto, ventas."
@@ -204,6 +206,12 @@
         "date": "2026-10-30",
         "run_id": "2026-10-30T03-55",
         "change": "Chequeo rápido: sin cambios (ARS 97.299, tachado 149.691, 3 cuotas sin interés). Sin precio de CyberMonday cargado todavía.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Cambio de oferta: 18 cuotas sin interés de ARS 5.406 con todos los bancos (antes 3 cuotas de ARS 32.433). Precio igual: ARS 97.299 (tachado 149.691). Verificado con dos lecturas de Exa (búsqueda y ficha).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -1031,7 +1039,8 @@
       "Garantía de devolución de 60 días (menos envío).",
       "Usa un advertorial de formato periodístico, marcado como 'Advertorial', con tono 'análisis honesto'.",
       "[HECHO] Trustpilot: 3,2★ con 119 opiniones (consultado 21/10/2026). Una opinión del 29/03/2026 dice que la garantía de devolución exige pagar el envío de vuelta (USD 33 en su caso).",
-      "[HECHO] BBB: 18 reclamos en 3 años (9 de producto, 5 de servicio, 4 de entrega). Uno de enero de 2026 es un masajeador capilar que nunca llegó."
+      "[HECHO] BBB: 18 reclamos en 3 años (9 de producto, 5 de servicio, 4 de entrega). Uno de enero de 2026 es un masajeador capilar que nunca llegó.",
+      "[HECHO 2026-10-30] Listado propio en Amazon US (ASIN B0GNP1QN8M, disponible desde 29/04/2026) a USD 99,99; la copia no muestra reseñas. Fuente: https://www.amazon.com/GLOKORE-Therapy-Massager-Applicator-Built/dp/B0GNP1QN8M"
     ],
     "inferences": [
       "Embudo de respuesta directa clásico: advertorial → página puente → checkout con venta adicional de garantía."
@@ -1055,7 +1064,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Embudo de respuesta directa completo (advertorial, urgencia, venta adicional de garantía): aprendizaje de estructura, no de claims.",
-    "last_reviewed": "2026-10-22",
+    "last_reviewed": "2026-10-30",
     "history": [
       {
         "date": "2026-10-17",
@@ -1104,6 +1113,12 @@
         "run_id": "2026-10-22T03-55",
         "change": "La ficha del masajeador sigue sin precio visible y con el mismo 'Purchased 2,541 times in the past 30 days'. La portada promete devolución en 30 días con reembolso total 'sin preguntas' y muestra '4.8/5 based on 137,135 reviews' (cifra de toda la marca), frente a 3,2★ con 119 opiniones en Trustpilot. El masajeador no figura entre los 'Customer Favorites' de la portada.",
         "source": "https://shop.glokore.com ; https://shop.glokore.com/products/glokore-red-light-therapy-scalp-massager"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Listado en Amazon US a USD 99,99 (debajo de los USD 119,99 de shop.glokore.com). Sin reseñas visibles en la copia.",
+        "source": "https://www.amazon.com/GLOKORE-Therapy-Massager-Applicator-Built/dp/B0GNP1QN8M"
       }
     ]
   },
@@ -1816,6 +1831,12 @@
         "date": "2026-10-30",
         "run_id": "2026-10-30T03-55",
         "change": "Sin cambios: COP 149.990 (tachado 199.990, -25%), 4,9★ con 27 reseñas. Política de cambios: revisar al recibir; reclamo por daño dentro de 48 h.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, -25%; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo al aparato: es el testimonio que Flubberhome no puede usar.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
@@ -2837,6 +2858,12 @@
         "run_id": "2026-10-30T12-52",
         "change": "Nuevo producto detectado: Mista (bruma ultrasónica, 2 tanques) en Ulta a USD 58,49 (lista 89,99). TriThera sigue a USD 99,99 en la tienda propia (tachado 129,99), sin cambios.",
         "source": "https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Chequeo rápido: TriThera en Ulta a USD 59,99 y Mista a USD 58,49 (Early Black Friday), sin cambios. Mista sigue sin reseñas visibles; no aparecen pruebas ni reseñas externas.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
       }
     ]
   },
@@ -3388,6 +3415,55 @@
         "run_id": "2026-10-29T19-54",
         "change": "Alta en la base como competidor directo (encontrado en HashIQ).",
         "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
+      }
+    ]
+  },
+  "rootique": {
+    "id": "rootique",
+    "name": "Rootique DUO (Gen 2)",
+    "domain": "rootique.co",
+    "market": "US / global (envío internacional; tienda en USD, AED, HKD)",
+    "category": "C_inspiracional",
+    "product_focus": "Aplicador eléctrico de tónico en micro-bruma (pensado para minoxidil), con peine que separa el pelo, luz roja y aviso de dosis",
+    "relevant_products": [
+      "Rootique DUO (Gen 2)"
+    ],
+    "price_visible": "USD 134 (tachado USD 148) en la tienda propia, 30/10/2026; en su blog aparece a USD 148 (tachado 297).",
+    "value_prop": "Aplicar el tónico con una mano, en unos 15 segundos, sin goteo y con un aviso sonoro cada 1 ml para no pasarse.",
+    "claims_observed": "Claims médicos y de absorción (\"hasta 3,5× más absorción\", \"56%\") con nota al pie de método propio; avales de tricólogos con muestras gratis. No replicables por Flubberhome.",
+    "channels": [
+      "Tienda propia (Shopify)",
+      "Anuncios (una reseña dice que compró tras ver un anuncio de madrugada)"
+    ],
+    "ads": "No vistos en la Biblioteca de Meta (bloqueada desde la nube).",
+    "facts": [
+      "[HECHO 2026-10-30] USD 134 (tachado 148), tanque de 5 ml, no compatible con aceites espesos, 1 año de garantía de reemplazo, 4,45★ con 118 reseñas: 87 de 5★, 18 de 4★, 2 de 3★, 1 de 2★ y 10 de 1★ (8%). Fuente: https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+      "[HECHO 2026-10-30] Las reseñas visibles valoran que el tónico quede en el cuero y no en el pelo, que no gotee y que sea más fácil sostener la rutina. Fuente: https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] Resuelve con un producto lo mismo que Flubberhome busca mostrar con la demo: dónde termina el líquido y cuánto se usa. Su público es el de minoxidil, no el de masaje."
+    ],
+    "hypotheses": [
+      "[HIPÓTESIS] El aviso de dosis (cuánto aplicaste) es una respuesta concreta al miedo a excederse; Flubberhome puede cubrirlo con información (cuántos ml por sesión) sin cambiar el producto."
+    ],
+    "unknowns": [
+      "Texto de las 10 reseñas de 1★",
+      "Ventas",
+      "Presencia en LatAm"
+    ],
+    "sources": [
+      "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+      "https://rootique.co/"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Referencia de cómo comunicar dosis y aplicación sin goteo; no compite por precio ni por público.",
+    "last_reviewed": "2026-10-30",
+    "history": [
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Alta como referencia (C_inspiracional).",
+        "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
       }
     ]
   }

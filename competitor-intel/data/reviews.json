@@ -297,9 +297,9 @@
     },
     {
       "problema": "Miedo a excederse con el líquido: raíces grasosas o irritación del cuero cabelludo sensible (duda previa a la compra)",
-      "n_fuentes": 2,
-      "n_competidores": 0,
-      "clasificacion": "aislado/incipiente (2 fuentes: preguntas de lectores en una guía de 2026 y una guía editorial de 2025; ninguna es reseña de compra)",
+      "n_fuentes": 3,
+      "n_competidores": 1,
+      "clasificacion": "incipiente (3 fuentes: 2 editoriales y 1 marca que lo convierte en función de producto)",
       "oportunidad": "[HIPÓTESIS] Es la otra cara del goteo: además de 'no chorrea', el comprador quiere saber que puede usar poco. Mostrar en la demo real (OPP-001/OPP-017) una carga chica y pasadas cortas, y en la Guía (OPP-015) cómo empezar con poco y ajustar. Sin claims médicos ni promesas sobre irritación.",
       "fecha": "2026-10-25",
       "run_id": "2026-10-25T19-55",
@@ -315,6 +315,12 @@
           "run_id": "2026-10-26T19-55",
           "change": "+1 fuente editorial (Wimpole): los dispensadores baratos pueden largar demasiado aceite y dejar el pelo graso.",
           "source": "https://wimpole.com/blog/12-best-and-worst-scalp-massagers-for-hair-growth/"
+        },
+        {
+          "date": "2026-10-30",
+          "run_id": "2026-10-30T19-55",
+          "change": "+1 fuente: Rootique DUO vende como función un aviso sonoro cada 1 ml y sus reseñas valoran que el líquido no quede en el pelo.",
+          "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
         }
       ]
     },
@@ -893,6 +899,36 @@
       "fecha_consulta": "2026-10-29",
       "run_id": "2026-10-29T19-54",
       "tipo": "reseña"
+    },
+    {
+      "fuente": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+      "producto": "Rootique DUO (Gen 2)",
+      "problema": "dispensado del líquido (resuelto, según la reseña)",
+      "fecha": "no visible",
+      "parafrasis": "Una compradora cuenta que el sérum le quedaba en el pelo y no en el cuero, y que con el aplicador eso dejó de pasar.",
+      "fecha_consulta": "2026-10-30",
+      "run_id": "2026-10-30T19-55",
+      "tipo": "reseña positiva de competidor (muestra el problema)"
+    },
+    {
+      "fuente": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+      "producto": "Rootique DUO (Gen 2)",
+      "problema": "constancia de la rutina",
+      "fecha": "no visible",
+      "parafrasis": "Otra compradora dice que con el gotero se salteaba días y que el aparato le hizo más fácil sostener la rutina.",
+      "fecha_consulta": "2026-10-30",
+      "run_id": "2026-10-30T19-55",
+      "tipo": "reseña positiva de competidor (muestra el problema)"
+    },
+    {
+      "fuente": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator",
+      "producto": "Rootique DUO (Gen 2)",
+      "problema": "distribución de calificaciones",
+      "fecha": "no visible",
+      "parafrasis": "De 118 reseñas, 10 son de 1 estrella (8%); la copia no muestra su texto.",
+      "fecha_consulta": "2026-10-30",
+      "run_id": "2026-10-30T19-55",
+      "tipo": "resumen de calificaciones"
     }
   ]
 }

@@ -434,6 +434,12 @@
         "date": "2026-10-17",
         "run_id": "2026-10-17T15-28-b",
         "change": "creada"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "+1 fuente: una reseña de Rootique dice que con el gotero se salteaba días y con el aparato sostuvo la rutina. Sigue siendo 1 fuente directa; sin cambio de score.",
+        "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
       }
     ]
   },
@@ -597,6 +603,12 @@
         "run_id": "2026-10-26T19-55",
         "change": "Parcialmente atendida por el dueño: la ficha nueva tiene una FAQ '¿Cuánto pago en mi moneda?' (USD, conversión del medio de pago, posibles percepciones) y ofrece WhatsApp antes de comprar. Sigue faltando el monto aproximado en moneda local y la fecha estimada junto al botón. Sin cambio de score hasta medir.",
         "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Más evidencia AR: Gadnic pasa a 18 cuotas sin interés de ARS 5.406 con el precio igual. Junto al botón, Flubberhome muestra un pago único en USD; la diferencia en la barrera de pago se agranda justo antes del CyberMonday. Si el medio de pago permite cuotas, decirlo en ese bloque. Sin cambio de score (urgencia ya en 4).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ],
     "history": [
@@ -843,6 +855,12 @@
         "run_id": "2026-10-26T19-55",
         "change": "Parcialmente atendida: la Guía Digital ya es una página pública enlazada desde la ficha (incluye 'distribuí una pequeña cantidad por secciones', 3–5 min, intensidad baja primero). Queda por medir si la visitan antes de comprar. Sin cambio de score.",
         "source": "https://flubberhomme.com/pages/guia-scalpcare-pro"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T19-55",
+        "change": "Idea concreta: en la Guía y en la demo, decir cuánto líquido se usa por sesión ('con X ml alcanza para una pasada completa'), medido con el aparato propio. Referencia: Rootique vende un aviso cada 1 ml como función. Sin cambio de score.",
+        "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
       }
     ]
   },
