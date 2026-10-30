@@ -1624,5 +1624,40 @@
       "OPP-017-demo-real-rotulada-en-microdramas-ia"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-30T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa fetch: Ulta (TYMO), TYMO DTC, Anyra, Gadnic, Holy Cosmetics (ficha y política), Lena, ISYRA MX",
+      "Exa search: CyberMonday AR, Buen Fin MX (Amazon MX, Joinet, La Milpa de María, El Cronista)"
+    ],
+    "fuentes_fallidas": [
+      "Exa: primeras URLs adivinadas dieron CRAWL_NOT_FOUND/TIMEOUT; se reintentó con las URLs guardadas y cargaron",
+      "Mercado Libre AR/MX: el buscador devolvió páginas de login, sin listados",
+      "Tipo de cambio: no se actualizó",
+      "Biblioteca de Meta: no corresponde a la franja"
+    ],
+    "competidores_revisados": [
+      "tymo-us",
+      "anyra-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "lena-vegetal-ar",
+      "isyra-mx-cl",
+      "microshop-ar",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en directos ni en la ficha propia",
+      "CyberMonday AR arranca el 2/11 00 h: la categoría todavía sin precios",
+      "Referencia MX: aplicador manual a MXN 199 (La Milpa de María)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

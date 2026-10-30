@@ -376,6 +376,12 @@
         "run_id": "2026-10-29T12-21",
         "change": "Faltan 4 días: el sitio sigue sin ofertas ('empiezan el 2/11 a las 00 h').",
         "source": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T03-55",
+        "change": "El sitio oficial cybermonday.com.ar avisa que las ofertas empiezan el 2/11 a las 00 h; la categoría Masajeadores todavía no muestra precios (30/10).",
+        "source": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos"
       }
     ]
   },
@@ -688,6 +694,12 @@
         "run_id": "2026-10-22T11-55",
         "change": "Alta",
         "source": "excelsior.com.mx ; nmas.com.mx"
+      },
+      {
+        "date": "2026-10-30",
+        "run_id": "2026-10-30T03-55",
+        "change": "El Cronista México (29/10/2026) confirma 13–17/11; Profeco publica un comparador de precios, pero no cubre cuidado personal.",
+        "source": "https://www.cronista.com/mexico/finanzas-economia/buen-fin-el-micrositio-del-gobierno-para-comparar-precios-y-saber-cuanto-cuestan-los-productos/"
       }
     ]
   },
