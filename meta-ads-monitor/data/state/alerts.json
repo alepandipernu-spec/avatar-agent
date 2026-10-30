@@ -5,19 +5,19 @@
     "object": "account",
     "priority": "P1",
     "category": "debilidad",
-    "title": "USD 189.81 gastados en el período sin compras",
-    "evidence": "Gasto Meta USD 189.81; compras Shopify 0; compras atribuidas por Meta 0.",
+    "title": "USD 164.55 gastados en el período sin compras",
+    "evidence": "Gasto Meta USD 164.55; compras Shopify 0; compras atribuidas por Meta 0.",
     "diagnosis": "El embudo no llega a compra. No alcanza para culpar al anuncio: también pueden fallar oferta, precio, confianza o checkout.",
     "confidence": "media",
     "impact": "Gasto sin retorno verificable.",
     "action": "Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).",
     "needs_approval": false,
-    "value": 189.8138,
+    "value": 164.5547,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -57,8 +57,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 38,
-    "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-29T23:46-03:00",
+    "resolved_at": "2026-10-30T07:46-03:00"
   },
   "4b5a34559b9a": {
     "fingerprint": "4b5a34559b9a",
@@ -67,7 +68,7 @@
     "priority": "P2",
     "category": "anomalia",
     "title": "Entrega intermitente: el gasto se prende y se apaga",
-    "evidence": "7 de 30 días con gasto; 7 cortes en el período.",
+    "evidence": "6 de 30 días con gasto; 7 cortes en el período.",
     "diagnosis": "Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje.",
     "confidence": "media",
     "impact": "Los resultados no son comparables entre días y Meta no sale de aprendizaje.",
@@ -76,9 +77,9 @@
     "value": 7,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -190,7 +191,7 @@
     "category": "debilidad",
     "priority": "P2",
     "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
-    "evidence": "US: USD 95,65, 875 impresiones (CPM USD 109), 18 clics en enlace, 12 visitas → USD 7,97 por visita. AR: USD 0,19; CO: USD 0,15; MX: USD 0,56. US - VID Demo (V02) solo: USD 60,13 por 4 visitas.",
+    "evidence": "Ventana 01/10–30/10: US USD 69,01 de USD 164,55 (42%), 539 impresiones (CPM USD 128), 12 clics en enlace, 8 visitas → USD 8,63 por visita. AR: USD 0,15; CO: USD 0,12; MX: USD 0,53. US - VID Demo (V02) solo: USD 47,55 por 3 visitas (su alerta de CPM se cerró solo porque la ventana ya no incluye el 30/09 y quedó con pocas impresiones, no porque mejorara).",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -201,9 +202,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -221,9 +222,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 38,
+    "occurrences": 39,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -262,9 +263,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 37,
+    "occurrences": 38,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -303,9 +304,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 37,
+    "occurrences": 38,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -323,9 +324,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 37,
+    "occurrences": 38,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -334,7 +335,7 @@
     "priority": "P2",
     "category": "debilidad",
     "title": "'MX - IMG Hero': CPM 6× la mediana",
-    "evidence": "CPM USD 26.29 vs mediana USD 4.40.",
+    "evidence": "CPM USD 26.29 vs mediana USD 4.38.",
     "diagnosis": "Audiencia o mercado caro (p. ej. US) o entrega con poca competencia por presupuesto bajo.",
     "confidence": "media",
     "impact": "Cada visita cuesta mucho más.",
@@ -343,9 +344,9 @@
     "value": 26.293350923482848,
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
-    "occurrences": 12,
+    "occurrences": 13,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "8832469c9d71": {
     "key": "pdp-trust-removed",
@@ -363,9 +364,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 7,
+    "occurrences": 8,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -383,8 +384,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 5,
+    "occurrences": 6,
     "status": "abierta",
-    "last_seen": "2026-10-29T23:46-03:00"
+    "last_seen": "2026-10-30T07:46-03:00"
   }
 }

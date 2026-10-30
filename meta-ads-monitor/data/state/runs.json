@@ -640,5 +640,23 @@
       "meta_ad_library": "blocked",
       "meta_ads_manager_pixel_facturacion": "partial"
     }
+  },
+  {
+    "run_id": "2026-10-30T07:46-03:00",
+    "started_at": "2026-10-30T07:46:49-03:00",
+    "finished_at": "2026-10-30T07:48:40-03:00",
+    "report": "2026-10-30T07-46-03-00.md",
+    "alerts_open": 10,
+    "alerts_notify": [],
+    "resolved": [
+      "'US - VID Demo (V02)': CPM 31× la mediana"
+    ],
+    "sources": {
+      "escalafy": "ok",
+      "shopify": "ok",
+      "competencia_web": "partial",
+      "meta_ad_library": "blocked",
+      "meta_ads_manager_pixel_facturacion": "partial"
+    }
   }
 ]
