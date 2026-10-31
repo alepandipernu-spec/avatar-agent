@@ -811,8 +811,8 @@
     "variantes": [
       "1 unidad (SKU LEDMAS55)"
     ],
-    "precio": "ARS 97.299 (tachado 149.691); sin impuestos nacionales ARS 80.412",
-    "promos": "35% OFF; 18 cuotas sin interés de ARS 5.406 con todos los bancos (desde el 30/10/2026; antes 3 cuotas)",
+    "precio": "ARS 89.999 (tachado 138.460); sin impuestos nacionales ARS 74.379",
+    "promos": "35% OFF; 3 cuotas sin interés de ARS 30.000 con todos los bancos; banners de 9–20 cuotas en bancos seleccionados (31/10/2026)",
     "garantia": "12 meses de fábrica",
     "devolucion": "No relevada",
     "envio": "Gratis a todo el país; en el día en AMBA (Bidcom)",
@@ -853,6 +853,12 @@
         "date": "2026-10-30",
         "run_id": "2026-10-30T19-55",
         "change": "Financiación: de 3 a 18 cuotas sin interés con todos los bancos; precio igual (ARS 97.299).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "Precio ARS 97.299 → 89.999 (−7,5%); cuotas generales 18 → 3 sin interés.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]

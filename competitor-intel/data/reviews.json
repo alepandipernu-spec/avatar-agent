@@ -929,6 +929,26 @@
       "fecha_consulta": "2026-10-30",
       "run_id": "2026-10-30T19-55",
       "tipo": "resumen de calificaciones"
+    },
+    {
+      "fuente": "https://www.amazon.com/Uniisuui-Massager-Applicator-Electric-Dispenser/dp/B0D8KF2ZCH",
+      "producto": "UniiSuui 2 en 1 (Amazon US)",
+      "problema": "calificación general baja pese a reseña destacada positiva",
+      "fecha": "no visible",
+      "parafrasis": "3,4★ en 51 reseñas; la reseña destacada valora que no enrede pelo fino y el cepillito de limpieza incluido.",
+      "fecha_consulta": "2026-10-31",
+      "run_id": "2026-10-31T19-55",
+      "tipo": "resumen de calificaciones"
+    },
+    {
+      "fuente": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush",
+      "producto": "Breo Scalp 3 (revendedor UK)",
+      "problema": "precauciones o líquidos compatibles descubiertos después de comprar",
+      "fecha": "no visible",
+      "parafrasis": "Reseña ya registrada: la compradora se sorprendió con las precauciones en letra chica y pide que digan qué aceites se pueden usar. Sin fuentes nuevas para el patrón.",
+      "fecha_consulta": "2026-10-31",
+      "run_id": "2026-10-31T19-55",
+      "tipo": "reconfirmación"
     }
   ]
 }

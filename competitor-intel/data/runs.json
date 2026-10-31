@@ -1803,5 +1803,41 @@
       "OPP-013-angulo-regalo-temporada"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-31T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta (TYMO TriThera), Holy Cosmetics",
+      "Exa search: reseñas (Breo/Aetheo, TidyHacks, Nenav, Yaxa, Amazon US/MX/FR, Alverela), nuevos competidores US/MX/CO/AR (Joinet, Znice, Peosaard, OC Market, Beltronic, MegaCuper, Lena, Civetta, Microshop)"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre AR: no consultado (403 en runs previos)",
+      "Biblioteca de Meta: no corresponde a la franja (bloqueada desde la nube)",
+      "Amazon: las copias no traen el texto de las reseñas negativas"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "holy-cosmetics-co",
+      "beltronic-ar",
+      "alverela-co",
+      "amazon-generics-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic baja a ARS 89.999 (−7,5%) y vuelve a 3 cuotas generales",
+      "Beltronic: kit con serum a ARS 139.900 (tachado 175.890)",
+      "ULDSPR 3 en 1: listado nuevo con 5–6 reseñas (sumado como referencia en amazon-generics-us)",
+      "Flubberhome: segundo producto activo en Shopify (no competidor; anotado en contexto)",
+      "TYMO y Holy sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012-costo-total-y-plazo-claros-latam"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

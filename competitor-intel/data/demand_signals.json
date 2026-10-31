@@ -875,5 +875,17 @@
     "tipo": "HECHO",
     "indica": "Hay compradores dispuestos a pagar más de USD 130 por resolver la aplicación de tónico.",
     "no_indica": "Ventas, ni demanda en AR/CO/MX, ni nada sobre masajeadores."
+  },
+  "gadnic-precio-precyber-2026-10": {
+    "id": "gadnic-precio-precyber-2026-10",
+    "fecha": "2026-10-31",
+    "run_id": "2026-10-31T19-55",
+    "senal": "Gadnic baja el precio del masajeador con depósito la víspera del CyberMonday AR",
+    "valor": "ARS 97.299 → 89.999 (−7,5%); cuotas generales 18 → 3",
+    "fuente": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+    "alcance": "AR, tienda propia de Gadnic",
+    "tipo": "HECHO (precio publicado)",
+    "indica": "El competidor local directo más relevante prioriza precio antes que financiación larga para el CyberMonday.",
+    "no_indica": "Ventas, stock ni si el precio se sostiene después del 4/11."
   }
 }

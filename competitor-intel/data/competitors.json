@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 97.299 (tachado ARS 149.691, 35% OFF; sin impuestos nacionales ARS 80.412), 18 cuotas sin interés de ARS 5.406 con todos los bancos (gadnic.com.ar, 30/10/2026 19:55; antes 3 cuotas). Bidcom: envío en el día en AMBA, envío gratis a todo el país, 12 meses de garantía.",
+    "price_visible": "ARS 89.999 (tachado ARS 138.460, 35% OFF; sin impuestos nacionales ARS 74.379), 3 cuotas sin interés de ARS 30.000 con todos los bancos; banners de 9 a 20 cuotas 'en seleccionados' (gadnic.com.ar, copia de Exa consultada 31/10/2026 19:55; antes ARS 97.299 con 18 cuotas de ARS 5.406).",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -19,7 +19,8 @@
       "Ficha técnica completa y medible (batería, potencia, tiempos).",
       "20/10/2026: ya no figura en preventa; precio visible ARS 97.299 con 35% OFF y 3 cuotas sin interés; envío en el día en AMBA (copias de Exa sin fecha visible).",
       "[HECHO 22/10/2026 19:55] Ficha del masajeador con depósito (LEDMAS55) verificada: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, 'Llega gratis mañana'. La tienda lo rotula '1º Más vendido en masajeador' (rótulo de la propia tienda, no un dato de ventas).",
-      "[HECHO 2026-10-30 19:55] La ficha del masajeador con depósito pasa de 3 a 18 cuotas sin interés con todos los bancos (ARS 5.406 por mes); el precio no cambia (ARS 97.299). Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      "[HECHO 2026-10-30 19:55] La ficha del masajeador con depósito pasa de 3 a 18 cuotas sin interés con todos los bancos (ARS 5.406 por mes); el precio no cambia (ARS 97.299). Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+      "[HECHO 2026-10-31] Precio ARS 89.999 (tachado 138.460), 3 cuotas sin interés de ARS 30.000; baja de 7,5% frente a ARS 97.299 del 30–31/10. Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
     ],
     "inferences": [
       "Compite en confianza de marca local y garantía, no en precio.",
@@ -218,6 +219,12 @@
         "date": "2026-10-31",
         "run_id": "2026-10-31T03-55",
         "change": "Sin cambios de precio: ARS 97.299 (tachado 149.691), 18 cuotas sin interés de ARS 5.406. La cabecera de la ficha suma rótulos de 20, 12 y 9 cuotas 'en seleccionados' (banners de bancos). Sin precio de CyberMonday cargado aún.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "Baja de precio: ARS 97.299 → 89.999 (−7,5%); el tachado pasa de 149.691 a 138.460 (sigue '35% OFF'). Las cuotas generales vuelven de 18 a 3 sin interés (ARS 30.000); quedan banners de 9–20 cuotas en bancos seleccionados. A 1 día del CyberMonday AR (2–4/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -451,6 +458,12 @@
         "run_id": "2026-10-31T03-55",
         "change": "PY008: ARS 129.900 (tachado 149.900, 13% OFF), ARS 110.415 en efectivo (solo retiro o moto CABA), 3 cuotas de ARS 43.300. La ficha muestra a la vez 'Sin stock' y 'quedan 90 en stock': no se puede confirmar disponibilidad. Precio igual al del 25/10.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "Chequeo en búsqueda: PY008 suelto sigue a ARS 129.900 (tachado 149.900). El kit con serum Capixyl figura a ARS 139.900 (tachado 175.890, 20% OFF); el 17/10 se había registrado 175.890 como precio del kit.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
       }
     ]
   },
@@ -1005,7 +1018,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-26",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -1041,6 +1054,12 @@
         "run_id": "2026-10-26T03-55",
         "change": "+1 listado: Dayln 3 en 1 con luz LED y aplicador, USD 49,99 (disponible desde 16/06/2026), sin reseñas visibles. Satorix sigue a USD 29,99.",
         "source": "https://www.amazon.com/Electric-Massager-Applicator-Cordless-Vibration/dp/B0H5C4NXKX"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "+1 referencia: ULDSPR 3 en 1 (peine con 6 bolillas dispensadoras, 3 modos y 5 intensidades, IPX7), disponible desde enero de 2026 según TidyHacks; 5–6 reseñas, todas positivas. Muestra demasiado chica para sacar conclusiones. UniiSuui sigue a USD 46,70 con 3,4★ en 51 reseñas.",
+        "source": "https://tidyhacks.co/reviews/3-in-1-scalp-massage-comb/ ; https://nenav.com/3-in-1-electric-scalp-massage-comb-portable-oil-applicator-grey ; https://www.amazon.com/Uniisuui-Massager-Applicator-Electric-Dispenser/dp/B0D8KF2ZCH"
       }
     ]
   },
@@ -1872,6 +1891,12 @@
       {
         "date": "2026-10-31",
         "run_id": "2026-10-31T03-55",
+        "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
         "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
@@ -2924,6 +2949,12 @@
         "run_id": "2026-10-31T03-55",
         "change": "Chequeo rápido: Ulta USD 59,99 (Early Black Friday, lista 99,99) y tienda propia USD 99,99 (tachado 129,99), sin cambios.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "Chequeo rápido: Ulta USD 59,99 (Early Black Friday, lista 99,99), sin cambios.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -2993,7 +3024,7 @@
     "sources": [
       "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     ],
-    "last_reviewed": "2026-10-20",
+    "last_reviewed": "2026-10-31",
     "relevance": "media",
     "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
     "facts": [
@@ -3012,6 +3043,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T19-54",
         "change": "Alta en la base (run de nuevos competidores).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T19-55",
+        "change": "Revisión de reseñas: siguen 23 reseñas (20 de 5★), sin quejas nuevas visibles. La hipótesis de reseñas importadas se mantiene (nombres con formato de datos de prueba), sin verificar.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
