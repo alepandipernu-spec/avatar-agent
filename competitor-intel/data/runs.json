@@ -1731,5 +1731,43 @@
       "OPP-008-angulo-habito-paso-abandonado"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-31T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa fetch: Gadnic, Beltronic, Microshop, Lena, Carrello (sin precio), Ulta, TYMO DTC, Anyra, Holy Cosmetics, Nova Group, cybermonday.com.ar",
+      "Exa search AR",
+      "WebSearch/WebFetch: dolarhistorico.com (dólar tarjeta)"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre AR: CRAWL_HTTP_403",
+      "Carrello: la copia no trae precio",
+      "Biblioteca de Meta: no corresponde a la franja (bloqueada desde la nube)",
+      "Tipo de cambio MX/CO: no actualizado"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "carrello-ar",
+      "beltronic-ar",
+      "microshop-ar",
+      "lena-vegetal-ar",
+      "tymo-us",
+      "anyra-us",
+      "holy-cosmetics-co",
+      "ar-tiendas-chicas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Directos sin cambios de precio ni oferta",
+      "CyberMonday AR sin precios cargados (arranca 2/11 00 h)",
+      "Dólar tarjeta ARS 2.028 (30/10): 1 u + envío ≈ ARS 105.300",
+      "Nova Group (AR, formato bruma) a ARS 34.900, sumado a ar-tiendas-chicas"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

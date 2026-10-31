@@ -39,7 +39,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -213,6 +213,12 @@
         "run_id": "2026-10-30T19-55",
         "change": "Cambio de oferta: 18 cuotas sin interés de ARS 5.406 con todos los bancos (antes 3 cuotas de ARS 32.433). Precio igual: ARS 97.299 (tachado 149.691). Verificado con dos lecturas de Exa (búsqueda y ficha).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Sin cambios de precio: ARS 97.299 (tachado 149.691), 18 cuotas sin interés de ARS 5.406. La cabecera de la ficha suma rótulos de 20, 12 y 9 cuotas 'en seleccionados' (banners de bancos). Sin precio de CyberMonday cargado aún.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -254,7 +260,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -356,6 +362,12 @@
         "run_id": "2026-10-30T03-55",
         "change": "Sin cambios: kit ARS 25.600 (tachado 32.000), ARS 20.480 por transferencia, '+70 vendidos', 'quedan 3 en stock'.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Sin cambios: kit ARS 25.600 (tachado 32.000), ARS 20.480 por transferencia, '+70 vendidos', 'quedan 3 en stock'.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
   },
@@ -391,7 +403,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -433,6 +445,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "La copia de Exa del PY008 no trajo el precio y muestra aviso de sin stock para agregar al carrito (no se pudo confirmar si está agotado).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "PY008: ARS 129.900 (tachado 149.900, 13% OFF), ARS 110.415 en efectivo (solo retiro o moto CABA), 3 cuotas de ARS 43.300. La ficha muestra a la vez 'Sin stock' y 'quedan 90 en stock': no se puede confirmar disponibilidad. Precio igual al del 25/10.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -464,7 +482,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -516,6 +534,12 @@
       {
         "date": "2026-10-30",
         "run_id": "2026-10-30T03-55",
+        "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
         "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
@@ -619,7 +643,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia de lo que NO conviene replicar (claims de crecimiento, precio tachado inflado) y de cómo comunica la aplicación 'sin manos grasosas'.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -780,6 +804,12 @@
         "date": "2026-10-30",
         "run_id": "2026-10-30T03-55",
         "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95, 'SAVE 68%'; despacho 48 h, entrega 7–14 días hábiles).",
+        "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Chequeo rápido: sin cambios (USD 50,95, tachado 158,95, 'SAVE 68%').",
         "source": "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
@@ -1693,7 +1723,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -1837,6 +1867,12 @@
         "date": "2026-10-30",
         "run_id": "2026-10-30T19-55",
         "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, -25%; 4,9★ con 27 reseñas). Una reseña visible atribuye crecimiento de pelo al aparato: es el testimonio que Flubberhome no puede usar.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
@@ -2234,7 +2270,8 @@
       "Precios muy dispares para productos parecidos (ARS 19.800 a 83.316).",
       "[19/10/2026] Tecno Crazy (AR): 'masajeador capilar recargable' marca ACME a ARS 27.200 contado/transferencia o ARS 39.440 en 6 cuotas, entrega inmediata (no queda claro si tiene depósito). Fuente: https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105",
       "[23/10/2026] DONKA Beauty (AR, tienda de skincare coreana en Wix; envíos por Correo Argentino, 3 cuotas sin interés): masajeador eléctrico con tanque de 3 ml, USB-C, ARS 80.000. Sin garantía, stock ni reseñas visibles en la ficha.",
-      "[2026-10-24] Movex (AR, Tiendanube): cepillo con vibración, LED rojo/azul y depósito de 15 ml con bruma a ARS 20.800 (3 cuotas sin interés; inventario 28 en los datos de la página). Formato vecino (bruma), no el de depósito con bolillas. Fuente: https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/"
+      "[2026-10-24] Movex (AR, Tiendanube): cepillo con vibración, LED rojo/azul y depósito de 15 ml con bruma a ARS 20.800 (3 cuotas sin interés; inventario 28 en los datos de la página). Formato vecino (bruma), no el de depósito con bolillas. Fuente: https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/",
+      "[HECHO 2026-10-31] Nova Group (novagroup.ar, AR): 'Cepillo Therabello™', vibración 3 niveles, LED rojo/azul y depósito de 15 ml con nano-atomización (bruma), ARS 34.900. La ficha aclara que no es un dispositivo médico. Mismo formato vecino que Movex (bruma), no el de bolillas. Sin reseñas, stock ni garantía visibles en la copia. Fuente: https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE"
     ],
     "inferences": [
       "[HIPÓTESIS] En AR no hay un precio de referencia claro para el eléctrico: quien explique mejor el valor puede fijarlo.",
@@ -2244,7 +2281,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-25",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-17",
@@ -2281,6 +2318,12 @@
         "run_id": "2026-10-25T03-55",
         "change": "DONKA sin cambios: ARS 80.000, tanque de 3 ml; sigue sin stock, garantía ni envío visibles. Nueva referencia lejana: Tecnoimpor (mayorista AR), masajeador 'pulpo' de 8 cabezales sin depósito a ARS 21.000; no compite en formato.",
         "source": "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Se suma Nova Group (Therabello, bruma 15 ml, ARS 34.900) como referencia de formato vecino.",
+        "source": "https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE"
       }
     ],
     "id": "ar-tiendas-chicas",
@@ -2304,7 +2347,8 @@
       "https://tulivegan.mitiendanube.com/ar/productos/cepillo-electrico-masajeador-capilar-tulivegan/",
       "https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105",
       "https://www.donkabeauty.com/product-page/masajeador-automatico-de-cuero-cabelludo",
-      "https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/"
+      "https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/",
+      "https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE"
     ],
     "relevance": "baja",
     "follow_reason": "Muestra la dispersión de precios en AR; seguimiento ligero."
@@ -2683,7 +2727,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-19",
@@ -2864,6 +2908,12 @@
         "run_id": "2026-10-30T19-55",
         "change": "Chequeo rápido: TriThera en Ulta a USD 59,99 y Mista a USD 58,49 (Early Black Friday), sin cambios. Mista sigue sin reseñas visibles; no aparecen pruebas ni reseñas externas.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://www.ulta.com/p/mista-steam-scalp-massage-brush-mkt77007307?sku=77011432"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "Chequeo rápido: Ulta USD 59,99 (Early Black Friday, lista 99,99) y tienda propia USD 99,99 (tachado 129,99), sin cambios.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://tymobeauty.com/products/tymo-trithera"
       }
     ]
   },
@@ -3123,7 +3173,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-10-29",
+    "last_reviewed": "2026-10-31",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -3167,6 +3217,12 @@
         "date": "2026-10-29",
         "run_id": "2026-10-29T03-55",
         "change": "La copia de Exa mostró '24% OFF' y envío gratis, pero no el monto ni el stock con claridad (aparece aviso de sin stock al agregar, posiblemente genérico). Último precio: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T03-55",
+        "change": "La copia de Exa no trae precio; muestra el aviso de sin stock al agregar (posiblemente genérico). Último precio: ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
