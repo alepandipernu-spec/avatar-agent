@@ -300,6 +300,12 @@
         "run_id": "2026-10-26T11-57",
         "change": "Sin novedades: Breo mantiene su landing; TYMO y Anyra sin Black Friday visible; CyberMonday AR a 6 días.",
         "source": "https://us.breo.com/pages/black-friday-2026 ; https://tymobeauty.com/products/tymo-trithera ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "Kitsch lanza un set de regalo navideño de 3 piezas (aceite + aplicador + cepillo) a USD 27,30 con envío gratis. Indica que las marcas de la categoría ya empujan el regalo en EE. UU.; no indica ventas del set.",
+        "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal"
       }
     ],
     "historial": [
@@ -822,7 +828,7 @@
   },
   "hashiq-tiktok-shop-ritmo-diario-2026-10": {
     "id": "hashiq-tiktok-shop-ritmo-diario-2026-10",
-    "fecha": "2026-10-30",
+    "fecha": "2026-10-31",
     "run_id": "2026-10-29T12-21",
     "senal": "Vendidos acumulados y ritmo diario estimado por HashIQ para productos de cuero cabelludo en TikTok Shop US",
     "valor": "Kitsch aplicador manual USD 24,38: 16.178 (+206/día). NAPRE eléctrico sin depósito USD 116,99: 6.370 (+71/día). Yeamon eléctrico de garras USD 38,99: 4.806 (+15,5/día). Renergy eléctrico con aplicador USD 89,99: 446 (+2/día).",
@@ -837,6 +843,12 @@
         "run_id": "2026-10-30T12-52",
         "change": "NAPRE 6.476 (antes 6.370), ritmo estimado +106/día (antes +71), actualizado 29/10. Kitsch 16.178 y Renergy 446 sin cambios (actualizados 28/10 y 21/10). Arboleaf (sin depósito) 12.410, +34/día, \"más lento que el mes pasado\" según HashIQ.",
         "source": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "Kitsch 16.672 (+247/día, antes +206; act. 30/10). Arboleaf (sin depósito) 12.481 (+71/día, antes +34; act. 30/10; HashIQ igual lo marca 'más lento que el mes pasado'). NAPRE sin actualizar (6.476, +106; 29/10). Genérico eléctrico con aplicador USD 37,52: 767 vendidos, +0/día (act. 24/10). Renergy 446 y DayIn 223 sin actualizar.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/electric-scalp-massager-1-box-type-c-rechargeable-hair-oil-a-1730057642747990299"
       }
     ]
   },

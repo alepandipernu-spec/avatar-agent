@@ -1769,5 +1769,39 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-10-31T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, MCP)",
+      "Exa fetch/search: HashIQ (NAPRE, Kitsch, Arboleaf, Renergy, DayIn, genérico con aplicador), mykitsch.com (sets), búsqueda de videos en español"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: SOURCE_NOT_AVAILABLE (bloqueada desde la nube)",
+      "TikTok Creative Center Top Ads: No search results found",
+      "Videos en español de AR/MX/CO: sin resultados nuevos (solo piezas viejas ya registradas)",
+      "Mercado Libre y Google Trends: no consultados"
+    ],
+    "competidores_revisados": [
+      "kitsch-us",
+      "napre (sin ficha)",
+      "arboleaf (sin ficha)",
+      "renergy-us",
+      "dayin-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Kitsch lanza set de regalo de 3 piezas (aceite + aplicador + cepillo) a USD 27,30",
+      "Kitsch acelera en HashIQ: +247/día (antes +206)",
+      "Arboleaf +71/día (antes +34)",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013-angulo-regalo-temporada"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

@@ -2415,12 +2415,16 @@
     "ads": "Videos de afiliados en TikTok Shop vistos vía HashIQ (no es la Biblioteca de Meta; no se sabe si son pauta). Ver ads.json kitsch-us:tiktok-afiliados-aplicador-2026-10.",
     "facts": [
       "TikTok Shop US: kit aplicador + aceite con \"43.6K sold\" y 4,2★; tienda con \"2.0M Sold\" en total (indicadores de la plataforma, 18/10/2026).",
-      "[HECHO 2026-10-29, vía HashIQ, actualizado 28/10] 'Scalp Oil Applicator' de Kitsch Official: 16.178 vendidos registrados por HashIQ, USD 24,38, 712 reseñas (4,3★), 82 reseñas nuevas en 7 días; 8 videos de afiliados con 37 mil vistas. HashIQ estima +206 vendidos/día [ESTIMACIÓN de tercero, método no publicado]. Fuente: https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      "[HECHO 2026-10-29, vía HashIQ, actualizado 28/10] 'Scalp Oil Applicator' de Kitsch Official: 16.178 vendidos registrados por HashIQ, USD 24,38, 712 reseñas (4,3★), 82 reseñas nuevas en 7 días; 8 videos de afiliados con 37 mil vistas. HashIQ estima +206 vendidos/día [ESTIMACIÓN de tercero, método no publicado]. Fuente: https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450",
+      "[HECHO 2026-10-31] Kitsch publica un 'Holiday Scalp Renewal Bundle' de 3 piezas (aceite de romero y biotina 2 oz + aplicador + cepillo manual Scalp Renewal) a USD 27,30, con envío gratis y mensaje de regalo navideño. Fuente: https://www.mykitsch.com/pages/holiday-scalp-renewal",
+      "[HECHO 2026-10-31, vía HashIQ, actualizado 30/10] Scalp Oil Applicator: 16.672 vendidos (antes 16.178), USD 24,38, 83 reseñas nuevas en 7 días, #1 de 141 en Scalp Treatments. Ritmo estimado por HashIQ +247/día [ESTIMACIÓN de tercero, sin método]. Fuente: https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
     ],
     "inferences": [
       "[HIPÓTESIS] El hábito de \"aceitar\" el cuero cabelludo tiene más volumen en TikTok Shop US que los aparatos eléctricos (máximo visto: 9,3 mil vendidos)."
     ],
-    "hypotheses": [],
+    "hypotheses": [
+      "[HIPÓTESIS 2026-10-31] Kitsch empaqueta 'aplicar + masajear' como ritual de regalo barato (manual, USD 27,30). Para quien busca regalo en EE. UU., ese set es el ancla de precio contra la que se compara un aparato eléctrico de USD 41,93."
+    ],
     "unknowns": [
       "Ventas por período; qué parte es el aplicador y qué parte el aceite."
     ],
@@ -2430,7 +2434,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-    "last_reviewed": "2026-10-29",
+    "last_reviewed": "2026-10-31",
     "history": [
       {
         "date": "2026-10-18",
@@ -2467,6 +2471,12 @@
         "run_id": "2026-10-29T12-21",
         "change": "HashIQ: 16.178 vendidos (contador distinto del '43,6 mil' del listado de TikTok Shop; probablemente otra variante o período), +206/día estimado. Ganchos dominantes: el gotero enchastra y desperdicia el sérum.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "Nuevo set de regalo de 3 piezas (aceite + aplicador + cepillo) a USD 27,30 con envío gratis. HashIQ: 16.672 vendidos, +247/día (antes +206).",
+        "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
   },

@@ -1116,5 +1116,39 @@
         "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
       }
     ]
+  },
+  "kitsch-us:holiday-scalp-renewal-set": {
+    "id": "kitsch-us:holiday-scalp-renewal-set",
+    "problema": "Aplicar aceite en la raíz y masajear sin enchastre, como regalo",
+    "variantes": "Set único de 3 piezas: aceite Rosemary & Biotin 2 oz, aplicador de aceite, cepillo Scalp Renewal (terracota)",
+    "precio": {
+      "set": "USD 27,30"
+    },
+    "promos": "Set de fiestas; envío gratis en todos los pedidos (según la página)",
+    "garantia": "No revisada",
+    "devolucion": "No revisada",
+    "envio": "Gratis (según la página)",
+    "beneficios": [
+      "ritual de 3 pasos: nutrir, aplicar, masajear",
+      "sin goteo",
+      "regalo listo"
+    ],
+    "objeciones_resueltas": [
+      "enchastre",
+      "qué regalar"
+    ],
+    "diferenciadores": "Precio bajo, marca conocida, líquido incluido, formato regalo",
+    "merece_investigar": false,
+    "por_que": "Es manual y de otra categoría de precio; sirve como ancla de precio de regalo y como ejemplo de cómo se presenta el ritual en 3 pasos, no como producto a sumar.",
+    "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal",
+    "fecha": "2026-10-31",
+    "history": [
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "Alta",
+        "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal"
+      }
+    ]
   }
 }

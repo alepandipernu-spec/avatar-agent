@@ -745,6 +745,12 @@
         "run_id": "2026-10-27T19-55",
         "change": "Más evidencia, score sin cambios (49): TYMO hace su primera jugada de Black Friday en Ulta (USD 64,99, etiqueta 'Early Black Friday Deal'). La temporada de ofertas ya empezó en EE. UU.; la fecha límite de pedido para que llegue a tiempo (7–15 días hábiles) pasa a ser el dato clave.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "+1 señal, sin cambio de score (49): Kitsch arma un set de regalo 'aplicar + masajear' a USD 27,30. Para no competir por precio con eso, el regalo de Flubberhome tiene que mostrar lo que el set manual no hace (masaje eléctrico y depósito en un solo aparato) y la fecha límite para que llegue.",
+        "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal"
       }
     ]
   },

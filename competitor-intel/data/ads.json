@@ -405,9 +405,16 @@
       "Video principal 26 mil vistas (18/10)"
     ],
     "primera_vez_visto": "2026-10-29",
-    "ultima_vez_visto": "2026-10-29",
-    "repeticiones": 1,
-    "history": []
+    "ultima_vez_visto": "2026-10-31",
+    "repeticiones": 2,
+    "history": [
+      {
+        "date": "2026-10-31",
+        "run_id": "2026-10-31T11-54",
+        "change": "HashIQ (30/10): 9 videos y 45 mil vistas (antes 8 y 37 mil). Un video ahora presenta el aplicador junto al cepillo de masaje como set; otro gancho apela al costo del sérum que no se quiere desperdiciar. Mismos ángulos: enchastre, desperdicio, regalo. Fuente: transcripciones de HashIQ, NO Biblioteca de Meta.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      }
+    ]
   },
   "napre-us:tiktok-reposicion-2026-10": {
     "id": "napre-us:tiktok-reposicion-2026-10",
