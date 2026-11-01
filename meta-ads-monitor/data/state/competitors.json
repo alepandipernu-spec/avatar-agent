@@ -159,7 +159,7 @@
     "domain": "beltronic.com.ar",
     "category": "Kit masajeador infrarrojo + serum Capixyl 5%",
     "market": "AR",
-    "verified_at": "2026-10-24",
+    "verified_at": "2026-10-31",
     "price": "Kit ARS 139.900 (tachado ARS 175.890, '20% OFF'); ARS 118.915 en efectivo (solo retiro o moto CABA); 3 cuotas sin interés.",
     "value_prop": "Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.",
     "claims": "'Anticaída y densidad', 'reduce la caída'.",
@@ -167,7 +167,8 @@
     "facts": [
       "Precio alto apoyado en un activo nombrado (Capixyl).",
       "21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página.",
-      "24/10: bajó de ARS 175.890 a ARS 139.900 (−20%); el precio anterior pasó a ser el tachado. Sigue el stock contradictorio en la página ('Sin stock' y 'quedan 90')."
+      "24/10: bajó de ARS 175.890 a ARS 139.900 (−20%); el precio anterior pasó a ser el tachado. Sigue el stock contradictorio en la página ('Sin stock' y 'quedan 90').",
+      "31/10: precio sin cambios (ARS 139.900, tachado ARS 175.890); sigue el stock contradictorio ('Sin stock', '¡Solo quedan 90 en stock!')."
     ],
     "inferences": [
       "Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar."
@@ -180,7 +181,7 @@
       "https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-24T15:46-03:00",
+    "updated": "2026-10-31T23:46-03:00",
     "history": [
       {
         "run": "2026-10-21T15:46-03:00",
@@ -200,6 +201,17 @@
           "facts": [
             "Precio alto apoyado en un activo nombrado (Capixyl).",
             "21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página."
+          ]
+        }
+      },
+      {
+        "run": "2026-10-31T23:46-03:00",
+        "before": {
+          "verified_at": "2026-10-24",
+          "facts": [
+            "Precio alto apoyado en un activo nombrado (Capixyl).",
+            "21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página.",
+            "24/10: bajó de ARS 175.890 a ARS 139.900 (−20%); el precio anterior pasó a ser el tachado. Sigue el stock contradictorio en la página ('Sin stock' y 'quedan 90')."
           ]
         }
       }
@@ -397,14 +409,15 @@
     "domain": "hairrova.com",
     "category": "Masajeador con luz roja y aplicador",
     "market": "US",
-    "verified_at": "2026-10-27",
+    "verified_at": "2026-10-31",
     "price": "USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.",
     "value_prop": "Promesa de resultado con plazo.",
     "claims": "'Clinically proven… visible hair growth in 56 days'.",
     "formats": "No obtenido.",
     "facts": [
       "Garantía de devolución explícita y destacada.",
-      "18/10, 21/10, 24/10 y 27/10: figura 'Sold out' (precio sin cambios)."
+      "18/10, 21/10, 24/10 y 27/10: figura 'Sold out' (precio sin cambios).",
+      "31/10: sigue 'Sold out' a USD 89,99; ahora muestra '4.7 | 1100+ Customers' (antes no visible) y mantiene 'visible hair growth in 56 days'."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -416,7 +429,7 @@
       "https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-27T15:46-03:00",
+    "updated": "2026-10-31T23:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -456,6 +469,16 @@
             "18/10, 21/10 y 24/10: figura 'Sold out' (precio sin cambios)."
           ]
         }
+      },
+      {
+        "run": "2026-10-31T23:46-03:00",
+        "before": {
+          "verified_at": "2026-10-27",
+          "facts": [
+            "Garantía de devolución explícita y destacada.",
+            "18/10, 21/10, 24/10 y 27/10: figura 'Sold out' (precio sin cambios)."
+          ]
+        }
       }
     ]
   },
@@ -465,14 +488,15 @@
     "domain": "nordic-biolabs.com",
     "category": "Aplicador eléctrico + solución capilar",
     "market": "US",
-    "verified_at": "2026-10-27",
+    "verified_at": "2026-10-31",
     "price": "USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.",
     "value_prop": "Aparato como vehículo de un consumible propio (recompra).",
     "claims": "'Hair regrowth', testimonios y cita profesional.",
     "formats": "No obtenido.",
     "facts": [
       "Modelo aparato + consumible.",
-      "21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto)."
+      "21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto).",
+      "31/10: sin cambio de precio (USD 79, tachado USD 158); suma 'Low Stock Alert' / 'Stock Status: Very Low' y dos conteos de reseñas distintos en la misma página (2.387 y 749)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -483,7 +507,7 @@
       "https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-10-27T15:46-03:00",
+    "updated": "2026-10-31T23:46-03:00",
     "history": [
       {
         "run": "2026-10-21T15:46-03:00",
@@ -504,6 +528,16 @@
         "run": "2026-10-27T15:46-03:00",
         "before": {
           "verified_at": "2026-10-24"
+        }
+      },
+      {
+        "run": "2026-10-31T23:46-03:00",
+        "before": {
+          "verified_at": "2026-10-27",
+          "facts": [
+            "Modelo aparato + consumible.",
+            "21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto)."
+          ]
         }
       }
     ]

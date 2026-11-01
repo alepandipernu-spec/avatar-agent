@@ -15,9 +15,9 @@
     "value": 123.7862,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -77,9 +77,9 @@
     "value": 7,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -202,9 +202,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -222,9 +222,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -263,9 +263,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 41,
+    "occurrences": 42,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -304,9 +304,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 41,
+    "occurrences": 42,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -324,9 +324,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 41,
+    "occurrences": 42,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -344,9 +344,9 @@
     "value": 26.67497267759563,
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
-    "occurrences": 16,
+    "occurrences": 17,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "8832469c9d71": {
     "key": "pdp-trust-removed",
@@ -364,9 +364,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 11,
+    "occurrences": 12,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -384,8 +384,28 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 9,
+    "occurrences": 10,
     "status": "abierta",
-    "last_seen": "2026-10-31T07:46-03:00"
+    "last_seen": "2026-10-31T23:46-03:00"
+  },
+  "b354b77a1305": {
+    "key": "new-product-cuadernos-live",
+    "category": "anomalia",
+    "priority": "P2",
+    "title": "Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)",
+    "evidence": "Creado el 31/10 02:28 UTC, estado ACTIVE, etiquetas 'borrador-claude' y 'mexico-lanzamiento'. Publicado en Tienda online, catálogo de Meta y Microsoft Copilot. USD 34,90 (1 kit) / USD 55,90 (2 kits), sin precio tachado. Perfil de envío propio 'Kit Tinta Mágica – México envío gratis' (solo México, 10–20 días). Inventario sin seguimiento (se puede comprar). La ficha aclara que el abecedario viene en inglés y que el precio está en USD.",
+    "diagnosis": "La etiqueta dice borrador pero el producto ya está a la venta y en el catálogo de Meta. Puede ser intencional (lanzamiento en México) o haber quedado publicado antes de revisarlo. Es el primer producto fuera de ScalpCare; la política de devoluciones y los datos legales pendientes también le aplican.",
+    "confidence": "alta",
+    "impact": "Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir.",
+    "action": "El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica.",
+    "needs_approval": true,
+    "fingerprint": "b354b77a1305",
+    "source": "analista",
+    "rule": "analista",
+    "object": "",
+    "first_seen": "2026-10-31T23:46-03:00",
+    "occurrences": 1,
+    "status": "abierta",
+    "last_seen": "2026-10-31T23:46-03:00"
   }
 }
