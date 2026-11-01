@@ -5,19 +5,19 @@
     "object": "account",
     "priority": "P1",
     "category": "debilidad",
-    "title": "USD 123.79 gastados en el período sin compras",
-    "evidence": "Gasto Meta USD 123.79; compras Shopify 0; compras atribuidas por Meta 0.",
+    "title": "USD 90.51 gastados en el período sin compras",
+    "evidence": "Gasto Meta USD 90.51; compras Shopify 0; compras atribuidas por Meta 0.",
     "diagnosis": "El embudo no llega a compra. No alcanza para culpar al anuncio: también pueden fallar oferta, precio, confianza o checkout.",
     "confidence": "media",
     "impact": "Gasto sin retorno verificable.",
     "action": "Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).",
     "needs_approval": false,
-    "value": 123.7862,
+    "value": 90.5098,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 43,
+    "occurrences": 44,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -68,18 +68,18 @@
     "priority": "P2",
     "category": "anomalia",
     "title": "Entrega intermitente: el gasto se prende y se apaga",
-    "evidence": "5 de 30 días con gasto; 7 cortes en el período.",
+    "evidence": "4 de 30 días con gasto; 6 cortes en el período.",
     "diagnosis": "Pausas manuales frecuentes, límite de gasto alcanzado o pagos rechazados. Cada corte reinicia el aprendizaje.",
     "confidence": "media",
     "impact": "Los resultados no son comparables entre días y Meta no sale de aprendizaje.",
     "action": "Revisar el historial de actividad y Facturación en Ads Manager.",
     "needs_approval": false,
-    "value": 7,
+    "value": 6,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 43,
+    "occurrences": 44,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "48c5633c7eca": {
     "fingerprint": "48c5633c7eca",
@@ -191,7 +191,7 @@
     "category": "debilidad",
     "priority": "P2",
     "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
-    "evidence": "Ventana 02/10–31/10: US USD 53,64 de USD 123,79 (43%), 398 impresiones (CPM USD 135), 12 clics en enlace, 8 visitas → USD 6,70 por visita. AR: USD 0,19; CO: USD 0,09; MX: USD 0,70. US - VID Demo (V02) solo: USD 39,85 por 3 visitas.",
+    "evidence": "Ventana 03/10–01/11: US USD 40,36 de USD 90,51 (45%), 250 impresiones (CPM USD 161), 6 clics en enlace, 3 visitas → USD 13,45 por visita. AR: USD 0,21; CO: USD 0,08; MX: USD 0,59. US - VID Demo (V02) solo: USD 36,90 por 3 visitas.",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -202,9 +202,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 43,
+    "occurrences": 44,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -222,9 +222,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 43,
+    "occurrences": 44,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -263,9 +263,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -304,9 +304,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -324,9 +324,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -345,8 +345,9 @@
     "source": "regla",
     "first_seen": "2026-10-26T07:46-03:00",
     "occurrences": 17,
-    "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-10-31T23:46-03:00",
+    "resolved_at": "2026-11-01T07:46-03:00"
   },
   "8832469c9d71": {
     "key": "pdp-trust-removed",
@@ -364,9 +365,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 12,
+    "occurrences": 13,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -384,16 +385,16 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 10,
+    "occurrences": 11,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
     "category": "anomalia",
     "priority": "P2",
     "title": "Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)",
-    "evidence": "Creado el 31/10 02:28 UTC, estado ACTIVE, etiquetas 'borrador-claude' y 'mexico-lanzamiento'. Publicado en Tienda online, catálogo de Meta y Microsoft Copilot. USD 34,90 (1 kit) / USD 55,90 (2 kits), sin precio tachado. Perfil de envío propio 'Kit Tinta Mágica – México envío gratis' (solo México, 10–20 días). Inventario sin seguimiento (se puede comprar). La ficha aclara que el abecedario viene en inglés y que el precio está en USD.",
+    "evidence": "Creado el 31/10 02:28 UTC, estado ACTIVE, etiquetas 'borrador-claude' y 'mexico-lanzamiento'. Publicado en Tienda online, catálogo de Meta y Microsoft Copilot. USD 34,90 (1 kit) / USD 55,90 (2 kits), sin precio tachado. Perfil de envío propio 'Kit Tinta Mágica – México envío gratis' (solo México, 10–20 días). Inventario sin seguimiento (se puede comprar). La ficha aclara que el abecedario viene en inglés y que el precio está en USD. 01/11 03:04 UTC: el producto se volvió a guardar (precios y etiquetas iguales; sigue ACTIVE con 'borrador-claude').",
     "diagnosis": "La etiqueta dice borrador pero el producto ya está a la venta y en el catálogo de Meta. Puede ser intencional (lanzamiento en México) o haber quedado publicado antes de revisarlo. Es el primer producto fuera de ScalpCare; la política de devoluciones y los datos legales pendientes también le aplican.",
     "confidence": "alta",
     "impact": "Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir.",
@@ -404,8 +405,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-10-31T23:46-03:00"
+    "last_seen": "2026-11-01T07:46-03:00"
   }
 }
