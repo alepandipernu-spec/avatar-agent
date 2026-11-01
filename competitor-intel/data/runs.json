@@ -1915,5 +1915,39 @@
       "OPP-012-costo-total-y-plazo-claros-latam"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-01T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search: reseñas ES/EN (Yaxa, Alverela, Breo/Aetheo, Balanced Brawn, Amazon US/FR/MX, Mercado Libre MX), nuevos competidores US/LatAm (Cosvu, Anyra, LeeRong, Glokore, Sensse, NeXo, Andik, Smartjoys, Anyeluz, Joinet, Aurevia)",
+      "Exa fetch: Gadnic, Ulta (TYMO)"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: la copia de Exa no muestra precio",
+      "Ulta TYMO: copia sin fecha con USD 99,99 contradice la oferta de USD 59,99; no concluyente",
+      "Mercado Libre AR: no consultado (403 en runs previos)",
+      "Reddit: sin hilos recientes en los resultados",
+      "Biblioteca de Meta: no corresponde a la franja"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "carrello-ar",
+      "co-dtc-tiendas",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin quejas nuevas ni competidores nuevos relevantes",
+      "Gadnic sin cambios (ARS 89.999) a horas del CyberMonday",
+      "TYMO en Ulta: dato contradictorio (99,99 vs 59,99), sin confirmar",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

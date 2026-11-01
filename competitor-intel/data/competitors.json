@@ -238,6 +238,12 @@
         "run_id": "2026-11-01T11-54",
         "change": "Confirmado como participante del CyberMonday 2026 (La Nación, 30/10). En cybermonday.com.ar, una URL de Gadnic Salud y Belleza muestra '71 productos en oferta' y otra equivalente dice que las ofertas 2026 no empezaron: dato contradictorio, no se interpreta. La ficha del masajeador sigue a ARS 89.999.",
         "source": "https://www.lanacion.com.ar/economia/cuales-son-las-novedades-en-ofertas-que-propone-este-cyber-monday-2026-nid30102026/ ; https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-ofertas-cosmetica-y-belleza_C007"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T19-54",
+        "change": "Chequeo rápido víspera CyberMonday (19:54): sigue ARS 89.999 (tachado 138.460, 35% OFF; sin impuestos nacionales 74.379). Sin precio especial cargado.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -1701,7 +1707,7 @@
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-10-28",
+    "last_reviewed": "2026-11-01",
     "history": [
       {
         "date": "2026-10-17",
@@ -1750,6 +1756,12 @@
         "run_id": "2026-10-28T03-55",
         "change": "Nuevo dominio parecido al de TYMO (tymbauty.com) que se presenta como tienda oficial, USD 99,99 con contador de ventas por hora. Se registra acá; relevancia baja.",
         "source": "https://www.tymbauty.com/product/tymo-trithera/"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T19-54",
+        "change": "Búsqueda de nuevos competidores US: reaparecen Cosvu (USD 48), Anyra (USD 50,95, tachado 158,95), LeeRong (Amazon USD 49,99) y Glokore (Amazon USD 99,99), ya registrados. Sin marcas nuevas.",
+        "source": "https://cosvu.com/products/red-light-scalp-massager ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -2050,7 +2062,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-11-01",
     "history": [
       {
         "date": "2026-10-17",
@@ -2135,6 +2147,12 @@
         "run_id": "2026-10-29T19-54",
         "change": "+2 tiendas CO: Andik Store (COP 138.900, garantía 10 días) y Bella Cosméticos (COP 25.000, sin stock).",
         "source": "https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador ; https://www.distribella.com/producto/cepillo-masajeador-capilar-maca-071-bella/"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T19-54",
+        "change": "Búsqueda de nuevos competidores CO: reaparecen NeXo Colombia, Andik Store, Smartjoys y Anyeluz (ya registrados). Sin tiendas nuevas.",
+        "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador ; https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -3003,6 +3021,12 @@
         "run_id": "2026-11-01T11-54",
         "change": "Ulta corre su Early Black Friday del 25/10 al 21/11 con ofertas semanales; el TriThera a USD 59,99 podría bajar más. No se volvió a leer la ficha en esta ejecución.",
         "source": "https://nymag.com/strategist/article/ulta-early-black-friday-sale-2026.html"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T19-54",
+        "change": "La copia de Exa de la ficha de Ulta muestra USD 99,99 (sin fecha visible); la búsqueda del 29–31/10 mostraba USD 59,99 'Early Black Friday'. No se puede confirmar si la oferta terminó o si la copia es vieja: no se registra cambio de precio.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -3324,6 +3348,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T03-55",
         "change": "Sin cambios: ARS 66.599 (tachado 87.999), 3 y 6 cuotas sin interés, 10% por transferencia (ARS 59.939), envío gratis desde ARS 39.999.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T19-54",
+        "change": "Chequeo rápido: la copia de Exa de la ficha no muestra el precio (solo menú). Último precio registrado: ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
