@@ -1876,5 +1876,44 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-01T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search: CyberMonday AR (La Nación, iProfesional, Precialo, cybermonday.com.ar), HashIQ (Kitsch, NAPRE, Arboleaf, Renergy, DayIn, Yeamon), Black Friday US (Breo, Ulta/Strategist)",
+      "Exa fetch: Precialo"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch sin permiso (la solicitud no se respondió y se retiró); sigue sin acceso desde la nube",
+      "TikTok Creative Center Top Ads: No search results found",
+      "Videos nuevos en español AR/MX/CO: sin resultados",
+      "Mercado Libre y Google Trends: no consultados"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "kitsch-us",
+      "napre-us",
+      "arboleaf-us",
+      "breo-us",
+      "tymo-us (solo contexto Ulta)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic confirmado en CyberMonday; masajeador sin precio especial aún",
+      "Hair Recovery (B) anuncia CyberMonday con regalo por monto",
+      "Precialo: 58/105 ofertas CyberMonday no son descuento real",
+      "Ulta Early Black Friday hasta 21/11",
+      "HashIQ sin cambios de tendencia; Breo sin cambios",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-007-precio-honesto-ahorro-por-unidad",
+      "OPP-012-costo-total-y-plazo-claros-latam"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

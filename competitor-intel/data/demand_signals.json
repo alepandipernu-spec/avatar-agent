@@ -400,6 +400,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "cybermonday.com.ar (masajeadores) sigue sin ofertas cargadas: arranca el 2/11 00 h. Gadnic y resto de directos AR sin precio especial a las 03:55 del 1/11.",
         "source": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "La Nación (30/10): más de 900 empresas; Gadnic figura entre las participantes de Electrónica; 'ofertas bomba' el 2/11 de 12 a 13 y de 21 a 22 h; 'megaboom' el 4/11 de 22 a 23:59; las ofertas también se comunican en historias de Instagram de cada tienda. La página de masajeadores de cybermonday.com.ar sigue sin ofertas 2026.",
+        "source": "https://www.lanacion.com.ar/economia/cuales-son-las-novedades-en-ofertas-que-propone-este-cyber-monday-2026-nid30102026/ ; https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102"
       }
     ]
   },
@@ -861,6 +867,12 @@
         "run_id": "2026-10-31T11-54",
         "change": "Kitsch 16.672 (+247/día, antes +206; act. 30/10). Arboleaf (sin depósito) 12.481 (+71/día, antes +34; act. 30/10; HashIQ igual lo marca 'más lento que el mes pasado'). NAPRE sin actualizar (6.476, +106; 29/10). Genérico eléctrico con aplicador USD 37,52: 767 vendidos, +0/día (act. 24/10). Renergy 446 y DayIn 223 sin actualizar.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/electric-scalp-massager-1-box-type-c-rechargeable-hair-oil-a-1730057642747990299"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Arboleaf (sin depósito) 12.510 vendidos, ritmo +29/día en el encabezado (act. 31/10; antes 12.481). Kitsch 16.672 (+247/día), NAPRE 6.476 (+106/día), Renergy 446, DayIn 223 y genérico USD 37,52 (767) sin actualizar. Sin cambio de tendencia.",
+        "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
   },
@@ -899,5 +911,44 @@
     "tipo": "HECHO (precio publicado)",
     "indica": "El competidor local directo más relevante prioriza precio antes que financiación larga para el CyberMonday.",
     "no_indica": "Ventas, stock ni si el precio se sostiene después del 4/11."
+  },
+  "ar-cybermonday-descuentos-reales-precialo-2026": {
+    "id": "ar-cybermonday-descuentos-reales-precialo-2026",
+    "fecha": "2026-11-01",
+    "run_id": "2026-11-01T11-54",
+    "senal": "Comparador público que mide los descuentos del CyberMonday contra el historial de precios",
+    "valor": "Precialo revisó 105 ofertas publicadas como descuento: 58 no bajaron ni un 5% de su precio habitual (mediana de 60 a 15 días antes); entraron 37.",
+    "fuente": "https://precialo.com.ar/cyber-monday",
+    "alcance": "AR, muestra de 8 categorías (no incluye masajeadores capilares)",
+    "tipo": "HECHO: lo que publica Precialo (tercero, método publicado)",
+    "indica": "Hay herramientas y medios que exponen tachados inflados; el consumidor argentino tiene a mano cómo verificar un descuento.",
+    "no_indica": "No dice nada específico de la categoría capilar ni del efecto sobre la conversión.",
+    "history": []
+  },
+  "hair-recovery-ar-cybermonday-2026": {
+    "id": "hair-recovery-ar-cybermonday-2026",
+    "fecha": "2026-11-01",
+    "run_id": "2026-11-01T11-54",
+    "senal": "Marca capilar argentina (clínica + línea de productos, categoría B indirecta) anuncia su CyberMonday en prensa",
+    "valor": "Hasta 60% de descuento, 3 cuotas sin interés, envío gratis desde ARS 50.000 y perfume de regalo en compras de más de ARS 100.000 (2–4/11).",
+    "fuente": "https://www.iprofesional.com/actualidad/467955-cyber-monday-en-hair-recovery-descuentos-hasta-60-por-ciento-cuotas-sin-interes",
+    "alcance": "AR, cuidado capilar (no vende masajeadores según la nota)",
+    "tipo": "HECHO (nota de prensa del 30/10/2026)",
+    "indica": "En el cuidado capilar de AR el CyberMonday se juega con regalo por monto mínimo + envío gratis + 3 cuotas, no solo con % off.",
+    "no_indica": "Ventas ni resultados; no es un competidor directo.",
+    "history": []
+  },
+  "ulta-early-black-friday-2026": {
+    "id": "ulta-early-black-friday-2026",
+    "fecha": "2026-11-01",
+    "run_id": "2026-11-01T11-54",
+    "senal": "Ventana del Early Black Friday de Ulta",
+    "valor": "Del 25/10 al 21/11/2026; hasta 50% off; herramientas (Nuface, Solawave) con 30% off; ofertas que cambian cada semana.",
+    "fuente": "https://nymag.com/strategist/article/ulta-early-black-friday-sale-2026.html",
+    "alcance": "US, retail de belleza",
+    "tipo": "HECHO (artículo del 30/10/2026)",
+    "indica": "El precio de TYMO TriThera en Ulta (USD 59,99) puede seguir bajando hasta el 21/11; el ancla de marca conocida en US se acerca al precio de Flubberhome.",
+    "no_indica": "No confirma que TYMO entre en la promo.",
+    "history": []
   }
 }

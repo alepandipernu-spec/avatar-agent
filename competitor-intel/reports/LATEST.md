@@ -1,75 +1,84 @@
-# Inteligencia competitiva — run 2026-11-01T03-55
+# Inteligencia competitiva — run 2026-11-01T11-54
 
-**Foco:** catálogo, tiendas y precios (franja 03:54).
+**Foco:** anuncios, creatividades y demanda (franja 11:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 01/11/2026, 03:55–04:15 (Buenos Aires). Las copias de Exa no traen fecha visible.
+**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas: 01/11/2026, 11:55–12:15 (Buenos Aires).
 
-**Informe corto:** en la víspera del CyberMonday AR (2–4/11) no hay cambios de precio ni de oferta en los competidores directos revisados.
+**Informe corto:** en la víspera del CyberMonday AR no hay piezas nuevas de competidores directos. Lo nuevo es de contexto: cómo se está comunicando el evento en la categoría capilar y cuánta desconfianza hay hacia los descuentos.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Sin cambios en los directos de AR.** Gadnic sigue a ARS 89.999 en 3 cuotas. Carrello sigue a 66.599, Beltronic a 129.900, Microshop a 45.780 y Lena a 25.600. MRIYA (nocnoc) en Frávega sigue a 93.302. Ninguno cargó todavía un precio de CyberMonday.
-- **Sin cambios en US.** TYMO TriThera sigue a USD 59,99 en Ulta y a 99,99 en su tienda propia.
-- [ESTIMACIÓN] El dólar tarjeta no se movió (ARS 2.028 del 26 al 30/10). Flubberhome, 1 unidad + envío, cuesta ≈ ARS 105.300 (±3%): ~17% más que Gadnic y ~58% más que Carrello.
+- [HECHO] **Gadnic está confirmado entre los participantes del CyberMonday** (La Nación, 30/10). Su masajeador sigue a ARS 89.999 sin precio especial cargado. Las ofertas también se comunican en historias de Instagram de cada tienda.
+- [HECHO] **Hair Recovery** (marca capilar argentina, categoría B) anunció su CyberMonday así: hasta 60% off, 3 cuotas, envío gratis desde ARS 50.000 y **perfume de regalo en compras de más de ARS 100.000**.
+- [HECHO] **Precialo** midió 105 ofertas del CyberMonday AR contra su historial: **58 no bajaron ni un 5%**. Refuerza OPP-007 (precio real, ahorro en los packs).
+- [HECHO] **Ulta** corre su Early Black Friday hasta el 21/11. El TYMO TriThera (USD 59,99) podría bajar más y acercarse a Flubberhome en US.
 - **La oportunidad nº 1 no cambia:** OPP-001, la demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
-| id | Mercado | Cat. | Resultado | Fuente |
-|---|---|---|---|---|
-| gadnic-ar | AR | A | ARS 89.999 (tachado 138.460), 3 cuotas de 30.000, sin cambios | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| carrello-ar | AR | A | ARS 66.599 (tachado 87.999), 6 cuotas sin interés, 59.939 por transferencia, sin cambios | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) |
-| beltronic-ar | AR | A | PY008 ARS 129.900 (tachado 149.900), 3 cuotas, sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-| microshop-ar | AR | A | ARS 45.780 (tachado 60.000), envío gratis, sin cambios | [ficha](https://www.microshop.com.ar/productos/micro-masajeador-capilar/) |
-| lena-vegetal-ar | AR | A | Kit ARS 25.600 (20.480 por transferencia), "+70 vendidos", sin cambios | [ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/) |
-| nocnoc-crossborder-ar | AR | A | MRIYA ARS 93.301,96, sigue sin envío a CABA, sin cambios | [Frávega](https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/) |
-| tymo-us | US | A | Ulta USD 59,99 (lista 99,99); DTC 99,99 (tachado 129,99), sin cambios | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) · [DTC](https://tymobeauty.com/products/tymo-trithera) |
+| id | Resultado | Fuente |
+|---|---|---|
+| gadnic-ar | Confirmado en CyberMonday. Ficha sin cambios (ARS 89.999). En cybermonday.com.ar una URL de Gadnic Belleza dice "71 productos en oferta" y otra equivalente dice que no empezó: contradictorio, no se interpreta | [La Nación](https://www.lanacion.com.ar/economia/cuales-son-las-novedades-en-ofertas-que-propone-este-cyber-monday-2026-nid30102026/) · [CyberMonday](https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-ofertas-cosmetica-y-belleza_C007) |
+| kitsch-us | Sin videos nuevos (10 videos, 47 mil vistas; 16.672 vendidos, +247/día según HashIQ, act. 30/10) | [HashIQ](https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450) |
+| napre-us | Sin cambios (6.476, +106/día, act. 29/10) | [HashIQ](https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866) |
+| arboleaf-us | 12.510 vendidos (antes 12.481), +29/día, act. 31/10 | [HashIQ](https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271) |
+| breo-us | Landing de Black Friday igual que el 25/10 (hasta USD 150 off; S3 USD 159,99; garantía de precio 30 días) | [Breo](https://us.breo.com/pages/black-friday-2026) |
 
-**Nuevos competidores:** ninguno. La búsqueda de CyberMonday solo trajo masajeadores manuales o sin depósito, como ACME de Tecno Crazy (ARS 27.200) y SafeSkin (ARS 9.990). Son categoría B y no se suman.
+**Nuevos competidores:** ninguno relevante. Hair Recovery es categoría B (no vende masajeadores) y queda solo como señal de demanda.
 
 ## C. Productos y ofertas
-- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sigue a USD 41,93 / 71,88 / 89,85, sin precio tachado. La última actualización sigue siendo la del 28/10 a las 09:44 UTC.
-  - "Cuadernos Mágicos" sigue activo, sin stock, y figura actualizado el 01/11 a las 03:04 UTC. Queda fuera de este sistema.
-- **Beltronic** [HECHO]: la ficha muestra a la vez "Sin stock" y "quedan 90". Es un texto de plantilla contradictorio y no se interpreta.
-- **Gadnic** [HIPÓTESIS]: si el 2/11 suma otra baja o cuotas largas, la brecha con Flubberhome supera el 20%.
+- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sigue a USD 41,93 / 71,88 / 89,85, sin precio tachado. Última actualización: 28/10 a las 09:44 UTC.
+- El resto no se revisó en esta ejecución. Último dato: 01/11/2026 03:55.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 31/10/2026 11:54.
+- **Biblioteca de Meta:** sin acceso. La lectura no se aprobó y sigue bloqueada desde la nube. **TikTok Creative Center:** sin resultados.
+- **Kitsch** [HECHO, transcripciones de HashIQ; no es la Biblioteca de Meta]. El patrón de los videos de afiliados se confirma:
+  - 7 de 9 abren con una afirmación, con un gancho de ~3,7 s.
+  - La oferta aparece a los 0:20 en 4 de 9 y el pedido de compra a los 0:32 en 6 de 9.
+  - Uno usa el ángulo de regalo navideño.
+- **Hair Recovery** [HECHO, nota de prensa; no es un anuncio pago confirmado]. Estructura: evento → quién es la marca → 4 beneficios (descuento, regalo por monto, cuotas, envío). Su encuadre médico no aplica a Flubberhome.
+- [HIPÓTESIS] En AR el CyberMonday capilar se comunica con regalo + envío + cuotas más que con el producto. Una pieza de Flubberhome que muestre la toma real (OPP-001) se diferenciaría en un feed lleno de porcentajes.
 
 ## E. Demanda y señales de ventas
-- La página de masajeadores de `cybermonday.com.ar` sigue sin ofertas cargadas; el evento arranca el 2/11 a las 00 h [HECHO, [cybermonday.com.ar](https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos)].
-- El resto no se revisó. Último dato: 31/10/2026 19:55.
+- **CyberMonday AR, 2–4/11** [HECHO, La Nación]: más de 900 empresas. Las "ofertas bomba" salen el 2/11 de 12 a 13 h y de 21 a 22 h, y el "megaboom" el 4/11 de 22 a 23:59. La página de masajeadores sigue sin ofertas 2026.
+- **Descuentos reales** [HECHO, [Precialo](https://precialo.com.ar/cyber-monday)]: 37 de 105 ofertas entraron como descuento real. Precialo compara contra la mediana de 60 a 15 días antes. Su muestra no incluye masajeadores.
+- **TikTok Shop US** [HECHO de HashIQ; el ritmo diario es estimación de HashIQ]: sin cambios de tendencia. El aplicador manual de Kitsch sigue vendiendo bastante más rápido que los eléctricos.
+- **Ulta Early Black Friday** [HECHO, [Strategist](https://nymag.com/strategist/article/ulta-early-black-friday-sale-2026.html), 30/10]: del 25/10 al 21/11, herramientas con hasta 30% off.
 
 ## F. Experiencia de compra
-Sin cambios en las condiciones visibles de pago y envío de los directos de AR (cuotas, descuento por transferencia, umbral de envío gratis). Último cambio: Gadnic el 31/10 (18 → 3 cuotas).
+Sin revisión en esta ejecución. Último dato: 01/11/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
 Sin revisión en esta ejecución. Último dato: 31/10/2026 19:55.
 
 ## H. Estrategias adaptables
-Sin estrategias nuevas.
+- **Regalo por monto mínimo** (Hair Recovery). No se replica tal cual.
+  - [HIPÓTESIS] El equivalente honesto ya existe: el Pack Dúo con envío gratis y precio por unidad visible.
+  - **Acción:** si AR entra al CyberMonday, comunicar el Dúo como "uno para vos y uno para regalar". No hace falta inventar un descuento.
+  - **Métrica:** proporción de pedidos con Dúo.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje: OPP-001 (80), OPP-013 (49), OPP-002 y OPP-014 (48), OPP-012 (37).
-- **OPP-012** sigue siendo la más urgente para AR.
-  - **Evidencia:** la brecha de precio está estable en ~17% contra Gadnic.
-  - **Acción:** decidir hoy si AR entra al CyberMonday.
+No hay oportunidades nuevas ni cambios de puntaje: OPP-001 (80), OPP-013 (49), OPP-002 y OPP-014 (48), OPP-012 (37), OPP-007 (30).
+- **OPP-007:** se suma la evidencia de Precialo (confianza media; el efecto sobre la conversión es desconocido).
+- **OPP-012:** si Flubberhome no participa del CyberMonday, el costo total en pesos visible es lo mínimo para no perder la comparación con Gadnic.
 
 ## J. Próximas acciones
-- **Para el dueño:**
-  - Decidir hoy (1/11) si AR participa del CyberMonday.
+- **Para el dueño (hoy, 1/11):**
+  - Decidir si AR entra al CyberMonday y con qué mensaje (Dúo, sin descuento inflado).
   - Grabar la toma real para OPP-001.
-- **Próximo run (1/11 11:54, anuncios):** intentar la Biblioteca de Meta y buscar piezas de CyberMonday en AR.
-- **Run del 2/11 03:54:** volver a revisar los precios de AR ya con el CyberMonday en curso.
+- **Run del 1/11 19:54:** reseñas y nuevos competidores; buscar piezas de CyberMonday ya publicadas.
+- **Run del 2/11 03:54:** precios de AR con el CyberMonday en curso (Gadnic, Carrello, Beltronic, Microshop, Lena, MRIYA).
 
 ## K. Nuevos hallazgos
-- Entradas de historial (sin cambios) en 7 competidores.
-- Historial actualizado en las señales `cybermonday-ar-2026-fecha` y `ar-costo-total-con-tarjeta`.
+- **Señales nuevas:** `ar-cybermonday-descuentos-reales-precialo-2026`, `hair-recovery-ar-cybermonday-2026`, `ulta-early-black-friday-2026`.
+- **Anuncio nuevo:** `hair-recovery-ar:prensa-cybermonday-2026`.
+- **Historial actualizado:** Kitsch (anuncio), Gadnic, TYMO, señales de HashIQ y del CyberMonday, OPP-007 y OPP-012.
 
 ## L. Limitaciones
-- **Ulta:** la lectura directa dio timeout; el precio sale del resultado de búsqueda de Exa.
-- **Holy Cosmetics:** la página de inicio no muestra el precio del masajeador. Último dato: COP 149.990 (31/10).
-- **Mercado Libre AR:** no consultado (403 en runs anteriores).
-- **Tipo de cambio de MX y CO:** no actualizado.
-- **Biblioteca de Meta:** no corresponde a esta franja; sigue bloqueada desde la nube.
+- **Biblioteca de Meta:** no consultada (el permiso de lectura no se respondió; sigue bloqueada desde la nube).
+- **TikTok Creative Center:** sin resultados.
+- **Videos en español:** sin resultados nuevos en AR, MX y CO.
+- **Datos de HashIQ:** los contadores y ritmos son de un tercero, sin método publicado, y hay productos sin actualizar desde el 21–30/10.
+- **cybermonday.com.ar:** muestra datos contradictorios sobre Gadnic.
+- **Mercado Libre y Google Trends:** no consultados.
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

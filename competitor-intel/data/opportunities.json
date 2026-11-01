@@ -399,6 +399,12 @@
         "run_id": "2026-10-26T19-55",
         "change": "Atendida en la ficha: cada pack muestra el precio por unidad (USD 35,94 y 29,95) sin tachados. Falta el dato real de conversión por pack. Sin cambio de score.",
         "source": "Shopify (lectura, 26/10/2026 19:55): ficha actualizada el 26/10/2026 19:48 (BA)"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Evidencia nueva, score sin cambios (30): Precialo publica que 58 de 105 ofertas del CyberMonday AR no bajaron ni un 5% contra su precio habitual. El escepticismo frente a tachados tiene herramientas públicas en AR; refuerza el mensaje de precio real con ahorro en los packs.",
+        "source": "https://precialo.com.ar/cyber-monday"
       }
     ]
   },
@@ -653,6 +659,12 @@
         "run_id": "2026-10-27T19-55",
         "change": "Alerta propia, score sin cambios (37): la descripción del producto en Shopify (actualizada 27/10 19:37 BA) quedó más corta y ya no incluye plazos de entrega, la conversión de moneda, impuestos de importación, la cobertura por falla (72 h) ni el reenvío si no llega. Puede que se hayan movido a otro bloque del tema; no se pudo verificar porque la copia pública de Exa es vieja.",
         "source": "Shopify Admin (lectura), producto gid://shopify/Product/9166132805686"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Score sin cambios (37). En AR el cuidado capilar entra al CyberMonday con regalo por monto + envío gratis + 3 cuotas (Hair Recovery), y Gadnic está confirmado como participante. Si Flubberhome no participa, conviene que el costo total en pesos sea visible para no quedar peor parado en la comparación.",
+        "source": "https://www.iprofesional.com/actualidad/467955-cyber-monday-en-hair-recovery-descuentos-hasta-60-por-ciento-cuotas-sin-interes"
       }
     ]
   },

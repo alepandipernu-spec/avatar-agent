@@ -405,13 +405,19 @@
       "Video principal 26 mil vistas (18/10)"
     ],
     "primera_vez_visto": "2026-10-29",
-    "ultima_vez_visto": "2026-10-31",
-    "repeticiones": 2,
+    "ultima_vez_visto": "2026-11-01",
+    "repeticiones": 3,
     "history": [
       {
         "date": "2026-10-31",
         "run_id": "2026-10-31T11-54",
         "change": "HashIQ (30/10): 9 videos y 45 mil vistas (antes 8 y 37 mil). Un video ahora presenta el aplicador junto al cepillo de masaje como set; otro gancho apela al costo del sérum que no se quiere desperdiciar. Mismos ángulos: enchastre, desperdicio, regalo. Fuente: transcripciones de HashIQ, NO Biblioteca de Meta.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Sin videos nuevos en HashIQ (10 videos, 47 mil vistas, act. 30/10). Se confirma el patrón: 7 de 9 abren con afirmación, gancho ~3,7 s, oferta a 0:20 en 4 de 9, pedido de compra a 0:32 en 6 de 9; uno usa el ángulo de regalo navideño.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
@@ -557,5 +563,37 @@
     "primera_vez_visto": "2026-10-18 (fecha del video según HashIQ)",
     "ultima_vez_visto": "desconocida",
     "repeticiones": "1 video, 18 mil vistas"
+  },
+  "hair-recovery-ar:prensa-cybermonday-2026": {
+    "id": "hair-recovery-ar:prensa-cybermonday-2026",
+    "run_id": "2026-11-01T11-54",
+    "competidor": "hair-recovery-ar (B indirecto; sin ficha: no vende masajeadores)",
+    "fuente": "Nota de prensa en iProfesional (NO es la Biblioteca de Meta ni un anuncio pago confirmado)",
+    "url": "https://www.iprofesional.com/actualidad/467955-cyber-monday-en-hair-recovery-descuentos-hasta-60-por-ciento-cuotas-sin-interes",
+    "fecha_vista": "2026-11-01",
+    "formato": "Nota editorial / comunicación de oferta",
+    "gancho": "Descuento fuerte de evento + regalo por monto (paráfrasis)",
+    "primeros_segundos": "No aplica",
+    "problema": "Cuidado y caída del pelo (encuadre médico de la marca; no aplicable a Flubberhome)",
+    "demostracion": "No",
+    "beneficio": "Ahorro y regalo",
+    "objeciones": [
+      "precio",
+      "costo de envío",
+      "financiación"
+    ],
+    "estructura": "Contexto del evento → quién es la marca → lista de 4 beneficios → cómo comprar",
+    "texto_en_pantalla": "No aplica",
+    "cta": "Comprar en la tienda online",
+    "oferta": "Hasta 60% off, perfume de regalo >ARS 100.000, 3 cuotas, envío gratis >ARS 50.000",
+    "motivaciones_INTERPRETACION": [
+      "ahorro",
+      "regalo",
+      "financiación"
+    ],
+    "primera_vez_visto": "2026-11-01",
+    "ultima_vez_visto": "2026-11-01",
+    "repeticiones": 1,
+    "history": []
   }
 }

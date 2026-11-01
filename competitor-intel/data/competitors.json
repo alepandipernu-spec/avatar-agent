@@ -232,6 +232,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "Chequeo víspera CyberMonday: sigue ARS 89.999 (tachado 138.460, 35% OFF), 3 cuotas sin interés de ARS 30.000; sin precio especial de CyberMonday cargado aún.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Confirmado como participante del CyberMonday 2026 (La Nación, 30/10). En cybermonday.com.ar, una URL de Gadnic Salud y Belleza muestra '71 productos en oferta' y otra equivalente dice que las ofertas 2026 no empezaron: dato contradictorio, no se interpreta. La ficha del masajeador sigue a ARS 89.999.",
+        "source": "https://www.lanacion.com.ar/economia/cuales-son-las-novedades-en-ofertas-que-propone-este-cyber-monday-2026-nid30102026/ ; https://www.cybermonday.com.ar/ofertas-de-gadnic-en-cybermonday-ofertas-cosmetica-y-belleza_C007"
       }
     ]
   },
@@ -2991,6 +2997,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "Chequeo rápido: Ulta USD 59,99 (Early Black Friday, lista 99,99) y DTC USD 99,99 (tachado 129,99), sin cambios. Mista en Ulta USD 58,49 (lista 89,99).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T11-54",
+        "change": "Ulta corre su Early Black Friday del 25/10 al 21/11 con ofertas semanales; el TriThera a USD 59,99 podría bajar más. No se volvió a leer la ficha en esta ejecución.",
+        "source": "https://nymag.com/strategist/article/ulta-early-black-friday-sale-2026.html"
       }
     ]
   },
