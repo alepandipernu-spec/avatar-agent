@@ -394,6 +394,12 @@
         "run_id": "2026-10-31T03-55",
         "change": "La categoría Masajeadores sigue sin precios ('todavía no empezaron'; arranca el 2/11 a las 00 h). Ningún directo AR cargó precio especial.",
         "source": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T03-55",
+        "change": "cybermonday.com.ar (masajeadores) sigue sin ofertas cargadas: arranca el 2/11 00 h. Gadnic y resto de directos AR sin precio especial a las 03:55 del 1/11.",
+        "source": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102/electrodomesticos"
       }
     ]
   },
@@ -639,6 +645,12 @@
         "date": "2026-10-31",
         "run_id": "2026-10-31T03-55",
         "change": "[ESTIMACIÓN] Dólar tarjeta ARS 2.028 (venta, 30/10/2026): USD 51,93 × 2.028 ≈ ARS 105.300 (±3% por percepciones y redondeo). Gadnic: ARS 97.299 en 18 cuotas sin interés.",
+        "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+      },
+      {
+        "date": "2026-11-01",
+        "run_id": "2026-11-01T03-55",
+        "change": "Dólar tarjeta sin cambios (ARS 2.028 del 26 al 30/10): 1 u + envío ≈ ARS 105.300 (±3%), ~17% sobre Gadnic (89.999) y ~58% sobre Carrello (66.599).",
         "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
       }
     ]

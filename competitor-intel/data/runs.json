@@ -1839,5 +1839,42 @@
       "OPP-012-costo-total-y-plazo-claros-latam"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-01T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Carrello, Beltronic, Microshop, Lena, Frávega (MRIYA), TYMO DTC, Holy Cosmetics (home)",
+      "Exa search: Ulta TYMO, CyberMonday AR",
+      "WebFetch: dolarhistorico.com"
+    ],
+    "fuentes_fallidas": [
+      "Ulta (fetch directo): CRAWL_TIMEOUT (precio obtenido vía búsqueda Exa)",
+      "Holy Cosmetics: la home no muestra el precio del masajeador",
+      "Mercado Libre AR: no consultado (403 en runs previos)",
+      "Tipo de cambio MX/CO: no actualizado",
+      "Biblioteca de Meta: no corresponde a la franja"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "carrello-ar",
+      "beltronic-ar",
+      "microshop-ar",
+      "lena-vegetal-ar",
+      "nocnoc-crossborder-ar",
+      "tymo-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio ni oferta en directos AR/US la víspera del CyberMonday",
+      "CyberMonday AR sin ofertas cargadas (arranca 2/11 00 h)",
+      "Dólar tarjeta sin cambios (ARS 2.028)",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
