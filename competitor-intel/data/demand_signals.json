@@ -406,6 +406,12 @@
         "run_id": "2026-11-01T11-54",
         "change": "La Nación (30/10): más de 900 empresas; Gadnic figura entre las participantes de Electrónica; 'ofertas bomba' el 2/11 de 12 a 13 y de 21 a 22 h; 'megaboom' el 4/11 de 22 a 23:59; las ofertas también se comunican en historias de Instagram de cada tienda. La página de masajeadores de cybermonday.com.ar sigue sin ofertas 2026.",
         "source": "https://www.lanacion.com.ar/economia/cuales-son-las-novedades-en-ofertas-que-propone-este-cyber-monday-2026-nid30102026/ ; https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "02/11 03:55: la copia de Exa de cybermonday.com.ar (masajeadores) todavía dice 'no empezaron' (copia previa a las 00 h). El evento corre 2–4/11 con más de 900 empresas (iProfesional, 30/10).",
+        "source": "https://www.iprofesional.com/actualidad/467955-cyber-monday-en-hair-recovery-descuentos-hasta-60-por-ciento-cuotas-sin-interes"
       }
     ]
   },
@@ -658,6 +664,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "Dólar tarjeta sin cambios (ARS 2.028 del 26 al 30/10): 1 u + envío ≈ ARS 105.300 (±3%), ~17% sobre Gadnic (89.999) y ~58% sobre Carrello (66.599).",
         "source": "https://dolarhistorico.com/cotizacion-dolar-turista-tarjeta/mes/octubre-2026"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "Dólar tarjeta ARS 2.028 el 2/11 (estable). 1 u + envío ≈ ARS 105.300 (±3%), ~17% sobre Gadnic (89.999) y ~58% sobre Carrello (66.599, dato del 24/10).",
+        "source": "https://www.lanacion.com.ar/economia/dolar/dolar-tarjeta-hoy-a-cuanto-cotiza-el-dolar-turista-el-2-de-noviembre-nid02112026/"
       }
     ]
   },
@@ -949,6 +961,19 @@
     "tipo": "HECHO (artículo del 30/10/2026)",
     "indica": "El precio de TYMO TriThera en Ulta (USD 59,99) puede seguir bajando hasta el 21/11; el ancla de marca conocida en US se acerca al precio de Flubberhome.",
     "no_indica": "No confirma que TYMO entre en la promo.",
+    "history": []
+  },
+  "bidcom-cyber-descuento-vidriera": {
+    "id": "bidcom-cyber-descuento-vidriera",
+    "fecha": "2026-11-02",
+    "run_id": "2026-11-02T03-55",
+    "senal": "Página 'Masajeadores en Cyber' de Bidcom/Gadnic con 45–55% OFF y tachados más altos que en la página de ofertas regular",
+    "valor": "Ej.: pistola Gun tachado ARS 131.553 → 59.199 en Cyber vs tachado 83.927 → 58.749 en ofertas regular. El masajeador capilar con depósito no figura.",
+    "fuente": "https://www.bidcom.com.ar/cyber-masajes ; https://www.gadnic.com.ar/ofertas",
+    "alcance": "AR",
+    "tipo": "HECHO (copias sin fecha visible); la interpretación es HIPÓTESIS",
+    "que_indica": "Coincide con Precialo (58/105 ofertas sin descuento real): el % OFF de evento en AR suele ser de vidriera. Refuerza comunicar ahorro real (OPP-007/OPP-013).",
+    "que_no_indica": "No indica ventas ni que Gadnic vaya a bajar el masajeador capilar. La copia puede ser de otro evento.",
     "history": []
   }
 }

@@ -40,7 +40,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -244,6 +244,12 @@
         "run_id": "2026-11-01T19-54",
         "change": "Chequeo rápido víspera CyberMonday (19:54): sigue ARS 89.999 (tachado 138.460, 35% OFF; sin impuestos nacionales 74.379). Sin precio especial cargado.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1 (03:55): la copia de Exa de la ficha sigue en ARS 89.999 (tachado 138.460, 35% OFF; sin imp. nac. 74.379). La página 'Masajeadores en Cyber' de Bidcom (sin fecha visible) lista 40+ masajeadores con 45–55% OFF pero NO incluye el masajeador capilar con depósito; sí el cepillo de silicona (ARS 5.349). En esa página varios tachados son más altos que en la página de ofertas regular (ej. pistola Gun: tachado 131.553 en Cyber vs 83.927 en ofertas, precio final ~igual) [HIPÓTESIS: descuento de vidriera, no real; copia sin fecha].",
+        "source": "https://www.bidcom.com.ar/cyber-masajes"
       }
     ]
   },
@@ -285,7 +291,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -399,6 +405,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "Sin cambios: kit ARS 25.600 (tachado 32.000), ARS 20.480 por transferencia, '+70 vendidos'.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1 (copia Exa): kit sigue ARS 25.600 (20.480 por transferencia), '+70 vendidos', 'quedan 3'. Sin cambios.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
   },
@@ -434,7 +446,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -494,6 +506,12 @@
         "run_id": "2026-11-01T03-55",
         "change": "Sin cambios: PY008 ARS 129.900 (tachado 149.900), 3 cuotas sin interés de ARS 43.300, 10% por transferencia, 15% en efectivo solo con retiro/moto CABA. La ficha muestra a la vez 'Sin stock' y 'quedan 90' (texto de plantilla contradictorio; no interpretable).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1 (copia Exa): PY008 sigue ARS 129.900 (tachado 149.900), 3 cuotas de 43.300, 110.415 en efectivo; sigue mostrando 'Sin stock' y 'quedan 90' a la vez. Sin cambios.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -525,7 +543,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -590,6 +608,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T03-55",
         "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1 (copia Exa): sigue ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia. Sin cambios.",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
     ]
@@ -2728,7 +2752,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Competencia importada en AR con precio final en pesos y respaldo de un retailer grande; referencia directa para OPP-012.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-19",
@@ -2746,6 +2770,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T03-55",
         "change": "Sin cambios: MRIYA en Frávega ARS 93.301,96 (tachado 112.412,17), s/imp. nac. 77.109,06; sigue sin envío a CABA (CP 1406).",
+        "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1 (copia Exa): MRIYA en Frávega sigue ARS 93.301,96 (tachado 112.412), sin envío a CABA. Sin cambios.",
         "source": "https://www.fravega.com/p/cepillo-aplicador-y-masajeador-electrico-para-tratamiento-capilar-mriya-22503585/"
       }
     ]
@@ -2816,7 +2846,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-19",
@@ -3026,6 +3056,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T19-54",
         "change": "La copia de Exa de la ficha de Ulta muestra USD 99,99 (sin fecha visible); la búsqueda del 29–31/10 mostraba USD 59,99 'Early Black Friday'. No se puede confirmar si la oferta terminó o si la copia es vieja: no se registra cambio de precio.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "Segunda copia de Exa seguida de Ulta con USD 99,99 (sin fecha); DTC sigue 99,99 (tachado 129,99) con entregas estimadas 4–6/11. [HIPÓTESIS] la oferta de 59,99 en Ulta probablemente terminó; no confirmado (WebSearch sin resultados útiles).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -3292,7 +3328,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -3354,6 +3390,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T19-54",
         "change": "Chequeo rápido: la copia de Exa de la ficha no muestra el precio (solo menú). Último precio registrado: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T03-55",
+        "change": "CyberMonday día 1: la copia de Exa no muestra precio (solo plantilla); WebFetch sin permiso. Último dato: ARS 66.599 (24/10). Sin confirmar.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]

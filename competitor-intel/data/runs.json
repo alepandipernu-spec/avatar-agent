@@ -1949,5 +1949,43 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-02T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54) — CyberMonday AR día 1",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Microshop, Lena, Frávega (MRIYA), Ulta, TYMO DTC, cybermonday.com.ar, bidcom.com.ar/cyber-masajes",
+      "Exa search: CyberMonday AR masajeadores, Gadnic Cyber, dólar tarjeta (La Nación 2/11)",
+      "WebSearch: TYMO Ulta (sin resultados útiles)"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: copia de Exa sin precio; WebFetch sin permiso (solicitud no respondida)",
+      "Copias de Exa sin fecha: cybermonday.com.ar todavía en modo previo, así que los precios de AR pueden no reflejar el Cyber ya iniciado",
+      "Ulta: sin fecha; WebSearch sin resultados",
+      "Mercado Libre AR: no consultado directo (403 previos); solo listado vía Exa",
+      "Holy Cosmetics CO y MX: no revisados"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "carrello-ar",
+      "beltronic-ar",
+      "microshop-ar",
+      "lena-vegetal-ar",
+      "nocnoc-crossborder-ar",
+      "tymo-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio confirmados en los directos de AR (copias posiblemente previas al Cyber)",
+      "Bidcom/Gadnic: página Cyber de masajeadores 45–55% OFF sin el masajeador capilar con depósito; tachados inflados [HIPÓTESIS]",
+      "TYMO Ulta: segunda copia en 99,99; la oferta de 59,99 probablemente terminó [HIPÓTESIS]",
+      "Dólar tarjeta estable ARS 2.028",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
