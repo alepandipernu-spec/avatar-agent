@@ -595,5 +595,35 @@
     "ultima_vez_visto": "2026-11-01",
     "repeticiones": 1,
     "history": []
+  },
+  "kitsch-us:hashiq-bundle-aceite-aplicador-2026-11": {
+    "id": "kitsch-us:hashiq-bundle-aceite-aplicador-2026-11",
+    "run_id": "2026-11-02T12-47",
+    "competidor": "kitsch-us (B indirecto)",
+    "fuente": "HashIQ: video de afiliado en TikTok Shop US (NO es la Biblioteca de Meta ni un anuncio pago confirmado)",
+    "url": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450",
+    "fecha_vista": "2026-11-02",
+    "formato": "Video vertical de creadora, 0:37, 26k vistas",
+    "gancho": "Afirmación exagerada y graciosa sobre el aplicador (paráfrasis), 2,6 s",
+    "primeros_segundos": "Frase de humor antes de mostrar el producto",
+    "problema": "Aplicar sérums es engorroso",
+    "demostracion": "Sí, uso del aplicador con sérum",
+    "beneficio": "Aplicación cómoda y sin desperdicio",
+    "objeciones": [
+      "¿sirve con mis sérums?",
+      "¿conviene el kit o solo el aplicador?"
+    ],
+    "estructura": "Gancho de humor → demo → opción de kit con aceite → urgencia por falta de stock → CTA",
+    "texto_en_pantalla": "No visible en la transcripción",
+    "cta": "Comprar desde el carrito de TikTok Shop",
+    "oferta": "Kit aceite + aplicador o aplicador solo",
+    "motivaciones_INTERPRETACION": [
+      "comodidad",
+      "miedo a quedarse sin stock"
+    ],
+    "primera_vez_visto": "2026-11-02",
+    "ultima_vez_visto": "2026-11-02",
+    "repeticiones": "No visible",
+    "nota": "Patrón HashIQ en 9 videos: gancho de afirmación (~3,7 s), oferta mencionada ~0:20, pedido de compra ~0:32."
   }
 }

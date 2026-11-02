@@ -1987,5 +1987,47 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-02T12-47",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54) — CyberMonday AR día 1",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Carrello, Beltronic, cybermonday.com.ar (masajeadores), HashIQ (Kitsch, Arboleaf), Ulta TYMO",
+      "Exa search: CyberMonday AR masajeador capilar (iProfesional 2/11, cybermonday.com.ar), videos y creatividades US/LatAm (HashIQ NAPRE, DayIn, Renergy, BaliAga; Alverela; Joinet MX), Black Friday US (Breo, Anyra)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch sin permiso (solicitud no respondida y retirada); sigue sin acceso desde la nube",
+      "Carrello: copia sin precio",
+      "TikTok Creative Center: no consultado (sin resultados en runs previos)",
+      "Videos nuevos en español AR/MX/CO: sin piezas nuevas encontradas",
+      "Mercado Libre y Google Trends: no consultados"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "carrello-ar",
+      "beltronic-ar",
+      "tymo-us",
+      "breo-us",
+      "kitsch-us",
+      "alverela-co",
+      "dayin-us",
+      "anyra-us",
+      "napre (señal HashIQ)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic: masajeador capilar en la vidriera del CyberMonday sin rebaja extra (ARS 89.999)",
+      "HashIQ: NAPRE acelera (+131 a +177/día); Kitsch se estabiliza; aplicadores eléctricos siguen bajos",
+      "Alverela: 'precio de lanzamiento hasta el 15/11'",
+      "Breo, Anyra, TYMO Ulta, Beltronic sin cambios",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013-angulo-regalo-temporada"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

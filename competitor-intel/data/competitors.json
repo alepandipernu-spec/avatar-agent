@@ -250,6 +250,12 @@
         "run_id": "2026-11-02T03-55",
         "change": "CyberMonday día 1 (03:55): la copia de Exa de la ficha sigue en ARS 89.999 (tachado 138.460, 35% OFF; sin imp. nac. 74.379). La página 'Masajeadores en Cyber' de Bidcom (sin fecha visible) lista 40+ masajeadores con 45–55% OFF pero NO incluye el masajeador capilar con depósito; sí el cepillo de silicona (ARS 5.349). En esa página varios tachados son más altos que en la página de ofertas regular (ej. pistola Gun: tachado 131.553 en Cyber vs 83.927 en ofertas, precio final ~igual) [HIPÓTESIS: descuento de vidriera, no real; copia sin fecha].",
         "source": "https://www.bidcom.com.ar/cyber-masajes"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "CyberMonday día 1 (12:47): el masajeador capilar con depósito YA figura en la página de masajeadores de cybermonday.com.ar (52 productos; copia ya con ofertas), pero al MISMO precio de antes: ARS 89.999 (tachado 138.460; sin imp. nac. 74.379). Sin descuento extra de evento. La ficha propia sigue igual. El cepillo de silicona figura a ARS 6.999 (tachado 9.999) en cybermonday.com.ar vs 5.349 en la página Cyber de Bidcom (copias sin fecha; no concluyente).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c ; https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102"
       }
     ]
   },
@@ -511,6 +517,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T03-55",
         "change": "CyberMonday día 1 (copia Exa): PY008 sigue ARS 129.900 (tachado 149.900), 3 cuotas de 43.300, 110.415 en efectivo; sigue mostrando 'Sin stock' y 'quedan 90' a la vez. Sin cambios.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "12:47: sin cambios (ARS 129.900, tachado 149.900, 13% OFF; 3 cuotas de 43.300; 15% efectivo solo retiro/moto CABA). La ficha muestra a la vez 'es el último' y 'quedan 90 en stock' [HECHO: mensajes de urgencia contradictorios].",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -1276,7 +1288,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Referencia premium de bienestar (sin depender de claims de crecimiento) y de garantía larga.",
-    "last_reviewed": "2026-10-29",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -1366,6 +1378,12 @@
         "date": "2026-10-29",
         "run_id": "2026-10-29T12-21",
         "change": "Landing de Black Friday vista por 6.ª vez, sin cambios (hasta USD 150; 2×S3 USD 309,99; S3 159,99).",
+        "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "12:47: landing de Black Friday vista por 7.ª vez, sin cambios (hasta USD 150 OFF; 2×S3 309,99; S3 159,99; garantía de precio 30 días).",
         "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
@@ -2531,7 +2549,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-    "last_reviewed": "2026-10-31",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-18",
@@ -2574,6 +2592,12 @@
         "run_id": "2026-10-31T11-54",
         "change": "Nuevo set de regalo de 3 piezas (aceite + aplicador + cepillo) a USD 27,30 con envío gratis. HashIQ: 16.672 vendidos, +247/día (antes +206).",
         "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "HashIQ (act. 2/11): aplicador manual 17.425 vendidos, +215/día (antes 16.672, +247). Estado 'Peaking: el crecimiento se estabilizó'.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
   },
@@ -3063,6 +3087,12 @@
         "run_id": "2026-11-02T03-55",
         "change": "Segunda copia de Exa seguida de Ulta con USD 99,99 (sin fecha); DTC sigue 99,99 (tachado 129,99) con entregas estimadas 4–6/11. [HIPÓTESIS] la oferta de 59,99 en Ulta probablemente terminó; no confirmado (WebSearch sin resultados útiles).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "12:47: Ulta sigue en USD 99,99 (3.ª copia seguida; sin fecha). La oferta de 59,99 no reaparece.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -3132,7 +3162,7 @@
     "sources": [
       "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     ],
-    "last_reviewed": "2026-10-31",
+    "last_reviewed": "2026-11-02",
     "relevance": "media",
     "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
     "facts": [
@@ -3157,6 +3187,12 @@
         "date": "2026-10-31",
         "run_id": "2026-10-31T19-55",
         "change": "Revisión de reseñas: siguen 23 reseñas (20 de 5★), sin quejas nuevas visibles. La hipótesis de reseñas importadas se mantiene (nombres con formato de datos de prueba), sin verificar.",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "Copia de Exa (sin fecha) del combo NUVEA COP 117.700: ahora muestra 'Precio de lanzamiento hasta el 15 de noviembre' [HECHO: urgencia con fecha]. Sigue con luz roja como beneficio (no adaptable a Flubberhome).",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
@@ -3396,6 +3432,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T03-55",
         "change": "CyberMonday día 1: la copia de Exa no muestra precio (solo plantilla); WebFetch sin permiso. Último dato: ARS 66.599 (24/10). Sin confirmar.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "12:47: la copia de Exa sigue sin mostrar precio (solo plantilla con 'Envío gratis superando ARS 39.999'). Último precio: ARS 66.599 (24/10). Sin confirmar.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
@@ -3637,12 +3679,18 @@
     ],
     "relevance": "media",
     "follow_reason": "Competidor directo en US por debajo del precio de Flubberhome, con ventas visibles en TikTok Shop.",
-    "last_reviewed": "2026-10-29",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-29",
         "run_id": "2026-10-29T19-54",
         "change": "Alta en la base como competidor directo (encontrado en HashIQ).",
+        "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "HashIQ (act. 26/10): 258 vendidos (+8,8/día), USD 35,99 '60% off'; antes 223. Un solo video (1,4k vistas) con gancho de claim de crecimiento.",
         "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
       }
     ]

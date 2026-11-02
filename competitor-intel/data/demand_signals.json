@@ -412,6 +412,12 @@
         "run_id": "2026-11-02T03-55",
         "change": "02/11 03:55: la copia de Exa de cybermonday.com.ar (masajeadores) todavía dice 'no empezaron' (copia previa a las 00 h). El evento corre 2–4/11 con más de 900 empresas (iProfesional, 30/10).",
         "source": "https://www.iprofesional.com/actualidad/467955-cyber-monday-en-hair-recovery-descuentos-hasta-60-por-ciento-cuotas-sin-interes"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "12:47: confirmado que el evento empezó (iProfesional, 2/11 10:25). cybermonday.com.ar (masajeadores) ya muestra 52 ofertas; el masajeador capilar de Gadnic figura sin rebaja adicional.",
+        "source": "https://www.iprofesional.com/actualidad/468067-cyber-monday-2026-descuentos-de-hasta-60-por-ciento-24-cuotas-sin-interes-y-promociones ; https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102"
       }
     ]
   },
@@ -885,6 +891,12 @@
         "run_id": "2026-11-01T11-54",
         "change": "Arboleaf (sin depósito) 12.510 vendidos, ritmo +29/día en el encabezado (act. 31/10; antes 12.481). Kitsch 16.672 (+247/día), NAPRE 6.476 (+106/día), Renergy 446, DayIn 223 y genérico USD 37,52 (767) sin actualizar. Sin cambio de tendencia.",
         "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T12-47",
+        "change": "HashIQ act. 2/11: NAPRE (eléctrico sin depósito, USD 116,99, 36% off) 7.138 vendidos, +131/día en el encabezado; el gráfico marca 177 el 2/11. [ESTIMACIÓN] (7.138−6.476)/4 días ≈ +165/día desde el 29/10 (±25%, por redondeos y fechas de actualización). Kitsch 17.425 (+215/día, 'Peaking'). Arboleaf 12.641 (+49/día, antes +29). DayIn (con aplicador) 258 (+8,8/día, act. 26/10). Lectura: la temporada de regalos acelera a los aparatos eléctricos de 'relax/ASMR' sin depósito, no a los de aplicador.",
+        "source": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
       }
     ]
   },
@@ -974,6 +986,19 @@
     "tipo": "HECHO (copias sin fecha visible); la interpretación es HIPÓTESIS",
     "que_indica": "Coincide con Precialo (58/105 ofertas sin descuento real): el % OFF de evento en AR suele ser de vidriera. Refuerza comunicar ahorro real (OPP-007/OPP-013).",
     "que_no_indica": "No indica ventas ni que Gadnic vaya a bajar el masajeador capilar. La copia puede ser de otro evento.",
+    "history": []
+  },
+  "gadnic-capilar-cyber-sin-rebaja-extra": {
+    "id": "gadnic-capilar-cyber-sin-rebaja-extra",
+    "fecha": "2026-11-02",
+    "run_id": "2026-11-02T12-47",
+    "senal": "El masajeador capilar con depósito de Gadnic entra al CyberMonday AR con el mismo precio que tenía antes del evento",
+    "valor": "ARS 89.999 (tachado 138.460, ~35% OFF), igual al precio desde el 31/10",
+    "fuente": "https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102 ; https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+    "alcance": "AR, vidriera oficial del CyberMonday (copia de Exa sin fecha, posterior al inicio del evento)",
+    "tipo": "HECHO",
+    "indica": "Gadnic usa el evento como vidriera sin bajar más el precio; la brecha con Flubberhome (~17%) no se amplió.",
+    "no_indica": "Ventas, ni que no vaya a sumar una 'oferta bomba' horaria (12–13 h y 21–22 h del 2/11) que la copia no captó.",
     "history": []
   }
 }
