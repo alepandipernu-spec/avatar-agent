@@ -1000,5 +1000,17 @@
     "indica": "Gadnic usa el evento como vidriera sin bajar más el precio; la brecha con Flubberhome (~17%) no se amplió.",
     "no_indica": "Ventas, ni que no vaya a sumar una 'oferta bomba' horaria (12–13 h y 21–22 h del 2/11) que la copia no captó.",
     "history": []
+  },
+  "amazon-us-gewaizhuan-30-calificaciones": {
+    "id": "amazon-us-gewaizhuan-30-calificaciones",
+    "fecha": "2026-11-02",
+    "run_id": "2026-11-02T19-55",
+    "senal": "Genérico 3 en 1 con aplicador en Amazon US a USD 43,99, con 30 calificaciones en ~11 meses",
+    "valor": "4,6/5, 30 calificaciones; disponible desde el 26/11/2025",
+    "fuente": "https://www.amazon.com/Gewaizhuan-Electric-Massager-Applicator-Waterproof/dp/B0FWKC1JJD",
+    "alcance": "US, Amazon, un listado",
+    "tipo": "HECHO",
+    "indica": "Que hay clones de catálogo a precio parecido al de Flubberhome y que su tracción visible es baja.",
+    "no_indica": "Ventas (calificaciones no son unidades) ni rentabilidad."
   }
 }

@@ -2029,5 +2029,47 @@
       "OPP-013-angulo-regalo-temporada"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-02T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54) — CyberMonday AR día 1",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search: reseñas ES/EN (MINOZOOS, Breo Scalp3 Amazon, Alverela, Ceeblink, TYMO, ClaytonNotes, Yaxa), nuevos competidores US/LatAm (Gewaizhuan, Ceeblink, Holy, NeXo, Smartjoys, Aurevia, oggi otto JP)",
+      "Exa fetch: Gadnic, Beltronic, Carrello"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: copia sin precio (otra vez)",
+      "Búsqueda de opiniones en Mercado Libre: resultados irrelevantes",
+      "Mercado Libre AR directo: no consultado (403 previos)",
+      "Biblioteca de Meta: no corresponde a la franja",
+      "Reddit/TikTok: sin quejas nuevas con fecha"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "holy-cosmetics-co",
+      "aurevia-co",
+      "alverela-co",
+      "dtc-clones-us",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [
+      "gewaizhuan-us (baja)"
+    ],
+    "novedades": [
+      "Sin quejas nuevas fechadas en oct–nov 2026",
+      "Gadnic y Beltronic sin cambios en el Cyber",
+      "Reseñas idénticas en Alverela CO y Ceeblink: refuerza hipótesis de reseñas importadas",
+      "Nuevo genérico Amazon (Gewaizhuan) a USD 43,99, relevancia baja",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001-demo-aplicacion-sin-goteo (solo historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

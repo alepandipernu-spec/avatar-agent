@@ -84,3 +84,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 - 01/11/2026 19:54 (run 2026-11-01T19-54): ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; sin precio tachado; updatedAt 28/10/2026 09:44 UTC). "Cuadernos Mágicos de Caligrafía" sigue activo, sin stock, con updatedAt 01/11/2026 03:04 UTC.
 - 02/11/2026 03:55 (run 2026-11-02T03-55): ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; sin precio tachado; updatedAt 28/10/2026 09:44 UTC). Cuadernos Mágicos sigue activo sin stock (updatedAt 01/11 03:04 UTC). Dólar tarjeta ARS 2.028.
 - 02/11/2026 12:47 (run 2026-11-02T12-47): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin tachado; updatedAt 28/10 09:44 UTC).
+- 02/11/2026 19:55 (run 2026-11-02T19-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin tachado; updatedAt 28/10 09:44 UTC). Cuadernos Mágicos sigue activo sin stock.

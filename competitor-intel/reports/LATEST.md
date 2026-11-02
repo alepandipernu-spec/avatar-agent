@@ -1,75 +1,73 @@
-# Inteligencia competitiva — run 2026-11-02T12-47
+# Inteligencia competitiva — run 2026-11-02T19-55
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54; empezó a las 12:47 BA). Día 1 del CyberMonday AR (2–4/11).
-**Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no hay datos internos de Flubberhome.
-**Etiquetas:** [HECHO] = observado, con fuente · [ESTIMACIÓN] = calculado, con método · [HIPÓTESIS] = interpretación sin confirmar. Todas las consultas son del 02/11/2026, 12:47–13:10 (Buenos Aires). Las copias de Exa no traen fecha visible, salvo HashIQ ("Updated Nov 2") e iProfesional (2/11).
+**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54). Día 1 del CyberMonday AR (2–4/11).
+**Modo:** solo lectura. **Repo:** público (GitHub `private: false`): sin datos internos de Flubberhome.
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 02/11/2026, 19:55–20:15 (Buenos Aires). Las copias de Exa no traen fecha visible salvo donde se indica.
 
-**Informe corto:** no hay cambios fuertes. Lo que más importa: **Gadnic entró a la vidriera del CyberMonday con su masajeador capilar, pero no le bajó el precio.**
+**Informe corto:** sin novedades fuertes. No hay quejas nuevas con fecha reciente, no apareció ningún competidor nuevo relevante y los directos de AR no se movieron en el Cyber.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Gadnic sigue en ARS 89.999 en el CyberMonday** [HECHO]. Esta vez la copia ya es del evento: la página de masajeadores de [cybermonday.com.ar](https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102) muestra 52 ofertas, y el masajeador capilar con depósito figura con el mismo precio de antes (tachado 138.460). La brecha con Flubberhome no cambió: ~17%, según la estimación del run 03:55.
-- **En TikTok Shop US, el que más crece es un masajeador eléctrico sin depósito** [HECHO, [HashIQ](https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866), act. 2/11]. NAPRE (USD 116,99) tiene 7.138 vendidos y +131/día; el gráfico marca 177 el 2/11. El aplicador manual de Kitsch se estabilizó (+215/día, "Peaking"). Los eléctricos con aplicador siguen bajos: DayIn tiene 258 vendidos (+8,8/día).
-- **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80).
+- **Gadnic y Beltronic sin cambios en el CyberMonday** [HECHO]: ARS 89.999 y ARS 129.900, igual que a la mañana.
+- **Reseñas: solo reconfirmaciones.** El problema nº 1 de la categoría sigue siendo el dispensado del líquido (hay que hacer presión, los aceites espesos no pasan), incluso en el Breo Scalp3 de USD 159,99 [HECHO, [Amazon](https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K)].
+- **Reseñas duplicadas entre tiendas** [HECHO]: Alverela (CO) y Ceeblink (US) muestran las mismas reseñas, con el mismo texto. [HIPÓTESIS] Son reseñas importadas del marketplace de origen, no de clientes propios.
+- **Oportunidad nº 1 sin cambios:** OPP-001, demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado | Fuente |
 |---|---|---|---|---|
-| gadnic-ar | AR | A | ARS 89.999 (tachado 138.460), ahora en la vidriera Cyber, sin rebaja extra | [Cyber](https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102) · [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| gadnic-ar | AR | A | ARS 89.999 (tachado 138.460), 18 cuotas. Sin rebaja de evento | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| beltronic-ar | AR | A | ARS 129.900 (tachado 149.900), "quedan 90". Sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
 | carrello-ar | AR | A | La copia sigue sin precio. Último dato: ARS 66.599 (24/10) | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) |
-| beltronic-ar | AR | A | ARS 129.900, sin cambios. La misma ficha dice "es el último" y "quedan 90" | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-| alverela-co | CO | A | COP 117.700 con "precio de lanzamiento hasta el 15 de noviembre" (dato nuevo) | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
-| tymo-us | US | A | Ulta USD 99,99 (3.ª copia seguida) | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
-| breo-us | US | A | Landing de Black Friday sin cambios (S3 159,99; 2×S3 309,99) | [Breo BF](https://us.breo.com/pages/black-friday-2026) |
-| anyra-us | US | A | USD 50,95 (tachado 158,95), sin cambios | [ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator) |
+| holy-cosmetics-co | CO | A | COP 149.990 (tachado 199.990), 4,9 con 27 reseñas. Sin cambios | [ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar) |
+| aurevia-co | CO | A | COP 89.900 en Farmatodo. Sin cambios | [Farmatodo](https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1) |
+| co-dtc-tiendas | CO | A | NeXo COP 79.900; Smartjoys COP 64.900. Sin cambios | [NeXo](https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador) · [Smartjoys](https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/) |
+| dtc-clones-us | US | A | Anyra 50,95 · Cosvu 48 · LeeRong 49,99 · Glokore 99,99. Sin cambios | [Anyra](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator) |
 
-**Nuevos competidores:** ninguno relevante. Joinet MX (mayorista, MXN 345, 17 vendidos) y un listado pausado de Mercado Libre MX son genéricos sin marca; no se suman.
+**Nuevos competidores:**
+- `gewaizhuan-us` (**relevancia baja**) [HECHO, [Amazon](https://www.amazon.com/Gewaizhuan-Electric-Massager-Applicator-Waterproof/dp/B0FWKC1JJD)]: genérico 3 en 1 a USD 43,99, con 4,6 sobre 30 calificaciones desde el 26/11/2025. Se presenta como regalo de Navidad y usa claims de crecimiento. Sirve solo de referencia de precio en US.
+- Descartados: oggi otto Scalp Lift Pro (Japón, lanza el 24/11, sin depósito, fuera de nuestros mercados) y Ceeblink (sin precio visible; se anota dentro de `dtc-clones-us`).
 
 ## C. Productos y ofertas
-- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sigue a USD 41,93 / 71,88 / 89,85, sin tachado (updatedAt 28/10).
-- [HIPÓTESIS] Que Gadnic no baje en el Cyber refuerza la lectura del run 03:55: considera que el 35% OFF permanente ya es su precio de evento. Falta confirmar si suma algo en las "ofertas bomba" horarias (2/11, 12–13 h y 21–22 h), porque la copia no las captó.
+- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; sin tachado; updatedAt 28/10).
+- Resto: sin revisión completa en esta ejecución. Último dato: 02/11/2026 03:55.
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** sigue sin acceso desde la nube (WebFetch no tuvo permiso).
-- **Fuente alternativa: HashIQ** (videos de afiliados en TikTok Shop US; no son anuncios pagos confirmados).
-  - Kitsch: el video más visto (26k) arranca con una frase de humor exagerada, sigue con la demo y ofrece el kit aceite + aplicador. Cierra con urgencia por falta de stock. Patrón en 9 videos: gancho de afirmación de ~3,7 s, oferta hacia 0:20, pedido de compra hacia 0:32. Registrado como `kitsch-us:hashiq-bundle-aceite-aplicador-2026-11`.
-  - Arboleaf: abre con preguntas (5 de 10 videos), con ganchos de ~5,8 s.
-  - Varios eléctricos con aplicador (DayIn, Renergy) usan ganchos de crecimiento capilar o minoxidil. Para Flubberhome no sirven: son claims médicos.
-- [HIPÓTESIS] Un gancho de humor corto (menos de 3 s), seguido de la demo, encaja con los microdramas del Edificio Flubber sin claims. Es coherente con OPP-001 y OPP-017; no hace falta una oportunidad nueva.
+Sin revisión en esta ejecución. Último dato: 02/11/2026 12:47.
 
 ## E. Demanda y señales de ventas
-- [ESTIMACIÓN] NAPRE vende ~165/día desde el 29/10: (7.138 − 6.476) ÷ 4 días, ±25% por el redondeo y las fechas de actualización de HashIQ. Su listado se titula "Christmas Gift".
-- **Qué indica:** la temporada de regalos acelera a los masajeadores de "relax/ASMR". Refuerza OPP-013 (ángulo regalo), que sigue en 49.
-- **Qué no indica:** que un aparato con depósito vaya a tener el mismo tirón, ni ventas fuera de TikTok Shop.
-- Señal nueva: `gadnic-capilar-cyber-sin-rebaja-extra`.
+- Señal nueva: `amazon-us-gewaizhuan-30-calificaciones`. **Indica** que hay clones a precio parecido al nuestro con tracción visible baja. **No indica** ventas: las calificaciones no son unidades.
 
 ## F. Experiencia de compra
-Sin revisión completa en esta ejecución. El único dato nuevo: en Beltronic, los dos mensajes de urgencia de la ficha se contradicen. Para Flubberhome, es un ejemplo de lo que conviene evitar.
+Sin revisión en esta ejecución. Último dato: 02/11/2026 12:47.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 01/11/2026 19:54.
+- **Dispensado** (patrón con 22 fuentes, tendencia): reconfirmado. Hay que presionar para que baje el líquido (Breo, Alverela/Ceeblink) y los aceites densos no fluyen (MINOZOOS, 3,6 sobre 30 en [Amazon](https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBL5JCB)). La reseña duplicada se cuenta una sola vez; el número de fuentes no cambia.
+- **Durabilidad y soporte automático**: reconfirmados (TYMO, una unidad que dejó de encender; [ClaytonNotes](https://claytonnotes.com/breo-scalp-massager/), respuestas automáticas). Sin fuentes nuevas.
+- No apareció ninguna queja con fecha de octubre o noviembre de 2026.
 
 ## H. Estrategias adaptables
-- **Evidencia:** los videos más vistos de la categoría ponen la demo antes de los 5 s, y el kit (aparato + líquido) se ofrece como opción, no como obligación (Kitsch).
-- **Interpretación:** en las piezas propias, mostrar la aplicación en seco en los primeros segundos y mencionar el Pack Dúo como opción de regalo.
-- **Confianza:** media.
-- **Acción:** ya está cubierta por OPP-001 y OPP-013; no hay nada nuevo que ejecutar.
+- **Evidencia:** hasta el aparato premium deja dudas sobre cuánto apretar para que baje el líquido.
+- **Interpretación:** mostrar en la página y en la guía el gesto exacto (cuánto cargar, cómo apoyar, qué líquidos fluyen) sigue siendo el diferenciador más barato.
+- **Confianza:** alta.
+- **Acción:** ya cubierta por OPP-001 y OPP-006 (capítulo "qué cargar y qué no"). No hace falta nada nuevo.
+- **No replicar:** las reseñas importadas de otra plataforma. Flubberhome debe mostrar solo reseñas reales de sus compradores.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje: OPP-001 (80), OPP-013 (49; sumó evidencia), OPP-002 y OPP-014 (48), OPP-012 (37), OPP-011 y OPP-015 (36).
+No hay oportunidades nuevas ni cambios de puntaje: OPP-001 (80; sumó evidencia), OPP-013 (49), OPP-002 y OPP-014 (48), OPP-012 (37), OPP-011 y OPP-015 (36).
 
 ## J. Próximas acciones
-- **Para el dueño:** nada urgente. Las campañas siguen pausadas a propósito. Si se reactiva AR durante el Cyber, Gadnic no se movió: comunicar el ahorro real del Pack Dúo, sin tachados (OPP-013/OPP-007).
-- **Run del 2/11 19:54:** buscar reseñas nuevas, ver si Gadnic sumó una "oferta bomba" a las 21 h y volver a probar Carrello.
+- **Para el dueño:** nada urgente. Las campañas siguen pausadas a propósito.
+- **Run del 03/11 03:54:** precios del Cyber, día 2 (Gadnic, Carrello vía otra fuente, Holy CO). También ver si Alverela mantiene el "precio de lanzamiento" (hasta el 15/11).
 
 ## K. Nuevos hallazgos
-- Historial actualizado en 8 competidores, 2 señales y OPP-013.
-- Agregados: la señal `gadnic-capilar-cyber-sin-rebaja-extra` y el anuncio `kitsch-us:hashiq-bundle-aceite-aplicador-2026-11`.
+- Agregados: el competidor `gewaizhuan-us`, la señal `amazon-us-gewaizhuan-30-calificaciones` y un ítem de reseñas (reconfirmación).
+- Historial actualizado en 8 competidores, en el patrón de dispensado y en OPP-001.
 
 ## L. Limitaciones
-- **Biblioteca de anuncios de Meta:** sin acceso (WebFetch sin permiso; bloqueada desde la nube desde el 17/10).
-- **Carrello:** la copia no muestra el precio.
-- **Copias sin fecha** en cybermonday.com.ar, Ulta y Alverela. Las "ofertas bomba" horarias no se pueden verificar.
-- **No consultados:** TikTok Creative Center, Mercado Libre AR (403 en runs previos), Google Trends, y videos en español de AR, MX y CO (no apareció nada nuevo).
+- **Carrello:** la copia sigue sin precio (tercera vez seguida).
+- **Mercado Libre:** la búsqueda de opiniones dio resultados irrelevantes; el acceso directo a AR sigue sin probarse (403 en runs previos).
+- **Reddit y TikTok:** sin quejas nuevas con fecha.
+- **Copias sin fecha:** Amazon, Holy, Farmatodo y Ceeblink.
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

@@ -256,6 +256,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "CyberMonday día 1 (12:47): el masajeador capilar con depósito YA figura en la página de masajeadores de cybermonday.com.ar (52 productos; copia ya con ofertas), pero al MISMO precio de antes: ARS 89.999 (tachado 138.460; sin imp. nac. 74.379). Sin descuento extra de evento. La ficha propia sigue igual. El cepillo de silicona figura a ARS 6.999 (tachado 9.999) en cybermonday.com.ar vs 5.349 en la página Cyber de Bidcom (copias sin fecha; no concluyente).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c ; https://www.cybermonday.com.ar/ofertas-electro-y-tecno-cuidado-personal-masajeadores_C102"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Chequeo rápido 19:55 (CyberMonday día 1): ficha sigue en ARS 89.999 (tachado 138.460; sin imp. nac. 74.379), 18 cuotas de 5.000. Sin rebaja de evento. La copia no permite ver 'ofertas bomba' horarias.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -524,6 +530,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "12:47: sin cambios (ARS 129.900, tachado 149.900, 13% OFF; 3 cuotas de 43.300; 15% efectivo solo retiro/moto CABA). La ficha muestra a la vez 'es el último' y 'quedan 90 en stock' [HECHO: mensajes de urgencia contradictorios].",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Chequeo rápido 19:55: ARS 129.900 (tachado 149.900), 15% efectivo / 10% transferencia, 'quedan 90'. Sin cambios.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -665,7 +677,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
-    "last_reviewed": "2026-10-24",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -688,6 +700,12 @@
         "date": "2026-10-24",
         "run_id": "2026-10-24T03-55",
         "change": "Sostiene COP 89.900 sin tachado; '8 unidades disponibles' (igual que el 23/10), despacho 4–5 días, sin reseñas ni preguntas.",
+        "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Reaparece en Farmatodo CO a COP 89.900, '8 unidades disponibles' (mismo texto que el 23/10; copia sin fecha).",
         "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
       }
     ]
@@ -1749,7 +1767,7 @@
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -1804,6 +1822,12 @@
         "run_id": "2026-11-01T19-54",
         "change": "Búsqueda de nuevos competidores US: reaparecen Cosvu (USD 48), Anyra (USD 50,95, tachado 158,95), LeeRong (Amazon USD 49,99) y Glokore (Amazon USD 99,99), ya registrados. Sin marcas nuevas.",
         "source": "https://cosvu.com/products/red-light-scalp-massager ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Búsqueda de nuevos competidores (19:55): aparece ceeblink.com (peine eléctrico con aplicador; sin precio en la copia) con reseñas idénticas a las de Alverela CO. Reaparecen Anyra (USD 50,95), Cosvu (USD 48), Breo S3 (USD 159,99), LeeRong (USD 49,99) y Glokore (USD 99,99): sin cambios.",
+        "source": "https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -1826,7 +1850,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-31",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -1983,6 +2007,12 @@
         "run_id": "2026-10-31T19-55",
         "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990; 4,9★ con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Reaparece en búsqueda de nuevos competidores CO: COP 149.990 (tachado 199.990, -25%), 4,9 con 27 reseñas. Sin cambios de precio.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2104,7 +2134,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-01",
+    "last_reviewed": "2026-11-02",
     "history": [
       {
         "date": "2026-10-17",
@@ -2195,6 +2225,12 @@
         "run_id": "2026-11-01T19-54",
         "change": "Búsqueda de nuevos competidores CO: reaparecen NeXo Colombia, Andik Store, Smartjoys y Anyeluz (ya registrados). Sin tiendas nuevas.",
         "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador ; https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Reaparecen NeXo (COP 79.900, tachado 139.900, depósito 15 ml, contra entrega, garantía 30 días) y Smartjoys (COP 64.900, tachado 116.000, garantía 2 meses). Sin cambios relevantes.",
+        "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador ; https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -3194,6 +3230,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "Copia de Exa (sin fecha) del combo NUVEA COP 117.700: ahora muestra 'Precio de lanzamiento hasta el 15 de noviembre' [HECHO: urgencia con fecha]. Sigue con luz roja como beneficio (no adaptable a Flubberhome).",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "[HECHO] Varias reseñas de la ficha (p. ej. la de que el aceite no sale si no se aprieta la tapa) aparecen con el mismo texto, en inglés, en la tienda ceeblink.com ('4.9/5 based on 1421 happy customers'). [HIPÓTESIS] Refuerza que son reseñas importadas de un marketplace de origen, no de clientes propios. Sigue 'precio de lanzamiento hasta el 15/11', COP 117.700.",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento ; https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator"
       }
     ]
   },
@@ -3438,6 +3480,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T12-47",
         "change": "12:47: la copia de Exa sigue sin mostrar precio (solo plantilla con 'Envío gratis superando ARS 39.999'). Último precio: ARS 66.599 (24/10). Sin confirmar.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "Chequeo rápido 19:55: la copia de Exa sigue mostrando solo el menú, sin precio. Último dato ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
@@ -3741,6 +3789,47 @@
         "run_id": "2026-10-30T19-55",
         "change": "Alta como referencia (C_inspiracional).",
         "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
+      }
+    ]
+  },
+  "gewaizhuan-us": {
+    "id": "gewaizhuan-us",
+    "name": "Gewaizhuan (Amazon US)",
+    "domain": "amazon.com",
+    "market": "US",
+    "category": "A_directo",
+    "relevant_products": [
+      "Electric Scalp Massager 3-in-1 Hair Oil Applicator (ASIN B0FWKC1JJD)"
+    ],
+    "price_visible": "USD 43,99 (copia de Exa sin fecha, consultada el 02/11/2026)",
+    "value_prop": "Genérico 3 en 1 (72 cerdas, 6 rodillos, IPX7, luz roja) presentado como regalo de Navidad.",
+    "channels": [
+      "Amazon US"
+    ],
+    "sources": [
+      "https://www.amazon.com/Gewaizhuan-Electric-Massager-Applicator-Waterproof/dp/B0FWKC1JJD"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Genérico de Amazon a precio casi igual al de 1 unidad de Flubberhome (USD 41,93) y con ángulo regalo; sirve de referencia de precio en US.",
+    "facts": [
+      "Disponible desde el 26/11/2025.",
+      "4,6 de 5 con 30 calificaciones (indicador de Amazon, no ventas).",
+      "Listado con claims de crecimiento ('pelo más grueso en 4 semanas') y luz roja para crecimiento."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] Más un clon de catálogo que una marca; el claim de crecimiento es justo lo que Flubberhome no puede ni debe usar."
+    ],
+    "hypotheses": [],
+    "unknowns": [
+      "Ventas, anuncios, ranking, garantía."
+    ],
+    "last_reviewed": "2026-11-02",
+    "history": [
+      {
+        "date": "2026-11-02",
+        "run_id": "2026-11-02T19-55",
+        "change": "creado (búsqueda de nuevos competidores, foco 19:54)",
+        "source": "https://www.amazon.com/Gewaizhuan-Electric-Massager-Applicator-Waterproof/dp/B0FWKC1JJD"
       }
     ]
   }

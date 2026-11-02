@@ -51,6 +51,11 @@
           "run_id": "2026-10-29T19-54",
           "change": "+1 fuente (peine con spray de TikTok Shop US, formato adyacente).",
           "source": "https://shop.tiktok.com/us/pdp/1732415466145222815"
+        },
+        {
+          "date": "2026-11-02",
+          "run_id": "2026-11-02T19-55",
+          "change": "Reconfirmado sin fuentes nuevas independientes (MINOZOOS y Breo Scalp3 en Amazon: 'aplicar presión para que baje el líquido'; Alverela/Ceeblink, misma reseña duplicada, se cuenta una sola vez). n_fuentes sin cambio."
         }
       ]
     },
@@ -958,6 +963,16 @@
       "parafrasis": "Búsquedas de reseñas en ES/EN devolvieron solo reseñas ya registradas (deja de funcionar a los 30 usos; el aceite no sale sin apretar la tapa; dispensado irregular en Breo; precauciones en letra chica). Sin quejas nuevas.",
       "fecha_consulta": "2026-11-01",
       "run_id": "2026-11-01T19-54",
+      "tipo": "reconfirmación"
+    },
+    {
+      "fuente": "https://www.amazon.com/MINOZOOS-Electric-Applicator-Massage-Massager/dp/B0DKBL5JCB ; https://www.amazon.com/Breo-Massaging-Massager-Waterproof-Cordless/dp/B0CD7LF55K ; https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento ; https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator ; https://claytonnotes.com/breo-scalp-massager/ ; https://tymobeauty.com/products/tymo-trithera",
+      "producto": "Varios (MINOZOOS, Breo Scalp3, Alverela NUVEA, Ceeblink, TYMO TriThera)",
+      "problema": "reconfirmación: dispensado (aceites espesos no fluyen; hay que presionar para que baje el líquido), durabilidad (deja de encender) y soporte automático",
+      "fecha": "reseñas sin fecha visible o de 2025–04/2026",
+      "parafrasis": "Las reseñas destacadas siguen repitiendo lo conocido: el líquido baja solo si se hace presión, los aceites densos no pasan, alguna unidad deja de encender y el soporte responde con mensajes automáticos. No apareció ninguna queja nueva con fecha de octubre o noviembre de 2026.",
+      "fecha_consulta": "2026-11-02",
+      "run_id": "2026-11-02T19-55",
       "tipo": "reconfirmación"
     }
   ]
