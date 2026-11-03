@@ -1012,5 +1012,17 @@
     "tipo": "HECHO",
     "indica": "Que hay clones de catálogo a precio parecido al de Flubberhome y que su tracción visible es baja.",
     "no_indica": "Ventas (calificaciones no son unidades) ni rentabilidad."
+  },
+  "co-piso-precio-generico-luz-aceite-2026-11": {
+    "id": "co-piso-precio-generico-luz-aceite-2026-11",
+    "fecha": "2026-11-03",
+    "run_id": "2026-11-03T03-54",
+    "senal": "Genérico con luz y depósito de aceite en el marketplace de Éxito y en Grupo Comercia a ~COP 41.900",
+    "valor": "COP 41.900–41.930 (tachado 59.900); ≈ USD 13 [ESTIMACIÓN, TRM ~3.158]",
+    "fuente": "https://www.exito.com/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades-124199955/p ; https://grupocomercia.co/product/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades/",
+    "alcance": "CO, 2 tiendas (una en un retailer grande)",
+    "tipo": "HECHO",
+    "indica": "Que el formato genérico ya llegó a un retailer masivo de CO a un precio ~3 veces menor que el ScalpCare Pro. En CO, competir por precio no es viable; la diferencia tiene que estar en la experiencia, la guía y el uso correcto.",
+    "no_indica": "Ventas (el \"10 vendidos en 24 h\" es un contador propio, no verificable), ni calidad, ni que Éxito lo venda en tienda física."
   }
 }

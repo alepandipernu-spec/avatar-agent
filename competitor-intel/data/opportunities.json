@@ -491,6 +491,12 @@
         "date": "2026-10-18",
         "run_id": "2026-10-18T03-55",
         "change": "Precios por mercado verificados en Shopify; se descarta el ángulo 'envío rápido' en MX; score 16→24"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Evidencia adicional: en CO el genérico ya está a ~COP 41.900 en el marketplace de Éxito; en MX, Amazon muestra MXN 288–685. Refuerza que en CO/MX no conviene pelear por precio sino por claridad de costo total y experiencia. Puntaje sin cambios (24).",
+        "source": "https://www.exito.com/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades-124199955/p"
       }
     ]
   },

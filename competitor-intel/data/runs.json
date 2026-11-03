@@ -2071,5 +2071,47 @@
       "OPP-001-demo-aplicacion-sin-goteo (solo historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-03T03-54",
+    "foco": "Catálogo, tiendas y precios (franja 03:54) — CyberMonday AR día 2",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Holy CO, Microshop, TYMO DTC, Ulta TYMO, Éxito, Amazon MX Peosaard, isyra.com.mx",
+      "Exa search: Carrello (precio recuperado vía resultados), genéricos CO (Éxito, Grupo Comercia, Addi), MX (Amazon MX, Joinet, OC Market, ML MX)"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: el fetch directo sigue sin precio (se usó la copia de búsqueda, sin fecha)",
+      "Mercado Libre AR: 403 en el listado",
+      "TRM y FIX: no actualizados (se usó el último valor registrado)",
+      "isyra.com.mx: home sin precio",
+      "Alverela CO: no revisada"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "microshop-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "co-dtc-tiendas",
+      "mx-tiendas",
+      "isyra-mx-cl"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Directos de AR sin cambios en Cyber día 2",
+      "Carrello: precio recuperado (66.599, sin cambio) y variante roja a 74.601",
+      "CO: nuevo piso de precio ~COP 41.900 (≈USD 13) en Éxito marketplace y Grupo Comercia",
+      "MX: Amazon con genéricos MXN 288–685 y calificaciones bajas; sin Buen Fin visible aún",
+      "TYMO sin oferta en Ulta ni DTC",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-009-precio-por-mercado-mx-co (solo historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

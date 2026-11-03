@@ -861,6 +861,14 @@
         "change": "Precio ARS 97.299 → 89.999 (−7,5%); cuotas generales 18 → 3 sin interés.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
+    ],
+    "cambios": [
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Sin cambios en Cyber día 2 (ARS 89.999).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      }
     ]
   },
   "alverela-co:nuvea-combo": {
@@ -993,6 +1001,12 @@
         "date": "2026-10-24",
         "run_id": "2026-10-24T19-54",
         "change": "registrado"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Negro ARS 66.599 (sin cambio); variante roja aparte a ARS 74.601 (tachado 89.999). Inventario declarado 420.",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ],
     "merece_investigar": "sí: fija un piso de precio en AR para el mismo modelo",

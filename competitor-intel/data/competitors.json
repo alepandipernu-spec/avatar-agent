@@ -40,7 +40,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -262,6 +262,12 @@
         "run_id": "2026-11-02T19-55",
         "change": "Chequeo rápido 19:55 (CyberMonday día 1): ficha sigue en ARS 89.999 (tachado 138.460; sin imp. nac. 74.379), 18 cuotas de 5.000. Sin rebaja de evento. La copia no permite ver 'ofertas bomba' horarias.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "CyberMonday día 2 (03:54): ficha sin cambios, ARS 89.999 (tachado 138.460; sin imp. nac. 74.379), 18 cuotas de 5.000. Sigue sin rebaja de evento.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -458,7 +464,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -536,6 +542,12 @@
         "run_id": "2026-11-02T19-55",
         "change": "Chequeo rápido 19:55: ARS 129.900 (tachado 149.900), 15% efectivo / 10% transferencia, 'quedan 90'. Sin cambios.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "CyberMonday día 2: PY008 sin cambios, ARS 129.900 (tachado 149.900), 3 cuotas de 43.300, efectivo 110.415. La copia muestra a la vez la etiqueta \"Sin stock\" y \"quedan 90\" (plantilla de la tienda; no concluyente).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -567,7 +579,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -638,6 +650,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T03-55",
         "change": "CyberMonday día 1 (copia Exa): sigue ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia. Sin cambios.",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
     ]
@@ -1850,7 +1868,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -2013,6 +2031,12 @@
         "run_id": "2026-11-02T19-55",
         "change": "Reaparece en búsqueda de nuevos competidores CO: COP 149.990 (tachado 199.990, -25%), 4,9 con 27 reseñas. Sin cambios de precio.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9 con 27 reseñas. La ficha sigue diciendo que se puede usar durante el lavado (IPX7).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2134,7 +2158,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -2231,6 +2255,12 @@
         "run_id": "2026-11-02T19-55",
         "change": "Reaparecen NeXo (COP 79.900, tachado 139.900, depósito 15 ml, contra entrega, garantía 30 días) y Smartjoys (COP 64.900, tachado 116.000, garantía 2 meses). Sin cambios relevantes.",
         "source": "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador ; https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Nuevo piso de precio visto en CO: genérico \"luz roja + aceite\" en el marketplace de Éxito a COP 41.930 (tachado 59.900) y en Grupo Comercia a COP 41.900 (tachado 59.900, con contador \"10 vendidos en 24 h\" propio de la tienda, no verificable). En Addi Marketplace: COP 69.900 y 75.900 (tachado 125.900). [ESTIMACIÓN] COP 41.900 ≈ USD 13 con TRM ~3.158 (última registrada). Copias de Exa sin fecha.",
+        "source": "https://www.exito.com/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades-124199955/p ; https://grupocomercia.co/product/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades/ ; https://marketplace.addi.com/producto/4847527"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -2249,7 +2279,7 @@
       "NeXo Colombia 'cepillo restaurador' (atomizador, depósito 15 ml)",
       "Nuvitecno cepillo vibratorio (depósito 3 ml)"
     ],
-    "price_visible": "COP 55.900 – 109.900 (17/10/2026): Smartjoys 64.900 (tachado 116.000), Karamelo 89.900 (tachado 150.000), SK Glam 109.900, VitaHair 79.900, En Tu Sitio 79.000, 911 Hair 55.900 (tachado 79.900). [ESTIMACIÓN] ≈ USD 18–35.",
+    "price_visible": "COP 55.900 – 109.900 (17/10/2026): Smartjoys 64.900 (tachado 116.000), Karamelo 89.900 (tachado 150.000), SK Glam 109.900, VitaHair 79.900, En Tu Sitio 79.000, 911 Hair 55.900 (tachado 79.900). [ESTIMACIÓN] ≈ USD 18–35. · Actualización 03/11/2026: piso COP 41.900–41.930 (Éxito marketplace, Grupo Comercia; tachado 59.900); Addi COP 69.900–75.900.",
     "value_prop": "Precio bajo, contraentrega/WhatsApp, copy de 'tratamiento profesional en casa'.",
     "claims_observed": "Fuertes: 'reduce caída extrema', 'activa raíces dormidas', 'estimula el crecimiento'; casi todos promueven uso en la ducha (IPX7).",
     "channels": [
@@ -2296,7 +2326,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-17",
@@ -2381,6 +2411,12 @@
         "run_id": "2026-10-30T03-55",
         "change": "Peosaard en Amazon MX sigue en MXN 426,59 (2,0★, 1 reseña; puesto 210.505 en Belleza). Joinet KS-918 a MXN 345, 'cantidad vendida: 17'. Nuevo de referencia (formato B, manual): La Milpa de María vende un aplicador de aceite con rodillos a MXN 199.",
         "source": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Amazon MX (búsqueda \"masajeador capilar eléctrico\", copia con entregas 4–6/11): genéricos con aplicador entre MXN 287,96 y 685 (uno a 629,10 con lista 699 y oferta por tiempo limitado); calificaciones bajas y escasas (1,0–4,7 con 1 a 19 opiniones). Peosaard sigue en MXN 426,59 (2,0★, 1 opinión). Joinet KS-918 MXN 345, \"cantidad vendida: 17\" (sin cambio). [ESTIMACIÓN] ≈ USD 15–37 con FIX ~18,67. Sin señales de Buen Fin todavía.",
+        "source": "https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico ; https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4 ; https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/"
       }
     ],
     "id": "mx-tiendas",
@@ -2906,7 +2942,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-19",
@@ -3129,6 +3165,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "12:47: Ulta sigue en USD 99,99 (3.ª copia seguida; sin fecha). La oferta de 59,99 no reaparece.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "DTC USD 99,99 (tachado 129,99), copia reciente (fechas de entrega 4–6/11). Ulta USD 99,99, sin oferta (3ª copia seguida). La oferta de 59,99 no volvió.",
+        "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -3406,7 +3448,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -3486,6 +3528,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T19-55",
         "change": "Chequeo rápido 19:55: la copia de Exa sigue mostrando solo el menú, sin precio. Último dato ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Precio recuperado vía resultados de Exa (copia sin fecha): negro ARS 66.599 (tachado 87.999, 24% OFF), igual que el 24/10; inventario declarado 420. NUEVO: variante roja listada aparte a ARS 74.601 (tachado 89.999, 17% OFF), 6 cuotas de 12.433,50. Sin rebaja de Cyber visible.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
@@ -3663,7 +3711,7 @@
       "https://isyra.com.mx/products/renacer-capilar-ab-test",
       "https://www.isyra.cl/products/isyra"
     ],
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-11-03",
     "relevance": "media",
     "follow_reason": "Primer eléctrico en Amazon MX con indicador mensual visible ('50+ el mes pasado') en el rango de precio de Flubberhome; vende en kit con aceites.",
     "history": [
@@ -3690,6 +3738,12 @@
         "run_id": "2026-10-30T03-55",
         "change": "Sin cambios: 'Oferta de aniversario', 'últimas 7 unidades' (mismo rótulo que el 29/10), 90 días de devolución.",
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T03-54",
+        "change": "Home de isyra.com.mx sin precio visible en la copia; mantiene claims de crecimiento y un testimonio con plazo de días. Último precio: MXN 999 (29/10).",
+        "source": "https://isyra.com.mx"
       }
     ]
   },
