@@ -860,6 +860,12 @@
         "run_id": "2026-10-31T19-55",
         "change": "Precio ARS 97.299 → 89.999 (−7,5%); cuotas generales 18 → 3 sin interés.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "Precio ARS 39.999 (tachado 61.537), 12 cuotas de 3.333; antes ARS 89.999.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ],
     "cambios": [
@@ -1074,7 +1080,15 @@
         "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
       }
     ],
-    "merece_investigar": "Sí, poco: sirve como referencia de precio del formato en TikTok Shop US. Volumen bajo (223 vendidos)."
+    "merece_investigar": "Sí, poco: sirve como referencia de precio del formato en TikTok Shop US. Volumen bajo (223 vendidos).",
+    "history": [
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "TikTok Shop US: USD 46,79 (tachado 116,87), 295 vendidos (indicador de TikTok Shop).",
+        "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
+      }
+    ]
   },
   "tymo-us:mista": {
     "id": "tymo-us:mista",

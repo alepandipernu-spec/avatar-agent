@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 89.999 (tachado ARS 138.460, 35% OFF; sin impuestos nacionales ARS 74.379), 3 cuotas sin interés de ARS 30.000 con todos los bancos; banners de 9 a 20 cuotas 'en seleccionados' (gadnic.com.ar, copia de Exa consultada 31/10/2026 19:55; antes ARS 97.299 con 18 cuotas de ARS 5.406).",
+    "price_visible": "ARS 39.999 (tachado ARS 61.537, 35% OFF; sin impuestos nacionales ARS 33.057), 12 cuotas sin interés de ARS 3.333 con todos los bancos; envío gratis superando ARS 49.990 (gadnic.com.ar, copia de Exa consultada 03/11/2026 ~12:00 BA). Antes (03/11 03:54): ARS 89.999 (tachado 138.460).",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -20,7 +20,8 @@
       "20/10/2026: ya no figura en preventa; precio visible ARS 97.299 con 35% OFF y 3 cuotas sin interés; envío en el día en AMBA (copias de Exa sin fecha visible).",
       "[HECHO 22/10/2026 19:55] Ficha del masajeador con depósito (LEDMAS55) verificada: ARS 97.299 (tachado 149.691, 35% OFF), 3 cuotas sin interés, 'Llega gratis mañana'. La tienda lo rotula '1º Más vendido en masajeador' (rótulo de la propia tienda, no un dato de ventas).",
       "[HECHO 2026-10-30 19:55] La ficha del masajeador con depósito pasa de 3 a 18 cuotas sin interés con todos los bancos (ARS 5.406 por mes); el precio no cambia (ARS 97.299). Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
-      "[HECHO 2026-10-31] Precio ARS 89.999 (tachado 138.460), 3 cuotas sin interés de ARS 30.000; baja de 7,5% frente a ARS 97.299 del 30–31/10. Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      "[HECHO 2026-10-31] Precio ARS 89.999 (tachado 138.460), 3 cuotas sin interés de ARS 30.000; baja de 7,5% frente a ARS 97.299 del 30–31/10. Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c",
+      "[HECHO 2026-11-03 ~12:00 BA] CyberMonday día 2: la ficha pasa a ARS 39.999 (tachado 61.537, 35% OFF), −55,6% frente a ARS 89.999 de la madrugada; 12 cuotas de 3.333. Fuente: https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
     ],
     "inferences": [
       "Compite en confianza de marca local y garantía, no en precio.",
@@ -29,7 +30,8 @@
     "hypotheses": [
       "La garantía larga es un argumento que Flubberhome no puede igualar hoy.",
       "Gadnic compite con marca local, garantía de 12 meses, cuotas y entrega en el día; Flubberhome no puede ganarle en plazo ni en garantía, sí en claridad de uso y packs.",
-      "[HIPÓTESIS] Es la jugada de financiación previa al CyberMonday (2–4/11): baja la barrera de pago sin tocar el precio."
+      "[HIPÓTESIS] Es la jugada de financiación previa al CyberMonday (2–4/11): baja la barrera de pago sin tocar el precio.",
+      "[HIPÓTESIS 2026-11-03] La rebaja a ARS 39.999 puede ser una 'oferta bomba' temporal del Cyber (termina el 4/11) o una liquidación; también bajó el precio de referencia tachado (138.460 → 61.537), lo que sugiere un reprecio y no solo un descuento sobre la lista. Verificar el 4/11 y el 5/11."
     ],
     "unknowns": [
       "Anuncios activos, presupuesto, ventas."
@@ -267,6 +269,12 @@
         "date": "2026-11-03",
         "run_id": "2026-11-03T03-54",
         "change": "CyberMonday día 2 (03:54): ficha sin cambios, ARS 89.999 (tachado 138.460; sin imp. nac. 74.379), 18 cuotas de 5.000. Sigue sin rebaja de evento.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "CAMBIO FUERTE: ARS 89.999 → 39.999 (−55,6%); tachado 138.460 → 61.537; 18 cuotas de 5.000 → 12 cuotas de 3.333; envío gratis desde 49.990. Visto en dos copias de Exa (búsqueda y fetch) del 03/11 ~12:00 BA.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -547,6 +555,12 @@
         "date": "2026-11-03",
         "run_id": "2026-11-03T03-54",
         "change": "CyberMonday día 2: PY008 sin cambios, ARS 129.900 (tachado 149.900), 3 cuotas de 43.300, efectivo 110.415. La copia muestra a la vez la etiqueta \"Sin stock\" y \"quedan 90\" (plantilla de la tienda; no concluyente).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "Chequeo rápido: la copia muestra el aviso 'no tenemos más stock' y viene cortada antes del precio. Último precio visto: ARS 129.900. Stock no concluyente.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -3535,6 +3549,12 @@
         "run_id": "2026-11-03T03-54",
         "change": "Precio recuperado vía resultados de Exa (copia sin fecha): negro ARS 66.599 (tachado 87.999, 24% OFF), igual que el 24/10; inventario declarado 420. NUEVO: variante roja listada aparte a ARS 74.601 (tachado 89.999, 17% OFF), 6 cuotas de 12.433,50. Sin rebaja de Cyber visible.",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "Chequeo rápido: el fetch sigue sin bloque de precio. Último dato: ARS 66.599 (negro).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
   },
@@ -3757,7 +3777,7 @@
     "relevant_products": [
       "DayIn 3-IN-1 Cordless Electric Scalp Massager (Chrome Silver)"
     ],
-    "price_visible": "USD 35,99 ('60% off') en TikTok Shop US según HashIQ, actualizado 22/10/2026; rango visto por HashIQ 34,19–37,79.",
+    "price_visible": "USD 46,79 (tachado 116,87, −60%) y 295 vendidos en la búsqueda de TikTok Shop US (copia sin fecha, consultada 03/11/2026); HashIQ al 28/10: USD 35,99 y 273 vendidos.",
     "value_prop": "Aparato 3 en 1 (masaje, luz, aplicador de aceite) a menos de USD 40.",
     "claims_observed": "El único video de afiliado abre con el ángulo de crecimiento del pelo: no replicable.",
     "channels": [
@@ -3781,7 +3801,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Competidor directo en US por debajo del precio de Flubberhome, con ventas visibles en TikTok Shop.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-03",
     "history": [
       {
         "date": "2026-10-29",
@@ -3794,6 +3814,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "HashIQ (act. 26/10): 258 vendidos (+8,8/día), USD 35,99 '60% off'; antes 223. Un solo video (1,4k vistas) con gancho de claim de crecimiento.",
         "source": "https://hashiq.io/shop/p/dayin-3-in-1-cordless-electric-scalp-massager-unisex-portabl-1729507815221859609"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T11-55",
+        "change": "TikTok Shop US: listado a USD 46,79 (tachado 116,87) con 295 vendidos (HashIQ 28/10: 273, +6/día). Otro listado de DayIn a USD 89,99 con 41 vendidos.",
+        "source": "https://shop.tiktok.com/us/k/electric-scalp-massager-with-red-light"
       }
     ]
   },

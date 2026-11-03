@@ -2113,5 +2113,44 @@
       "OPP-009-precio-por-mercado-mx-co (solo historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-03T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54) — CyberMonday AR día 2",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic (cortada), Carrello (sin precio), cybermonday.com.ar masajeadores, HashIQ NAPRE y Kitsch",
+      "Exa search: ofertas de noviembre (ES), TikTok Shop US (HashIQ Arboleaf/DayIn/Renergy, búsquedas de TikTok Shop)"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de anuncios de Meta: WebFetch sin permiso (no respondido)",
+      "TikTok Creative Center: WebFetch sin permiso (no respondido)",
+      "Carrello y Beltronic: copias sin precio",
+      "Mercado Libre: no consultado (403 previos)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "dayin-us",
+      "napre (sin ficha propia)",
+      "kitsch-us",
+      "arboleaf (sin ficha propia)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic: ARS 89.999 → 39.999 (−55,6%) en Cyber día 2; tachado 138.460 → 61.537",
+      "DayIn en TikTok Shop US a USD 46,79 con 295 vendidos",
+      "Genérico con aplicador en TikTok Shop US con 2.0K vendidos a USD 35,98",
+      "NAPRE y Kitsch sin datos nuevos (HashIQ sigue en 2/11)",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012 (historial)",
+      "OPP-007 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

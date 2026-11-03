@@ -625,5 +625,34 @@
     "ultima_vez_visto": "2026-11-02",
     "repeticiones": "No visible",
     "nota": "Patrón HashIQ en 9 videos: gancho de afirmación (~3,7 s), oferta mencionada ~0:20, pedido de compra ~0:32."
+  },
+  "arboleaf-us:hashiq-pregunta-sensorial-2026-10": {
+    "id": "arboleaf-us:hashiq-pregunta-sensorial-2026-10",
+    "run_id": "2026-11-03T11-55",
+    "competidor": "arboleaf-us (B indirecto, sin depósito)",
+    "fuente": "HashIQ: videos de afiliados en TikTok Shop US (NO es la Biblioteca de Meta ni un anuncio pago confirmado)",
+    "url": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271",
+    "fecha_vista": "2026-11-03",
+    "formato": "Videos verticales de creadoras, 0:33 típico; el más visto 0:47 y 31k vistas (23/10)",
+    "gancho": "Pregunta o reacción sensorial ('qué es esto que se siente tan bien', paráfrasis); 5 de 10 videos abren con pregunta, gancho típico 5,8 s",
+    "primeros_segundos": "Reacción de placer en cámara antes de explicar el producto",
+    "problema": "Tensión en sienes, mandíbula y nuca",
+    "demostracion": "Sí, en sienes y cuero cabelludo",
+    "beneficio": "Relajación, alivio de tensión",
+    "objeciones": [
+      "¿se engancha en el pelo? (responden: silicona, no)"
+    ],
+    "estructura": "Reacción o pregunta → demo → (a veces) oferta → link en el carrito",
+    "texto_en_pantalla": "No visible en la transcripción",
+    "cta": "Link en el carrito naranja",
+    "oferta": "Mención de que 'suele estar en oferta' en algunos videos",
+    "motivaciones_INTERPRETACION": [
+      "autocuidado",
+      "alivio del estrés"
+    ],
+    "primera_vez_visto": "2026-11-03",
+    "ultima_vez_visto": "2026-11-03",
+    "repeticiones": "No visible",
+    "nota": "Algunos videos usan claims de salud (migrañas, crecimiento): no replicar. Arboleaf: 12.641 vendidos, +49/día (HashIQ, act. 2/11)."
   }
 }
