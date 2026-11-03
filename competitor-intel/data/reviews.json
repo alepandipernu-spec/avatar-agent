@@ -2,8 +2,8 @@
   "patterns": [
     {
       "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-      "n_fuentes": 22,
-      "n_competidores": 14,
+      "n_fuentes": 23,
+      "n_competidores": 15,
       "clasificacion": "tendencia (varias fuentes y productos)",
       "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
       "fecha": "2026-10-17",
@@ -56,6 +56,11 @@
           "date": "2026-11-02",
           "run_id": "2026-11-02T19-55",
           "change": "Reconfirmado sin fuentes nuevas independientes (MINOZOOS y Breo Scalp3 en Amazon: 'aplicar presión para que baje el líquido'; Alverela/Ceeblink, misma reseña duplicada, se cuenta una sola vez). n_fuentes sin cambio."
+        },
+        {
+          "date": "2026-11-03",
+          "run_id": "2026-11-03T19-55",
+          "change": "+1 fuente (SAFARİ 54, Amazon US: el aceite sale tan lento que no se nota). Reconfirmación."
         }
       ]
     },
@@ -297,6 +302,11 @@
           "run_id": "2026-10-24T19-54",
           "change": "Patrón nuevo (aislado).",
           "source": "https://aetheo.co.uk/products/breo-scalp3-scalp-massaging-brush"
+        },
+        {
+          "date": "2026-11-03",
+          "run_id": "2026-11-03T19-55",
+          "change": "Contraejemplo de buena práctica: DodoLiza y Beautrol publican qué líquidos evitar y aclaran que no es tratamiento de crecimiento. No suma fuente de queja."
         }
       ]
     },
@@ -973,6 +983,16 @@
       "parafrasis": "Las reseñas destacadas siguen repitiendo lo conocido: el líquido baja solo si se hace presión, los aceites densos no pasan, alguna unidad deja de encender y el soporte responde con mensajes automáticos. No apareció ninguna queja nueva con fecha de octubre o noviembre de 2026.",
       "fecha_consulta": "2026-11-02",
       "run_id": "2026-11-02T19-55",
+      "tipo": "reconfirmación"
+    },
+    {
+      "fuente": "https://www.amazon.com/SAFAR%C4%B0-54-Applicator-Massager-Electric/dp/B0CZPMTMGM ; https://brightreviewlab.com/best-electric-scalp-massager/ ; https://dodoliza.com/en/product/red-light-scalp-massager-comb/",
+      "producto": "SAFARİ 54 (Amazon US), varios (Bright Review Lab), DodoLiza",
+      "problema": "reconfirmación: dispensado lento o imperceptible; limpieza del tanque; líquidos espesos no aptos",
+      "fecha": "reseña sin fecha visible (SAFARİ 54, listado desde 04/2024); guía actualizada 11/2026",
+      "parafrasis": "Una reseña destacada dice que el aceite sale tan despacio que no se sabe si está llegando al cuero cabelludo. Una guía de noviembre marca como contra la limpieza del tanque. Un vendedor advierte que no se usen aceites espesos ni fórmulas con partículas. Sin quejas nuevas con fecha de octubre o noviembre.",
+      "fecha_consulta": "2026-11-03",
+      "run_id": "2026-11-03T19-55",
       "tipo": "reconfirmación"
     }
   ]

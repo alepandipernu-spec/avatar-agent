@@ -87,3 +87,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 - 02/11/2026 19:55 (run 2026-11-02T19-55): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin tachado; updatedAt 28/10 09:44 UTC). Cuadernos Mágicos sigue activo sin stock.
 - 03/11/2026 03:54 (run 2026-11-03T03-54): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). Producto actualizado en Shopify el 28/10/2026 09:44 UTC, igual que en runs anteriores.
 - 03/11/2026 11:55 (run 2026-11-03T11-55): ScalpCare Pro sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado; updatedAt 28/10/2026 09:44 UTC). Cuadernos Mágicos sigue activo sin stock (updatedAt 01/11 03:04 UTC).
+- 03/11/2026 19:55 (run 2026-11-03T19-55): ScalpCare Pro sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado; updatedAt 28/10/2026 09:44 UTC). Cuadernos Mágicos sigue activo sin stock (updatedAt 01/11 03:04 UTC).

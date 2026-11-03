@@ -276,6 +276,12 @@
         "run_id": "2026-11-03T11-55",
         "change": "CAMBIO FUERTE: ARS 89.999 → 39.999 (−55,6%); tachado 138.460 → 61.537; 18 cuotas de 5.000 → 12 cuotas de 3.333; envío gratis desde 49.990. Visto en dos copias de Exa (búsqueda y fetch) del 03/11 ~12:00 BA.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "Cyber día 2 (tarde): sigue en ARS 39.999 (tachado 61.537, 35% OFF), 12 cuotas de 3.333, envío gratis desde 49.990. Copia de Exa del 03/11 ~19:55 BA, igual a la de la mañana.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -561,6 +567,12 @@
         "date": "2026-11-03",
         "run_id": "2026-11-03T11-55",
         "change": "Chequeo rápido: la copia muestra el aviso 'no tenemos más stock' y viene cortada antes del precio. Último precio visto: ARS 129.900. Stock no concluyente.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "Copia del 03/11 ~19:55: ARS 129.900 (tachado 149.900), 3 cuotas de 43.300; la misma página muestra \"Sin stock\" y \"quedan 90\". Sin cambio de precio; stock no concluyente.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2163,7 +2175,8 @@
       "[HECHO 22/10/2026] Magoo Gadgets (magoogadgets.com): 'cepillo de fototerapia con vaporización' (formato de peine con vapor/spray) a COP 98.900 (tachado 135.000), envío gratis. La misma ficha dice '30 días de garantía' y 'garantía 3 meses', y promete un video tutorial por mensaje después de la compra. Claims de caída y caspa.",
       "[23/10/2026] Letengo (CO) vende el cepillo con depósito de la marca de tónicos Anyeluz a COP 28.000, entrega 1–3 días hábiles, pago con Addi/Sistecrédito/Efecty. Es MANUAL (puntas de goma), no eléctrico: competencia indirecta. La ficha atribuye beneficios de circulación y crecimiento.",
       "[HECHO 29/10/2026] Andik Store (andikstore.co): cepillo eléctrico con luz roja y depósito de 3 ml a COP 138.900; garantía de solo 10 días por defectos de fábrica. Copia de Exa sin fecha. Fuente: https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador",
-      "[HECHO 29/10/2026] Bella Cosméticos (distribella.com, distribuidora de Cúcuta): cepillo 4 en 1 con luz, vapor y depósito (Maca-071) a COP 25.000, 'Sin existencias'. Precio de distribuidora, no comparable con venta al público. Fuente: https://www.distribella.com/producto/cepillo-masajeador-capilar-maca-071-bella/"
+      "[HECHO 29/10/2026] Bella Cosméticos (distribella.com, distribuidora de Cúcuta): cepillo 4 en 1 con luz, vapor y depósito (Maca-071) a COP 25.000, 'Sin existencias'. Precio de distribuidora, no comparable con venta al público. Fuente: https://www.distribella.com/producto/cepillo-masajeador-capilar-maca-071-bella/",
+      "[HECHO 03/11/2026, copias de Exa sin fecha] Tres tiendas chicas más: Soluciones Shop COP 149.990 (claims de caída y crecimiento); GF Shoply COP 79.900 (peine con vapor, envío gratis y pago contra entrega, 2–5 días hábiles); Sabu Home COP 99.990."
     ],
     "inferences": [
       "[HIPÓTESIS] El mercado colombiano de DTC está saturado del mismo producto genérico con claims médicos: el ángulo honesto de masaje + aplicación y una garantía más larga son diferenciales reales."
@@ -2275,6 +2288,12 @@
         "run_id": "2026-11-03T03-54",
         "change": "Nuevo piso de precio visto en CO: genérico \"luz roja + aceite\" en el marketplace de Éxito a COP 41.930 (tachado 59.900) y en Grupo Comercia a COP 41.900 (tachado 59.900, con contador \"10 vendidos en 24 h\" propio de la tienda, no verificable). En Addi Marketplace: COP 69.900 y 75.900 (tachado 125.900). [ESTIMACIÓN] COP 41.900 ≈ USD 13 con TRM ~3.158 (última registrada). Copias de Exa sin fecha.",
         "source": "https://www.exito.com/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades-124199955/p ; https://grupocomercia.co/product/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades/ ; https://marketplace.addi.com/producto/4847527"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "Se suman 3 tiendas DTC chicas: solucionesshop.co (COP 149.990), gfshoply.com (COP 79.900, vapor, contra entrega) y sabu-home (COP 99.990). Confirman el rango COP 65–150 mil.",
+        "source": "https://www.solucionesshop.co/products/cepillo-capilar-masajeador-3-en-1 ; https://gfshoply.com/products/cepillo-masajeador-capilar-vapor ; https://sabu-home.myshopify.com/products/cepillo-para-el-crecimiento-del-cabello"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -3555,6 +3574,12 @@
         "run_id": "2026-11-03T11-55",
         "change": "Chequeo rápido: el fetch sigue sin bloque de precio. Último dato: ARS 66.599 (negro).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "La copia del 03/11 ~19:55 sigue sin precio y muestra el aviso de \"no tenemos más stock\" del carrito; envío gratis desde ARS 39.999. Último precio: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
   },
@@ -3910,6 +3935,55 @@
         "run_id": "2026-11-02T19-55",
         "change": "creado (búsqueda de nuevos competidores, foco 19:54)",
         "source": "https://www.amazon.com/Gewaizhuan-Electric-Massager-Applicator-Waterproof/dp/B0FWKC1JJD"
+      }
+    ]
+  },
+  "kopna-us": {
+    "id": "kopna-us",
+    "name": "Kopna (Amazon US)",
+    "domain": "amazon.com",
+    "market": "US",
+    "category": "A_directo",
+    "relevant_products": [
+      "2-in-1 Electric Scalp Massager with Nano Mist Serum Applicator (ASIN B0FWGSTSW4, modelo KOP-001)"
+    ],
+    "price_visible": "USD 59,99 (copia de Exa sin fecha, consultada el 03/11/2026)",
+    "value_prop": "Masajeador con dientes móviles y bruma para sérum, posicionado para hombres (\"skinification\" del cuero cabelludo: rutina como la de cara y barba); vende su propio sérum.",
+    "claims_observed": [
+      "\"apariencia de pelo más lleno\" (claim cosmético suave)",
+      "uso en la ducha y con champú (IPX7)"
+    ],
+    "channels": [
+      "Amazon US"
+    ],
+    "ads": [],
+    "facts": [
+      "4,6 de 5 con 17 calificaciones (indicador de Amazon, no ventas).",
+      "Se presenta como regalo para maridos y papás.",
+      "Bright Review Lab (actualizado 11/2026) lo lista como opción \"premium\" para hombres; contras: hay que comprar sérum y limpiar el tanque."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] Es el primer competidor relevado que segmenta al comprador hombre de forma explícita, con lenguaje de grooming y no de caída."
+    ],
+    "hypotheses": [
+      "[HIPÓTESIS] Existe un segmento masculino que compra por rutina de grooming; no hay datos de volumen."
+    ],
+    "unknowns": [
+      "Ventas, anuncios, fecha de lanzamiento, garantía."
+    ],
+    "sources": [
+      "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4",
+      "https://brightreviewlab.com/best-electric-scalp-massager/"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Primer posicionamiento explícito para hombres en la categoría; precio por encima de Flubberhome con poca tracción visible. Vigilar si crece.",
+    "last_reviewed": "2026-11-03",
+    "history": [
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "creado (búsqueda de nuevos competidores, foco 19:54)",
+        "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4"
       }
     ]
   }

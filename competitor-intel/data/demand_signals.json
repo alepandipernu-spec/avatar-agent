@@ -1048,5 +1048,17 @@
     "tipo": "HECHO",
     "indica": "Que el formato eléctrico con aplicador tiene compradores en TikTok Shop US a ~USD 36, con calificación modesta.",
     "no_indica": "Ventas mensuales ni fecha (contador acumulado, copia sin fecha), ni rentabilidad."
+  },
+  "amazon-us-kopna-17-calificaciones-hombre": {
+    "id": "amazon-us-kopna-17-calificaciones-hombre",
+    "fecha": "2026-11-03",
+    "run_id": "2026-11-03T19-55",
+    "senal": "Masajeador con bruma para sérum orientado a hombres en Amazon US a USD 59,99",
+    "valor": "4,6/5 con 17 calificaciones",
+    "fuente": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4",
+    "alcance": "US, Amazon, un listado",
+    "tipo": "HECHO",
+    "indica": "Que alguien está probando el segmento masculino con lenguaje de grooming y regalo.",
+    "no_indica": "Ventas ni tamaño del segmento: 17 calificaciones es tracción baja."
   }
 }

@@ -2152,5 +2152,47 @@
       "OPP-007 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-03T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54) — CyberMonday AR día 2",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Carrello (sin precio), Kopna y SAFARİ 54 (Amazon US)",
+      "Exa search: AR Cyber (masajeadores), reseñas US, Buen Fin MX, lanzamientos US, tiendas CO"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: copia sin precio",
+      "Mercado Libre: no consultado (403 previos)",
+      "Búsqueda de quejas en español: resultados irrelevantes",
+      "Biblioteca de Meta: no aplica en este foco"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "co-dtc-tiendas",
+      "mx-tiendas",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [
+      "kopna-us (baja)"
+    ],
+    "novedades": [
+      "Gadnic sigue en ARS 39.999 a la tarde del Cyber día 2",
+      "Kopna: primer competidor posicionado para hombres (USD 59,99, 17 calificaciones)",
+      "3 tiendas DTC chicas nuevas en CO (COP 79.900–149.990)",
+      "Sin quejas nuevas con fecha; reconfirmación de dispensado",
+      "Buen Fin MX: sin ofertas visibles de la categoría todavía",
+      "Descartados por mercado: Beautrol (UE) y DodoLiza (Arabia Saudita)",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-013 (historial)",
+      "OPP-006 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

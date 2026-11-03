@@ -1184,5 +1184,39 @@
         "source": "https://www.mykitsch.com/pages/holiday-scalp-renewal"
       }
     ]
+  },
+  "kopna-us:nano-mist": {
+    "id": "kopna-us:nano-mist",
+    "problema": "Aplicar sérum en el cuero cabelludo con masaje, como rutina de grooming masculina",
+    "variantes": "Único (negro)",
+    "precio": {
+      "1 u": "USD 59,99"
+    },
+    "promos": "No visibles",
+    "garantia": "No visible",
+    "devolucion": "Política de Amazon",
+    "envio": "Amazon",
+    "beneficios": [
+      "bruma sin goteo",
+      "dientes móviles",
+      "IPX7, uso en ducha"
+    ],
+    "objeciones_resueltas": [
+      "goteo",
+      "enchastre"
+    ],
+    "diferenciadores": "Segmento hombre; sérum propio",
+    "merece_investigar": false,
+    "por_que": "Sirve como referencia de posicionamiento (hombre, grooming), no como producto a sumar: formato bruma y uso en ducha distintos al ScalpCare Pro.",
+    "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4",
+    "fecha": "2026-11-03",
+    "history": [
+      {
+        "date": "2026-11-03",
+        "run_id": "2026-11-03T19-55",
+        "change": "Alta",
+        "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4"
+      }
+    ]
   }
 }
