@@ -2270,5 +2270,49 @@
       "OPP-004 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-04T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54) — cierre del CyberMonday AR",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Alverela, USUIE (Amazon US)",
+      "Exa search: reseñas US, foros/Reddit, tiendas AR/CO/MX nuevas"
+    ],
+    "fuentes_fallidas": [
+      "Reddit: la búsqueda no devolvió hilos de 2026",
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: no aplica en este foco",
+      "USUIE: copia sin precio ni reseñas negativas"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "alverela-co",
+      "holy-cosmetics-co",
+      "nihlo-co",
+      "co-dtc-tiendas",
+      "anyra-us",
+      "ar-tiendas-chicas",
+      "carrello-ar"
+    ],
+    "competidores_nuevos": [
+      "usuie-us (baja)"
+    ],
+    "novedades": [
+      "Gadnic sigue en ARS 32.799 al cierre del Cyber",
+      "USUIE usa 'sin goteo' en el título (Amazon US)",
+      "+5 reseñas/fuentes: THSTPA no enciende, Kitsch pierde y la tapa salta, iMounTEK sin respuesta, mriya se tapa",
+      "Patrón nuevo: reseñas recicladas entre tiendas DTC",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)",
+      "OPP-015 (historial)",
+      "OPP-016 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

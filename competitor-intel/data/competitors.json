@@ -294,6 +294,12 @@
         "run_id": "2026-11-04T11-54",
         "change": "Cyber día 3 (mediodía): baja otra vez, de ARS 39.999 a 32.799 (−18%; −63,6% contra los 89.999 previos al Cyber). Tachado 61.537 → 50.460. Vuelven las 20 cuotas sin interés (1.640). Sigue envío gratis desde 49.990, devolución gratis 30 días y 12 meses de garantía.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T19-55",
+        "change": "Chequeo rápido 19:55: sigue en ARS 32.799 (tachado 50.460, 35% OFF), igual que a las 12:00. Último día del Cyber.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -597,6 +603,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T11-54",
         "change": "Sin cambios: ARS 129.900 (tachado 149.900). La copia vuelve a mostrar a la vez 'no tenemos más stock' y 'solo quedan 90'. Stock no concluyente.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T19-55",
+        "change": "Chequeo rápido: sin cambios (ARS 129.900, tachado 149.900; mismo cartel contradictorio de stock).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -3359,6 +3371,12 @@
         "run_id": "2026-11-04T11-54",
         "change": "Sin cambios: COP 117.700, 'precio de lanzamiento hasta el 15 de noviembre', 23 reseñas (20 de 5 estrellas).",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T19-55",
+        "change": "Chequeo rápido: sin cambios (COP 117.700, lanzamiento hasta el 15/11, 23 reseñas).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
   },
@@ -4087,6 +4105,53 @@
         "run_id": "2026-11-04T11-54",
         "change": "creado (búsqueda de creatividades AR, foco 11:54)",
         "source": "https://www.salons10.com/AR/Buenos-Aires/1013391861856611/Nuv%C3%A9a-Argentina"
+      }
+    ]
+  },
+  "usuie-us": {
+    "id": "usuie-us",
+    "name": "USUIE (Amazon US)",
+    "domain": "amazon.com",
+    "market": "US",
+    "category": "A_directo",
+    "relevant_products": [
+      "3-in-1 Hair Oil Applicator with No-Drip Dispenser (ASIN B0DT93TYP2)"
+    ],
+    "price_visible": "No visible en la copia de Exa (consultada el 04/11/2026).",
+    "value_prop": "Masajeador eléctrico con dispensador que el título del listado presenta como antigoteo; portátil, para viaje.",
+    "claims_observed": [
+      "'No-Drip Dispenser' en el título",
+      "circulación (en la reseña destacada, no en la ficha)"
+    ],
+    "channels": [
+      "Amazon US"
+    ],
+    "ads": [],
+    "facts": [
+      "3,8 de 5 con 36 calificaciones (indicador de Amazon, no ventas). Copia de Exa sin fecha, consultada el 04/11/2026.",
+      "La reseña destacada elogia que el dispensador no gotea y deja dosificar."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] El 'sin goteo' ya se usa como argumento de título en Amazon US; como promesa escrita no diferencia. Lo que puede diferenciar es demostrarlo con imagen real (OPP-001)."
+    ],
+    "hypotheses": [
+      "[HIPÓTESIS] La calificación de 3,8 sugiere que la promesa antigoteo no siempre se cumple; no se vieron las reseñas negativas."
+    ],
+    "unknowns": [
+      "Precio, ventas, anuncios, fecha de lanzamiento, garantía, texto de las reseñas negativas."
+    ],
+    "sources": [
+      "https://www.amazon.com/USUIE-Applicator-Dispenser-Portable-Wireless/dp/B0DT93TYP2"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Primer competidor relevado que pone 'sin goteo' en el título: toca el mismo ángulo que OPP-001.",
+    "last_reviewed": "2026-11-04",
+    "history": [
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T19-55",
+        "change": "creado (búsqueda de reseñas, foco 19:54)",
+        "source": "https://www.amazon.com/USUIE-Applicator-Dispenser-Portable-Wireless/dp/B0DT93TYP2"
       }
     ]
   }

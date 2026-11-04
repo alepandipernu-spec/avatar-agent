@@ -2,8 +2,8 @@
   "patterns": [
     {
       "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-      "n_fuentes": 23,
-      "n_competidores": 15,
+      "n_fuentes": 25,
+      "n_competidores": 16,
       "clasificacion": "tendencia (varias fuentes y productos)",
       "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
       "fecha": "2026-10-17",
@@ -61,6 +61,11 @@
           "date": "2026-11-03",
           "run_id": "2026-11-03T19-55",
           "change": "+1 fuente (SAFARİ 54, Amazon US: el aceite sale tan lento que no se nota). Reconfirmación."
+        },
+        {
+          "date": "2026-11-04",
+          "run_id": "2026-11-04T19-55",
+          "change": "+2 fuentes: Kitsch en nenav (tapa que salta tras recargar, pérdidas; 10/08/2026) y THSTPA (el fabricante limita a <3 ml y advierte rebalse con líquidos fluidos). Reconfirmación de mriya 70 ml."
         }
       ]
     },
@@ -75,8 +80,8 @@
     },
     {
       "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-      "n_fuentes": 13,
-      "n_competidores": 10,
+      "n_fuentes": 15,
+      "n_competidores": 12,
       "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
       "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
       "fecha": "2026-10-17",
@@ -120,6 +125,11 @@
           "run_id": "2026-10-29T19-54",
           "change": "+1 fuente (peine con spray de TikTok Shop US, formato adyacente).",
           "source": "https://shop.tiktok.com/us/pdp/1732415466145222815"
+        },
+        {
+          "date": "2026-11-04",
+          "run_id": "2026-11-04T19-55",
+          "change": "+2 fuentes: THSTPA no encendió en la prueba de Shopper Advocate (01/09/2026; listado 1,0★) e iMounTEK en Groupon (nunca funcionó)."
         }
       ]
     },
@@ -221,8 +231,8 @@
     },
     {
       "problema": "Atención al cliente que responde con mensajes automáticos ante fallas",
-      "n_fuentes": 3,
-      "n_competidores": 3,
+      "n_fuentes": 4,
+      "n_competidores": 4,
       "clasificacion": "incipiente (3 fuentes de 3 marcas; una es a nivel empresa)",
       "oportunidad": "Si se publica una garantía (OPP-003), explicar quién responde y en cuánto tiempo.",
       "fecha": "2026-10-19",
@@ -245,6 +255,11 @@
           "run_id": "2026-10-28T19-54",
           "change": "+1 fuente: BBB de TYMO (F, 27 de 41 quejas sin respuesta). Nivel empresa, no producto. Pasa a 3 fuentes de 3 marcas.",
           "source": "https://www.bbb.org/us/ca/sacramento/profile/online-retailer/tymo-beauty-1156-90071217"
+        },
+        {
+          "date": "2026-11-04",
+          "run_id": "2026-11-04T19-55",
+          "change": "+1 fuente: iMounTEK (Groupon), sin respuesta al pedido de devolución. Pasa a 4 fuentes de 4 marcas."
         }
       ]
     },
@@ -290,8 +305,8 @@
     },
     {
       "problema": "Precauciones o líquidos compatibles que el comprador recién descubre después de comprar",
-      "n_fuentes": 1,
-      "n_competidores": 1,
+      "n_fuentes": 2,
+      "n_competidores": 2,
       "clasificacion": "aislado (1 reseña de Breo en un revendedor UK)",
       "oportunidad": "[HIPÓTESIS] Mostrar antes de la compra, en una línea, cómo se usa (pelo seco o apenas húmedo, nunca bajo el agua) y qué líquidos van; encaja con OPP-015. Sin claims médicos.",
       "fecha": "2026-10-24",
@@ -307,6 +322,11 @@
           "date": "2026-11-03",
           "run_id": "2026-11-03T19-55",
           "change": "Contraejemplo de buena práctica: DodoLiza y Beautrol publican qué líquidos evitar y aclaran que no es tratamiento de crecimiento. No suma fuente de queja."
+        },
+        {
+          "date": "2026-11-04",
+          "run_id": "2026-11-04T19-55",
+          "change": "+1 fuente: un sérum cambió de color dentro de un aplicador Kitsch (caso aislado; la compradora lo atribuye al metal). Refuerza publicar qué líquidos usar y cómo limpiar."
         }
       ]
     },
@@ -353,6 +373,22 @@
           "run_id": "2026-10-26T19-55",
           "change": "Alta del patrón.",
           "source": "https://www.nbcnews.com/select/shopping/best-hair-growth-tools-rcna260814 ; https://www.desiblitz.com/content/traditional-hair-oiling-vs-led-tech-is-tiktoks-scalp-spa-worth-it"
+        }
+      ]
+    },
+    {
+      "problema": "Reseñas recicladas entre tiendas: el mismo texto aparece en varias tiendas con autores distintos",
+      "n_fuentes": 3,
+      "n_competidores": 3,
+      "clasificacion": "tendencia en tiendas DTC chicas (Alverela, Ceeblink, GlowMotion-Fit)",
+      "oportunidad": "Mostrar solo reseñas reales y verificables, con fecha y sin nombres inventados (OPP-016). Desconfiar de las calificaciones de tiendas DTC chicas como señal de demanda.",
+      "fecha": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
+      "historial": [
+        {
+          "date": "2026-11-04",
+          "run_id": "2026-11-04T19-55",
+          "change": "creado a partir de Alverela–Ceeblink (registrado antes) + GlowMotion-Fit (nuevo)."
         }
       ]
     }
@@ -993,6 +1029,56 @@
       "parafrasis": "Una reseña destacada dice que el aceite sale tan despacio que no se sabe si está llegando al cuero cabelludo. Una guía de noviembre marca como contra la limpieza del tanque. Un vendedor advierte que no se usen aceites espesos ni fórmulas con partículas. Sin quejas nuevas con fecha de octubre o noviembre.",
       "fecha_consulta": "2026-11-03",
       "run_id": "2026-11-03T19-55",
+      "tipo": "reconfirmación"
+    },
+    {
+      "fuente": "https://www.shopperadvocate.com/3-in-1-scalp-massage-comb-review/",
+      "producto": "THSTPA 3-in-1 Scalp Massage Comb",
+      "problema": "no enciende al llegar",
+      "fecha": "2026-09-01 (publicación)",
+      "parafrasis": "El sitio de reseñas no pudo probarlo: la unidad no encendió. Informa que el listado promedia 1,0★. El fabricante recomienda menos de 3 ml de aceite y avisa que un líquido muy fluido rebalsa con la vibración y uno espeso no sale.",
+      "fecha_consulta": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
+      "tipo": "reseña editorial (fuente secundaria)"
+    },
+    {
+      "fuente": "https://nenav.com/kitsch-scalp-hair-oil-applicator-precision-scalp-dispenser",
+      "producto": "Kitsch Scalp & Hair Oil Applicator (manual, sin motor)",
+      "problema": "tapa que salta, pérdidas, poco producto; un caso de sérum que cambió de color",
+      "fecha": "2026-08-10 (publicación; reseñas sin fecha)",
+      "parafrasis": "Agregador con 9 reseñas (2,4★). Varias dicen que la tapa de goma se suelta después de recargar, que pierde aceite y que sale muy poco. Una compradora vio que su sérum cambió de color en pocos días y dejó de usarlo.",
+      "fecha_consulta": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
+      "tipo": "agregador de reseñas (fuente secundaria)"
+    },
+    {
+      "fuente": "https://www.groupon.com/deals/gg-mp-imountek-2-in-1-electric-scalp-massager-hair-oil-applicator-for-hair-growth",
+      "producto": "iMounTEK 2 en 1 con bruma (Groupon, oferta vencida)",
+      "problema": "no funcionó y nadie respondió el pedido de devolución",
+      "fecha": "relativa ('hace 253 días'); aprox. febrero 2026 [ESTIMACIÓN ±1 mes]",
+      "parafrasis": "Una compradora dice que nunca funcionó y que no le contestan para devolverlo o cambiarlo.",
+      "fecha_consulta": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
+      "tipo": "reseña de comprador"
+    },
+    {
+      "fuente": "https://glowmotionfit.com/products/scalp-massager-hair-oil-applicator ; https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator",
+      "producto": "ScalpGlow (GlowMotion-Fit) y Ceeblink",
+      "problema": "misma reseña en dos tiendas distintas",
+      "fecha": "no visible",
+      "parafrasis": "La misma reseña (si no apretás la tapa de silicona no sale el aceite) aparece en GlowMotion-Fit y en Ceeblink con otro nombre de autor. Ceeblink ya compartía reseñas idénticas con Alverela.",
+      "fecha_consulta": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
+      "tipo": "observación de confiabilidad de reseñas"
+    },
+    {
+      "fuente": "https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC",
+      "producto": "mriya 70 ml (Amazon US)",
+      "problema": "reconfirmación: se tapó el primer día y pierde",
+      "fecha": "no visible",
+      "parafrasis": "La reseña destacada (3,2★, 88 calificaciones) dice que se tapó el primer día, que no se destapó ni con agua caliente y que pierde; volvió al aplicador manual.",
+      "fecha_consulta": "2026-11-04",
+      "run_id": "2026-11-04T19-55",
       "tipo": "reconfirmación"
     }
   ]
