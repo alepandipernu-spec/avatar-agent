@@ -1,61 +1,55 @@
-# Inteligencia competitiva — run 2026-11-03T19-55
+# Inteligencia competitiva — run 2026-11-04T03-55
 
-**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54). Día 2 del CyberMonday AR (2–4/11).
+**Foco:** catálogo, tiendas y precios (franja 03:54). Día 3 y último del CyberMonday AR (2–4/11).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no se escribieron datos internos de Flubberhome.
-**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 03/11/2026 entre las 19:55 y las 20:15 (Buenos Aires). Las copias de Exa no traen fecha visible salvo donde se indica.
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 04/11/2026 entre las 03:55 y las 04:15 (Buenos Aires). Las copias de búsqueda de Exa no traen fecha visible salvo donde se indica.
 
-**Informe corto:** sin novedades fuertes. Gadnic mantiene la rebaja de la mañana, apareció un competidor nuevo de relevancia baja y no hay quejas nuevas con fecha.
+**Informe corto:** sin novedades fuertes. Los precios de los competidores directos no cambiaron.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Gadnic sigue en ARS 39.999** a la tarde del Cyber día 2 [HECHO, [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)]. Ya avisado en el run de las 11:55; no es novedad.
-- **Competidor nuevo (relevancia baja): Kopna**, en Amazon US a USD 59,99 [HECHO, [Amazon](https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4)]. Es el primero de la categoría que se dirige a hombres de forma explícita, con lenguaje de rutina de cuidado personal y de regalo para maridos y papás. Tiene 4,6 sobre 17 calificaciones, o sea, poca tracción visible.
-- **Reseñas:** solo reconfirmaciones del dispensado (el líquido sale lento o no se nota).
+- **Gadnic sigue en ARS 39.999** en el último día del Cyber [HECHO, [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)]. Lo que hay que mirar es si vuelve a ARS 89.999 el 5/11.
+- **Alverela (CO)** mantiene el aviso de "precio de lanzamiento hasta el 15 de noviembre" a COP 117.700 [HECHO, [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento)].
+- **Buen Fin MX:** todavía no hay ofertas visibles en la categoría.
 - **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado | Fuente |
 |---|---|---|---|---|
-| gadnic-ar | AR | A | ARS 39.999 (tachado 61.537), 12 cuotas de 3.333. Igual que a la mañana | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| beltronic-ar | AR | A | ARS 129.900 (tachado 149.900). La página muestra a la vez "sin stock" y "quedan 90": el stock no es concluyente | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-| carrello-ar | AR | A | La copia sigue sin precio. Último dato: ARS 66.599 (24/10) | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) |
-| co-dtc-tiendas | CO | A | Tres tiendas chicas más: Soluciones Shop COP 149.990, GF Shoply COP 79.900 (peine con vapor, pago contra entrega), Sabu Home COP 99.990. Confirman el rango de COP 65.000 a 150.000 | [Soluciones](https://www.solucionesshop.co/products/cepillo-capilar-masajeador-3-en-1) · [GF Shoply](https://gfshoply.com/products/cepillo-masajeador-capilar-vapor) · [Sabu](https://sabu-home.myshopify.com/products/cepillo-para-el-crecimiento-del-cabello) |
-| mx-tiendas | MX | A | Peosaard sigue en MXN 426,59 en Amazon MX. No hay ofertas de Buen Fin visibles en la categoría | [Amazon MX](https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4) |
+| gadnic-ar | AR | A | ARS 39.999 (tachado 61.537, 35% OFF), 12 cuotas de 3.333 y envío gratis desde 49.990. Igual que el 03/11 | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| beltronic-ar | AR | A | ARS 129.900 (tachado 149.900). El stock sigue contradictorio | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
+| carrello-ar | AR | A | La copia sigue sin precio. Probé otra fuente: una ficha de "Cepillo Masajeador Carrello" en Rappi CO figura agotada y sin precio, así que no sirve para AR. Último dato: ARS 66.599 (24/10) | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) · [Rappi](https://www.rappi.com.co/p/cepillo-maseajador-7292150) |
+| alverela-co | CO | A | COP 117.700, "lanzamiento" hasta el 15/11. La copia no muestra el tachado (antes era 147.700), así que no se puede afirmar si lo quitó. Siguen las mismas 23 reseñas | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
+| co-dtc-tiendas | CO | A | Grupo Comercia sigue en COP 41.900. Éxito aparece a COP 79.900 (tachado 99.900) en una copia sin fecha, cuando el 03/11 estaba a 41.900: no es concluyente. Addi tiene COP 69.900 con garantía publicada de 3 meses | [Éxito](https://www.exito.com/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades-124199955/p) · [Grupo Comercia](https://grupocomercia.co/product/cepillo-capilar-masajeador-luz-roja-led-infrarrojo-3-velocidades/) · [Addi](https://marketplace.addi.com/producto/4959240) |
+| mx-tiendas | MX | A | Peosaard sigue en MXN 426,59, Joinet en MXN 345 e introstem en MXN 890. Amazon MX ofrece devolución extendida hasta el 31/01/2027 | [Amazon MX](https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4) · [Joinet](https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/) · [introstem](https://introstem.com.mx/products/scalptech) |
 
-**Nuevos competidores:**
-- `kopna-us` (relevancia baja): ver A. Hay que seguirlo por el posicionamiento, no por el volumen.
-- **Descartados por estar fuera de nuestros mercados:** Beautrol (UE, €24,99) y DodoLiza (Arabia Saudita). Los dos aclaran en su página que no es un tratamiento de crecimiento. DodoLiza, además, pide no usar aceites espesos.
-- Ya registrados, sin cambios: Nova Group/Therabello, COONY, introstem, Skglam y Holy.
+No hay competidores nuevos relevantes. Aparecieron FREYARA (ES, €89,99) y Goodio (ES, €15,90), que quedan descartados por estar fuera de nuestros mercados.
 
 ## C. Productos y ofertas
 - **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; sin tachado; última actualización 28/10).
-- **Alta:** `kopna-us:nano-mist`. Se registra solo como referencia de posicionamiento: usa bruma y se usa en la ducha, así que no es un producto para sumar.
+- **Competidores:** sin cambios de oferta en AR. El único cambio dudoso es el de Éxito en CO (ver B).
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 03/11/2026 11:55.
 
 ## E. Demanda y señales de ventas
-- **Señal nueva** `amazon-us-kopna-17-calificaciones-hombre`.
-  - **Indica** que alguien está probando el segmento masculino.
-  - **No indica** el tamaño de ese segmento ni ventas: 17 calificaciones no son unidades.
+- **Mercado Libre AR** (copia de búsqueda sin fecha): los cepillos manuales siguen dominando los indicadores "+N vendidos". Por ejemplo, Coony muestra "+5mil vendidos" a ARS 9.281 [HECHO: indicador de ML, [listado](https://listado.mercadolibre.com.ar/masajeador-cuero-cabelludo)]. Los eléctricos tienen indicadores bajos (de "+5" a "+50"). Coincide con la señal ya registrada `ml-ar-manuales-vs-electricos`. No indica ventas mensuales.
+- **Señal `co-piso-precio-generico-luz-aceite-2026-11`:** el piso de alrededor de COP 42.000 se sostiene en Grupo Comercia. El dato de Éxito queda en duda.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 03/11/2026 03:54.
+Sin cambios en los puntos revisados. Lo único nuevo:
+- **Addi CO** publica una garantía de 3 meses [HECHO].
+- **Amazon MX** extiende las devoluciones de temporada hasta el 31/01/2027 [HECHO]. Esto sube la vara de la política de devolución que se espera en MX de cara a la temporada de regalos (relacionado con OPP-003 y OPP-012).
 
 ## G. Reseñas y debilidades competitivas
-- **Dispensado** (patrón de tendencia, ahora con 23 fuentes): suma SAFARİ 54 en [Amazon US](https://www.amazon.com/SAFAR%C4%B0-54-Applicator-Massager-Electric/dp/B0CZPMTMGM). Una reseña destacada dice que el aceite sale tan lento que no se sabe si está llegando. La reseña no tiene fecha visible.
-- **Limpieza del tanque:** una guía de noviembre de 2026 la marca como contra ([Bright Review Lab](https://brightreviewlab.com/best-electric-scalp-massager/)).
-- No apareció ninguna queja con fecha de octubre o noviembre de 2026.
+Sin revisión en esta ejecución. Último dato: 03/11/2026 19:55.
 
 ## H. Estrategias adaptables
-- **Evidencia:** Kopna y Beautrol venden el aparato como regalo, y Kopna apunta al comprador hombre. Una lista del 25/10 ya iba en esa línea (registrada en OPP-013).
-- **Interpretación:** el ángulo de regalo no tiene por qué ser solo "para ella". Una variante "para él" (rutina de cuidado, sin claims de caída) es una prueba barata.
-- **Confianza:** baja a media, porque la tracción de Kopna es mínima.
-- **Acción:** cuando se reactiven las campañas, incluir dentro de OPP-013 una pieza de regalo para un comprador o destinatario hombre. Métrica: CTR y costo por agregado al carrito frente a la pieza de regalo genérica. No hace falta una oportunidad nueva.
+Nada nuevo. Sigue vigente lo del run del 03/11 19:55 (pieza de regalo "para él" dentro de OPP-013).
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-013 y OPP-006.
+No hay oportunidades nuevas ni cambios de puntaje.
 
 - OPP-001: 80
 - OPP-013: 49
@@ -64,19 +58,17 @@ No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-013
 - OPP-011 y OPP-015: 36
 
 ## J. Próximas acciones
-- **Para el dueño:** nada urgente. Las campañas siguen pausadas a propósito.
-- **Run 03:54 del 4/11** (último día del Cyber): Gadnic, Carrello por otra fuente, y Alverela CO, cuyo "precio de lanzamiento" vence el 15/11.
-- **Run del 5/11:** confirmar si Gadnic sostiene los ARS 39.999 después del Cyber.
-- **Pendiente:** primeras señales de Buen Fin en MX.
+- **Para el dueño:** nada urgente.
+- **Run del 5/11 03:54:** ver si Gadnic vuelve a ARS 89.999 después del Cyber, y confirmar el precio de Éxito CO.
+- **Run del 16/11:** revisar Alverela una vez vencido el "precio de lanzamiento".
+- **Del 13 al 17/11:** relevar las ofertas de Buen Fin MX.
 
 ## K. Nuevos hallazgos
-- Agregados: el competidor `kopna-us`, el producto `kopna-us:nano-mist`, la señal `amazon-us-kopna-17-calificaciones-hombre` y un ítem de reseñas (reconfirmación).
-- Historial actualizado en gadnic-ar, beltronic-ar, carrello-ar y co-dtc-tiendas, en los patrones de dispensado y de líquidos compatibles, y en OPP-013 y OPP-006.
+Historial actualizado en gadnic-ar, beltronic-ar, carrello-ar, alverela-co, co-dtc-tiendas y mx-tiendas, en los productos de Gadnic y Alverela, y en la señal del piso de precio de CO. No se crearon entradas nuevas.
 
 ## L. Limitaciones
-- **Carrello:** la copia sigue sin precio.
-- **Beltronic:** la página muestra datos de stock contradictorios.
-- **Mercado Libre:** no consultado (403 en runs anteriores).
-- **Búsqueda de quejas en español:** solo dio resultados irrelevantes.
-- **Copias sin fecha:** Amazon, tiendas de CO y Kopna.
+- **Carrello:** sigue sin precio en la copia, y la fuente alternativa (Rappi CO) no sirve.
+- **Mercado Libre AR:** solo copias de búsqueda sin fecha, sin consulta directa (403 en runs anteriores).
+- **Éxito CO:** el precio es contradictorio entre copias.
+- **Copias de Exa sin fecha:** Amazon MX, Joinet, introstem y Addi.
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

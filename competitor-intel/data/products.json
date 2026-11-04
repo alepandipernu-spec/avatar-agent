@@ -866,6 +866,12 @@
         "run_id": "2026-11-03T11-55",
         "change": "Precio ARS 39.999 (tachado 61.537), 12 cuotas de 3.333; antes ARS 89.999.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T03-55",
+        "change": "ARS 39.999 sin cambios (Cyber día 3).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ],
     "cambios": [
@@ -909,6 +915,12 @@
         "date": "2026-10-20",
         "run_id": "2026-10-20T19-54",
         "change": "Alta",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T03-55",
+        "change": "COP 117.700; 'precio de lanzamiento hasta el 15/11' sigue visible; tachado no visible en la copia.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]

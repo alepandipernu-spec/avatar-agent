@@ -2194,5 +2194,40 @@
       "OPP-006 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-04T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54) — CyberMonday AR día 3 (último)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Carrello (sin precio), Alverela, Peosaard (Amazon MX)",
+      "Exa search: Carrello/AR Cyber, Buen Fin MX, listados de Mercado Libre AR (copias sin fecha)"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: copia sin precio",
+      "Mercado Libre AR: solo copias de búsqueda sin fecha (no se fetcheó directo por 403 previos)",
+      "Éxito CO: dato contradictorio",
+      "Biblioteca de Meta: no aplica en este foco"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "alverela-co",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic sigue en ARS 39.999 en el último día del Cyber",
+      "Alverela mantiene 'precio de lanzamiento hasta el 15/11' (COP 117.700)",
+      "Éxito CO: copia muestra COP 79.900 (antes 41.900), no concluyente",
+      "Buen Fin MX: sin ofertas visibles todavía",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
