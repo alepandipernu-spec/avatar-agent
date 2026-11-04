@@ -654,5 +654,36 @@
     "ultima_vez_visto": "2026-11-03",
     "repeticiones": "No visible",
     "nota": "Algunos videos usan claims de salud (migrañas, crecimiento): no replicar. Arboleaf: 12.641 vendidos, +49/día (HashIQ, act. 2/11)."
+  },
+  "nuvea-ar:posts-organicos-2026-03-05": {
+    "id": "nuvea-ar:posts-organicos-2026-03-05",
+    "run_id": "2026-11-04T11-54",
+    "competidor": "nuvea-ar (A directo, AR)",
+    "fuente": "Posts orgánicos de Facebook copiados por salons10.com (NO es la Biblioteca de Meta ni un anuncio pago confirmado)",
+    "url": "https://www.salons10.com/AR/Buenos-Aires/1013391861856611/Nuv%C3%A9a-Argentina",
+    "fecha_vista": "2026-11-04",
+    "formato": "Posts y reels (el texto se ve; el video no)",
+    "gancho": "Testimonial en primera persona sobre caída de pelo (2 de 7 posts), unboxing con duda inicial, 'el regalo perfecto'",
+    "primeros_segundos": "No visible",
+    "problema": "Caída de pelo, tensión",
+    "demostracion": "Unboxing (22/03); sin demo de aplicación visible en el texto",
+    "beneficio": "Estimulación, relajación, 'tratamiento profesional en casa'",
+    "objeciones": [
+      "¿vale la pena? (unboxing)",
+      "¿es para hombres? (sí, para ambos)"
+    ],
+    "estructura": "Gancho de problema o duda → producto → envío gratis + 6 cuotas → link o comentario",
+    "texto_en_pantalla": "No visible",
+    "cta": "Link en la descripción; el 30/05 'comentá DESCUENTO' para recibir el código por privado",
+    "oferta": "Precio lanzamiento ARS 135.500 (01/03), envío gratis, 6 cuotas",
+    "motivaciones_INTERPRETACION": [
+      "miedo a la caída",
+      "regalo",
+      "autocuidado"
+    ],
+    "primera_vez_visto": "2026-02-28 (fecha del post más viejo en la copia)",
+    "ultima_vez_visto": "2026-05-30 (post más reciente en la copia)",
+    "repeticiones": "El gancho de caída se repite 2 veces (02/03 y 12/03)",
+    "nota": "Ganchos con claims de caída y crecimiento: no replicar. La mecánica de comentar una palabra para recibir el código por privado es adaptable sin claims (ver OPP-004)."
   }
 }

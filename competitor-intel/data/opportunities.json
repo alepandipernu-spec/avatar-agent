@@ -250,6 +250,14 @@
         "run_id": "2026-10-17T15-27",
         "change": "creada"
       }
+    ],
+    "history": [
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T11-54",
+        "change": "Evidencia nueva sin cambio de puntaje: Nuvéa Argentina usó 'comentá una palabra y te mandamos el código por privado' (30/05/2026). Es una mecánica para llevar dudas a conversación; adaptable sin claims. Puntaje sin cambio hasta tener datos propios.",
+        "source": "https://www.salons10.com/AR/Buenos-Aires/1013391861856611/Nuv%C3%A9a-Argentina"
+      }
     ]
   },
   "OPP-005-sensorial-en-seco": {

@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 39.999 (tachado ARS 61.537, 35% OFF; sin impuestos nacionales ARS 33.057), 12 cuotas sin interés de ARS 3.333 con todos los bancos; envío gratis superando ARS 49.990 (gadnic.com.ar, copia de Exa consultada 03/11/2026 ~12:00 BA). Antes (03/11 03:54): ARS 89.999 (tachado 138.460).",
+    "price_visible": "ARS 32.799 (tachado 50.460, 35% OFF; sin imp. nac. 27.107), hasta 20 cuotas de 1.640 — copia de Exa del 04/11/2026 ~12:00 BA (Cyber día 3)",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -287,6 +287,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T03-55",
         "change": "Cyber día 3 (madrugada): sigue en ARS 39.999 (tachado 61.537, 35% OFF; sin impuestos nacionales 33.057), 12 cuotas de 3.333, envío gratis desde 49.990. Sin cambios respecto del 03/11. Copia de Exa del 04/11 ~03:55 BA.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T11-54",
+        "change": "Cyber día 3 (mediodía): baja otra vez, de ARS 39.999 a 32.799 (−18%; −63,6% contra los 89.999 previos al Cyber). Tachado 61.537 → 50.460. Vuelven las 20 cuotas sin interés (1.640). Sigue envío gratis desde 49.990, devolución gratis 30 días y 12 meses de garantía.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -585,6 +591,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T03-55",
         "change": "Sin cambios: ARS 129.900 (tachado 149.900, 13% OFF), 3 cuotas de 43.300, 15% en efectivo solo retiro/moto CABA. Sigue mostrando a la vez 'sin stock' y 'quedan 90': stock no concluyente.",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T11-54",
+        "change": "Sin cambios: ARS 129.900 (tachado 149.900). La copia vuelve a mostrar a la vez 'no tenemos más stock' y 'solo quedan 90'. Stock no concluyente.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -3341,6 +3353,12 @@
         "run_id": "2026-11-04T03-55",
         "change": "Sigue a COP 117.700 con 'precio de lanzamiento hasta el 15 de noviembre'. La copia no muestra el tachado (antes 147.700); no se puede afirmar si lo quitó. Reseñas: mismas 23 (20 de 5★). Repasar después del 15/11.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T11-54",
+        "change": "Sin cambios: COP 117.700, 'precio de lanzamiento hasta el 15 de noviembre', 23 reseñas (20 de 5 estrellas).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
   },
@@ -4020,6 +4038,55 @@
         "run_id": "2026-11-03T19-55",
         "change": "creado (búsqueda de nuevos competidores, foco 19:54)",
         "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4"
+      }
+    ]
+  },
+  "nuvea-ar": {
+    "id": "nuvea-ar",
+    "name": "Nuvéa Argentina (Nuvé/Nuvéa Capilar Pro)",
+    "domain": "sin dominio encontrado (página de Facebook, copia en salons10.com)",
+    "market": "AR",
+    "category": "A_directo",
+    "relevant_products": [
+      "Nuvé Capilar Pro: cepillo masajeador con luz infrarroja y depósito para aceites"
+    ],
+    "price_visible": "ARS 135.500 'precio lanzamiento' en un post del 01/03/2026 (dato viejo; sin precio actual visible)",
+    "value_prop": "Tratamiento 'profesional' en casa, envío gratis a todo el país y hasta 6 cuotas sin interés.",
+    "claims_observed": [
+      "Ganchos de caída de pelo y 'crecimiento más saludable' (claims que Flubberhome no puede usar)",
+      "luz infrarroja como beneficio"
+    ],
+    "channels": [
+      "Facebook/Instagram orgánico (posts y reels)"
+    ],
+    "ads": [
+      "nuvea-ar:posts-organicos-2026-03-05"
+    ],
+    "facts": [
+      "[HECHO 2026-11-04] 7 posts públicos entre el 28/02 y el 30/05/2026 (copia de la página en salons10.com). Ninguno posterior visible.",
+      "[HECHO] El último post (30/05) usa 'comentá DESCUENTO y te mandamos el código por privado'."
+    ],
+    "inferences": [
+      "[INTERPRETACIÓN] Es una tienda chica de dropshipping local con el mismo formato (depósito + infrarroja) a un precio por encima del de Flubberhome."
+    ],
+    "hypotheses": [
+      "[HIPÓTESIS] Puede estar inactiva desde junio; no se pudo confirmar."
+    ],
+    "unknowns": [
+      "Tienda, precio actual, ventas, anuncios pagos (la Biblioteca de Meta no es accesible desde la nube)."
+    ],
+    "sources": [
+      "https://www.salons10.com/AR/Buenos-Aires/1013391861856611/Nuv%C3%A9a-Argentina"
+    ],
+    "relevance": "baja",
+    "follow_reason": "Mismo formato en AR con nombre parecido a NUVÉA de Alverela (CO); vigilar si reaparece con actividad.",
+    "last_reviewed": "2026-11-04",
+    "history": [
+      {
+        "date": "2026-11-04",
+        "run_id": "2026-11-04T11-54",
+        "change": "creado (búsqueda de creatividades AR, foco 11:54)",
+        "source": "https://www.salons10.com/AR/Buenos-Aires/1013391861856611/Nuv%C3%A9a-Argentina"
       }
     ]
   }
