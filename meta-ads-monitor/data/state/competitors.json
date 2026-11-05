@@ -5,7 +5,7 @@
     "domain": "bidcom.com.ar",
     "category": "Masajeador capilar eléctrico con depósito e infrarrojo",
     "market": "AR",
-    "verified_at": "2026-11-02",
+    "verified_at": "2026-11-05",
     "price": "No visible en la página consultada; ya no figura 'preventa'. Envío en el día en AMBA, envío gratis a todo el país, 10 disponibles.",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
@@ -15,7 +15,8 @@
       "Ficha técnica completa y medible (batería, potencia, tiempos).",
       "22/10: desapareció el aviso de preventa; agrega 'envío en el día en AMBA'.",
       "30/10: la página muestra '12 meses de garantía de fábrica', '1 vendidos', temporizador de 10 min, batería 1400 mAh (~3 h) y depósito de menos de 6 ml; precio sigue sin aparecer en el extracto.",
-      "02/11: pasó de '1 vendidos' a '2 vendidos'; sigue con 12 meses de garantía, envío gratis y 10 disponibles; precio no visible en el extracto."
+      "02/11: pasó de '1 vendidos' a '2 vendidos'; sigue con 12 meses de garantía, envío gratis y 10 disponibles; precio no visible en el extracto.",
+      "05/11: pasó de '2 vendidos' (02/11) a '10 vendidos' con calificación 4.5; ahora dice 'Envío a todo el país' (ya no 'gratis') y la línea de 12 meses de garantía no apareció en el extracto. Precio sigue sin verse."
     ],
     "inferences": [
       "Compite en confianza de marca local y garantía, no en precio.",
@@ -31,7 +32,7 @@
       "https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-02T15:46-03:00",
+    "updated": "2026-11-05T15:46-03:00",
     "history": [
       {
         "run": "2026-10-22T15:46-03:00",
@@ -81,6 +82,19 @@
             "30/10: la página muestra '12 meses de garantía de fábrica', '1 vendidos', temporizador de 10 min, batería 1400 mAh (~3 h) y depósito de menos de 6 ml; precio sigue sin aparecer en el extracto."
           ]
         }
+      },
+      {
+        "run": "2026-11-05T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-02",
+          "facts": [
+            "Ofrece 12 meses de garantía y envío gratis.",
+            "Ficha técnica completa y medible (batería, potencia, tiempos).",
+            "22/10: desapareció el aviso de preventa; agrega 'envío en el día en AMBA'.",
+            "30/10: la página muestra '12 meses de garantía de fábrica', '1 vendidos', temporizador de 10 min, batería 1400 mAh (~3 h) y depósito de menos de 6 ml; precio sigue sin aparecer en el extracto.",
+            "02/11: pasó de '1 vendidos' a '2 vendidos'; sigue con 12 meses de garantía, envío gratis y 10 disponibles; precio no visible en el extracto."
+          ]
+        }
       }
     ]
   },
@@ -90,7 +104,7 @@
     "domain": "lenacosmetica.com.ar",
     "category": "Kit masajeador + tónico capilar",
     "market": "AR",
-    "verified_at": "2026-11-02",
+    "verified_at": "2026-11-05",
     "price": "ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia (20% off); 3 cuotas sin interés. Envío gratis desde ARS 60.000.",
     "value_prop": "Kit masajeador + tónico de romero y salvia (60 ml).",
     "claims": "'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.",
@@ -101,7 +115,8 @@
       "22/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 3 en stock' con botón de compra; el estado real no se puede determinar.",
       "La página dice '+70 vendidos' (dato del vendedor, no verificado).",
       "30/10: sin cambio de precio (ARS 25.600, tachado ARS 32.000); suma urgencia por stock ('¡Solo quedan 3 en stock!', 'es el último') y cupón BIENVENIDA 10%.",
-      "02/11: sin cambios (ARS 25.600, tachado ARS 32.000; 'Solo quedan 3 en stock')."
+      "02/11: sin cambios (ARS 25.600, tachado ARS 32.000; 'Solo quedan 3 en stock').",
+      "05/11: sin cambios (ARS 25.600, tachado ARS 32.000)."
     ],
     "inferences": [
       "El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'."
@@ -116,7 +131,7 @@
       "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-02T15:46-03:00",
+    "updated": "2026-11-05T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -175,6 +190,20 @@
             "22/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 3 en stock' con botón de compra; el estado real no se puede determinar.",
             "La página dice '+70 vendidos' (dato del vendedor, no verificado).",
             "30/10: sin cambio de precio (ARS 25.600, tachado ARS 32.000); suma urgencia por stock ('¡Solo quedan 3 en stock!', 'es el último') y cupón BIENVENIDA 10%."
+          ]
+        }
+      },
+      {
+        "run": "2026-11-05T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-02",
+          "facts": [
+            "Vende el aparato junto con un tónico propio.",
+            "Descuento extra por transferencia (20%).",
+            "22/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 3 en stock' con botón de compra; el estado real no se puede determinar.",
+            "La página dice '+70 vendidos' (dato del vendedor, no verificado).",
+            "30/10: sin cambio de precio (ARS 25.600, tachado ARS 32.000); suma urgencia por stock ('¡Solo quedan 3 en stock!', 'es el último') y cupón BIENVENIDA 10%.",
+            "02/11: sin cambios (ARS 25.600, tachado ARS 32.000; 'Solo quedan 3 en stock')."
           ]
         }
       }
@@ -341,7 +370,7 @@
     "domain": "farmatodo.com.co",
     "category": "Aplicador de tónico vibratorio",
     "market": "CO",
-    "verified_at": "2026-11-02",
+    "verified_at": "2026-11-05",
     "price": "COP 89.900, sin precio tachado visible; 8 unidades; despacho 4–5 días.",
     "value_prop": "Venta dentro de una cadena de farmacias (confianza del canal).",
     "claims": "'Rejuvenecedor de folículos', 'ideal para frenar la caída'.",
@@ -350,7 +379,8 @@
       "Producto similar vendido en farmacia en Colombia.",
       "22/10: el precio subió de COP 37.425 (lista 49.900) a COP 89.900.",
       "30/10: sin cambios (COP 89.900, 8 unidades, despacho 4–5 días, sin reseñas).",
-      "02/11: sin cambios (COP 89.900, 8 unidades, sin reseñas)."
+      "02/11: sin cambios (COP 89.900, 8 unidades, sin reseñas).",
+      "05/11: sin cambios (COP 89.900, 8 unidades, sin reseñas)."
     ],
     "inferences": [
       "En CO el canal farmacia da confianza que una tienda nueva no tiene."
@@ -363,7 +393,7 @@
       "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-02T15:46-03:00",
+    "updated": "2026-11-05T15:46-03:00",
     "history": [
       {
         "run": "2026-10-22T15:46-03:00",
@@ -405,6 +435,18 @@
             "Producto similar vendido en farmacia en Colombia.",
             "22/10: el precio subió de COP 37.425 (lista 49.900) a COP 89.900.",
             "30/10: sin cambios (COP 89.900, 8 unidades, despacho 4–5 días, sin reseñas)."
+          ]
+        }
+      },
+      {
+        "run": "2026-11-05T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-02",
+          "facts": [
+            "Producto similar vendido en farmacia en Colombia.",
+            "22/10: el precio subió de COP 37.425 (lista 49.900) a COP 89.900.",
+            "30/10: sin cambios (COP 89.900, 8 unidades, despacho 4–5 días, sin reseñas).",
+            "02/11: sin cambios (COP 89.900, 8 unidades, sin reseñas)."
           ]
         }
       }

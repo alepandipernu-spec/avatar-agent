@@ -938,5 +938,21 @@
       "meta_ad_library": "blocked",
       "meta_ads_manager_pixel_facturacion": "partial"
     }
+  },
+  {
+    "run_id": "2026-11-05T15:46-03:00",
+    "started_at": "2026-11-05T15:46:19-03:00",
+    "finished_at": "2026-11-05T15:48:20-03:00",
+    "report": "2026-11-05T15-46-03-00.md",
+    "alerts_open": 9,
+    "alerts_notify": [],
+    "resolved": [],
+    "sources": {
+      "escalafy": "ok",
+      "shopify": "ok",
+      "competencia_web": "ok",
+      "meta_ad_library": "blocked",
+      "meta_ads_manager_pixel_facturacion": "partial"
+    }
   }
 ]
