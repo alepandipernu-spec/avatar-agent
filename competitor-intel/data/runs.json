@@ -2314,5 +2314,42 @@
       "OPP-016 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-05T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54) — primer día después del CyberMonday AR",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Beltronic, Alverela, Carrello (sin precio), TYMO DTC, Ulta",
+      "Exa search: TYMO Black Friday, Buen Fin MX"
+    ],
+    "fuentes_fallidas": [
+      "Carrello: copia sin precio",
+      "Mercado Libre AR: no consultado (403 previos)",
+      "Copias de Exa sin fecha de captura (Ulta, Gadnic)",
+      "Biblioteca de Meta: no aplica en este foco"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "beltronic-ar",
+      "alverela-co",
+      "carrello-ar",
+      "tymo-us",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "TYMO TriThera en Ulta baja a USD 42,99 (de 99,99; −57%), envío gratis desde USD 35",
+      "Gadnic sigue en ARS 32.799 en la copia post-Cyber, ahora hasta 24 cuotas",
+      "Buen Fin MX: todavía sin ofertas de la categoría",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-007 (historial)",
+      "OPP-013 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

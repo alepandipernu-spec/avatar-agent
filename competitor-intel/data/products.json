@@ -738,14 +738,7 @@
     "id": "tymo-us:trithera",
     "problema": "Masaje del cuero cabelludo con aplicación de líquido, más luz roja y EMS",
     "variantes": "Colores (Champagne Pink, Gold Blush, otros); Holiday Duo con plancha-peine",
-    "precio": {
-      "DTC": "USD 99,99 (tachado 129,99) + código TREAT 20% en venta de Halloween hasta el 26/10/2026",
-      "Ulta": "USD 42,99 en oferta (lista 99,99)",
-      "Target": "USD 79,99 (agotado)",
-      "Holiday Duo Ulta": "USD 89,99 (lista 159,99)",
-      "Best Buy": "USD 79,99",
-      "Macy's (vía BeyondStyle)": "USD 99,99"
-    },
+    "precio": "Ulta USD 42,99 en oferta (05/11/2026, copia sin fecha) · DTC USD 99,99 (tachado 129,99) · lista 99,99",
     "promos": "Venta de Halloween DTC hasta el 26/10/2026 (código TREAT 20%); Mystery Box gratis desde USD 130; oferta en Ulta",
     "garantia": "1 año por defectos de fabricación (DTC, 21/10/2026); excluye productos de cuidado capilar y accesorios",
     "devolucion": "DTC: 30 días, envío de devolución a cargo del cliente; Target: 30 o 90 días según publicación",
@@ -801,6 +794,12 @@
         "date": "2026-10-28",
         "run_id": "2026-10-28T03-55",
         "change": "Sin cambios: Ulta USD 64,99 (Early Black Friday Deal), DTC USD 99,99.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Ulta USD 42,99 (lista 99,99), envío gratis desde USD 35; DTC USD 99,99 sin cambios.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -877,6 +876,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T11-54",
         "change": "ARS 39.999 → 32.799 (−18%); tachado 61.537 → 50.460; hasta 20 cuotas de 1.640.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Copia post-Cyber: ARS 32.799, hasta 24 cuotas sin interés.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ],

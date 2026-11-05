@@ -1,76 +1,61 @@
-# Inteligencia competitiva — run 2026-11-04T19-55
+# Inteligencia competitiva — run 2026-11-05T03-55
 
-**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54). Último día del CyberMonday AR (2–4/11).
+**Foco:** catálogo, tiendas y precios (franja 03:54). Es el primer día después del CyberMonday AR (2–4/11).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no se escribieron datos internos de Flubberhome.
-**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 04/11/2026 entre las 19:55 y las 20:15 (Buenos Aires). Las copias de Exa no traen fecha de captura visible.
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 05/11/2026 entre las 03:55 y las 04:10 (Buenos Aires). Las copias de Exa no traen fecha de captura visible.
 
-**Lo más importante:** ejecución tranquila. No hay cambios de precio y no aparecen oportunidades nuevas. Lo nuevo son 5 fuentes de reseñas que confirman los problemas ya conocidos (pérdidas del depósito y aparatos que no encienden) y un patrón nuevo: las mismas reseñas aparecen en varias tiendas.
+**Lo más importante:** TYMO TriThera, marca conocida con depósito, aparece en Ulta (EE. UU.) a USD 42,99. Antes estaba a 99,99, o sea un 57% menos. Con envío gratis desde USD 35, queda unos USD 9 por debajo de la unidad de Flubberhome con envío. Fuera de eso no hay cambios.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Precios de los 3 directos principales, sin cambios desde la mañana.**
-  - Gadnic sigue en ARS 32.799 al cierre del Cyber.
-  - Beltronic sigue en ARS 129.900.
-  - Alverela sigue en COP 117.700, con 23 reseñas.
-  - [HECHO, fichas, 04/11 ~20:00]
-- **Competidor nuevo de baja relevancia:** USUIE, en Amazon US, pone "sin goteo" en el título del producto (3,8★ con 36 calificaciones).
-  - [INTERPRETACIÓN] Escribir "sin goteo" ya no diferencia a nadie. Lo que sí puede diferenciar es mostrarlo filmado, que es lo que propone OPP-001.
-- **Reseñas:** hay 2 fuentes nuevas sobre pérdidas del depósito y 2 sobre aparatos que no encienden. Además aparece un patrón nuevo de reseñas recicladas: el mismo texto con otro autor en GlowMotion-Fit y en Ceeblink.
+- **TYMO TriThera en Ulta: USD 42,99** (precio de lista 99,99), envío gratis desde USD 35. [HECHO, [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264), copia sin fecha]
+  - Las tres copias anteriores (del 1 al 3/11) mostraban 99,99. Esta es distinta, así que se toma como más reciente.
+  - Es el precio más bajo registrado: ya se había visto 42,99 el 19/10.
+  - En su tienda propia sigue a USD 99,99. [HECHO, [tymobeauty.com](https://tymobeauty.com/products/tymo-trithera), con entregas estimadas del 8 al 10/11]
+  - [ESTIMACIÓN] La unidad de Flubberhome en EE. UU. cuesta USD 41,93 + USD 10 de envío = USD 51,93, unos USD 9 (~21%) por encima de TYMO en Ulta. Método: precio de Shopify + envío estándar publicado, contra el precio de Ulta con envío gratis. Incertidumbre: no se sabe cuánto dura la oferta (Ulta hace ofertas semanales hasta el 21/11).
+- **Gadnic AR:** la copia sigue en ARS 32.799 y ahora ofrece hasta 24 cuotas sin interés (antes se veían 20). No se puede confirmar si la copia es de después del Cyber.
+- **Beltronic, Alverela y Carrello:** sin cambios.
+- **Buen Fin MX:** todavía no hay ofertas de la categoría.
 - **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (puntaje 80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado | Fuente |
 |---|---|---|---|---|
-| gadnic-ar | AR | A | ARS 32.799 (tachado 50.460), sin cambios desde las 12:00 | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| tymo-us | US | A | **Ulta USD 42,99** (lista 99,99), envío gratis desde 35. Tienda propia 99,99 (tachado 129,99) | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) · [DTC](https://tymobeauty.com/products/tymo-trithera) |
+| gadnic-ar | AR | A | ARS 32.799 (tachado 50.460), hasta 24 cuotas de ARS 1.367, devolución gratis 30 días, 12 meses de garantía | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
 | beltronic-ar | AR | A | ARS 129.900 (tachado 149.900), sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
 | alverela-co | CO | A | COP 117.700, "lanzamiento" hasta el 15/11, 23 reseñas, sin cambios | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
-| usuie-us (**nuevo**) | US | A | Usa "No-Drip Dispenser" en el título. 3,8★ con 36 calificaciones. No se ve el precio. Relevancia baja | [Amazon](https://www.amazon.com/USUIE-Applicator-Dispenser-Portable-Wireless/dp/B0DT93TYP2) |
-
-Aparecieron en las búsquedas otras tiendas, todas ya registradas y con precio igual al último dato: NIHLO CO (COP 89.900), Smartjoys CO (COP 64.900), Holy Cosmetics CO (COP 149.990, 27 reseñas), Anyra US (USD 50,95) y Nova Group AR (ARS 34.900).
+| carrello-ar | AR | A | La copia no muestra precio (carrito sin stock). Último precio: ARS 66.599 (24/10) | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) |
+| mx-tiendas | MX | A | Joinet MXN 345 (mayorista) e Introstem MXN 890, sin cambios ni ofertas de Buen Fin. Una publicación de ML MX (vendedor EGMYMX) figura pausada | [Joinet](https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/) · [Introstem](https://introstem.com.mx/products/scalptech) |
 
 ## C. Productos y ofertas
-- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; última actualización 28/10).
-- **Competidores:** sin cambios.
+- **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; última actualización 28/10). Cuadernos Mágicos sigue activo y sin stock.
+- **TYMO:** la ficha de Ulta presenta el aparato como apto para usar en la ducha (IPX7) y promete beneficios capilares con luz roja. Son claims que Flubberhome no puede ni debe usar. La comparación tiene que ser por precio y por cómo se usa, no por promesas.
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 04/11/2026 11:54.
 
 ## E. Demanda y señales de ventas
-Sin revisión en esta ejecución. Último dato: 04/11/2026 11:54. No hay señales nuevas.
+Sin revisión en esta ejecución. Último dato: 04/11/2026 11:54.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 04/11/2026 03:55.
+Sin cambios en lo relevado:
+- Gadnic mantiene entrega en el día en AMBA, devolución gratis de 30 días y 12 meses de garantía.
+- La tienda propia de TYMO da envío gratis recién desde USD 76,99; Ulta, desde USD 35.
 
 ## G. Reseñas y debilidades competitivas
-Se sumaron 5 registros nuevos a `reviews.json`:
-
-| Producto | Hecho (parafraseado) | Fuente y fecha |
-|---|---|---|
-| THSTPA 3-in-1 | El sitio de reseñas no pudo probarlo porque no encendió. Informa que el listado promedia 1,0★. El fabricante recomienda cargar menos de 3 ml y avisa que un líquido muy fluido rebalsa y uno espeso no sale | [Shopper Advocate](https://www.shopperadvocate.com/3-in-1-scalp-massage-comb-review/), 01/09/2026 |
-| Kitsch (aplicador manual) | 9 reseñas, con 2,4★ en promedio. La tapa de goma se suelta después de recargar, pierde y sale poco producto. Una compradora vio que su sérum cambió de color | [Nenav](https://nenav.com/kitsch-scalp-hair-oil-applicator-precision-scalp-dispenser), 10/08/2026 |
-| iMounTEK (con bruma) | Nunca funcionó y nadie respondió el pedido de devolución | [Groupon](https://www.groupon.com/deals/gg-mp-imountek-2-in-1-electric-scalp-massager-hair-oil-applicator-for-hair-growth), fecha relativa (aprox. 02/2026, ±1 mes) |
-| mriya 70 ml | Reconfirmación: se tapó el primer día y pierde (3,2★ con 88 calificaciones) | [Amazon](https://www.amazon.com/mriya-Vibrating-Applicator-Treatment-Essential/dp/B0CL9HGDHC), sin fecha |
-| GlowMotion-Fit y Ceeblink | La misma reseña, firmada por otro autor, aparece en las dos tiendas | [GlowMotion-Fit](https://glowmotionfit.com/products/scalp-massager-hair-oil-applicator) · [Ceeblink](https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator) |
-
-**Cómo cambiaron los patrones:**
-- Dispensado: pasa de 23 a 25 fuentes.
-- Durabilidad: pasa de 13 a 15.
-- Atención al cliente: pasa de 3 a 4.
-- Precauciones y líquidos compatibles: pasa de 1 a 2.
-- **Patrón nuevo:** reseñas recicladas entre tiendas DTC (3 tiendas). [INTERPRETACIÓN] En tiendas DTC chicas, las calificaciones no sirven como señal de demanda.
+Sin revisión en esta ejecución. Último dato: 04/11/2026 19:55.
 
 ## H. Estrategias adaptables
-- **Evidencia:** un competidor ya escribe "sin goteo" en el título, y siguen apareciendo quejas de pérdidas en varias marcas.
-  - **Interpretación:** la promesa escrita está gastada; lo que todavía no se ve es la prueba.
-  - **Confianza:** media.
-  - **Acción:** en OPP-001, priorizar la toma real filmada (carga de 3 ml, pelo seco, sin goteo) por encima de cualquier texto que diga "sin goteo".
-- **Evidencia:** THSTPA limita la carga a menos de 3 ml, y en Kitsch un sérum cambió de color.
-  - **Acción:** que la Guía en español (OPP-015) diga cuánto cargar, qué líquidos no usar y cómo limpiar.
-  - **Métrica:** consultas posventa sobre uso y líquidos.
+- **Evidencia:** TYMO, una marca conocida, queda a USD 42,99 con envío gratis en Ulta. La unidad de Flubberhome cuesta USD 51,93 con envío.
+  - **Interpretación:** en EE. UU., mientras dure la oferta, la unidad de Flubberhome pierde el argumento de "más barato que las marcas". El Pack Dúo (USD 35,94 por unidad, con envío incluido) sí sigue por debajo.
+  - **Confianza:** media (la fecha de la copia es incierta y la oferta es temporal).
+  - **Acción:** si se reactiva EE. UU. antes del 21/11, que la comunicación de precio se apoye en el Pack Dúo y el Familiar, no en la unidad. Mostrar el precio por unidad y el envío incluido, sin nombrar a TYMO (OPP-007). No bajar el precio por esto sin antes revisar el margen.
+  - **Métrica:** proporción de pedidos de EE. UU. que eligen packs.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-001, OPP-015 y OPP-016.
+No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-007 y OPP-013.
 
 - OPP-001: 80
 - OPP-013: 49
@@ -79,19 +64,19 @@ No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-001
 - OPP-011 y OPP-015: 36
 
 ## J. Próximas acciones
-- **Run del 5/11 03:54:** ver si Gadnic vuelve a ARS 89.999 o se queda en un precio intermedio después del Cyber.
+- **Run de las 11:54:** ver si TYMO sigue en 42,99 en Ulta y si la oferta aparece en otros canales (Amazon, Best Buy).
+- **Próximo run de precios:** confirmar si Gadnic vuelve a ARS 89.999 después del Cyber.
 - **Del 13 al 17/11:** relevar el Buen Fin MX.
 - **16/11:** revisar Alverela después del "lanzamiento".
 
 ## K. Nuevos hallazgos
-- Competidor nuevo `usuie-us` (relevancia baja).
-- 5 registros nuevos en `reviews.json` y el patrón nuevo de reseñas recicladas.
-- Historial actualizado en Gadnic, Beltronic, Alverela, OPP-001, OPP-015 y OPP-016.
+- Baja fuerte de precio de TYMO TriThera en Ulta (99,99 → 42,99).
+- Gadnic amplía a 24 cuotas.
+- Historial actualizado en tymo-us, gadnic-ar, beltronic-ar, alverela-co, carrello-ar, mx-tiendas, OPP-007 y OPP-013.
 
 ## L. Limitaciones
-- **Reddit y foros:** la búsqueda no devolvió hilos de 2026. El único foro que apareció es de 2020 y ya estaba registrado.
+- **Copias de Exa sin fecha:** la de Ulta y la de Gadnic no tienen fecha de captura, así que el precio de hoy puede ser otro.
+- **Carrello:** la copia sigue sin precio.
 - **Mercado Libre:** no consultado (dio 403 en runs anteriores).
 - **Biblioteca de Meta:** no corresponde a este foco.
-- **USUIE:** la copia no muestra precio ni reseñas negativas.
-- **Fechas de reseñas:** varias no tienen fecha visible. La de Groupon es relativa ("hace 253 días").
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

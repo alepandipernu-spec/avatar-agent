@@ -42,7 +42,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-04",
+    "last_reviewed": "2026-11-05",
     "history": [
       {
         "date": "2026-10-17",
@@ -300,6 +300,12 @@
         "run_id": "2026-11-04T19-55",
         "change": "Chequeo rápido 19:55: sigue en ARS 32.799 (tachado 50.460, 35% OFF), igual que a las 12:00. Último día del Cyber.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Chequeo post-Cyber (05/11 03:55): la copia sigue en ARS 32.799 (tachado 50.460, 35% OFF), hasta 24 cuotas sin interés de ARS 1.367 (antes se veían 20). Devolución gratis 30 días y 12 meses de garantía. No se puede confirmar si la copia es posterior al cierre del Cyber.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -496,7 +502,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-04",
+    "last_reviewed": "2026-11-05",
     "history": [
       {
         "date": "2026-10-17",
@@ -609,6 +615,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T19-55",
         "change": "Chequeo rápido: sin cambios (ARS 129.900, tachado 149.900; mismo cartel contradictorio de stock).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Sin cambios: ARS 129.900 (tachado 149.900), 3 cuotas; mismo cartel contradictorio ('sin stock' y 'quedan 90').",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2401,7 +2413,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-04",
+    "last_reviewed": "2026-11-05",
     "history": [
       {
         "date": "2026-10-17",
@@ -2498,6 +2510,12 @@
         "run_id": "2026-11-04T03-55",
         "change": "Peosaard sigue en MXN 426,59 en Amazon MX (2,0★ con 1 calificación); Amazon MX muestra devolución extendida hasta el 31/01/2027 para compras del 1/11 al 31/12. Joinet sigue en MXN 345 (escala mayorista hasta 297 por 12+), introstem SCALPTECH MXN 890. Sin ofertas de Buen Fin visibles en la categoría (copias sin fecha).",
         "source": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Chequeo Buen Fin: Joinet sigue en MXN 345 (mayorista, precios por volumen) e Introstem en MXN 890; ninguna oferta de Buen Fin visible todavía. La publicación de ML MX del vendedor EGMYMX figura pausada.",
+        "source": "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/ ; https://introstem.com.mx/products/scalptech ; https://articulo.mercadolibre.com.mx/MLM-2843105018-aplicador-electrico-de-aceite-capilar-w-2-en-1-masajeador-d-_JM"
       }
     ],
     "id": "mx-tiendas",
@@ -2969,7 +2987,7 @@
       "Holiday Duo: plancha-peine + cepillo masajeador (Ulta)",
       "Mista Steam Scalp Massage Brush"
     ],
-    "price_visible": "DTC USD 99,99 (tachado 129,99, 29/10/2026) · Ulta USD 59,99 'Early Black Friday Deal' (lista 99,99; era 64,99 el 29/10 03:55) · Best Buy USD 79,99 · Macy's USD 99,99 (datos previos).",
+    "price_visible": "Ulta USD 42,99 en oferta (lista 99,99; envío gratis desde USD 35), copia de Exa sin fecha de captura, posterior a las copias de 99,99 del 1–3/11 · DTC USD 99,99 (tachado 129,99; entregas estimadas 8–10/11; envío gratis desde USD 76,99) · Best Buy USD 79,99 · Macy's USD 99,99 (datos previos).",
     "value_prop": "Marca establecida de herramientas de peinado que lleva el formato 'masaje + aplicador de líquido' a retail grande de EE. UU.",
     "claims_observed": [
       "Crecimiento del pelo, folículos, 'prevents hair loss' (Ulta)",
@@ -3023,7 +3041,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-03",
+    "last_reviewed": "2026-11-05",
     "history": [
       {
         "date": "2026-10-19",
@@ -3252,6 +3270,12 @@
         "run_id": "2026-11-03T03-54",
         "change": "DTC USD 99,99 (tachado 129,99), copia reciente (fechas de entrega 4–6/11). Ulta USD 99,99, sin oferta (3ª copia seguida). La oferta de 59,99 no volvió.",
         "source": "https://tymobeauty.com/products/tymo-trithera ; https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Ulta vuelve a mostrar oferta: USD 42,99 (lista 99,99; −57%), con envío gratis desde USD 35. Es el precio más bajo registrado (ya se había visto 42,99 el 19/10). La copia de Exa no tiene fecha; es distinta de las tres copias de 99,99 del 1–3/11, así que se toma como más reciente. DTC sin cambios: USD 99,99 (tachado 129,99), entregas estimadas 8–10/11. Ulta corre su Early Black Friday con ofertas semanales hasta el 21/11.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://tymobeauty.com/products/tymo-trithera"
       }
     ]
   },
@@ -3321,7 +3345,7 @@
     "sources": [
       "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     ],
-    "last_reviewed": "2026-11-04",
+    "last_reviewed": "2026-11-05",
     "relevance": "media",
     "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
     "facts": [
@@ -3376,6 +3400,12 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T19-55",
         "change": "Chequeo rápido: sin cambios (COP 117.700, lanzamiento hasta el 15/11, 23 reseñas).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Sin cambios: COP 117.700, 'lanzamiento' hasta el 15/11, 23 reseñas.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
@@ -3547,7 +3577,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-11-04",
+    "last_reviewed": "2026-11-05",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -3652,6 +3682,12 @@
         "run_id": "2026-11-04T03-55",
         "change": "La copia del 04/11 sigue sin precio (aviso de carrito sin stock; envío gratis desde ARS 39.999). Fuente alternativa: una ficha 'Cepillo Masajeador Carrello' en Rappi Colombia figura 'Agotado' y sin precio (texto con voseo, depósito de 6 ml); no confirma precio AR. Último precio AR: ARS 66.599 (24/10).",
         "source": "https://www.rappi.com.co/p/cepillo-maseajador-7292150"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "La copia sigue sin precio (aviso de carrito sin stock). Último precio: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
   },

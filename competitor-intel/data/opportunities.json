@@ -435,6 +435,12 @@
         "run_id": "2026-11-03T11-55",
         "change": "Evidencia nueva: Gadnic bajó también el tachado (138.460 → 61.537), es decir, su '35% OFF' se recalculó sobre otra referencia. Refuerza el ángulo de precio honesto sin tachados. Score sin cambio.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Evidencia nueva, score sin cambio: TYMO TriThera (marca conocida, con depósito) aparece en Ulta a USD 42,99 con envío gratis desde USD 35. La unidad de Flubberhome en EE. UU. (41,93 + 10 de envío) queda ~USD 9 arriba. En EE. UU. el argumento de precio por unidad solo se sostiene en el Pack Dúo y el Familiar (envío incluido).",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -785,6 +791,12 @@
         "run_id": "2026-11-03T19-55",
         "change": "Evidencia nueva, score sin cambio (49): Kopna (Amazon US) presenta su masajeador como regalo para maridos y papás, y Beautrol (UE) como regalo de Navidad. Refuerza probar el regalo también con comprador hombre.",
         "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4 ; https://beautrol.com/products/scalp-serum-applicator-massage-comb"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T03-55",
+        "change": "Evidencia nueva, score sin cambio: en EE. UU. el regalo de temporada compite con TYMO a USD 42,99 en Ulta (Early Black Friday hasta el 21/11). [HIPÓTESIS] El ángulo regalo en EE. UU. convence más con el Pack Dúo (regalo + uno propio) que con la unidad.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ],
     "history": [
