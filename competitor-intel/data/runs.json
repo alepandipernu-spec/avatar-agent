@@ -2351,5 +2351,44 @@
       "OPP-013 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-05T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54) — día 1 post-Cyber AR",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, HashIQ (Kitsch, NAPRE, Arboleaf)",
+      "Exa search: ofertas Black Friday US, tiendas AR/MX/CO, HashIQ"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: permiso de WebFetch no respondido (retirado)",
+      "TikTok Creative Center: no intentado (sin permiso en runs previos)",
+      "Mercado Libre: no consultado (403 previos)",
+      "HashIQ Kitsch sin actualizar desde el 2/11",
+      "Copias de Exa sin fecha (Gadnic, Ulta)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "kitsch-us",
+      "napre (señal HashIQ)",
+      "arboleaf (señal HashIQ)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic baja a ARS 29.999 post-Cyber (nuevo mínimo, −8,5%)",
+      "TYMO en Ulta a USD 39,99 (nuevo mínimo)",
+      "NAPRE TikTok Shop 7.363 vendidos (+113/día)",
+      "Sin creatividades nuevas registrables",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-012 (historial, estado → recomendada)",
+      "OPP-007 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

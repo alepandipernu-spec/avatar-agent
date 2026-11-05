@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 32.799 (tachado 50.460, 35% OFF; sin imp. nac. 27.107), hasta 20 cuotas de 1.640 — copia de Exa del 04/11/2026 ~12:00 BA (Cyber día 3)",
+    "price_visible": "ARS 29.999 (tachado 46.152), 18–20 cuotas sin interés — 05/11/2026",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -305,6 +305,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T03-55",
         "change": "Chequeo post-Cyber (05/11 03:55): la copia sigue en ARS 32.799 (tachado 50.460, 35% OFF), hasta 24 cuotas sin interés de ARS 1.367 (antes se veían 20). Devolución gratis 30 días y 12 meses de garantía. No se puede confirmar si la copia es posterior al cierre del Cyber.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T11-55",
+        "change": "Post-Cyber (copia del 05/11 ~12:00): baja otra vez a ARS 29.999 (tachado 46.152, 35% OFF; sin imp. nac. 24.793), 18 cuotas de 1.667 con todos los bancos o hasta 20 de 1.500. Es el precio más bajo registrado: −8,5% contra 32.799 y −66,7% contra el precio previo al Cyber (89.999). Devolución gratis 30 días y 12 meses de garantía sin cambios.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -621,6 +627,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T03-55",
         "change": "Sin cambios: ARS 129.900 (tachado 149.900), 3 cuotas; mismo cartel contradictorio ('sin stock' y 'quedan 90').",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T11-55",
+        "change": "Sin cambios: ARS 129.900 (tachado 149.900), 3 cuotas; sigue mostrando a la vez 'sin stock' y 'quedan 90'.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -3276,6 +3288,12 @@
         "run_id": "2026-11-05T03-55",
         "change": "Ulta vuelve a mostrar oferta: USD 42,99 (lista 99,99; −57%), con envío gratis desde USD 35. Es el precio más bajo registrado (ya se había visto 42,99 el 19/10). La copia de Exa no tiene fecha; es distinta de las tres copias de 99,99 del 1–3/11, así que se toma como más reciente. DTC sin cambios: USD 99,99 (tachado 129,99), entregas estimadas 8–10/11. Ulta corre su Early Black Friday con ofertas semanales hasta el 21/11.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264 ; https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T11-55",
+        "change": "Ulta: USD 39,99 (lista 99,99; −60%), envío gratis desde USD 35, 'online only', en stock. Nuevo mínimo registrado (03:55 del mismo día: 42,99). Copia sin fecha visible.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },

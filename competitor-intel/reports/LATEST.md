@@ -1,82 +1,84 @@
-# Inteligencia competitiva — run 2026-11-05T03-55
+# Inteligencia competitiva — run 2026-11-05T11-55
 
-**Foco:** catálogo, tiendas y precios (franja 03:54). Es el primer día después del CyberMonday AR (2–4/11).
+**Foco:** anuncios, creatividades y demanda (franja 11:54). Primer día hábil después del CyberMonday AR (2–4/11).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no se escribieron datos internos de Flubberhome.
-**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 05/11/2026 entre las 03:55 y las 04:10 (Buenos Aires). Las copias de Exa no traen fecha de captura visible.
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 05/11/2026 entre las 11:55 y las 12:10 (Buenos Aires). Las copias de Exa no traen fecha de captura, salvo HashIQ ("Updated Nov 2/4").
 
-**Lo más importante:** TYMO TriThera, marca conocida con depósito, aparece en Ulta (EE. UU.) a USD 42,99. Antes estaba a 99,99, o sea un 57% menos. Con envío gratis desde USD 35, queda unos USD 9 por debajo de la unidad de Flubberhome con envío. Fuera de eso no hay cambios.
+**Lo más importante:** Gadnic no volvió a su precio de antes del Cyber: **bajó otra vez, a ARS 29.999**. Es unas 3,5 veces menos que el ScalpCare Pro con envío. Se cumple el umbral que se había fijado ayer (< ARS 45.000 el 5/11).
 
 ---
 
 ## A. Resumen ejecutivo
-- **TYMO TriThera en Ulta: USD 42,99** (precio de lista 99,99), envío gratis desde USD 35. [HECHO, [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264), copia sin fecha]
-  - Las tres copias anteriores (del 1 al 3/11) mostraban 99,99. Esta es distinta, así que se toma como más reciente.
-  - Es el precio más bajo registrado: ya se había visto 42,99 el 19/10.
-  - En su tienda propia sigue a USD 99,99. [HECHO, [tymobeauty.com](https://tymobeauty.com/products/tymo-trithera), con entregas estimadas del 8 al 10/11]
-  - [ESTIMACIÓN] La unidad de Flubberhome en EE. UU. cuesta USD 41,93 + USD 10 de envío = USD 51,93, unos USD 9 (~21%) por encima de TYMO en Ulta. Método: precio de Shopify + envío estándar publicado, contra el precio de Ulta con envío gratis. Incertidumbre: no se sabe cuánto dura la oferta (Ulta hace ofertas semanales hasta el 21/11).
-- **Gadnic AR:** la copia sigue en ARS 32.799 y ahora ofrece hasta 24 cuotas sin interés (antes se veían 20). No se puede confirmar si la copia es de después del Cyber.
-- **Beltronic, Alverela y Carrello:** sin cambios.
-- **Buen Fin MX:** todavía no hay ofertas de la categoría.
-- **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (puntaje 80).
+- **Gadnic: ARS 29.999** (tachado 46.152, 35% OFF; 18 cuotas de 1.667 o hasta 20 de 1.500). [HECHO, [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c), copia sin fecha]
+  - −8,5% contra 32.799 (4/11) y −66,7% contra el precio previo al Cyber (89.999). Es el mínimo registrado.
+  - [ESTIMACIÓN] ScalpCare Pro 1 u + envío ≈ ARS 105.300 (USD 51,93 × dólar tarjeta 2.028 del 30/10; ±3%) → ~3,5 veces el precio de Gadnic.
+  - [HIPÓTESIS] Ya no parece una rebaja de un solo evento; puede ser liquidación de stock o un nuevo precio de referencia. Se confirma con el run de precios del 6/11.
+- **TYMO TriThera en Ulta: USD 39,99** (lista 99,99), nuevo mínimo (a las 03:55 estaba en 42,99). [HECHO, [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264)]
+- **TikTok Shop US (HashIQ):** NAPRE (sin depósito) sigue firme con +113/día; Arboleaf +69/día. No hay creatividades nuevas que registrar.
+- **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80). **OPP-012** pasa a "recomendada".
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado | Fuente |
 |---|---|---|---|---|
-| tymo-us | US | A | **Ulta USD 42,99** (lista 99,99), envío gratis desde 35. Tienda propia 99,99 (tachado 129,99) | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) · [DTC](https://tymobeauty.com/products/tymo-trithera) |
-| gadnic-ar | AR | A | ARS 32.799 (tachado 50.460), hasta 24 cuotas de ARS 1.367, devolución gratis 30 días, 12 meses de garantía | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| beltronic-ar | AR | A | ARS 129.900 (tachado 149.900), sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-| alverela-co | CO | A | COP 117.700, "lanzamiento" hasta el 15/11, 23 reseñas, sin cambios | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
-| carrello-ar | AR | A | La copia no muestra precio (carrito sin stock). Último precio: ARS 66.599 (24/10) | [ficha](https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/) |
-| mx-tiendas | MX | A | Joinet MXN 345 (mayorista) e Introstem MXN 890, sin cambios ni ofertas de Buen Fin. Una publicación de ML MX (vendedor EGMYMX) figura pausada | [Joinet](https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/) · [Introstem](https://introstem.com.mx/products/scalptech) |
+| gadnic-ar | AR | A | **ARS 29.999** (antes 32.799), 18–20 cuotas, devolución gratis 30 días, 12 meses de garantía | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| tymo-us | US | A | **Ulta USD 39,99** (antes 42,99), envío gratis desde 35 | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
+| beltronic-ar | AR | A | ARS 129.900, sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
+| NAPRE / Arboleaf / Kitsch | US | B | NAPRE 7.363 vendidos (+113/día), USD 116,99 (36% off). Arboleaf 12.778 (+69/día), USD 43,90. Kitsch sin actualizar desde el 2/11 | [NAPRE](https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866) · [Arboleaf](https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271) · [Kitsch](https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450) |
 
 ## C. Productos y ofertas
 - **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; última actualización 28/10). Cuadernos Mágicos sigue activo y sin stock.
-- **TYMO:** la ficha de Ulta presenta el aparato como apto para usar en la ducha (IPX7) y promete beneficios capilares con luz roja. Son claims que Flubberhome no puede ni debe usar. La comparación tiene que ser por precio y por cómo se usa, no por promesas.
+- Gadnic y TYMO: ver A y B.
 
 ## D. Análisis publicitario
-Sin revisión en esta ejecución. Último dato: 04/11/2026 11:54.
+- **Biblioteca de Meta:** sin acceso (el permiso de WebFetch no se respondió y se retiró).
+- **HashIQ:** no hay videos nuevos desde los ya registrados (Kitsch 18–20/10, NAPRE 18/10, Arboleaf 23–25/10). No se agregan registros a `ads.json`.
+- En las búsquedas de ofertas US siguen dominando las fichas con claims de crecimiento y luz roja (Breo, Anyra, Givora). Ya registradas; nada que adaptar más allá de lo que ya está en OPP-016.
 
 ## E. Demanda y señales de ventas
-Sin revisión en esta ejecución. Último dato: 04/11/2026 11:54.
+- **Señal nueva** `gadnic-capilar-postcyber-29999-2026-11-05`.
+  - **Indica** que en AR el formato con depósito tiene hoy un piso de marca conocida cercano a ARS 30.000.
+  - **No indica** ventas, stock ni margen de Gadnic, ni cuánto va a durar el precio.
+- **Historial** en `hashiq-tiktok-shop-ritmo-diario-2026-10`: NAPRE +113/día (consistente con +112/día calculado entre el 2 y el 4/11). [HECHO: contador de HashIQ, no son ventas auditadas]
+- **Historial** en `tymo-retail-us`: Ulta USD 39,99.
 
 ## F. Experiencia de compra
-Sin cambios en lo relevado:
-- Gadnic mantiene entrega en el día en AMBA, devolución gratis de 30 días y 12 meses de garantía.
-- La tienda propia de TYMO da envío gratis recién desde USD 76,99; Ulta, desde USD 35.
+Sin revisión en esta ejecución. Último dato: 05/11/2026 03:55.
 
 ## G. Reseñas y debilidades competitivas
 Sin revisión en esta ejecución. Último dato: 04/11/2026 19:55.
 
 ## H. Estrategias adaptables
-- **Evidencia:** TYMO, una marca conocida, queda a USD 42,99 con envío gratis en Ulta. La unidad de Flubberhome cuesta USD 51,93 con envío.
-  - **Interpretación:** en EE. UU., mientras dure la oferta, la unidad de Flubberhome pierde el argumento de "más barato que las marcas". El Pack Dúo (USD 35,94 por unidad, con envío incluido) sí sigue por debajo.
-  - **Confianza:** media (la fecha de la copia es incierta y la oferta es temporal).
-  - **Acción:** si se reactiva EE. UU. antes del 21/11, que la comunicación de precio se apoye en el Pack Dúo y el Familiar, no en la unidad. Mostrar el precio por unidad y el envío incluido, sin nombrar a TYMO (OPP-007). No bajar el precio por esto sin antes revisar el margen.
-  - **Métrica:** proporción de pedidos de EE. UU. que eligen packs.
+- **Evidencia:** Gadnic a ARS 29.999 un día después del Cyber; ~3,5 veces más barato que el ScalpCare Pro con envío.
+  - **Interpretación:** en AR no se puede competir por precio contra una marca local con servicio técnico propio. La diferencia tiene que estar en mostrar claro el costo total, el plazo y la garantía, y en la demo de uso (OPP-001).
+  - **Confianza:** alta en el hecho; media en que dure.
+  - **Acción:** si se reactivan campañas en AR, aplicar OPP-012 antes de invertir: precio final en pesos con impuestos y envío visible en la página, plazo de entrega y garantía antes del checkout. No bajar el precio por reflejo sin revisar el margen.
+  - **Métrica:** tasa de abandono entre carrito y pago en AR.
+- **Evidencia:** TYMO a USD 39,99 en Ulta, ~USD 12 (~23%) por debajo de la unidad de Flubberhome con envío.
+  - **Acción:** igual que en el run anterior: en EE. UU., que la comunicación de precio se apoye en el Pack Dúo (USD 35,94 por unidad con envío) — OPP-007.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-007 y OPP-013.
+No hay oportunidades nuevas ni cambios de puntaje. OPP-012 pasa de "en evaluación" a "recomendada"; se sumó historial en OPP-007.
 
 - OPP-001: 80
 - OPP-013: 49
 - OPP-002 y OPP-014: 48
-- OPP-012: 37
+- OPP-012: 37 (recomendada para AR)
 - OPP-011 y OPP-015: 36
 
 ## J. Próximas acciones
-- **Run de las 11:54:** ver si TYMO sigue en 42,99 en Ulta y si la oferta aparece en otros canales (Amazon, Best Buy).
-- **Próximo run de precios:** confirmar si Gadnic vuelve a ARS 89.999 después del Cyber.
-- **Del 13 al 17/11:** relevar el Buen Fin MX.
-- **16/11:** revisar Alverela después del "lanzamiento".
+- **Para el dueño:** decidir si AR sigue siendo mercado objetivo con un competidor local a un tercio del precio. Nada urgente con las campañas pausadas.
+- **Run del 6/11 03:54:** confirmar si Gadnic sigue en 29.999 y si TYMO sigue en 39,99 en Ulta.
+- **Del 13 al 17/11:** relevar Buen Fin MX. **16/11:** revisar Alverela después del "lanzamiento". **Black Friday US (27/11):** seguir TYMO, Kitsch y NAPRE.
 
 ## K. Nuevos hallazgos
-- Baja fuerte de precio de TYMO TriThera en Ulta (99,99 → 42,99).
-- Gadnic amplía a 24 cuotas.
-- Historial actualizado en tymo-us, gadnic-ar, beltronic-ar, alverela-co, carrello-ar, mx-tiendas, OPP-007 y OPP-013.
+- Señal nueva por la rebaja post-Cyber de Gadnic.
+- Historial actualizado en gadnic-ar (competidor y producto), tymo-us (competidor y producto), beltronic-ar, `hashiq-tiktok-shop-ritmo-diario-2026-10`, `tymo-retail-us`, OPP-007 y OPP-012.
 
 ## L. Limitaciones
-- **Copias de Exa sin fecha:** la de Ulta y la de Gadnic no tienen fecha de captura, así que el precio de hoy puede ser otro.
-- **Carrello:** la copia sigue sin precio.
-- **Mercado Libre:** no consultado (dio 403 en runs anteriores).
-- **Biblioteca de Meta:** no corresponde a este foco.
+- **Biblioteca de Meta:** sin acceso (permiso no respondido).
+- **TikTok Creative Center:** no se intentó (sin permiso en runs previos).
+- **Mercado Libre:** no consultado (403 previos).
+- **Copias de Exa sin fecha** (Gadnic, Ulta): el precio de hoy puede ser otro.
+- **HashIQ:** Kitsch sin actualizar desde el 2/11.
+- **Tipo de cambio:** dólar tarjeta del 30/10 (±3%).
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.
