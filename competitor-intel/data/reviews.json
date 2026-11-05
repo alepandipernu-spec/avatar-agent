@@ -152,8 +152,8 @@
     },
     {
       "problema": "Instrucciones pobres: no se entiende qué hace cada modo o luz",
-      "n_fuentes": 4,
-      "n_competidores": 4,
+      "n_fuentes": 5,
+      "n_competidores": 5,
       "clasificacion": "tendencia incipiente (3 fuentes de 3 productos; ZOKO con muchas reseñas sobre manual solo en chino)",
       "oportunidad": "La Guía Digital puede explicar en una página para qué sirve cada intensidad (sensación, no resultados).",
       "fecha": "2026-10-17",
@@ -169,13 +169,18 @@
           "run_id": "2026-10-21T19-55",
           "change": "+1 fuente: VitalEveRev (controles táctiles poco claros, tapa difícil).",
           "source": "https://www.amazon.com/VitalEveRev-Hair-Oil-Applicator-Atomization/dp/B0DMWX8S1W"
+        },
+        {
+          "date": "2026-11-05",
+          "run_id": "2026-11-05T19-54",
+          "change": "+1 fuente: Calunat (Loox), instrucciones en inglés en una tienda en español. Refuerza OPP-015."
         }
       ]
     },
     {
       "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-      "n_fuentes": 7,
-      "n_competidores": 6,
+      "n_fuentes": 8,
+      "n_competidores": 7,
       "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
       "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
       "fecha": "2026-10-18",
@@ -205,6 +210,11 @@
           "run_id": "2026-10-23T19-54",
           "change": "+1 fuente (INIA en TikTok Shop, 2026: le falta fuerza). Mismo competidor ya contado: n_competidores sigue en 6.",
           "source": "https://shop.tiktok.com/us/pdp/hair-growth-comb-by-inia-supports-healthy-hair/1731168963144552722"
+        },
+        {
+          "date": "2026-11-05",
+          "run_id": "2026-11-05T19-54",
+          "change": "+1 fuente: Calunat (Loox), demasiado suave para masaje intenso; menciona ruido."
         }
       ]
     },
@@ -378,8 +388,8 @@
     },
     {
       "problema": "Reseñas recicladas entre tiendas: el mismo texto aparece en varias tiendas con autores distintos",
-      "n_fuentes": 3,
-      "n_competidores": 3,
+      "n_fuentes": 4,
+      "n_competidores": 4,
       "clasificacion": "tendencia en tiendas DTC chicas (Alverela, Ceeblink, GlowMotion-Fit)",
       "oportunidad": "Mostrar solo reseñas reales y verificables, con fecha y sin nombres inventados (OPP-016). Desconfiar de las calificaciones de tiendas DTC chicas como señal de demanda.",
       "fecha": "2026-11-04",
@@ -389,6 +399,27 @@
           "date": "2026-11-04",
           "run_id": "2026-11-04T19-55",
           "change": "creado a partir de Alverela–Ceeblink (registrado antes) + GlowMotion-Fit (nuevo)."
+        },
+        {
+          "date": "2026-11-05",
+          "run_id": "2026-11-05T19-54",
+          "change": "+1 fuente: Calunat muestra reseñas que parecen importadas de AliExpress (una remite a una página de Facebook sobre AliExpress) y la única reseña propia de la tienda es por no entrega."
+        }
+      ]
+    },
+    {
+      "problema": "Pedido que nunca llega (tiendas DTC con envío internacional)",
+      "n_fuentes": 1,
+      "n_competidores": 1,
+      "clasificacion": "aislado (1 fuente, sin fecha)",
+      "oportunidad": "Volver a mostrar en la ficha qué pasa si el pedido no llega (reenvío o reintegro) y el plazo real con seguimiento; ese texto salió de la descripción el 27/10 (OPP-012).",
+      "fecha": "2026-11-05",
+      "run_id": "2026-11-05T19-54",
+      "historial": [
+        {
+          "date": "2026-11-05",
+          "run_id": "2026-11-05T19-54",
+          "change": "creado a partir de la reseña de tienda de Calunat (Loox)."
         }
       ]
     }
@@ -1080,6 +1111,36 @@
       "fecha_consulta": "2026-11-04",
       "run_id": "2026-11-04T19-55",
       "tipo": "reconfirmación"
+    },
+    {
+      "fuente": "https://loox.io/sr/A9Z8w6hjPR",
+      "producto": "Calunat — cepillo estimulador (reseña de la tienda en Loox)",
+      "problema": "entrega: el pedido nunca llegó",
+      "fecha": "no visible",
+      "parafrasis": "Única reseña de la tienda, 1 estrella: dice que el producto nunca llegó.",
+      "fecha_consulta": "2026-11-05",
+      "run_id": "2026-11-05T19-54",
+      "tipo": "nuevo"
+    },
+    {
+      "fuente": "https://loox.io/s/A9Z8w6hjPR",
+      "producto": "Calunat — cepillo estimulador (reseñas de producto, probablemente importadas de AliExpress)",
+      "problema": "instrucciones solo en inglés",
+      "fecha": "no visible",
+      "parafrasis": "Un comprador aprueba el aparato pero remarca, sorprendido, que las instrucciones vinieron en inglés.",
+      "fecha_consulta": "2026-11-05",
+      "run_id": "2026-11-05T19-54",
+      "tipo": "nuevo"
+    },
+    {
+      "fuente": "https://loox.io/s/A9Z8w6hjPR",
+      "producto": "Calunat — cepillo estimulador",
+      "problema": "sensación: demasiado suave para quien busca masaje intenso; ruido",
+      "fecha": "no visible",
+      "parafrasis": "Una reseña dice que funciona pero es muy suave para quien quiere un masaje fuerte; otra lo elogia salvo por el ruido.",
+      "fecha_consulta": "2026-11-05",
+      "run_id": "2026-11-05T19-54",
+      "tipo": "nuevo"
     }
   ]
 }

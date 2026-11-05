@@ -488,6 +488,11 @@
         "run_id": "2026-10-30T19-55",
         "change": "+1 fuente: una reseña de Rootique dice que con el gotero se salteaba días y con el aparato sostuvo la rutina. Sigue siendo 1 fuente directa; sin cambio de score.",
         "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "Evidencia: ManeLume responde en la FAQ la objeción de abandonar el aparato (sesión de 5 min, apagado automático). Confirma que la objeción existe; sin cambio de puntaje."
       }
     ]
   },
@@ -669,6 +674,11 @@
         "run_id": "2026-10-31T19-55",
         "change": "Más evidencia AR: Gadnic baja a ARS 89.999 (−7,5%). [ESTIMACIÓN] Flubberhome 1 u + envío ≈ ARS 105.300 (USD 51,93 × dólar tarjeta 2.028 del 30/10; ±3%) queda ~17% por encima, en pago único en USD frente a pesos. Sin cambio de score: la urgencia ya está en 4 y la confianza en el efecto no cambia.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "Patrón nuevo (aislado): 'pedido que nunca llega' en Calunat. Refuerza volver a mostrar en la ficha el reenvío o reintegro si no llega, que salió de la descripción el 27/10."
       }
     ],
     "history": [
@@ -809,6 +819,11 @@
         "run_id": "2026-11-05T03-55",
         "change": "Evidencia nueva, score sin cambio: en EE. UU. el regalo de temporada compite con TYMO a USD 42,99 en Ulta (Early Black Friday hasta el 21/11). [HIPÓTESIS] El ángulo regalo en EE. UU. convence más con el Pack Dúo (regalo + uno propio) que con la unidad.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "+2 listados con regalo (QIQIMARK con pinzas de seccionado; ManeLume con bolsa). Idea: en el Pack Dúo, sumar un accesorio útil (p. ej., pinzas o bolsa) en lugar de descuento, solo si el margen lo permite. Sin cambio de puntaje."
       }
     ],
     "history": [
@@ -968,6 +983,11 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T19-55",
         "change": "Sin cambio de puntaje. THSTPA limita la carga a <3 ml y explica que la viscosidad cambia el flujo; un caso de sérum que cambió de color (Kitsch). Sumar a la guía: cuánto cargar, qué líquidos no usar y cómo limpiar."
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "+1 evidencia: comprador de una tienda en español recibió instrucciones en inglés (Calunat, Loox)."
       }
     ]
   },
@@ -1021,6 +1041,11 @@
         "date": "2026-11-04",
         "run_id": "2026-11-04T19-55",
         "change": "Sin cambio de puntaje. Nuevo patrón de reseñas recicladas entre tiendas (Alverela, Ceeblink, GlowMotion-Fit): refuerza mostrar solo reseñas reales con fecha."
+      },
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "Evidencia: ManeLume (US) ya usa una FAQ que dice que no es médico y que no hace crecer el pelo, y responde 'lo voy a dejar de usar'. El tono honesto no es exclusivo; el diferencial tiene que venir de la demo real (OPP-001/OPP-017) y del precio por unidad más bajo. Sin cambio de puntaje."
       }
     ]
   },

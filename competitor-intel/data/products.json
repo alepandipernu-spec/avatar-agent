@@ -1253,5 +1253,48 @@
         "source": "https://www.amazon.com/Kopna-Electric-Applicator-Waterproof-Rechargeable/dp/B0FWGSTSW4"
       }
     ]
+  },
+  "manelume-us:ritualglow-duo": {
+    "id": "manelume-us:ritualglow-duo",
+    "problema": "Aplicar aceite sin ensuciarse las manos + masaje corto en casa",
+    "variantes_packs": [
+      "Duo (2 u.)",
+      "Trio mencionado (no consultado)"
+    ],
+    "precio_por_variante": {
+      "Duo": "USD 99,99"
+    },
+    "promos": [
+      "curso digital 'de regalo' (valor de referencia propio USD 59,99)",
+      "bolsa de terciopelo en Duo y Trio"
+    ],
+    "garantia": "30 días de devolución (sin uso y en caja original)",
+    "devolucion": "Por email con número de pedido",
+    "envio": "Gratis en EE. UU.; 1–3 días de proceso + 5–12 días hábiles",
+    "beneficios": [
+      "masaje relajante",
+      "luz roja como momento spa",
+      "aceite parejo sin manos grasosas"
+    ],
+    "objeciones_resueltas": [
+      "¿funciona? → no es médico, no hace crecer el pelo",
+      "¿lo voy a dejar de usar? → 5 minutos, apagado automático",
+      "¿tengo que comprar recargas? → no, usa tus aceites",
+      "¿por qué no un cepillo manual?",
+      "comparación de costo contra head spa"
+    ],
+    "diferenciadores": [
+      "tono honesto explícito"
+    ],
+    "merece_investigar": "sí: ver si suma reseñas reales y si sostiene el precio en Black Friday",
+    "fuente": "https://manelume.com/products/manelume-ritualglow-duo-1",
+    "fecha_consulta": "2026-11-05",
+    "historial": [
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "creado"
+      }
+    ]
   }
 }

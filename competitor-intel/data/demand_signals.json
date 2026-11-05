@@ -483,6 +483,14 @@
         "change": "Ulta TriThera USD 39,99 (−60%).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
+    ],
+    "historial": [
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "19:54: Ulta sigue en USD 39,99.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      }
     ]
   },
   "zoko-tiktok-vendidos-vs-calificacion": {
@@ -540,6 +548,14 @@
         "run_id": "2026-10-23T11-55",
         "change": "Se suman en TikTok Shop US títulos con 'Christmas Gift' (NAPRE, un masajeador con forma de gato) y 'Perfect Gift' (3 en 1 con aplicador). Confirma que el ángulo regalo ya está ocupado en US.",
         "source": "https://shop.tiktok.com/us/k/hair-massager-for-scalp"
+      }
+    ],
+    "historial": [
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "+2 ejemplos: QIQIMARK (Amazon US, USD 50,99, primera disponibilidad 21/07/2026: aparato + aceite + pinzas en caja de regalo) y ManeLume Duo (USD 99,99, bolsa de terciopelo de regalo).",
+        "source": "https://www.amazon.com/QIQIMARK-Light-Scalp-Massager-Clips/dp/B0H9S2VSLP ; https://manelume.com/products/manelume-ritualglow-duo-1"
       }
     ]
   },
@@ -1110,6 +1126,14 @@
     "tipo": "HECHO",
     "indica": "Que el precio bajo no era solo del evento: el formato con depósito en AR tiene hoy un piso de marca conocida cercano a ARS 30.000.",
     "no_indica": "Ventas, stock, margen de Gadnic ni cuánto va a durar este precio.",
-    "history": []
+    "history": [],
+    "historial": [
+      {
+        "date": "2026-11-05",
+        "run_id": "2026-11-05T19-54",
+        "change": "19:54: sigue en ARS 29.999 (copia de Exa sin fecha).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      }
+    ]
   }
 }

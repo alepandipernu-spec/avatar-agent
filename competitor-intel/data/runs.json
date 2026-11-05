@@ -2390,5 +2390,51 @@
       "OPP-007 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-05T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, ManeLume, QIQIMARK",
+      "Exa search: reseñas US y en español, foros/Reddit, tiendas AR/CO/MX nuevas, sets de regalo US"
+    ],
+    "fuentes_fallidas": [
+      "Reddit: la búsqueda no devolvió hilos de 2026",
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: no aplica en este foco",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "co-dtc-tiendas",
+      "ar-tiendas-chicas",
+      "dtc-clones-us"
+    ],
+    "competidores_nuevos": [
+      "manelume-us (media)",
+      "qiqimark-us (baja)",
+      "calunat (baja)"
+    ],
+    "novedades": [
+      "ManeLume: DTC US con tono honesto explícito (no médico), Duo USD 99,99",
+      "QIQIMARK: set de regalo con aceite y pinzas, USD 50,99",
+      "+3 reseñas (Calunat): no entrega, instrucciones en inglés, masaje suave/ruido",
+      "Patrón nuevo aislado: pedido que nunca llega",
+      "Gadnic 29.999, TYMO 39,99 y Beltronic 129.900 sin cambios",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-008",
+      "OPP-012",
+      "OPP-013",
+      "OPP-015",
+      "OPP-016 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
