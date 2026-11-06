@@ -5,19 +5,19 @@
     "object": "account",
     "priority": "P1",
     "category": "debilidad",
-    "title": "USD 70.43 gastados en el período sin compras",
-    "evidence": "Gasto Meta USD 70.43; compras Shopify 0; compras atribuidas por Meta 0.",
+    "title": "USD 64.51 gastados en el período sin compras",
+    "evidence": "Gasto Meta USD 64.51; compras Shopify 0; compras atribuidas por Meta 0.",
     "diagnosis": "El embudo no llega a compra. No alcanza para culpar al anuncio: también pueden fallar oferta, precio, confianza o checkout.",
     "confidence": "media",
     "impact": "Gasto sin retorno verificable.",
     "action": "Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).",
     "needs_approval": false,
-    "value": 70.4345,
+    "value": 64.5123,
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 58,
+    "occurrences": 59,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -192,7 +192,7 @@
     "category": "debilidad",
     "priority": "P2",
     "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
-    "evidence": "Ventana 07/10–05/11: US USD 28,57 de USD 70,43 (41%), 168 impresiones (CPM USD 170), 5 clics en enlace, 2 visitas → USD 14,28 por visita. AR: USD 0,22; CO: USD 0,07; MX: USD 0,62. US - VID Demo (V02) solo: USD 25,11 por 2 visitas.",
+    "evidence": "Ventana 08/10–06/11: US USD 23,20 de USD 64,51 (36%), 145 impresiones (CPM USD 160), 3 clics en enlace, 0 visitas a la tienda. AR: USD 0,22 por visita; CO: USD 0,06; MX: USD 0,61. US - VID Demo (V02) solo: USD 20,42 con 0 visitas.",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -203,9 +203,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 58,
+    "occurrences": 59,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -223,9 +223,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 58,
+    "occurrences": 59,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -264,9 +264,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 57,
+    "occurrences": 58,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -305,9 +305,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 57,
+    "occurrences": 58,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -325,9 +325,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 57,
+    "occurrences": 58,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -366,9 +366,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 27,
+    "occurrences": 28,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -386,9 +386,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 25,
+    "occurrences": 26,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
@@ -406,8 +406,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 16,
+    "occurrences": 17,
     "status": "abierta",
-    "last_seen": "2026-11-05T23:46-03:00"
+    "last_seen": "2026-11-06T07:46-03:00"
   }
 }
