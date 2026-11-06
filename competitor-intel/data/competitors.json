@@ -330,6 +330,12 @@
         "run_id": "2026-11-06T11-55",
         "change": "Chequeo 11:54: sin cambios (ARS 29.999, 18–20 cuotas, 30 días de devolución, 12 meses de garantía).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T19-54",
+        "change": "Chequeo rápido: sin cambios (ARS 29.999, tachado 46.152; hasta 24 cuotas; 12 meses de garantía).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -675,6 +681,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T11-55",
         "change": "Chequeo 11:54: sin cambios (ARS 129.900, tachado 149.900).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T19-54",
+        "change": "Chequeo rápido: sin cambios (ARS 129.900, tachado 149.900).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -1912,7 +1924,8 @@
       "Precios USD 54,90–69,21 (17/10/2026, vía índice de Exa).",
       "18/10/2026: 3 tiendas/listados más del mismo formato en US (Cosvu USD 48, publicado 06/2026; ScalpRevive USD 59,99 con promesas de crecimiento, 05/2026; Ryslnte USD 34,84 en Amazon desde 01/2026 con 5 reseñas).",
       "[HECHO 22/10/2026] Litevisage (litevisage.com): USD 109,99 (tachado 189,99), envío gratis desde USD 69. Muestra 20 reseñas, todas de 5★, fechadas entre el 28/01 y el 24/03/2026. Su ficha advierte no cargar aceites espesos como el de ricino porque tapan el atomizador.",
-      "[HECHO 28/10/2026] tymbauty.com vende un \"TYMO TRITHERA\" a USD 99,99 (tachado 129,99) con el título \"Tymo Beauty Official Shop\", contador \"66 sold in last 7 hours\", entrega 3–6 días en EE. UU. y 12–26 internacional, color rosa y tanque de 4 ml. El dominio oficial de TYMO es tymobeauty.com."
+      "[HECHO 28/10/2026] tymbauty.com vende un \"TYMO TRITHERA\" a USD 99,99 (tachado 129,99) con el título \"Tymo Beauty Official Shop\", contador \"66 sold in last 7 hours\", entrega 3–6 días en EE. UU. y 12–26 internacional, color rosa y tanque de 4 ml. El dominio oficial de TYMO es tymobeauty.com.",
+      "[HECHO 2026-11-06] Tres clones más con aplicador de aceite: AUVRIVO (auvrivo.store) USD 39,99 (tachado 59,99), con texto de envío copiado de otro producto (un masajeador de cuello); Ever Electro (everelectro.com) USD 39 (tachado 45), garantía de satisfacción de solo 7 días, aclara que hay que presionar para que salga el aceite; Eryveo (eryveo.com) USD 49,48, reenvío gratis si el paquete se pierde. Copias de Exa sin fecha."
     ],
     "inferences": [
       "El rango DTC US se concentra en USD 50–90; Flubberhome (41,93) queda abajo."
@@ -1925,7 +1938,7 @@
       "Ventas, anuncios."
     ],
     "id": "dtc-clones-us",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-06",
     "history": [
       {
         "date": "2026-10-17",
@@ -1986,6 +1999,12 @@
         "run_id": "2026-11-02T19-55",
         "change": "Búsqueda de nuevos competidores (19:55): aparece ceeblink.com (peine eléctrico con aplicador; sin precio en la copia) con reseñas idénticas a las de Alverela CO. Reaparecen Anyra (USD 50,95), Cosvu (USD 48), Breo S3 (USD 159,99), LeeRong (USD 49,99) y Glokore (USD 99,99): sin cambios.",
         "source": "https://ceeblink.com/products/electric-scalp-massager-comb-with-oil-applicator ; https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T19-54",
+        "change": "+3 clones US (AUVRIVO, Ever Electro, Eryveo) en el rango USD 39–49. Sin prueba social visible.",
+        "source": "https://auvrivo.store/products/auvrivo-electric-scalp-massager-with-oil-applicator ; https://www.everelectro.com/products/3-in-1-electric-scalp-massager-amp-hair-oil-applicator ; https://eryveo.com/products/electric-scalp-massager-and-hair-oil-applicator"
       }
     ]
   },
@@ -2473,13 +2492,15 @@
       "[HECHO 2026-10-24] Znice (znice.mx): cepillo eléctrico con luz y difusor de aceites a MXN 565 (precio original 1.610, −65%), pago contra entrega, envío gratis en 3–5 días hábiles, 4 valoraciones 5★. Promete cabello más grueso en 30 días (claim fuerte). La sección de envíos habla de Colombia. Fuente: https://znice.mx/producto/cepillo-electrico-terapia-de-luz/",
       "[HECHO 2026-10-24] Amazon MX (búsqueda 'masajeador capilar eléctrico'): eléctricos con aplicador entre MXN 247 y 685, casi todos con 1–19 calificaciones. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
       "[HECHO 2026-10-28] Amazon MX: 'Cepillo Vibratorio Capilar, Depósito de 6 ml' a MXN 890 con entrega gratis; un 3 en 1 con depósito para sérum a MXN 599 (1★, 1 calificación); peine LED con depósito de 8 ml a MXN 499. Fuente: https://www.amazon.com.mx/masajeador-capilar-electrico/s?k=masajeador+capilar+electrico",
-      "[HECHO 30/10/2026] La Milpa de María (lamilpademaria.com): aplicador manual de aceite con rodillos metálicos a MXN 199, con 2 goteros; lo vende como accesorio de su línea de aceites (formato B, no eléctrico)."
+      "[HECHO 30/10/2026] La Milpa de María (lamilpademaria.com): aplicador manual de aceite con rodillos metálicos a MXN 199, con 2 goteros; lo vende como accesorio de su línea de aceites (formato B, no eléctrico).",
+      "[HECHO 2026-11-06] Holonova (holonova-store.myshopify.com): peine eléctrico con luz roja y 'función para absorción de líquidos' a MXN 1.332,41, 'Agotado'. Usa urgencia ('16 personas viendo', 'MÁS VENDIDO / STOCK BAJO'), '+272 reseñas' y testimonios genéricos de tienda (no del producto); empaque con información en inglés; entrega 4–8 días."
     ],
     "inferences": [
       "[ESTIMACIÓN] Precio base de Flubberhome ≈ MXN 754 (USD 41,93 × 17,98): por debajo de las dos tiendas DTC mexicanas vistas y muy por encima del mayorista. Método: conversión simple; los precios por mercado de Shopify pueden diferir.",
       "[ESTIMACIÓN] MXN 1.038 ≈ USD 57,7 (17,98 MXN/USD, la tasa usada antes): por encima de Flubberhome (USD 41,93).",
       "[HIPÓTESIS 22/10/2026] De las 2 DTC mexicanas de ~MXN 1.000, las dos figuran agotadas. Eso no prueba demanda (puede ser falta de reposición), pero hoy la oferta local con entrega rápida a ese precio está vacía; queda Romayza a MXN 499 con 'es el último'.",
-      "[ESTIMACIÓN 22/10/2026] MXN 890 ≈ USD 47,7 (FIX 18,6425 del 22/10). Flubberhome ≈ MXN 782 por unidad, sin envío. Método: conversión simple; el envío de USD 10 de Flubberhome lo deja en ≈ MXN 968, por encima de Introstem."
+      "[ESTIMACIÓN 22/10/2026] MXN 890 ≈ USD 47,7 (FIX 18,6425 del 22/10). Flubberhome ≈ MXN 782 por unidad, sin envío. Método: conversión simple; el envío de USD 10 de Flubberhome lo deja en ≈ MXN 968, por encima de Introstem.",
+      "[INTERPRETACIÓN 2026-11-06] Holonova no se da de alta como competidor propio: sin stock, sin depósito claro y con señales de confianza poco verificables. Relevancia baja."
     ],
     "hypotheses": [],
     "unknowns": [
@@ -2594,6 +2615,12 @@
         "run_id": "2026-11-06T03-55",
         "change": "Chequeo pre-Buen Fin (13–17/11): Joinet sigue en MXN 345 (escala hasta 297 por 12+); OC Market MXN 1.038 agotado; ML MX de EGMYMX pausada. Ninguna oferta de Buen Fin visible en la categoría (copias de Exa sin fecha).",
         "source": "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/ ; https://www.ocmarket.mx/products/cepillo-masajeador-electrico"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T19-54",
+        "change": "Revisado Holonova (pendiente desde el run 11:55): MXN 1.332,41 agotado, urgencia y reseñas genéricas. Se registra dentro de mx-tiendas, relevancia baja.",
+        "source": "https://holonova-store.myshopify.com/products/peine-masajeador-electrico-terapia-de-luz-roja-para-el-cuidado-del-cabello"
       }
     ],
     "id": "mx-tiendas",
@@ -3383,6 +3410,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T11-55",
         "change": "Chequeo 11:54: Ulta sigue en USD 39,99 (lista 99,99), envío gratis desde USD 35.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T19-54",
+        "change": "Chequeo rápido: Ulta sigue en USD 39,99 (lista 99,99).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]

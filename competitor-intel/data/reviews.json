@@ -2,8 +2,8 @@
   "patterns": [
     {
       "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-      "n_fuentes": 25,
-      "n_competidores": 16,
+      "n_fuentes": 26,
+      "n_competidores": 17,
       "clasificacion": "tendencia (varias fuentes y productos)",
       "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
       "fecha": "2026-10-17",
@@ -66,6 +66,11 @@
           "date": "2026-11-04",
           "run_id": "2026-11-04T19-55",
           "change": "+2 fuentes: Kitsch en nenav (tapa que salta tras recargar, pérdidas; 10/08/2026) y THSTPA (el fabricante limita a <3 ml y advierte rebalse con líquidos fluidos). Reconfirmación de mriya 70 ml."
+        },
+        {
+          "date": "2026-11-06",
+          "run_id": "2026-11-06T19-54",
+          "change": "+1 fuente secundaria (fccj, 17/06/2026, MPADQ): reparto desparejo, tapa que no sella y pierde guardado cargado, bolitas tapadas con aceite espeso."
         }
       ]
     },
@@ -80,8 +85,8 @@
     },
     {
       "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
-      "n_fuentes": 15,
-      "n_competidores": 12,
+      "n_fuentes": 16,
+      "n_competidores": 13,
       "clasificacion": "tendencia (varias fuentes y productos; 1 fuente secundaria)",
       "oportunidad": "Garantía visible y simple (OPP-003), control de funcionamiento antes del despacho si la logística lo permite (OPP-010), y cuidado de batería y puerto en la Guía; refuerza la regla de no usar bajo el agua.",
       "fecha": "2026-10-17",
@@ -130,6 +135,11 @@
           "date": "2026-11-04",
           "run_id": "2026-11-04T19-55",
           "change": "+2 fuentes: THSTPA no encendió en la prueba de Shopper Advocate (01/09/2026; listado 1,0★) e iMounTEK en Groupon (nunca funcionó)."
+        },
+        {
+          "date": "2026-11-06",
+          "run_id": "2026-11-06T19-54",
+          "change": "+1 fuente secundaria (fccj, MPADQ): puntas de goma que se desprenden y dejan bordes que raspan; crujido a las 3 semanas. Subtipo nuevo: desgaste de las puntas."
         }
       ]
     },
@@ -1141,6 +1151,26 @@
       "fecha_consulta": "2026-11-05",
       "run_id": "2026-11-05T19-54",
       "tipo": "nuevo"
+    },
+    {
+      "fuente": "https://www.fccj.org/best-scalp-massagers-electric/",
+      "producto": "MPADQ 3 en 1 (Amazon US, vía reseña editorial fccj)",
+      "problema": "Dispensado del líquido: goteo, tapa floja, reparto desparejo",
+      "fecha": "2026-06-17 (publicación de la nota)",
+      "parafrasis": "Prueba editorial: el aceite sale desparejo (zonas empapadas y otras secas), la tapa no sella y pierde si se guarda cargado; con aceites espesos se tapan las bolitas.",
+      "fecha_consulta": "2026-11-06",
+      "run_id": "2026-11-06T19-54",
+      "tipo": "nuevo (fuente secundaria)"
+    },
+    {
+      "fuente": "https://www.fccj.org/best-scalp-massagers-electric/",
+      "producto": "MPADQ 3 en 1 (Amazon US, vía reseña editorial fccj)",
+      "problema": "Durabilidad: puntas de goma que se desprenden y ruido de crujido",
+      "fecha": "2026-06-17 (publicación de la nota)",
+      "parafrasis": "Según la nota, varios usuarios cuentan que las puntas de goma se salen a las semanas y dejan bordes que raspan; al probador le apareció un crujido a las 3 semanas.",
+      "fecha_consulta": "2026-11-06",
+      "run_id": "2026-11-06T19-54",
+      "tipo": "nuevo (fuente secundaria)"
     }
   ]
 }

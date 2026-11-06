@@ -2514,5 +2514,42 @@
       "OPP-001 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-06T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, Holonova",
+      "Exa search: reseñas en español e inglés, tiendas nuevas AR/CO/MX, DTC US con Black Friday"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre: no consultado (403 previos)",
+      "Reddit: no intentado (sin hilos 2026 en runs previos)",
+      "Biblioteca de Meta: no aplica en este foco",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "mx-tiendas (Holonova)",
+      "dtc-clones-us",
+      "co-dtc-tiendas (sin novedades)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Holonova revisado: agotado, MXN 1.332, urgencia y reseñas genéricas; queda en mx-tiendas (baja)",
+      "+3 clones US (AUVRIVO, Ever Electro, Eryveo) USD 39–49",
+      "+2 reseñas de fuente secundaria (fccj, MPADQ): dispensado desparejo y puntas que se desprenden",
+      "Directos y precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)",
+      "OPP-010 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
