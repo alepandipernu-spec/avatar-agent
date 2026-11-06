@@ -931,6 +931,12 @@
         "run_id": "2026-11-05T11-55",
         "change": "NAPRE (sin depósito, USD 116,99, 36% off): 7.363 vendidos, +113/día (act. 4/11; 7.138 el 2/11 → ~+112/día, consistente). Arboleaf: 12.778, +69/día (act. 4/11). Kitsch sin actualizar desde el 2/11. Renergy y DayIn: ritmo bajo (+2 y +4/día, act. 21 y 29/10).",
         "source": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "HashIQ act. 5/11: Kitsch aplicador manual (USD 24,38) 18.288 vendidos, +288/día en el encabezado; [ESTIMACIÓN] (18.288−17.425)/3 días ≈ +288/día desde el 2/11 (antes +215): vuelve a acelerar. NAPRE (sin depósito, USD 116,99) 7.480, +117/día (consistente con +113 del 4/11). Arboleaf (sin depósito, USD 43,90) 12.834, +56/día (antes +69). Contadores de HashIQ, no son ventas auditadas.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
       }
     ]
   },
@@ -1132,6 +1138,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T19-54",
         "change": "19:54: sigue en ARS 29.999 (copia de Exa sin fecha).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "11:55: sigue en ARS 29.999 (tachado 46.152; copia de Exa sin fecha). Tercer chequeo seguido en el mismo precio.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]

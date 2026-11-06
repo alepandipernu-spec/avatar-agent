@@ -2477,5 +2477,42 @@
       "OPP-007 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-06T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, HashIQ (NAPRE, Arboleaf, Kitsch)",
+      "Exa search: ofertas Black Friday US en TikTok Shop, Buen Fin MX"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: permiso de WebFetch no respondido (retirado)",
+      "TikTok Creative Center: no intentado",
+      "Mercado Libre: no consultado (403 previos)",
+      "Copias de Exa sin fecha (Gadnic, Ulta, búsquedas de TikTok Shop)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "kitsch-us",
+      "napre (señal HashIQ)",
+      "arboleaf (señal HashIQ)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Kitsch vuelve a acelerar en TikTok Shop US: +288/día (antes +215)",
+      "NAPRE +117/día, Arboleaf +56/día",
+      "1 video nuevo registrado (HashIQ, alcance chico): gancho de objeción 'aceite pesado'",
+      "Buen Fin MX: sin ofertas de la categoría todavía",
+      "Competidores directos y precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

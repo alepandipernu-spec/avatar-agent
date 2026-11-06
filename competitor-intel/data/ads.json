@@ -685,5 +685,34 @@
     "ultima_vez_visto": "2026-05-30 (post más reciente en la copia)",
     "repeticiones": "El gancho de caída se repite 2 veces (02/03 y 12/03)",
     "nota": "Ganchos con claims de caída y crecimiento: no replicar. La mecánica de comentar una palabra para recibir el código por privado es adaptable sin claims (ver OPP-004)."
+  },
+  "generico-us:hashiq-pregunta-aceite-pesado-dispensador-2026-10-30": {
+    "id": "generico-us:hashiq-pregunta-aceite-pesado-dispensador-2026-10-30",
+    "run_id": "2026-11-06T11-55",
+    "competidor": "Genérico US con dispensador (atribución de producto ambigua en HashIQ; aparece en 'productos similares')",
+    "fuente": "HashIQ: video de afiliada en TikTok Shop US (NO es la Biblioteca de Meta ni un anuncio pago confirmado)",
+    "url": "https://hashiq.io/zh/shop/p/electric-scalp-massager-1-box-type-c-rechargeable-hair-oil-a-1730057642747990299",
+    "fecha_vista": "2026-11-06",
+    "formato": "Video vertical de creadora, 0:23, 925 vistas",
+    "gancho": "Pregunta sobre si los aceites y sérums dejan el pelo pesado (paráfrasis), 2,2 s",
+    "primeros_segundos": "Pregunta directa a cámara, antes de mostrar el aparato",
+    "problema": "El aceite queda pesado o grasoso cuando no se distribuye bien",
+    "demostracion": "Sí, cepillo eléctrico con dispensador de aceite",
+    "beneficio": "Distribuir el producto de forma pareja",
+    "objeciones": [
+      "el aceite me deja el pelo pesado"
+    ],
+    "estructura": "Pregunta-objeción → demo → CTA al carrito",
+    "texto_en_pantalla": "No visible en la transcripción",
+    "cta": "Comprar desde el carrito de TikTok Shop",
+    "oferta": "No visible",
+    "motivaciones_INTERPRETACION": [
+      "evitar sensación grasosa",
+      "comodidad"
+    ],
+    "primera_vez_visto": "2026-10-30 (fecha del video en HashIQ)",
+    "ultima_vez_visto": "2026-10-30",
+    "repeticiones": "No visible",
+    "nota": "Alcance chico (925 vistas): no prueba que funcione. El ángulo 'objeción de pelo pesado' es adaptable sin claims para el ScalpCare Pro (ver OPP-001); no copiar el texto."
   }
 }

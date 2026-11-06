@@ -324,6 +324,12 @@
         "run_id": "2026-11-06T03-55",
         "change": "Chequeo 03:54: sin cambios (ARS 29.999, tachado 46.152, 18–20 cuotas, envío gratis desde 49.990, 30 días de devolución, 12 meses de garantía).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "Chequeo 11:54: sin cambios (ARS 29.999, 18–20 cuotas, 30 días de devolución, 12 meses de garantía).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -663,6 +669,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T03-55",
         "change": "Chequeo 03:54: sin cambios (ARS 129.900, tachado 149.900; 110.415 en efectivo con retiro; 3 cuotas).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "Chequeo 11:54: sin cambios (ARS 129.900, tachado 149.900).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2786,7 +2798,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Sustituto barato que captura la misma necesidad (aplicar aceite parejo); define el ancla de precio del \"aceitado\".",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-06",
     "history": [
       {
         "date": "2026-10-18",
@@ -2835,6 +2847,12 @@
         "run_id": "2026-11-02T12-47",
         "change": "HashIQ (act. 2/11): aplicador manual 17.425 vendidos, +215/día (antes 16.672, +247). Estado 'Peaking: el crecimiento se estabilizó'.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "HashIQ (act. 5/11): aplicador manual 18.288 vendidos, +288/día (antes 17.425 y +215 el 2/11). En la búsqueda de TikTok Shop, el set aplicador + aceite de romero figura con 43,6K vendidos y \"oferta por tiempo limitado\" a USD 19 (página sin fecha).",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://shop.tiktok.com/us/k/hair-oil-and-massager"
       }
     ]
   },
@@ -3359,6 +3377,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T03-55",
         "change": "Chequeo 03:54: Ulta sigue en USD 39,99 (lista 99,99), envío gratis desde USD 35, solo online.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T11-55",
+        "change": "Chequeo 11:54: Ulta sigue en USD 39,99 (lista 99,99), envío gratis desde USD 35.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
