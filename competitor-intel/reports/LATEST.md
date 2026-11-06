@@ -1,78 +1,68 @@
-# Inteligencia competitiva — run 2026-11-05T19-54
+# Inteligencia competitiva — run 2026-11-06T03-55
 
-**Foco:** reseñas, competidores nuevos y oportunidades (franja 19:54).
+**Foco:** catálogo, tiendas y precios (franja 03:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no se escribieron datos internos de Flubberhome.
-**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 05/11/2026 entre las 19:54 y las 20:15 (Buenos Aires). Las copias de Exa no traen fecha de captura.
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 06/11/2026 entre las 03:55 y las 04:10 (Buenos Aires). Las copias de Exa no traen fecha de captura.
 
-**Lo más importante:** apareció **ManeLume**, una tienda de EE. UU. que ya usa el tono honesto que propone OPP-016 (dice que no es médico y que no hace crecer el pelo). Ese tono deja de ser un diferencial exclusivo: lo que puede diferenciar a Flubberhome es la demo real (OPP-001) y el precio por unidad más bajo. Precios de los competidores directos, sin cambios.
+**Lo más importante:** ejecución tranquila. Ningún competidor directo cambió el precio. El único dato nuevo es la escalera completa de ManeLume (US): USD 59,99 la unidad, 99,99 el Duo y 129,99 el Trio. En cada escalón, Flubberhome queda entre USD 13 y 18 por unidad más barato.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Competidor nuevo, ManeLume (US, relevancia media):** Duo a USD 99,99 con envío gratis, 30 días de devolución, soporte humano y FAQ honesta. [HECHO, [ficha](https://manelume.com/products/manelume-ritualglow-duo-1)]
-  - [ESTIMACIÓN] ≈ USD 50 por unidad en el Duo (99,99 ÷ 2), contra USD 35,94 del Pack Dúo de Flubberhome.
-  - [HIPÓTESIS] Es una tienda chica o nueva: no muestra reseñas ni contador de clientes.
-- **Reseñas:** 3 nuevas (Calunat, en Loox). Hay un patrón nuevo, aislado: **pedido que nunca llega**. Además, una fuente más para instrucciones en otro idioma y otra para masaje demasiado suave.
-- **Chequeo de precios:** Gadnic ARS 29.999, TYMO en Ulta USD 39,99 y Beltronic ARS 129.900. Igual que a las 11:55.
+- **Precios de los directos, sin cambios:** Gadnic ARS 29.999, TYMO en Ulta USD 39,99 y Beltronic ARS 129.900. Lena, Holy Cosmetics, Microshop, Anyra y Alverela también siguen igual.
+- **ManeLume publica unidad y Trio.** [HECHO, [catálogo](https://manelume.com/collections/all)] El curso que regala con los packs también figura como producto aparte, a USD 59,99.
+- **Buen Fin MX (13 al 17/11):** todavía no hay ofertas visibles en la categoría.
 - **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80). No hay oportunidades nuevas.
 
 ## B. Competidores analizados
-| id | Mercado | Cat. | Resultado | Fuente |
-|---|---|---|---|---|
-| manelume-us **(nuevo)** | US | A | Duo USD 99,99; envío gratis 5–12 días hábiles; 30 días de devolución (sin uso); se presenta como no médico | [ficha](https://manelume.com/products/manelume-ritualglow-duo-1) |
-| qiqimark-us **(nuevo)** | US | A | Set de regalo a USD 50,99: aparato + aceite de romero y menta + pinzas; en Amazon desde el 21/07/2026; sin calificaciones | [Amazon](https://www.amazon.com/QIQIMARK-Light-Scalp-Massager-Clips/dp/B0H9S2VSLP) |
-| calunat **(nuevo)** | ? (tienda en español) | A | Reseñas de producto que parecen importadas de AliExpress; la única reseña de la tienda es de 1★ por no entrega | [Loox](https://loox.io/sr/A9Z8w6hjPR) |
-| gadnic-ar | AR | A | ARS 29.999, sin cambios | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| tymo-us | US | A | Ulta USD 39,99, sin cambios | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
-| beltronic-ar | AR | A | ARS 129.900, sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-
-Ya registrados y sin cambios relevantes: Tienda Duna, NeXo, Nuvitecno, Andik y Distribella (AR/CO); Cosvu, YENNYE, BERNOVAS, Dexmary y Morfone (US).
+| id | Mercado | Resultado | Fuente |
+|---|---|---|---|
+| gadnic-ar | AR | ARS 29.999 (tachado 46.152), 18–20 cuotas; 30 días de devolución y 12 meses de garantía. Sin cambios | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| tymo-us | US | Ulta USD 39,99 (lista 99,99), envío gratis desde 35. Sin cambios | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
+| beltronic-ar | AR | ARS 129.900 (tachado 149.900). Sin cambios | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
+| manelume-us | US | Unidad 59,99 · Duo 99,99 · Trio 129,99 (**dato nuevo**: unidad y Trio) | [catálogo](https://manelume.com/collections/all) |
+| lena-vegetal-ar | AR | Kit ARS 25.600 (20.480 por transferencia), "+70 vendidos". Sin cambios | [ficha](https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/) |
+| holy-cosmetics-co | CO | COP 149.990 (tachado 199.990), 4,9★ con 27 reseñas. Sin cambios | [ficha](https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar) |
+| microshop-ar | AR | ARS 45.780 (tachado 60.000). Sin cambios | [ficha](https://www.microshop.com.ar/productos/micro-masajeador-capilar/) |
+| anyra-us | US | USD 50,95 (tachado 158,95). Sin cambios | [ficha](https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator) |
+| alverela-co | CO | COP 117.700, "lanzamiento" hasta el 15/11. Sin cambios | [ficha](https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento) |
+| isyra-mx-cl | MX | Sigue la "oferta de aniversario" con "últimas 7 unidades". La copia no muestra precio (último: MXN 999, 29/10) | [ficha](https://isyra.com.mx/products/renacer-capilar-ab-test) |
+| mx-tiendas | MX | Joinet MXN 345 y OC Market MXN 1.038 (agotado). Sin Buen Fin visible | [Joinet](https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/) |
 
 ## C. Productos y ofertas
 - **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; última actualización 28/10).
-- **ManeLume Duo:**
-  - **Regalos:** curso digital por email al día 3, con un "valor" propio de USD 59,99 (no verificable), y bolsa de terciopelo.
-  - **FAQ:** responde cinco objeciones: si funciona, si lo vas a dejar de usar, si hay que comprar recargas, por qué no un cepillo manual y el costo frente a un head spa.
+- **Escalera por unidad, ManeLume contra Flubberhome** [ESTIMACIÓN: precio del pack ÷ unidades; precios de lista sin impuestos]:
+
+| Unidades | ManeLume | Flubberhome | Diferencia por unidad |
+|---|---|---|---|
+| 1 | 59,99 (envío gratis) | 41,93 (+ USD 10 de envío = 51,93) | −18,06 sin envío / −8,06 con envío |
+| 2 | 50,00 | 35,94 | −14,06 |
+| 3 | 43,33 | 29,95 | −13,38 |
+
+- **El curso de ManeLume:** está listado en su catálogo a USD 59,99, así que el "valor" del regalo es un precio publicado. [HIPÓTESIS] Igual no prueba que alguien lo pague por separado.
 
 ## D. Análisis publicitario
 Sin revisión en esta ejecución. Último dato: 05/11/2026 11:55.
 
 ## E. Demanda y señales de ventas
-- **Historial** en `regalo-en-listados-us-2026`: +2 ejemplos (QIQIMARK y ManeLume). [HECHO: texto visible en los listados; no indica ventas]
-- **Historial** en las señales de Gadnic (post-Cyber) y TYMO (Ulta): sin cambios.
+Sin señales nuevas. Lena sigue mostrando "+70 vendidos" (contador de la tienda, no son ventas mensuales). Último relevamiento: 05/11/2026 19:54.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 05/11/2026 03:55.
+Sin cambios en las condiciones de envío, devolución y garantía de los directos revisados. [HECHO] Gadnic sigue con 30 días de devolución y 12 meses de garantía, y la ventana de 72 h por defectos de Flubberhome sigue siendo la más corta del grupo (ver OPP-003).
 
 ## G. Reseñas y debilidades competitivas
-- **Patrón nuevo, "pedido que nunca llega"** (aislado: 1 fuente, sin fecha). [HECHO, [Loox de Calunat](https://loox.io/sr/A9Z8w6hjPR)]
-  - **Interpretación:** en las tiendas DTC con envío internacional, la promesa de entrega pesa tanto como el producto.
-  - **Relación con Flubberhome:** el texto de reenvío o reintegro si el pedido no llega salió de la descripción el 27/10.
-- **Instrucciones en otro idioma:** un comprador de una tienda en español recibió el manual en inglés. El patrón suma 5 fuentes y refuerza OPP-015.
-- **Masaje demasiado suave y ruido** (Calunat): el patrón de sensación sube a 8 fuentes y refuerza OPP-014.
-- **Reseñas recicladas o importadas:** +1 fuente (Calunat); el patrón suma 4. [HIPÓTESIS] Las reseñas de producto vienen de AliExpress, porque una remite a una página de Facebook sobre AliExpress.
+Sin revisión en esta ejecución. Último dato: 05/11/2026 19:54.
 
 ## H. Estrategias adaptables
-- **El tono honesto ya no alcanza solo.**
-  - **Evidencia:** ManeLume dice en su FAQ que no es médico y que no hace crecer el pelo.
-  - **Interpretación:** el bloque "Lo que sí y lo que no" (OPP-016) sigue siendo correcto, pero no diferencia por sí solo en EE. UU.
-  - **Confianza:** media (1 competidor, sin datos de resultados).
-  - **Acción:** combinar ese bloque con la demo real rotulada (OPP-001/OPP-017) y con el precio por unidad del Pack Dúo, que es unos USD 14 más bajo que el de ManeLume.
-  - **No replicar:** el curso con "valor" inventado.
-  - **Métrica:** tiempo en la página y tasa de agregar al carrito cuando se reactiven las campañas en EE. UU.
-- **Regalo con algo útil en vez de descuento.**
-  - **Evidencia:** QIQIMARK suma pinzas para separar el pelo y ManeLume una bolsa.
-  - **Hipótesis:** un accesorio útil en el Pack Dúo (pinzas para aplicar en la raíz con pelo largo, OPP-011) sube el valor percibido sin tocar el precio.
-  - **Confianza:** baja-media.
-  - **Acción:** evaluarlo con el margen real antes del 20/11. No se escriben costos acá porque el repo es público.
-  - **Métrica:** proporción del Pack Dúo sobre el total de pedidos.
-- **Promesa de entrega visible.**
-  - **Evidencia:** el patrón nuevo de no entrega.
-  - **Acción:** si se reactivan las campañas, volver a mostrar en la página el reenvío o reintegro si no llega y el seguimiento (OPP-012).
-  - **Confianza:** media.
+- **Mostrar el precio por unidad en los packs** (OPP-007, con historial actualizado).
+  - **Evidencia:** la escalera de ManeLume.
+  - **Interpretación:** Flubberhome es más barato en los tres escalones frente a un DTC de EE. UU. con tono parecido. La ventaja es mayor en los packs (−13 a −14 USD por unidad) que en la unidad sola con envío (−8).
+  - **Confianza:** media (1 competidor; los precios de lista pueden cambiar para Black Friday).
+  - **Acción:** cuando se reactive EE. UU., mostrar "USD 35,94 por unidad" junto al Pack Dúo, sin tachados.
+  - **Métrica:** proporción de Pack Dúo y Familiar sobre el total de pedidos.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-008, OPP-012, OPP-013, OPP-015 y OPP-016.
+No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-007.
 
 - OPP-001: 80
 - OPP-013: 49
@@ -81,26 +71,21 @@ No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-008
 - OPP-011 y OPP-015: 36
 
 ## J. Próximas acciones
-- **Para el dueño:**
-  - Decidir si vuelve a la ficha el texto de reenvío o reintegro si no llega (OPP-012).
-  - Evaluar con el margen si el Pack Dúo puede sumar un accesorio de regalo.
-- **Run del 6/11 03:54:** confirmar Gadnic (29.999) y TYMO (39,99). Revisar si ManeLume muestra el precio unitario.
+- **Run de las 11:54:** anuncios y demanda. Volver a mirar NAPRE y Kitsch en TikTok Shop y buscar anuncios de Black Friday.
+- **Run del 7/11 03:54:** confirmar Gadnic, TYMO y ManeLume y mirar si aparece Buen Fin en MX.
 - **Calendario:**
   - Del 13 al 17/11: Buen Fin MX.
-  - 16/11: Alverela.
-  - 27/11: Black Friday US (TYMO, Kitsch, NAPRE y ManeLume).
+  - 15/11: fin del "lanzamiento" de Alverela.
+  - 27/11: Black Friday US.
 
 ## K. Nuevos hallazgos
-- **Competidores nuevos:** manelume-us (media), qiqimark-us (baja) y calunat (baja).
-- **Producto nuevo:** `manelume-us:ritualglow-duo`.
-- **Reseñas:** +3 y 1 patrón nuevo.
-- **Historial actualizado:** gadnic-ar, tymo-us, beltronic-ar, 3 señales y 5 oportunidades.
+- **Producto actualizado:** `manelume-us:ritualglow-duo`, con la unidad y el Trio.
+- **Historial actualizado:** 11 competidores y OPP-007.
+- **Sin competidores nuevos** (no es el foco de esta franja).
 
 ## L. Limitaciones
-- **Reddit:** no devolvió hilos de 2026.
 - **Mercado Libre:** no consultado (403 previos).
+- **Isyra:** la copia no muestra precio.
+- **Copias de Exa sin fecha de captura:** el precio de hoy puede ser otro.
 - **Biblioteca de Meta:** no aplica en este foco.
-- **Copias de Exa sin fecha:** el precio de hoy puede ser otro.
-- **ManeLume:** no se vio el precio de la unidad sola, ni reseñas, ni anuncios.
-- **Calunat:** no se identificó el país ni el precio.
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

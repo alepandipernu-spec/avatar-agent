@@ -1258,11 +1258,14 @@
     "id": "manelume-us:ritualglow-duo",
     "problema": "Aplicar aceite sin ensuciarse las manos + masaje corto en casa",
     "variantes_packs": [
+      "Unidad",
       "Duo (2 u.)",
-      "Trio mencionado (no consultado)"
+      "Trio (3 u.)"
     ],
     "precio_por_variante": {
-      "Duo": "USD 99,99"
+      "Unidad": "USD 59,99",
+      "Duo": "USD 99,99 (≈ 50/u)",
+      "Trio": "USD 129,99 (≈ 43,33/u)"
     },
     "promos": [
       "curso digital 'de regalo' (valor de referencia propio USD 59,99)",
@@ -1288,12 +1291,18 @@
     ],
     "merece_investigar": "sí: ver si suma reseñas reales y si sostiene el precio en Black Friday",
     "fuente": "https://manelume.com/products/manelume-ritualglow-duo-1",
-    "fecha_consulta": "2026-11-05",
+    "fecha_consulta": "2026-11-06",
     "historial": [
       {
         "date": "2026-11-05",
         "run_id": "2026-11-05T19-54",
         "change": "creado"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T03-55",
+        "change": "Se suman unidad (USD 59,99) y Trio (USD 129,99); el curso aparece en el catálogo a USD 59,99.",
+        "source": "https://manelume.com/collections/all"
       }
     ]
   }

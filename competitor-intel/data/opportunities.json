@@ -447,6 +447,12 @@
         "run_id": "2026-11-05T11-55",
         "change": "TYMO TriThera en Ulta baja a USD 39,99 con envío gratis: ~USD 12 (~23%) por debajo de la unidad de Flubberhome con envío (51,93). El Pack Dúo (35,94/u) sigue por debajo. Refuerza comunicar precio por unidad en packs.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-06",
+        "run_id": "2026-11-06T03-55",
+        "change": "ManeLume (US) escalona USD 59,99 / 50 / 43,33 por unidad (1/2/3 u.). La escalera de Flubberhome (41,93 / 35,94 / 29,95) queda entre USD 13 y 18 por unidad por debajo en cada escalón. Refuerza mostrar el precio por unidad en los packs.",
+        "source": "https://manelume.com/collections/all"
       }
     ]
   },

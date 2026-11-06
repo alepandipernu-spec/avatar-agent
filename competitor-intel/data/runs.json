@@ -2436,5 +2436,46 @@
       "OPP-016 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-06T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, ManeLume (ficha y catálogo), Lena, Holy Cosmetics, Microshop, Isyra, Anyra",
+      "Exa search: tiendas MX pre-Buen Fin"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre: no consultado (403 previos)",
+      "Isyra: copia sin precio",
+      "Copias de Exa sin fecha de captura",
+      "Biblioteca de Meta: no aplica en este foco"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "manelume-us",
+      "lena-vegetal-ar",
+      "holy-cosmetics-co",
+      "microshop-ar",
+      "anyra-us",
+      "isyra-mx-cl",
+      "mx-tiendas",
+      "alverela-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "ManeLume: unidad USD 59,99 y Trio 129,99 (≈ 43,33/u); curso listado aparte a 59,99",
+      "Competidores directos sin cambios de precio (Gadnic 29.999, TYMO 39,99, Beltronic 129.900)",
+      "Buen Fin MX: todavía sin ofertas visibles",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-007 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
