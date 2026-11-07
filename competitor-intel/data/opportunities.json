@@ -102,6 +102,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T19-54",
         "change": "+1 evidencia (fccj, MPADQ): reparto desparejo y pérdida con el depósito cargado. Refuerza mostrar cuánto cargar y vaciar o guardar sin líquido. Puntaje sin cambios (80)."
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T11-54",
+        "change": "Sin cambio de puntaje. Evidencia nueva: en Amazon US aparece otro peine con depósito (Satorix, USD 29,99) que también vende 'cero enchastre'. El ángulo se está poblando, así que conviene tener pronto una demo real propia.",
+        "source": "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
       }
     ]
   },

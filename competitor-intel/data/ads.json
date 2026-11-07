@@ -624,7 +624,15 @@
     "primera_vez_visto": "2026-11-02",
     "ultima_vez_visto": "2026-11-02",
     "repeticiones": "No visible",
-    "nota": "Patrón HashIQ en 9 videos: gancho de afirmación (~3,7 s), oferta mencionada ~0:20, pedido de compra ~0:32."
+    "nota": "Patrón HashIQ en 9 videos: gancho de afirmación (~3,7 s), oferta mencionada ~0:20, pedido de compra ~0:32.",
+    "history": [
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T11-54",
+        "change": "Patrón en 10 videos (HashIQ act. 5/11): gancho de afirmación ~3,7 s, oferta cerca del 0:20, pedido de compra cerca del 0:32. Video nº 1 con 33 mil vistas (18/10). No viene de la Biblioteca de Meta.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      }
+    ]
   },
   "arboleaf-us:hashiq-pregunta-sensorial-2026-10": {
     "id": "arboleaf-us:hashiq-pregunta-sensorial-2026-10",

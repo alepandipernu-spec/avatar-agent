@@ -2583,5 +2583,43 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-07T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: HashIQ (Kitsch, NAPRE, Arboleaf), Gadnic, Ulta, Beltronic",
+      "Exa search: Black Friday US, Buen Fin MX"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: WebFetch, permiso no respondido",
+      "WebFetch de Gadnic para confirmar en vivo: permiso no respondido",
+      "Beltronic: la copia no trajo precio",
+      "Mercado Libre: no consultado (403 previos)",
+      "TikTok Creative Center: no se intentó"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "breo-us",
+      "kitsch-us",
+      "napre/arboleaf (HashIQ)",
+      "amazon-generics-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Gadnic sube a ARS 32.799 (+9,3%) después del CyberMonday",
+      "NAPRE se frena (+88/día); Arboleaf +65/día; Kitsch sin actualizar",
+      "Satorix (Amazon US, USD 29,99) otro peine con depósito y ángulo 'cero enchastre'",
+      "Black Friday US: Breo sin cambios; Ulta early BF hasta el 21/11; Buen Fin MX sin ofertas de la categoría"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
