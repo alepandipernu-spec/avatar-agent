@@ -306,7 +306,7 @@
     "domain": "microshop.com.ar",
     "category": "Masajeador capilar recargable",
     "market": "AR",
-    "verified_at": "2026-11-04",
+    "verified_at": "2026-11-07",
     "price": "ARS 45.780 (tachado ARS 60.000, '24% OFF'), envío gratis, 10% off por transferencia.",
     "value_prop": "Tienda de gadgets con marca propia registrada ('Micro Masajeador Capilar®').",
     "claims": "'Revitaliza tu cabello', 'placentero masaje'.",
@@ -315,7 +315,8 @@
       "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.",
       "29/10: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia).",
       "01/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia).",
-      "04/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis)."
+      "04/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis).",
+      "07/11: sin cambios (ARS 45.780, tachado ARS 60.000, '24% OFF', envío gratis, 10% off por transferencia)."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -326,7 +327,7 @@
       "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-04T15:46-03:00",
+    "updated": "2026-11-07T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -373,6 +374,18 @@
             "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.",
             "29/10: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia).",
             "01/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia)."
+          ]
+        }
+      },
+      {
+        "run": "2026-11-07T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-04",
+          "facts": [
+            "Envío gratis y descuento por transferencia, igual que la mayoría de las tiendas AR.",
+            "29/10: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia).",
+            "01/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis, 10% off por transferencia).",
+            "04/11: sin cambios (ARS 45.780, tachado ARS 60.000, envío gratis)."
           ]
         }
       }
@@ -472,7 +485,7 @@
     "domain": "shopanyra.com",
     "category": "Peine masajeador eléctrico con luz roja y depósito",
     "market": "US",
-    "verified_at": "2026-11-04",
+    "verified_at": "2026-11-07",
     "price": "USD 50,95 (tachado USD 158,95, 'SAVE 68%').",
     "value_prop": "DTC con prueba social masiva y estadísticas de 'clientes'.",
     "claims": "'Rated 4.9 | 12,319 Customers', '93% saw healthier follicle stimulation… thicker hair growth'.; 'NOTE: We Already Sold Out 3 Times, Don't Wait!'",
@@ -483,7 +496,8 @@
       "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles.",
       "29/10: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes y vistas, no verificadas).",
       "01/11: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes no verificadas y aviso de agotamiento).",
-      "04/11: precio igual (USD 50,95); suma una garantía de devolución de 30 días (escrita 'Monday Back Guarantee', con error de tipeo)."
+      "04/11: precio igual (USD 50,95); suma una garantía de devolución de 30 días (escrita 'Monday Back Guarantee', con error de tipeo).",
+      "07/11: precio igual (USD 50,95, tachado USD 158,95); muestra '4.9 | 12,319 Customers', 'We Already Sold Out 3 Times' y mantiene la garantía de 30 días ('Monday Back Guarantee')."
     ],
     "inferences": [],
     "hypotheses": [],
@@ -495,7 +509,7 @@
       "https://shopanyra.com/products/electric-red-light-scalp-massager-comb-with-oil-applicator"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-04T15:46-03:00",
+    "updated": "2026-11-07T15:46-03:00",
     "history": [
       {
         "run": "2026-10-18T15:46-03:00",
@@ -556,6 +570,20 @@
             "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles.",
             "29/10: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes y vistas, no verificadas).",
             "01/11: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes no verificadas y aviso de agotamiento)."
+          ]
+        }
+      },
+      {
+        "run": "2026-11-07T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-04",
+          "facts": [
+            "Usa porcentajes de satisfacción y conteo de clientes en la página.",
+            "18/10: suma urgencia por agotamiento ('Sold Out 3 Times'), no verificable.",
+            "23/10: precio sin cambios; la página dice 'Over 4.5M Views Generated On TikTok & Instagram' y '12,319 Customers' (datos del vendedor, no verificados). Envío 7–14 días hábiles.",
+            "29/10: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes y vistas, no verificadas).",
+            "01/11: sin cambios (USD 50,95, tachado USD 158,95; mismas cifras de clientes no verificadas y aviso de agotamiento).",
+            "04/11: precio igual (USD 50,95); suma una garantía de devolución de 30 días (escrita 'Monday Back Guarantee', con error de tipeo)."
           ]
         }
       }
@@ -756,7 +784,7 @@
     "domain": "amazon.com",
     "category": "Aplicador de aceite + masajeador",
     "market": "US",
-    "verified_at": "2026-11-04",
+    "verified_at": "2026-11-07",
     "price": "USD 21,99 – 49,99.",
     "value_prop": "'Zero mess', 'no more greasy hands', resistente al agua, temporizador 10 min.",
     "claims": "Varios usan el beneficio de aplicar el líquido en la raíz sin ensuciarse.",
@@ -767,7 +795,8 @@
       "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto.",
       "29/10: Satorix 3 en 1 a USD 29,99 (primera vez visible en el extracto); sigue con 'Zero mess — no more greasy hands', IPX7 y bolso de viaje.",
       "01/11: la ficha de Satorix sigue publicada con el mismo ángulo 'Zero mess'; el precio no entró en el extracto leído (el 29/10 era USD 29,99).",
-      "04/11: Satorix sigue a USD 29,99 con el mismo ángulo 'Zero mess'."
+      "04/11: Satorix sigue a USD 29,99 con el mismo ángulo 'Zero mess'.",
+      "07/11: Satorix sigue con el ángulo 'Zero mess' (IPX7, 72 nodos, aplicador de aceite); el precio no apareció en el extracto leído."
     ],
     "inferences": [
       "En EE. UU. el precio de Flubberhome (USD 41,93 + USD 10 de envío por unidad) queda casi al doble que un aparato equivalente en Amazon (USD 29,99 con envío rápido)."
@@ -781,7 +810,7 @@
       "https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4"
     ],
     "created": "2026-10-17T14:21-03:00",
-    "updated": "2026-11-04T15:46-03:00",
+    "updated": "2026-11-07T15:46-03:00",
     "history": [
       {
         "run": "2026-10-23T15:46-03:00",
@@ -838,6 +867,20 @@
             "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto.",
             "29/10: Satorix 3 en 1 a USD 29,99 (primera vez visible en el extracto); sigue con 'Zero mess — no more greasy hands', IPX7 y bolso de viaje.",
             "01/11: la ficha de Satorix sigue publicada con el mismo ángulo 'Zero mess'; el precio no entró en el extracto leído (el 29/10 era USD 29,99)."
+          ]
+        }
+      },
+      {
+        "run": "2026-11-07T15:46-03:00",
+        "before": {
+          "verified_at": "2026-11-04",
+          "facts": [
+            "El mismo tipo de aparato se consigue desde USD 21,99 en EE. UU.",
+            "23/10: la ficha de mriya sigue publicada; el precio no apareció en el extracto leído.",
+            "26/10: la ficha de Satorix (3 en 1) destaca 'Zero mess — no more greasy hands or wasted product'; precio no visible en el extracto.",
+            "29/10: Satorix 3 en 1 a USD 29,99 (primera vez visible en el extracto); sigue con 'Zero mess — no more greasy hands', IPX7 y bolso de viaje.",
+            "01/11: la ficha de Satorix sigue publicada con el mismo ángulo 'Zero mess'; el precio no entró en el extracto leído (el 29/10 era USD 29,99).",
+            "04/11: Satorix sigue a USD 29,99 con el mismo ángulo 'Zero mess'."
           ]
         }
       }
