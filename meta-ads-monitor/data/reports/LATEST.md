@@ -1,23 +1,22 @@
-# Flubberhome · Meta Ads Monitor · 2026-11-06T15:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-11-06T23:46-03:00
 
 Período: 2026-10-08 → 2026-11-06 · comparado con 2026-09-08 → 2026-10-07 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Ventana 08/10–06/11 sin cambios: gasto USD 64,51 sin compras; no hubo gasto nuevo (último gasto 14/10). Pausa intencional, 0 objetos activos; token de Meta OK.
-- Tienda: 402 sesiones (10 con carrito, 8 al checkout, 0 compras). ScalpCare, Cuadernos Mágicos, precios, envíos, políticas y #D1 sin cambios.
-- Competencia: Beltronic, Hairrova (agotado) y Nordic Biolabs sin cambios respecto del 03/11.
+- Ventana 08/10–06/11 sin cambios: gasto USD 64,51 sin compras; no hubo gasto nuevo (último gasto 14/10). Pausa intencional, 0 objetos activos.
+- Tienda: 432 sesiones (10 con carrito, 8 al checkout, 0 compras). ScalpCare, Cuadernos Mágicos, precios, envíos, políticas y #D1 sin cambios.
 - Alertas abiertas: 9 (4 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/08–11/06), catálogo (0 activos), cuentas (token OK 18:48 UTC) y activos de la cuenta 3984236798375831. Por anuncio: filas de las 07:46 (misma ventana, mismos totales). |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/08–11/06), catálogo (0 activos). Por anuncio: filas de las 07:46 (misma ventana, mismos totales). |
 | shopify | ok | Embudo, pedidos, precios, ficha de ScalpCare, producto nuevo (Cuadernos Mágicos), perfiles de envío con condiciones, políticas y #D1 leídos. |
-| competencia_web | ok | Beltronic, Hairrova y Nordic Biolabs leídos el 06/11 con Exa. |
+| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 06/11; próxima revisión 15:46 del 07/11) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
-| meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 06/11 a las 15:46 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy, IG 17841447093080625 en 196 creatividades). Facturación y eventos del píxel sin acceso. |
+| meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 06/11 a las 15:46 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy). Facturación y eventos del píxel sin acceso. |
 
 - los últimos días hasta 2026-11-06 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
@@ -87,8 +86,8 @@ Por anuncio (ordenado por gasto):
 | Impresiones (Meta) | 5,020 | no disponible |
 | Clics en enlace (Meta) | 343 | 6.83% |
 | Visitas a la página de destino (Meta) | 284 | 82.80% |
-| Sesiones de la tienda (Shopify, todas las fuentes) | 402 | 141.55% |
-| Sesiones con agregado al carrito (Shopify) | 10 | 2.49% |
+| Sesiones de la tienda (Shopify, todas las fuentes) | 432 | 152.11% |
+| Sesiones con agregado al carrito (Shopify) | 10 | 2.31% |
 | Sesiones que llegaron al checkout (Shopify) | 8 | 80.00% |
 | Compras (Shopify) | 0 | 0.00% |
 
@@ -130,48 +129,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## F. Inteligencia competitiva
 
-**Beltronic Beauty Tools** (cambió) · beltronic.com.ar · mercado AR · verificado 2026-11-06
-- Precio/oferta: Kit ARS 139.900 (tachado ARS 175.890, '20% OFF'); ARS 118.915 en efectivo (solo retiro o moto CABA); 3 cuotas sin interés.
-- Propuesta: Posicionamiento profesional ('uso profesional', técnicas capilares) con serum activo.
-- Mensajes: 'Anticaída y densidad', 'reduce la caída'.
-- Formatos: Tiene Facebook, Instagram, TikTok y YouTube (enlaces en la tienda); anuncios no obtenidos.
-- Hecho observado: Precio alto apoyado en un activo nombrado (Capixyl).
-- Hecho observado: 21/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 91 en stock'; el estado real no se puede determinar desde la página.
-- Hecho observado: 24/10: bajó de ARS 175.890 a ARS 139.900 (−20%); el precio anterior pasó a ser el tachado. Sigue el stock contradictorio en la página ('Sin stock' y 'quedan 90').
-- Hecho observado: 31/10: precio sin cambios (ARS 139.900, tachado ARS 175.890); sigue el stock contradictorio ('Sin stock', '¡Solo quedan 90 en stock!').
-- Hecho observado: 03/11: sin cambios (ARS 139.900, tachado ARS 175.890; stock contradictorio).
-- Hecho observado: 06/11: sin cambios (ARS 139.900, tachado ARS 175.890, '20% OFF'; sigue el stock contradictorio: 'Sin stock' y 'quedan 90').
-- Inferencia: Apunta a un comprador que ya busca tratamiento, no a regalo/bienestar.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://www.beltronic.com.ar/productos/masajeador-scalp-electrico-capixyl-5/
-
-**Hairrova RootGlow** (cambió) · hairrova.com · mercado US · verificado 2026-11-06
-- Precio/oferta: USD 89,99 (tachado USD 149,99), envío express gratis, 30 días de devolución, 1 año de garantía.
-- Propuesta: Promesa de resultado con plazo.
-- Mensajes: 'Clinically proven… visible hair growth in 56 days'.
-- Formatos: No obtenido.
-- Hecho observado: Garantía de devolución explícita y destacada.
-- Hecho observado: 18/10, 21/10, 24/10 y 27/10: figura 'Sold out' (precio sin cambios).
-- Hecho observado: 31/10: sigue 'Sold out' a USD 89,99; ahora muestra '4.7 | 1100+ Customers' (antes no visible) y mantiene 'visible hair growth in 56 days'.
-- Hecho observado: 03/11: sigue 'Sold out' a USD 89,99 (tachado USD 149,99).
-- Hecho observado: 06/11: sigue 'Sold out' a USD 89,99 (tachado USD 149,99); mantiene '4.7 | 1100+ Customers' y 'visible hair growth in 56 days'.
-- No obtenible: Respaldo del 'clinically proven'.
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://hairrova.com/products/hairrova-scalp-hair-growth-therapy-brush
-
-**Nordic Biolabs** (cambió) · nordic-biolabs.com · mercado US · verificado 2026-11-06
-- Precio/oferta: USD 79 (tachado USD 158, 'SAVE 50%'); garantía de devolución 120 días.
-- Propuesta: Aparato como vehículo de un consumible propio (recompra).
-- Mensajes: 'Hair regrowth', testimonios y cita profesional.
-- Formatos: No obtenido.
-- Hecho observado: Modelo aparato + consumible.
-- Hecho observado: 21/10: precio sin cambios; la parte leída de la página dice 'Free & Easy Returns' (el plazo de 120 días no apareció en el extracto).
-- Hecho observado: 31/10: sin cambio de precio (USD 79, tachado USD 158); suma 'Low Stock Alert' / 'Stock Status: Very Low' y dos conteos de reseñas distintos en la misma página (2.387 y 749).
-- Hecho observado: 03/11: sin cambios (USD 79, tachado USD 158; avisos de stock bajo).
-- Hecho observado: 06/11: sin cambios (USD 79, tachado USD 158; avisos de stock bajo y dos conteos de reseñas, 2.387 y 749).
-- No obtenible: Anuncios, ventas.
-- Fuentes: https://nordic-biolabs.com/products/nordic-applicator-for-hair-serum
-
+- No se examinaron competidores en esta ejecución.
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -272,15 +230,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 60 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 60 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 59 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 59 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 60 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 29 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 27 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 18 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 59 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 30 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 28 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 19 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -291,13 +249,12 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-11-06T15:46:03-03:00 · Fin del análisis: 2026-11-06T15:48:46-03:00
-- Completado: Escalafy: dashboard, catálogo (0 activos), cuentas y activos de Meta
-- Completado: Shopify: embudo (402 sesiones), pedidos (0), ScalpCare y Cuadernos Mágicos (sin cambios), envíos, políticas y #D1 (OPEN)
-- Completado: Competencia: Beltronic, Hairrova, Nordic Biolabs
+- Inicio: 2026-11-06T23:46:40-03:00 · Fin del análisis: 2026-11-06T23:47:14-03:00
+- Completado: Escalafy: dashboard y catálogo (0 activos)
+- Completado: Shopify: embudo (432 sesiones), pedidos (0), ScalpCare y Cuadernos Mágicos (sin cambios), envíos, políticas y #D1 (OPEN)
 - Parcial: Por anuncio: filas de las 07:46 (misma ventana, mismos totales)
-- Parcial: Git: push bloqueado por permisos desde el 05/11 07:46; commits locales
+- Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
 - Falló: Customer Journey de Escalafy: no habilitado para la organización (visto el 02/11)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-11-06 23:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-11-06T15-46-03-00.json
+- Próxima ejecución programada: 2026-11-07 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-11-06T23-46-03-00.json
