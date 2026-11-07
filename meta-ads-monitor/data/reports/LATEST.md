@@ -1,24 +1,24 @@
-# Flubberhome · Meta Ads Monitor · 2026-11-06T23:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-11-07T07:46-03:00
 
-Período: 2026-10-08 → 2026-11-06 · comparado con 2026-09-08 → 2026-10-07 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
+Período: 2026-10-09 → 2026-11-07 · comparado con 2026-09-09 → 2026-10-08 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Ventana 08/10–06/11 sin cambios: gasto USD 64,51 sin compras; no hubo gasto nuevo (último gasto 14/10). Pausa intencional, 0 objetos activos.
-- Tienda: 432 sesiones (10 con carrito, 8 al checkout, 0 compras). ScalpCare, Cuadernos Mágicos, precios, envíos, políticas y #D1 sin cambios.
+- La ventana pasa a 09/10–07/11; el 08/10 no tenía gasto, así que el gasto sigue en USD 64,51 sin compras (último gasto 14/10). Pausa intencional, 0 objetos activos.
+- Tienda: 442 sesiones (10 con carrito, 8 al checkout, 0 compras). ScalpCare, Cuadernos Mágicos, precios, envíos, políticas y #D1 sin cambios.
 - Alertas abiertas: 9 (4 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/08–11/06), catálogo (0 activos). Por anuncio: filas de las 07:46 (misma ventana, mismos totales). |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/09–11/07 vs 09/09–10/08), catálogo (0 activos). Por anuncio: filas de las 06/11 07:46 (el día que salió no tenía gasto; mismos totales). |
 | shopify | ok | Embudo, pedidos, precios, ficha de ScalpCare, producto nuevo (Cuadernos Mágicos), perfiles de envío con condiciones, políticas y #D1 leídos. |
 | competencia_web | partial | No se actualizó (se revisó a las 15:46 del 06/11; próxima revisión 15:46 del 07/11) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 06/11 a las 15:46 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy). Facturación y eventos del píxel sin acceso. |
 
-- los últimos días hasta 2026-11-06 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
+- los últimos días hasta 2026-11-07 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
 - El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).
 - Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.
@@ -33,24 +33,24 @@ Período: 2026-10-08 → 2026-11-06 · comparado con 2026-09-08 → 2026-10-07 �
 
 | Métrica | Actual | Anterior | Cambio |
 | --- | --- | --- | --- |
-| Gasto | USD 64.51 | USD 243.76 | -74% |
-| Impresiones | 5,020 | 44,577 | -89% |
-| Alcance (suma diaria) | 4,430 | 38,303 | -88% |
-| Clics (todos) | 429 | 1,800 | -76% |
-| Clics en enlace | 343 | 1,691 | -80% |
+| Gasto | USD 64.51 | USD 232.11 | -72% |
+| Impresiones | 5,020 | 41,099 | -88% |
+| Alcance (suma diaria) | 4,430 | 35,484 | -88% |
+| Clics (todos) | 429 | 1,738 | -75% |
+| Clics en enlace | 343 | 1,631 | -79% |
 | Visitas a la página | 284 | 323 | -12% |
-| Reproducciones 3 s | 2,051 | 10,417 | -80% |
-| ThruPlays | 669 | 5,003 | -87% |
+| Reproducciones 3 s | 2,051 | 9,326 | -78% |
+| ThruPlays | 669 | 4,450 | -85% |
 | Agregados al carrito (Meta) | 1 | 2 | -50% |
 | Inicios de pago (Meta) | 0 | 0 | sin comparación |
 | Compras atribuidas (Meta) | 0 | 0 | sin comparación |
 | Valor de compras (Meta) | USD 0.00 | USD 0.00 | sin comparación |
-| CPM | USD 12.85 | USD 5.47 | +135% |
-| CTR de enlace | 6.83% | 3.79% | +80% |
-| CTR total (todos los clics) | 8.55% | 4.04% | +112% |
-| CPC de enlace | USD 0.19 | USD 0.14 | +30% |
-| Costo por visita a la página | USD 0.23 | USD 0.75 | -70% |
-| Frecuencia | 1.13 | 1.16 | -3% |
+| CPM | USD 12.85 | USD 5.65 | +128% |
+| CTR de enlace | 6.83% | 3.97% | +72% |
+| CTR total (todos los clics) | 8.55% | 4.23% | +102% |
+| CPC de enlace | USD 0.19 | USD 0.14 | +32% |
+| Costo por visita a la página | USD 0.23 | USD 0.72 | -68% |
+| Frecuencia | 1.13 | 1.16 | -2% |
 | CPA (compras Meta) | no disponible | no disponible | sin comparación |
 | ROAS atribuido | 0.00 | 0.00 | sin comparación |
 
@@ -86,8 +86,8 @@ Por anuncio (ordenado por gasto):
 | Impresiones (Meta) | 5,020 | no disponible |
 | Clics en enlace (Meta) | 343 | 6.83% |
 | Visitas a la página de destino (Meta) | 284 | 82.80% |
-| Sesiones de la tienda (Shopify, todas las fuentes) | 432 | 152.11% |
-| Sesiones con agregado al carrito (Shopify) | 10 | 2.31% |
+| Sesiones de la tienda (Shopify, todas las fuentes) | 442 | 155.63% |
+| Sesiones con agregado al carrito (Shopify) | 10 | 2.26% |
 | Sesiones que llegaron al checkout (Shopify) | 8 | 80.00% |
 | Compras (Shopify) | 0 | 0.00% |
 
@@ -230,15 +230,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 61 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 30 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 28 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 19 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 60 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 62 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 62 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 61 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 61 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 62 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 31 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 29 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 20 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 61 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -249,12 +249,13 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-11-06T23:46:40-03:00 · Fin del análisis: 2026-11-06T23:47:14-03:00
+- Inicio: 2026-11-07T07:46:44-03:00 · Fin del análisis: 2026-11-07T07:47:25-03:00
 - Completado: Escalafy: dashboard y catálogo (0 activos)
-- Completado: Shopify: embudo (432 sesiones), pedidos (0), ScalpCare y Cuadernos Mágicos (sin cambios), envíos, políticas y #D1 (OPEN)
-- Parcial: Por anuncio: filas de las 07:46 (misma ventana, mismos totales)
+- Completado: Shopify: embudo (442 sesiones), pedidos (0), ScalpCare y Cuadernos Mágicos (sin cambios), envíos, políticas y #D1 (OPEN)
+- Parcial: Por anuncio: filas del 06/11 07:46 (sin gasto en el día que salió de la ventana)
+- Parcial: Clics en 'agregar al carrito' del período anterior: no disponible en Escalafy; se mantiene el valor previo
 - Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
 - Falló: Customer Journey de Escalafy: no habilitado para la organización (visto el 02/11)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-11-07 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-11-06T23-46-03-00.json
+- Próxima ejecución programada: 2026-11-07 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-11-07T07-46-03-00.json
