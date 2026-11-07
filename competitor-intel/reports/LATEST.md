@@ -1,82 +1,86 @@
-# Inteligencia competitiva — run 2026-11-07T11-54
+# Inteligencia competitiva — run 2026-11-07T19-54
 
-**Foco:** anuncios, creatividades y demanda (franja 11:54).
+**Foco:** reseñas, nuevos competidores y oportunidades (franja 19:54).
 **Modo:** solo lectura. **Repo:** público (GitHub `private: false`), así que no se escribieron datos internos de Flubberhome.
-**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 07/11/2026 entre las 11:55 y las 12:10 (Buenos Aires). Las copias de Exa no traen fecha de captura, salvo HashIQ ("Updated Nov 5/6").
+**Etiquetas:** [HECHO] observado con fuente · [ESTIMACIÓN] calculado con método · [HIPÓTESIS] interpretación sin confirmar. Consultas del 07/11/2026 entre las 19:55 y las 20:15 (Buenos Aires). Las copias de Exa no traen fecha de captura, salvo las notas editoriales (fecha de publicación).
 
-**Lo más importante:** **Gadnic subió a ARS 32.799 (+9,3%)**, así que el ARS 29.999 era un resto del CyberMonday. En demanda, NAPRE se frena y no hay ofertas nuevas de la categoría para Black Friday US ni para el Buen Fin MX. No hay oportunidades nuevas.
+**Lo más importante:** ejecución tranquila, sin oportunidades nuevas ni competidores nuevos relevantes. Gadnic se confirma en ARS 32.799, y bajó las cuotas sin interés de 24 a 18. Aparece un patrón nuevo, por ahora aislado: cansancio del brazo en sesiones de 10 minutos.
 
 ---
 
 ## A. Resumen ejecutivo
-- **Gadnic (directo AR):** ARS 32.799, con tachado de 50.460 y "35% OFF". Antes estaba en 29.999 / 46.152. [HECHO, [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c)]
-  - La copia de Exa no tiene fecha. Igual, trae el aviso "Domingo 8/11 y Lunes 09/11: Sucursal Cerrada", así que es del 5 al 7/11. No se pudo confirmar en vivo.
-  - [HIPÓTESIS] El piso del principal directo en AR vuelve a unos ARS 32.800. Para Flubberhome, la brecha de precio en AR se achica un poco.
-- **TikTok Shop US (HashIQ):**
-  - NAPRE: +88/día, antes +117.
-  - Arboleaf: +65/día, antes +56.
-  - Kitsch: sin actualizar desde el 5/11.
-- **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80). Suma una evidencia: en Amazon apareció otro peine con depósito que vende "cero enchastre".
+- **Directos:**
+  - Gadnic: ARS 32.799, con 18 cuotas (antes 24).
+  - TYMO en Ulta: USD 39,99, sin cambios.
+  - Beltronic: ARS 129.900. Los mensajes de stock de la página se contradicen.
+- **Reseñas:**
+  - T3 publicó el 06/11 una reseña del Sensse Aura Pro (UK). Dice que sostener el aparato 10 minutos cansa el brazo.
+  - Gadget Flow publicó el 06/11 una nota sobre Rootique. Describe la fricción del gotero como el motivo por el que la gente saltea días.
+- **Experiencia de compra:** Amazon MX extiende las devoluciones de temporada hasta el 31/01/2027. Es una referencia para el ángulo regalo (OPP-013).
+- **La oportunidad nº 1 no cambia:** OPP-001, demo de aplicación sin goteo (80).
 
 ## B. Competidores analizados
 | id | Mercado | Cat. | Resultado | Fuente |
 |---|---|---|---|---|
-| gadnic-ar | AR | A | **ARS 32.799** (tachado 50.460), hasta 24 cuotas, envío gratis desde 49.990. **Sube 9,3%** | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
-| tymo-us | US | A | Ulta USD 39,99 (lista 99,99). Sin cambios | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
-| beltronic-ar | AR | A | La copia no trajo el precio. Se mantiene el último dato (ARS 129.900) | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
-| breo-us | US | A | Página de Black Friday sin cambios (hasta USD 150 OFF; S3 159,99). 8.ª vez que se revisa | [landing](https://us.breo.com/pages/black-friday-2026) |
-| kitsch-us | US | B | 18.288 vendidos, +288/día (act. 5/11, sin datos nuevos) | [HashIQ](https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450) |
-| amazon-generics-us | US | A | +1 referencia: Satorix 3 en 1, con depósito, IPX7, USD 29,99, disponible desde el 6/4/2026 | [Amazon](https://www.amazon.com/Satorix-Electric-Scalp-Massager-Applicator/dp/B0GW9G41D4) |
+| gadnic-ar | AR | A | ARS 32.799 (tachado 50.460), **hasta 18 cuotas** (antes 24), 30 días de devolución, 12 meses de garantía | [ficha](https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c) |
+| beltronic-ar | AR | A | ARS 129.900 (tachado 149.900), 110.415 en efectivo. La página dice a la vez "Sin stock", "es el último" y "quedan 90": no se puede saber el stock | [ficha](https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/) |
+| tymo-us | US | A | Ulta USD 39,99 (lista 99,99), en stock. Sin cambios | [Ulta](https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264) |
+| sensse-uk | UK | C | GBP 159,99, depósito de 10 ml con pipeta. Reseña de T3 del 06/11 | [T3](https://www.t3.com/home-living/beauty/sensse-aura-pro-review-an-all-in-one-approach-to-healthier-hair-and-scalp-care) |
+| rootique | US | C | DUO Gen 2 a USD 148. Nota de Gadget Flow del 06/11, basada en el material de la marca | [Gadget Flow](https://thegadgetflow.com/blog/rootique-duo-gen-2-review-scalp-tonic-applicator/) |
+| mx-tiendas | MX | A/B | Elektra lista un peine PERLLENT con aplicador, pero la copia no trajo precio. Peosaard en Amazon MX: MXN 426,59, 1 calificación (2,0) | [Elektra](https://www.elektra.mx/peine-masajeador-perllent-aplicador-de-aceite-para-cuero-cabelludo-1301384365/p) · [Amazon MX](https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4) |
+
+- Otras tiendas que aparecieron en las búsquedas ya estaban registradas o venden fuera de los mercados de Flubberhome: Joinet, Znice, OC Market y Satorix por un lado; De Lo Nuevo (Chile) y Velaroa (EUR) por otro. Las dos últimas no se dan de alta.
 
 ## C. Productos y ofertas
 - **Flubberhome** [HECHO, Shopify en modo lectura]: ScalpCare Pro sin cambios (USD 41,93 / 71,88 / 89,85; 6 variantes; última actualización 28/10). Cuadernos Mágicos sigue activo y sin stock.
 
 ## D. Análisis publicitario
-- **Biblioteca de Meta:** sin acceso. El permiso de WebFetch no se respondió y se retiró.
-- **Kitsch** (HashIQ, 10 videos de afiliados; no son de la Biblioteca ni son anuncios pagos confirmados):
-  - El gancho típico es una afirmación de unos 3,7 s.
-  - La oferta del bundle aceite + aplicador aparece cerca del 0:20 y el pedido de compra cerca del 0:32.
-  - El video nº 1 tiene 33 mil vistas (18/10). Abre con una exageración humorística sobre el gotero.
-  - [INTERPRETACIÓN] Lo que vende es el problema del gotero que enchastra, contado con humor. No se habla de tecnología.
-  - Se sumó al historial de `kitsch-us:hashiq-bundle-aceite-aplicador-2026-11`.
-- **NAPRE:** ahora tiene 30 videos y 846 mil vistas. El patrón sigue: los videos más vistos usan claims (linfático, luz roja) que Flubberhome **no** puede usar.
-- **Black Friday US:**
-  - Ulta tiene "Early Black Friday" hasta el 21/11 ([GMA](https://www.goodmorningamerica.com/shop/story/black-friday-deals-2026-137771136), 04/11).
-  - En la categoría no aparecen ofertas nuevas. Siguen las rebajas permanentes de Anyra (−68%) y Nordic Biolabs (−50%).
-- **Buen Fin MX (13 al 17/11):** se anunciaron promociones bancarias (cashback y MSI en Mercado Libre y Amazon) ([Promodescuentos](https://www.promodescuentos.com/evento/el-buen-fin)). Todavía no hay ofertas de la categoría.
+Sin revisión en esta ejecución. Último dato: 07/11/2026 11:54.
 
 ## E. Demanda y señales de ventas
-- **Historial nuevo en `hashiq-tiktok-shop-ritmo-diario-2026-10`** [HECHO: contadores de HashIQ, no son ventas auditadas]:
-  - NAPRE: 7.568 vendidos (act. 6/11). [ESTIMACIÓN] +88 en un día, cuando antes iba a +117.
-  - Arboleaf: 12.899, +65/día.
-  - **Indica** que el masajeador "relax" sin depósito más caro se enfría.
-  - **No indica** nada sobre los aparatos con depósito ni sobre Flubberhome.
-- **Señal nueva `gadnic-capilar-postcyber-sube-32799-2026-11-07`:** el precio post-Cyber de ARS 29.999 no se sostuvo.
+Sin revisión en esta ejecución. Último dato: 07/11/2026 11:54. Solo se sumó historial a la señal de Gadnic: confirmación del precio y cuotas que bajan a 18.
 
 ## F. Experiencia de compra
-Sin revisión en esta ejecución. Último dato: 07/11/2026 03:56.
+- **[HECHO]** Amazon MX permite devolver hasta el 31/01/2027 lo que se compre entre el 1/11 y el 31/12/2026 ([ficha](https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4)).
+- **[HECHO]** Gadnic achica la financiación de 24 a 18 cuotas sin interés.
+  - [HIPÓTESIS] Junto con la suba de precio del 7/11, indica que terminó la promo del Cyber.
 
 ## G. Reseñas y debilidades competitivas
-Sin revisión en esta ejecución. Último dato: 06/11/2026 19:54.
+- **Fuente nueva:** T3, Sensse Aura Pro, publicada el 06/11/2026 después de 6 semanas de prueba. Es una fuente secundaria. La paráfrasis dice:
+  - Sostener el aparato los 10 minutos completos le cansaba el brazo.
+  - El EMS hacía ruido y le costó acostumbrarse.
+  - **Patrón nuevo:** "cansancio del brazo durante la sesión". Por ahora es aislado (1 fuente).
+- **Contexto (no es una reseña de compradores):** Gadget Flow presenta el problema del gotero como el pelo que se moja en lugar de la raíz, el líquido que chorrea por la frente y los días que se saltean.
+  - Confirma cómo se cuenta el problema en la categoría.
+  - No suma fuentes al patrón de dispensado.
+- **Búsquedas sin resultados útiles:**
+  - Reseñas en español: devolvieron solo productos de otras categorías.
+  - Reddit: no aparecieron hilos de 2026.
 
 ## H. Estrategias adaptables
-- **Evidencia:** Kitsch vende con humor sobre el gotero, y Satorix y Anyra prometen "sin enchastre" en el texto. Ninguno de los directos con depósito lo **muestra** en una demo real.
-  - **Interpretación:** el ángulo ya es común en el texto. Lo que puede diferenciar es la prueba visual.
+- **Evidencia:** T3 cuenta cansancio del brazo en sesiones de 10 minutos, y Gadget Flow cuenta días salteados por la fricción del gotero.
+  - **Interpretación:** una rutina corta y por zonas puede ser más fácil de sostener que "10 minutos".
+  - **Confianza:** baja (dos fuentes secundarias).
+  - **Acción (OPP-008):** en la Guía, proponer una rutina corta por zonas, con la duración real que permita el ScalpCare Pro. Antes de publicarla, verificar el tiempo con una muestra. Se puede probar el gancho original "Tu rutina capilar, en lo que tarda el café".
+  - **Métrica:** retención a los 3 s y CTR frente al creativo actual, cuando se reactiven las campañas.
+- **Evidencia:** Amazon MX extiende las devoluciones de temporada.
+  - **Interpretación:** quien compra un regalo valora poder cambiarlo después de las fiestas.
   - **Confianza:** media.
-  - **Acción (OPP-001, sin cambios):** filmar una demo real y rotulada, con pelo seco y sin agua. Mostrar cuánto tónico se carga y cómo queda la raíz.
-  - **Idea original de gancho con humor, sin nombrar a nadie:** "Mi gotero y yo terminamos. Él chorreaba."
-  - **Métrica:** tasa de reproducción hasta los 3 s y CTR frente al creativo actual, cuando se reactiven las campañas.
+  - **Acción (OPP-013):** evaluar un plazo de cambio extendido para regalos, por ejemplo hasta mediados de enero. Hacerlo solo si la logística y el costo lo permiten, y publicarlo con condiciones claras.
+  - **Métrica:** tasa de conversión del Pack Dúo en noviembre y diciembre.
 
 ## I. Oportunidades priorizadas
-No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-001.
+No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-008 y OPP-013.
 
 - OPP-001: 80
 - OPP-013: 49
 - OPP-002 y OPP-014: 48
+- OPP-012: 37 (recomendada)
+- OPP-011 y OPP-015: 36
 
 ## J. Próximas acciones
-- **Run de las 19:54:** reseñas y competidores nuevos. Revisar Holonova (MX), que quedó pendiente.
-- **Run del 8/11 03:54:** confirmar el precio de Gadnic en vivo (32.799) y volver a intentar el precio de Beltronic.
+- **Run del 8/11 a las 03:54:** catálogo y precios. Revisar tiendas MX antes del Buen Fin y volver a intentar la ficha de Elektra (PERLLENT).
+- **Run del 8/11 a las 11:54:** contadores de HashIQ y ofertas de Black Friday US.
 - **Calendario:**
   - 12/11: cierre de inscripción al Buen Fin.
   - Del 13 al 17/11: Buen Fin MX.
@@ -85,19 +89,18 @@ No hay oportunidades nuevas ni cambios de puntaje. Se sumó historial en OPP-001
   - 27/11: Black Friday US.
 
 ## K. Nuevos hallazgos
-- **Señal nueva:** 1 en `demand_signals.json` (suba de Gadnic).
+- **Reseñas:** +1 ítem y +1 patrón nuevo (aislado) en `reviews.json`.
 - **Historial actualizado:**
-  - Competidores: gadnic-ar, tymo-us, beltronic-ar, breo-us, kitsch-us y amazon-generics-us (Satorix)
-  - Anuncio: kitsch-us
-  - Señal de ritmo de HashIQ
-  - OPP-001
-- **Competidores nuevos:** ninguno.
+  - Competidores: gadnic-ar, beltronic-ar, tymo-us, sensse-uk, rootique y mx-tiendas
+  - Señal de Gadnic
+  - OPP-008 y OPP-013
+- **Competidores nuevos:** ninguno de relevancia media o alta.
 
 ## L. Limitaciones
-- **Biblioteca de Meta:** sin acceso (permiso de WebFetch no respondido).
-- **Gadnic:** no se pudo confirmar en vivo con WebFetch (permiso no respondido). El dato viene de una copia de Exa, fechada de forma indirecta por un aviso.
-- **Beltronic:** la copia no trajo el precio.
+- **Biblioteca de Meta:** no se intentó, porque está fuera del foco y bloqueada desde la nube.
 - **Mercado Libre:** no consultado (403 previos).
-- **TikTok Creative Center:** no se intentó.
-- **Satorix:** sin cantidad de reseñas visible.
+- **Fuentes de las reseñas:** son editoriales (T3 y Gadget Flow), no reseñas directas de compradores. Sensse y Rootique no venden en los mercados de Flubberhome.
+- **Elektra:** sin precio ni detalle.
+- **Beltronic:** el estado del stock no se puede saber.
+- **Copias de Exa sin fecha de captura:** el precio de hoy puede ser otro.
 - **Repo público:** no se escribieron datos internos. Conviene volver el repo privado.

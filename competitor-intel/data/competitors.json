@@ -9,7 +9,7 @@
     "relevant_products": [
       "Masajeador capilar eléctrico con depósito e infrarrojo"
     ],
-    "price_visible": "ARS 32.799 (tachado 50.460), hasta 24 cuotas sin interés — 07/11/2026 (copia de Exa con banner de 8–9/11)",
+    "price_visible": "ARS 32.799 (tachado 50.460), hasta 18 cuotas sin interés — 07/11/2026 19:54 (copia de Exa)",
     "value_prop": "Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.",
     "claims_observed": "Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.",
     "channels": [],
@@ -347,6 +347,12 @@
         "date": "2026-11-07",
         "run_id": "2026-11-07T11-54",
         "change": "Chequeo rápido: SUBIÓ a ARS 32.799 (tachado 50.460, '35% OFF'; antes 29.999 / 46.152) = +9,3%. Sin impuestos nacionales ARS 27.107. Hasta 24 cuotas, envío gratis desde 49.990, 30 días de devolución, 12 meses de garantía. Copia de Exa sin fecha de captura, pero trae el banner 'Domingo 8/11 y Lunes 09/11: Sucursal Cerrada', lo que la ubica entre el 5 y el 7/11 (posterior al precio de Cyber día 3, que también era 32.799).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Chequeo rápido: se confirma ARS 32.799 (tachado 50.460, '35% OFF', sin impuestos 27.107) en una segunda copia. Cambio menor: ahora dice 'hasta 18 cuotas sin interés de $1.822' (antes hasta 24). Siguen 30 días de devolución y 12 meses de garantía.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
@@ -711,6 +717,12 @@
         "date": "2026-11-07",
         "run_id": "2026-11-07T11-54",
         "change": "Chequeo rápido: la copia de Exa no trajo el precio (solo menú y carrito); aparece el texto 'Sin stock' pero puede ser parte de la plantilla. No se confirma cambio; se mantiene el último dato (ARS 129.900).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Chequeo rápido: precio confirmado ARS 129.900 (tachado 149.900, 13% OFF; 110.415 en efectivo con retiro). La página muestra a la vez 'Sin stock', 'es el último' y 'quedan 90 en stock': mensajes contradictorios de la plantilla; no se puede afirmar el estado del stock.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2663,6 +2675,12 @@
         "run_id": "2026-11-07T03-56",
         "change": "Búsqueda pre-Buen Fin (13 al 17/11): sin ofertas de la categoría visibles. OC Market sigue en MXN 1.038, agotado.",
         "source": "https://www.ocmarket.mx/products/cepillo-masajeador-electrico"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Elektra (retail MX) lista un 'Peine masajeador PERLLENT aplicador de aceite'; la copia no trajo precio ni detalle, queda como desconocido. Amazon MX: Peosaard 3 en 1 a MXN 426,59 con 1 calificación (2,0), entrega gratis 19–24/11; la política de temporada de Amazon MX permite devolver compras del 1/11 al 31/12/2026 hasta el 31/01/2027.",
+        "source": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4 ; https://www.elektra.mx/peine-masajeador-perllent-aplicador-de-aceite-para-cuero-cabelludo-1301384365/p"
       }
     ],
     "id": "mx-tiendas",
@@ -3013,13 +3031,19 @@
     ],
     "relevance": "baja",
     "follow_reason": "Referencia de hacia dónde va el segmento premium; no compite en AR/CO/MX.",
-    "last_reviewed": "2026-10-18",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-18",
         "run_id": "2026-10-18T19-54",
         "change": "Alta en la base",
         "source": "https://www.t3.com/home-living/beauty/this-led-scalp-device-tackles-thinning-hair-and-excess-oil-in-10-minutes-a-day"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Reseña editorial nueva de T3 (publicada el 06/11/2026, 6 semanas de prueba): GBP 159,99; depósito de 10 ml con pipeta y cepillo de limpieza incluidos. Puntos en contra que menciona: el EMS hace ruido y sostener el aparato los 10 minutos cansa el brazo. Sigue fuera de los mercados de Flubberhome (UK).",
+        "source": "https://www.t3.com/home-living/beauty/sensse-aura-pro-review-an-all-in-one-approach-to-healthier-hair-and-scalp-care"
       }
     ]
   },
@@ -3476,6 +3500,12 @@
         "date": "2026-11-07",
         "run_id": "2026-11-07T11-54",
         "change": "Chequeo rápido: sin cambios (Ulta USD 39,99, lista 99,99; envío gratis desde 35).",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Chequeo rápido: Ulta USD 39,99 (lista 99,99), en stock, solo online. Sin cambios.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -4208,13 +4238,19 @@
     ],
     "relevance": "baja",
     "follow_reason": "Referencia de cómo comunicar dosis y aplicación sin goteo; no compite por precio ni por público.",
-    "last_reviewed": "2026-10-30",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-30",
         "run_id": "2026-10-30T19-55",
         "change": "Alta como referencia (C_inspiracional).",
         "source": "https://rootique.co/products/rootique-duo-the-first-ever-one-handed-micro-mist-scalp-serum-applicator"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Reseña editorial de Gadget Flow (06/11/2026) sobre el DUO Gen 2 a USD 148: plantea el problema como el gotero que cae en el pelo o chorrea por la frente y la fricción diaria que hace saltear días. Es una nota basada en el material de la marca, no una prueba independiente.",
+        "source": "https://thegadgetflow.com/blog/rootique-duo-gen-2-review-scalp-tonic-applicator/"
       }
     ]
   },

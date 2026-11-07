@@ -432,6 +432,16 @@
           "change": "creado a partir de la reseña de tienda de Calunat (Loox)."
         }
       ]
+    },
+    {
+      "problema": "Cansancio del brazo o incomodidad para sostener el aparato durante la sesión completa",
+      "n_fuentes": 1,
+      "n_competidores": 1,
+      "clasificacion": "aislado (una reseña editorial)",
+      "oportunidad": "[HIPÓTESIS] Comunicar sesiones cortas por zonas (p. ej., 3–5 minutos) y mostrar un agarre cómodo; validar con muestras antes de prometer nada.",
+      "fecha": "2026-11-07",
+      "run_id": "2026-11-07T19-54",
+      "historial": []
     }
   ],
   "items": [
@@ -1171,6 +1181,16 @@
       "fecha_consulta": "2026-11-06",
       "run_id": "2026-11-06T19-54",
       "tipo": "nuevo (fuente secundaria)"
+    },
+    {
+      "fuente": "https://www.t3.com/home-living/beauty/sensse-aura-pro-review-an-all-in-one-approach-to-healthier-hair-and-scalp-care",
+      "producto": "Sensse Aura Pro (UK, reseña editorial T3)",
+      "problema": "Ergonomía: cansancio del brazo en sesiones de 10 minutos; EMS ruidoso",
+      "fecha": "2026-11-06 (publicación)",
+      "parafrasis": "La probadora cuenta que sostener el aparato durante toda la sesión de 10 minutos le cansaba el brazo y que el EMS hacía ruido y le costó acostumbrarse.",
+      "fecha_consulta": "2026-11-07",
+      "run_id": "2026-11-07T19-54",
+      "tipo": "nuevo (fuente secundaria, editorial)"
     }
   ]
 }

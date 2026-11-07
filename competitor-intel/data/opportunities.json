@@ -515,6 +515,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T19-54",
         "change": "Evidencia: ManeLume responde en la FAQ la objeción de abandonar el aparato (sesión de 5 min, apagado automático). Confirma que la objeción existe; sin cambio de puntaje."
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Evidencia nueva (secundaria): la nota de Gadget Flow sobre Rootique plantea que la fricción de aplicar con gotero hace saltear días, y T3 menciona cansancio del brazo en sesiones de 10 min con Sensse. Refuerza el ángulo 'rutina corta que se sostiene'. Sin cambio de puntaje (confianza sigue baja: no son reseñas de compradores).",
+        "source": "https://thegadgetflow.com/blog/rootique-duo-gen-2-review-scalp-tonic-applicator/ ; https://www.t3.com/home-living/beauty/sensse-aura-pro-review-an-all-in-one-approach-to-healthier-hair-and-scalp-care"
       }
     ]
   },
@@ -851,6 +857,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T19-54",
         "change": "+2 listados con regalo (QIQIMARK con pinzas de seccionado; ManeLume con bolsa). Idea: en el Pack Dúo, sumar un accesorio útil (p. ej., pinzas o bolsa) en lugar de descuento, solo si el margen lo permite. Sin cambio de puntaje."
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Evidencia: Amazon MX extiende devoluciones de temporada (compras del 1/11 al 31/12/2026, hasta el 31/01/2027). Idea a evaluar: un plazo de cambio extendido para regalos (p. ej., hasta mediados de enero), solo si la logística y el costo lo permiten. Sin cambio de puntaje.",
+        "source": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4"
       }
     ],
     "history": [

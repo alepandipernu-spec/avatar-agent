@@ -1165,6 +1165,13 @@
     "tipo": "HECHO: precio publicado (copia de Exa sin fecha de captura, ubicada entre el 5 y el 7/11 por un banner)",
     "indica": "El ARS 29.999 fue un remanente del CyberMonday, no un precio nuevo estable. El piso del principal directo en AR vuelve a ~ARS 32.800.",
     "no_indica": "Ventas ni respuesta de demanda; tampoco si la suba es definitiva.",
-    "history": []
+    "history": [
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T19-54",
+        "change": "Confirmado en una segunda copia: ARS 32.799; las cuotas sin interés bajan de 24 a 18.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      }
+    ]
   }
 }
