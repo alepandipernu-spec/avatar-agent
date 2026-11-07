@@ -2551,5 +2551,37 @@
       "OPP-010 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-07T03-56",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Ulta, Beltronic, ManeLume",
+      "Exa search: Buen Fin MX, fechas CyberMonday AR"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: no aplica en este foco",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "tymo-us",
+      "beltronic-ar",
+      "manelume-us",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos (Gadnic 29.999, TYMO 39,99, Beltronic 129.900, ManeLume 59,99/99,99/129,99)",
+      "CyberMonday AR ya pasó (2 al 4/11); Gadnic mantiene el 35% OFF después del evento",
+      "Buen Fin MX: sin ofertas de la categoría todavía",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

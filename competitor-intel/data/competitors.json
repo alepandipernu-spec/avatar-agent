@@ -42,7 +42,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-17",
@@ -336,6 +336,12 @@
         "run_id": "2026-11-06T19-54",
         "change": "Chequeo rápido: sin cambios (ARS 29.999, tachado 46.152; hasta 24 cuotas; 12 meses de garantía).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T03-56",
+        "change": "Chequeo de catálogo: sin cambios (ARS 29.999, tachado 46.152, 35% OFF; hasta 24 cuotas; 30 días de devolución, 12 meses de garantía). El precio sigue igual después del CyberMonday AR (2 al 4/11). Copia de Exa sin fecha.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -538,7 +544,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-17",
@@ -687,6 +693,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T19-54",
         "change": "Chequeo rápido: sin cambios (ARS 129.900, tachado 149.900).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T03-56",
+        "change": "Chequeo de catálogo: sin cambios (ARS 129.900, tachado 149.900; 3 cuotas sin interés).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
@@ -2506,7 +2518,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-17",
@@ -2621,6 +2633,12 @@
         "run_id": "2026-11-06T19-54",
         "change": "Revisado Holonova (pendiente desde el run 11:55): MXN 1.332,41 agotado, urgencia y reseñas genéricas. Se registra dentro de mx-tiendas, relevancia baja.",
         "source": "https://holonova-store.myshopify.com/products/peine-masajeador-electrico-terapia-de-luz-roja-para-el-cuidado-del-cabello"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T03-56",
+        "change": "Búsqueda pre-Buen Fin (13 al 17/11): sin ofertas de la categoría visibles. OC Market sigue en MXN 1.038, agotado.",
+        "source": "https://www.ocmarket.mx/products/cepillo-masajeador-electrico"
       }
     ],
     "id": "mx-tiendas",
@@ -3152,7 +3170,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-10-19",
@@ -3416,6 +3434,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T19-54",
         "change": "Chequeo rápido: Ulta sigue en USD 39,99 (lista 99,99).",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T03-56",
+        "change": "Chequeo de catálogo: Ulta sigue en USD 39,99 (lista 99,99), envío gratis desde USD 35.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
@@ -4392,7 +4416,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Primer competidor de EE. UU. relevado que se posiciona como no médico y honesto, como propone OPP-016; útil para ver si ese tono convive con prueba social y precio más alto.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-07",
     "history": [
       {
         "date": "2026-11-05",
@@ -4404,6 +4428,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T03-55",
         "change": "Catálogo: unidad USD 59,99 y Trio USD 129,99 (nuevo dato); el curso figura como producto aparte a USD 59,99. Precio del Duo sin cambios (99,99).",
+        "source": "https://manelume.com/collections/all"
+      },
+      {
+        "date": "2026-11-07",
+        "run_id": "2026-11-07T03-56",
+        "change": "Chequeo de catálogo: sin cambios (unidad 59,99 · Duo 99,99 · Trio 129,99; curso 59,99).",
         "source": "https://manelume.com/collections/all"
       }
     ]
