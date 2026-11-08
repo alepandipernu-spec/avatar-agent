@@ -1,23 +1,23 @@
-# Flubberhome · Meta Ads Monitor · 2026-11-08T07:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-11-08T15:46-03:00
 
 Período: 2026-10-10 → 2026-11-08 · comparado con 2026-09-10 → 2026-10-09 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- La ventana pasa a 10/10–08/11; el 09/10 no tenía gasto, así que el gasto sigue en USD 64,51 sin compras (último gasto 14/10). El 10/10 (USD 55,98) sale mañana. Pausa intencional, 0 objetos activos.
-- Tienda: 530 sesiones (10 con carrito, 8 al checkout, 0 compras). 06–08/11: 124 sesiones sociales sin anuncios activos — 104 de Facebook y 20 de Instagram; 116 entran a la portada y 8 a la ficha de ScalpCare; ninguna agregó al carrito.
-- ScalpCare, Cuadernos Mágicos, precios, envíos, políticas y #D1 sin cambios.
+- Ventana 10/10–08/11 sin cambios: gasto USD 64,51 sin compras (último gasto 14/10). Pausa intencional, 0 objetos activos; token de Meta OK.
+- Tienda: 530 sesiones (10 con carrito, 8 al checkout, 0 compras). El tráfico social sin anuncios fue 06/11 (Facebook 27, Instagram 19) y 07/11 (Facebook 77, Instagram 1); el 08/11 va en 0. Ninguna sesión social agregó al carrito.
+- Competencia: Gadnic sube de 10 a 21 vendidos en 3 días (sin precio visible); Lena y AUREVIA sin cambios de precio.
 - Alertas abiertas: 9 (4 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/10–11/08 vs 09/10–10/09), catálogo (0 activos). Por anuncio: filas del 06/11 07:46 (el día que salió no tenía gasto; mismos totales). |
-| shopify | ok | Embudo, sesiones sociales por red y página de entrada (06–08/11), pedidos, precios, ScalpCare, Cuadernos Mágicos, perfiles de envío, políticas y #D1 leídos. |
-| competencia_web | partial | No se actualizó (se revisó a las 15:46 del 07/11; próxima revisión 15:46 del 08/11) |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/10–11/08), catálogo (0 activos), cuentas (token OK 18:46 UTC) y activos de la cuenta 3984236798375831. Por anuncio: filas del 06/11 07:46 (mismos totales). |
+| shopify | ok | Embudo, sesiones sociales por red y día (05–08/11), pedidos, precios, ScalpCare, Cuadernos Mágicos, perfiles de envío, políticas y #D1 leídos. |
+| competencia_web | ok | Gadnic (Bidcom), Lena Vegetal y AUREVIA (Farmatodo) leídos el 08/11 con Exa. |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
-| meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 07/11 a las 15:46 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy, IG 17841447093080625 en 196 creatividades). Facturación y eventos del píxel sin acceso. |
+| meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 08/11 a las 15:46 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy, IG 17841447093080625 en 196 creatividades). Facturación y eventos del píxel sin acceso. |
 
 - los últimos días hasta 2026-11-08 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
@@ -130,7 +130,57 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## F. Inteligencia competitiva
 
-- No se examinaron competidores en esta ejecución.
+**Gadnic (vía Bidcom)** (cambió) · bidcom.com.ar · mercado AR · verificado 2026-11-08
+- Precio/oferta: No visible en la página consultada; ya no figura 'preventa'. Envío en el día en AMBA, envío gratis a todo el país, 10 disponibles.
+- Propuesta: Marca local conocida; 3 modos + luz infrarroja, temporizador 10 min, depósito <6 ml, USB-C, 1400 mAh.
+- Mensajes: Rutina doméstica; sin promesas de crecimiento en el texto leído. Garantía de fábrica 12 meses.
+- Formatos: No obtenido (sin acceso a la Biblioteca de anuncios).
+- Hecho observado: Ofrece 12 meses de garantía y envío gratis.
+- Hecho observado: Ficha técnica completa y medible (batería, potencia, tiempos).
+- Hecho observado: 22/10: desapareció el aviso de preventa; agrega 'envío en el día en AMBA'.
+- Hecho observado: 30/10: la página muestra '12 meses de garantía de fábrica', '1 vendidos', temporizador de 10 min, batería 1400 mAh (~3 h) y depósito de menos de 6 ml; precio sigue sin aparecer en el extracto.
+- Hecho observado: 02/11: pasó de '1 vendidos' a '2 vendidos'; sigue con 12 meses de garantía, envío gratis y 10 disponibles; precio no visible en el extracto.
+- Hecho observado: 05/11: pasó de '2 vendidos' (02/11) a '10 vendidos' con calificación 4.5; ahora dice 'Envío a todo el país' (ya no 'gratis') y la línea de 12 meses de garantía no apareció en el extracto. Precio sigue sin verse.
+- Hecho observado: 08/11: pasó de '10 vendidos' (05/11) a '21 vendidos', calificación 4.5, 10 disponibles; precio sigue sin verse en el extracto.
+- Inferencia: Compite en confianza de marca local y garantía, no en precio.
+- Inferencia: Una marca local ofrece 12 meses de garantía y envío gratis a todo el país; ScalpCare hoy no muestra garantía en la ficha.
+- Hipótesis: La garantía larga es un argumento que Flubberhome no puede igualar hoy.
+- No obtenible: Anuncios activos, presupuesto, ventas.
+- Fuentes: https://home-test.bidcom.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c
+
+**Lena Vegetal** (cambió) · lenacosmetica.com.ar · mercado AR · verificado 2026-11-08
+- Precio/oferta: ARS 25.600 (tachado ARS 32.000, '20% OFF'); ARS 20.480 con transferencia (20% off); 3 cuotas sin interés. Envío gratis desde ARS 60.000.
+- Propuesta: Kit masajeador + tónico de romero y salvia (60 ml).
+- Mensajes: 'Control caída', 'frena la caída', 'estimula el crecimiento', 'activar el chi'.
+- Formatos: No obtenido.
+- Hecho observado: Vende el aparato junto con un tónico propio.
+- Hecho observado: Descuento extra por transferencia (20%).
+- Hecho observado: 22/10: la página muestra a la vez 'Sin stock' y 'Solo quedan 3 en stock' con botón de compra; el estado real no se puede determinar.
+- Hecho observado: La página dice '+70 vendidos' (dato del vendedor, no verificado).
+- Hecho observado: 30/10: sin cambio de precio (ARS 25.600, tachado ARS 32.000); suma urgencia por stock ('¡Solo quedan 3 en stock!', 'es el último') y cupón BIENVENIDA 10%.
+- Hecho observado: 02/11: sin cambios (ARS 25.600, tachado ARS 32.000; 'Solo quedan 3 en stock').
+- Hecho observado: 05/11: sin cambios (ARS 25.600, tachado ARS 32.000).
+- Hecho observado: 08/11: sin cambios de precio (ARS 25.600, tachado ARS 32.000); muestra '+70 vendidos'. La plantilla incluye el texto 'Sin stock', pero no se puede confirmar si aplica a este producto.
+- Inferencia: El bundle con líquido resuelve la pregunta '¿qué le pongo al depósito?'.
+- Hipótesis: Un kit con tónico podría subir el valor percibido; requiere proveedor y verificar claims.
+- No obtenible: Anuncios, ventas.
+- Fuentes: https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/
+
+**AUREVIA (en Farmatodo)** (cambió) · farmatodo.com.co · mercado CO · verificado 2026-11-08
+- Precio/oferta: COP 89.900, sin precio tachado visible; 8 unidades; despacho 4–5 días.
+- Propuesta: Venta dentro de una cadena de farmacias (confianza del canal).
+- Mensajes: 'Rejuvenecedor de folículos', 'ideal para frenar la caída'.
+- Formatos: No obtenido.
+- Hecho observado: Producto similar vendido en farmacia en Colombia.
+- Hecho observado: 22/10: el precio subió de COP 37.425 (lista 49.900) a COP 89.900.
+- Hecho observado: 30/10: sin cambios (COP 89.900, 8 unidades, despacho 4–5 días, sin reseñas).
+- Hecho observado: 02/11: sin cambios (COP 89.900, 8 unidades, sin reseñas).
+- Hecho observado: 05/11: sin cambios (COP 89.900, 8 unidades, sin reseñas).
+- Hecho observado: 08/11: precio igual (COP 89.900); pasó de 8 a 7 unidades disponibles; sigue sin reseñas.
+- Inferencia: En CO el canal farmacia da confianza que una tienda nueva no tiene.
+- No obtenible: Anuncios, ventas.
+- Fuentes: https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1
+
 - Patrón: HECHO: 7 de las 9 fichas del registro muestran precio tachado o '% OFF' (Gadnic y los genéricos de Amazon no); en Argentina además hay 10–20% de descuento por transferencia.
 - Patrón: HECHO: la mayoría promete anticaída o crecimiento; solo Gadnic y los genéricos de Amazon se quedan en masaje y aplicación.
 - Patrón: HECHO: los que más destacan confianza la apoyan en garantía (12 meses, 1 año, 120 días) o en el canal (farmacia, marca local).
@@ -231,15 +281,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 65 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 65 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 64 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 64 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 65 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 34 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 32 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 23 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 64 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] USD 64.51 gastados en el período sin compras** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 66 · confianza media · impacto: Gasto sin retorno verificable. · acción: Antes de reactivar gasto, probar el checkout de punta a punta y revisar la oferta (ver experimentos).
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 66 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 65 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 65 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] EE. UU. se lleva el 42% del gasto con el peor costo por visita** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 66 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 35 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 33 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 24 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 65 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -250,14 +300,15 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-11-08T07:46:45-03:00 · Fin del análisis: 2026-11-08T07:47:27-03:00
-- Completado: Escalafy: dashboard y catálogo (0 activos)
-- Completado: Shopify: embudo (530 sesiones), tráfico social por red y página (06–08/11), pedidos (0), productos sin cambios, envíos, políticas y #D1 (OPEN)
-- Parcial: Por anuncio: filas del 06/11 07:46 (sin gasto en el día que salió)
+- Inicio: 2026-11-08T15:46:12-03:00 · Fin del análisis: 2026-11-08T15:47:11-03:00
+- Completado: Escalafy: dashboard, catálogo (0 activos), cuentas y activos de Meta
+- Completado: Shopify: embudo (530 sesiones), tráfico social por día, pedidos (0), productos sin cambios, envíos, políticas y #D1 (OPEN)
+- Completado: Competencia: Gadnic, Lena Vegetal, AUREVIA
+- Parcial: Por anuncio: filas del 06/11 07:46 (mismos totales)
 - Parcial: Clics en 'agregar al carrito' del período anterior: no disponible en Escalafy; se mantiene el valor previo
-- Parcial: Publicación concreta que genera el tráfico de Facebook: no disponible (sin acceso a la página ni a Meta Business Suite)
-- Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
+- Parcial: Publicación concreta que generó el tráfico de Facebook: no disponible
+- Parcial: Precio de Gadnic: no disponible en el extracto
 - Falló: Customer Journey de Escalafy: no habilitado para la organización (visto el 02/11)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-11-08 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-11-08T07-46-03-00.json
+- Próxima ejecución programada: 2026-11-08 23:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-11-08T15-46-03-00.json
