@@ -487,7 +487,14 @@
     "primera_vez_visto": "2026-10-29",
     "ultima_vez_visto": "2026-10-29",
     "repeticiones": 1,
-    "history": []
+    "history": [
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T11-55",
+        "change": "HashIQ sin actualizar desde el 31/10: 461 vendidos, +0/día. El video del problema del líquido que chorrea (1,1 M de vistas, 31/5) no se traduce en ritmo actual. Es un ejemplo de que vistas no son ventas.",
+        "source": "https://hashiq.io/shop/p/renergy-unisex-electric-scalp-oil-applicator-hair-growth-pro-1732292664915300633"
+      }
+    ]
   },
   "isyra-mx:home-2026-10": {
     "id": "isyra-mx:home-2026-10",
@@ -630,6 +637,12 @@
         "date": "2026-11-07",
         "run_id": "2026-11-07T11-54",
         "change": "Patrón en 10 videos (HashIQ act. 5/11): gancho de afirmación ~3,7 s, oferta cerca del 0:20, pedido de compra cerca del 0:32. Video nº 1 con 33 mil vistas (18/10). No viene de la Biblioteca de Meta.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T11-55",
+        "change": "Revisado: siguen los mismos 10 videos de afiliados (el nº 1 con 33 mil vistas). No hay creatividades nuevas. El ritmo sube a +362/día sin videos nuevos visibles en HashIQ. [HIPÓTESIS] El empuje puede venir de otra fuente (tienda, pauta o temporada), no de videos nuevos.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]

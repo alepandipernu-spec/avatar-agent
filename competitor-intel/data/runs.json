@@ -2700,5 +2700,43 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-08T11-55",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: HashIQ (Kitsch, NAPRE, Arboleaf, Renergy), Gadnic, Holy, Ulta, Breo",
+      "Exa search: Black Friday US, Buen Fin MX, TYMO"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: WebFetch, permiso no respondido",
+      "WebFetch de Ulta: permiso no respondido",
+      "TikTok Creative Center: carga sin resultados para 'scalp massager' (página que necesita JavaScript)",
+      "Mercado Libre: no consultado (403 previos)",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "kitsch-us",
+      "napre/arboleaf/renergy (HashIQ)",
+      "breo-us",
+      "tymo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Kitsch acelera a +362/día (antes +288) sin videos nuevos",
+      "Arboleaf se frena a +36/día; NAPRE sin actualizar; Renergy (con depósito) en +0/día",
+      "Black Friday: Breo sin cambios (9.ª vez); sin ofertas nuevas de la categoría",
+      "Buen Fin MX: todavía sin ofertas de la categoría",
+      "Directos sin cambios de precio (Gadnic, Holy, TYMO)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
