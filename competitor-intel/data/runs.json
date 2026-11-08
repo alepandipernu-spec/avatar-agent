@@ -2660,5 +2660,45 @@
       "OPP-013 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-08T03-54",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Lena, Microshop, Holy, Ulta (TYMO), Carrello, Isyra, Elektra, Farmatodo (Aurevia), Nihlo, Beltronic",
+      "Exa search: tiendas MX pre-Buen Fin"
+    ],
+    "fuentes_fallidas": [
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: no aplica en este foco",
+      "Carrello, Beltronic, Isyra y Elektra: copias sin precio",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "aurevia-co",
+      "nihlo-co",
+      "carrello-ar",
+      "isyra-mx-cl",
+      "beltronic-ar",
+      "alverela-co",
+      "mx-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Sin cambios de precio en los directos",
+      "Aurevia en Farmatodo baja de 8 a 7 unidades disponibles",
+      "MX: todavía sin ofertas de Buen Fin en la categoría",
+      "Precios propios sin cambios"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

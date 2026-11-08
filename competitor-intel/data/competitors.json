@@ -42,7 +42,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-07",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -354,6 +354,12 @@
         "run_id": "2026-11-07T19-54",
         "change": "Chequeo rápido: se confirma ARS 32.799 (tachado 50.460, '35% OFF', sin impuestos 27.107) en una segunda copia. Cambio menor: ahora dice 'hasta 18 cuotas sin interés de $1.822' (antes hasta 24). Siguen 30 días de devolución y 12 meses de garantía.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: ARS 32.799 (tachado 50.460, 35% OFF), sin impuestos nacionales ARS 27.107, hasta 18 cuotas de ARS 1.822, envío gratis desde ARS 49.990, 30 días de devolución, 12 meses de garantía. Aviso: sucursal cerrada 8 y 9/11.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -395,7 +401,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -521,6 +527,12 @@
         "run_id": "2026-11-06T03-55",
         "change": "Sin cambios: kit ARS 25.600 (tachado 32.000), 20.480 por transferencia, '+70 vendidos', envío gratis desde ARS 60.000.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: kit ARS 25.600 (tachado 32.000), 20.480 por transferencia, '+70 vendidos'. La copia vuelve a mostrar el rótulo 'Sin stock' (ya visto desde el 24/10; puede ser texto de plantilla).",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
   },
@@ -556,7 +568,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-07",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -724,6 +736,12 @@
         "run_id": "2026-11-07T19-54",
         "change": "Chequeo rápido: precio confirmado ARS 129.900 (tachado 149.900, 13% OFF; 110.415 en efectivo con retiro). La página muestra a la vez 'Sin stock', 'es el último' y 'quedan 90 en stock': mensajes contradictorios de la plantilla; no se puede afirmar el estado del stock.",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "La copia de hoy no trajo precio (solo menú y aviso de carrito sin stock). Último precio: ARS 129.900 (07/11).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -755,7 +773,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -839,6 +857,12 @@
         "run_id": "2026-11-06T03-55",
         "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis, 10% por transferencia.",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
     ]
   },
@@ -877,7 +901,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
-    "last_reviewed": "2026-11-02",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -906,6 +930,12 @@
         "date": "2026-11-02",
         "run_id": "2026-11-02T19-55",
         "change": "Reaparece en Farmatodo CO a COP 89.900, '8 unidades disponibles' (mismo texto que el 23/10; copia sin fecha).",
+        "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: Farmatodo COP 89.900, '7 unidades disponibles' (antes 8), despacho en 4–5 días.",
         "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
       }
     ]
@@ -2075,7 +2105,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -2250,6 +2280,12 @@
         "run_id": "2026-11-06T03-55",
         "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9 con 27 reseñas; sigue presentándose como apto para el lavado (IPX7) y con 'estimulador de crecimiento' en el título.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: COP 149.990 (tachado 199.990), 3 cuotas sin interés, 4,9 con 27 reseñas; sigue como apto para el lavado (IPX7).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2293,7 +2329,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-27",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -2329,6 +2365,12 @@
         "date": "2026-10-27",
         "run_id": "2026-10-27T03-55",
         "change": "Sin cambios: COP 89.900, garantía de 1 año por defectos.",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: COP 89.900, garantía de 1 año por defectos, 0 reseñas.",
         "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
       }
     ],
@@ -2554,7 +2596,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-07",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -2681,6 +2723,12 @@
         "run_id": "2026-11-07T19-54",
         "change": "Elektra (retail MX) lista un 'Peine masajeador PERLLENT aplicador de aceite'; la copia no trajo precio ni detalle, queda como desconocido. Amazon MX: Peosaard 3 en 1 a MXN 426,59 con 1 calificación (2,0), entrega gratis 19–24/11; la política de temporada de Amazon MX permite devolver compras del 1/11 al 31/12/2026 hasta el 31/01/2027.",
         "source": "https://www.amazon.com.mx/Aplicador-cabello-el%C3%A9ctrico-masajeador-cabelludo/dp/B0D3LPTDH4 ; https://www.elektra.mx/peine-masajeador-perllent-aplicador-de-aceite-para-cuero-cabelludo-1301384365/p"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Pre-Buen Fin: búsqueda sin ofertas de Buen Fin de la categoría. Sin cambios: Introstem SCALPTECH MXN 890; Znice MXN 565 (tachado 1.610); OC Market MXN 1.038 'Agotado'; Joinet KS-918 MXN 345 la unidad, con escala por volumen hasta MXN 297 (12+); JIODTMER en Amazon MX 'no disponible'. Elektra (PERLLENT) otra vez sin precio. Nueva tienda chica vista, no se da de alta: sauldiaztienda.myshopify.com, MXN 1.701,02 'Agotado'.",
+        "source": "https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/"
       }
     ],
     "id": "mx-tiendas",
@@ -3224,7 +3272,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-07",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-19",
@@ -3507,6 +3555,12 @@
         "run_id": "2026-11-07T19-54",
         "change": "Chequeo rápido: Ulta USD 39,99 (lista 99,99), en stock, solo online. Sin cambios.",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: Ulta USD 39,99 (lista 99,99), en stock, envío gratis desde USD 35.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },
@@ -3576,7 +3630,7 @@
     "sources": [
       "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     ],
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-08",
     "relevance": "media",
     "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
     "facts": [
@@ -3643,6 +3697,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T03-55",
         "change": "Sin cambios: COP 117.700, 'precio de lanzamiento hasta el 15 de noviembre' (combo con aceite de argán, marca NUVEA).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Sin cambios: combo NUVEA COP 117.700, 'precio de lanzamiento hasta el 15 de noviembre' (resultado de búsqueda de Exa).",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]
@@ -3814,7 +3874,7 @@
     "sources": [
       "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
     ],
-    "last_reviewed": "2026-11-05",
+    "last_reviewed": "2026-11-08",
     "relevance": "media",
     "follow_reason": "Nuevo piso de precio en AR para el mismo formato, con cuotas y envío gratis.",
     "history": [
@@ -3924,6 +3984,12 @@
         "date": "2026-11-05",
         "run_id": "2026-11-05T03-55",
         "change": "La copia sigue sin precio (aviso de carrito sin stock). Último precio: ARS 66.599 (24/10).",
+        "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "La copia sigue sin precio (menú y carrito). Último precio: ARS 66.599 (24/10).",
         "source": "https://www.carrello.com.ar/productos/cepillo-masajeador-capilar-infrarrojo-profesional-3-modos-negro/"
       }
     ]
@@ -4101,7 +4167,7 @@
       "https://isyra.com.mx/products/renacer-capilar-ab-test",
       "https://www.isyra.cl/products/isyra"
     ],
-    "last_reviewed": "2026-11-06",
+    "last_reviewed": "2026-11-08",
     "relevance": "media",
     "follow_reason": "Primer eléctrico en Amazon MX con indicador mensual visible ('50+ el mes pasado') en el rango de precio de Flubberhome; vende en kit con aceites.",
     "history": [
@@ -4139,6 +4205,12 @@
         "date": "2026-11-06",
         "run_id": "2026-11-06T03-55",
         "change": "Ficha 'renacer-capilar-ab-test': sigue la 'Oferta de aniversario', 'últimas 7 unidades', garantía de 90 días y testimonios con plazos; la copia no muestra precio. Último precio visto: MXN 999 (29/10).",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T03-54",
+        "change": "Home y ficha sin precio en la copia; siguen 'Oferta de aniversario', 'últimas 7 unidades', garantía de 90 días y testimonios con plazos y claims de crecimiento. Último precio: MXN 999 (29/10).",
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
       }
     ]
