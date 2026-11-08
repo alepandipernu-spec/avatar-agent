@@ -2,8 +2,8 @@
   "patterns": [
     {
       "problema": "Dispensado del líquido: goteo, tapa floja, salidas tapadas, no se sabe cuánto apretar; limpieza difícil y residuo que cristaliza",
-      "n_fuentes": 26,
-      "n_competidores": 17,
+      "n_fuentes": 27,
+      "n_competidores": 18,
       "clasificacion": "tendencia (varias fuentes y productos)",
       "oportunidad": "Instrucciones visuales claras (qué líquido, cuánto, cómo cerrar, cómo limpiar) en la Guía Digital, la página y un video corto de demostración real.",
       "fecha": "2026-10-17",
@@ -71,17 +71,29 @@
           "date": "2026-11-06",
           "run_id": "2026-11-06T19-54",
           "change": "+1 fuente secundaria (fccj, 17/06/2026, MPADQ): reparto desparejo, tapa que no sella y pierde guardado cargado, bolitas tapadas con aceite espeso."
+        },
+        {
+          "date": "2026-11-08",
+          "run_id": "2026-11-08T19-54",
+          "change": "+1 fuente (FREYARA, reseña en tienda): el aceite se escapa si se da vuelta el aparato."
         }
       ]
     },
     {
       "problema": "Escepticismo sobre la luz roja",
-      "n_fuentes": 1,
-      "n_competidores": 1,
-      "clasificacion": "aislado (1 fuente)",
+      "n_fuentes": 2,
+      "n_competidores": 2,
+      "clasificacion": "incipiente (2 fuentes de 2 productos; reseñas de compradores sin verificar)",
       "oportunidad": "Flubberhome ya no comunica luz roja: refuerza el posicionamiento de masaje + aplicación. No usarlo como ataque.",
       "fecha": "2026-10-17",
-      "run_id": "2026-10-17T15-27"
+      "run_id": "2026-10-17T15-27",
+      "historial": [
+        {
+          "date": "2026-11-08",
+          "run_id": "2026-11-08T19-54",
+          "change": "+1 fuente (FREYARA: dos compradoras dudan de la luz roja y valoran masaje + aplicación). Pasa de aislado a incipiente."
+        }
+      ]
     },
     {
       "problema": "Durabilidad y fallas de fábrica: no enciende al llegar, botón muerto, deja de funcionar a las semanas, se derrite al cargar, agua por el puerto",
@@ -189,8 +201,8 @@
     },
     {
       "problema": "Sensación de masaje por debajo de lo esperado: débil, incómoda o que rebota en el cuero cabelludo",
-      "n_fuentes": 8,
-      "n_competidores": 7,
+      "n_fuentes": 9,
+      "n_competidores": 8,
       "clasificacion": "tendencia (6 fuentes de 6 productos, incluido el segmento premium)",
       "oportunidad": "Contar con honestidad qué se siente en cada intensidad, recomendar empezar en la más baja y con el peine apoyado plano, y mostrar la sensación en video sin prometer resultados. Ver OPP-014.",
       "fecha": "2026-10-18",
@@ -225,6 +237,11 @@
           "date": "2026-11-05",
           "run_id": "2026-11-05T19-54",
           "change": "+1 fuente: Calunat (Loox), demasiado suave para masaje intenso; menciona ruido."
+        },
+        {
+          "date": "2026-11-08",
+          "run_id": "2026-11-08T19-54",
+          "change": "+1 fuente (FREYARA): las varillas metálicas centrales apoyan demasiado en el cuero cabelludo."
         }
       ]
     },
@@ -1191,6 +1208,36 @@
       "fecha_consulta": "2026-11-07",
       "run_id": "2026-11-07T19-54",
       "tipo": "nuevo (fuente secundaria, editorial)"
+    },
+    {
+      "fuente": "https://es.freyara.com/FY15.0003V1_calma-tu-cuero-cabelludo-y-haz-crecer-tu-cabello-mejora-tu-m",
+      "producto": "FREYARA cepillo LED con depósito de 3 ml (tienda en español, mercado no confirmado)",
+      "problema": "Dispensado: el aceite sale si se da vuelta el aparato",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Una compradora cuenta que hay que tener cuidado de no ponerlo boca abajo porque el aceite se escapa de la cámara.",
+      "fecha_consulta": "2026-11-08",
+      "run_id": "2026-11-08T19-54",
+      "tipo": "nuevo (reseña publicada en la tienda; no verificada)"
+    },
+    {
+      "fuente": "https://es.freyara.com/FY15.0003V1_calma-tu-cuero-cabelludo-y-haz-crecer-tu-cabello-mejora-tu-m",
+      "producto": "FREYARA cepillo LED con depósito de 3 ml",
+      "problema": "Sensación: las varillas metálicas centrales tocan demasiado el cuero cabelludo",
+      "fecha": "sin fecha visible",
+      "parafrasis": "La misma compradora siente que las piezas metálicas del centro apoyan más de lo que deberían y sugiere que sean más chicas o tengan resorte.",
+      "fecha_consulta": "2026-11-08",
+      "run_id": "2026-11-08T19-54",
+      "tipo": "nuevo (reseña publicada en la tienda; no verificada)"
+    },
+    {
+      "fuente": "https://es.freyara.com/FY15.0003V1_calma-tu-cuero-cabelludo-y-haz-crecer-tu-cabello-mejora-tu-m",
+      "producto": "FREYARA cepillo LED con depósito de 3 ml",
+      "problema": "Escepticismo sobre la luz roja",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Otra compradora dice que es muy escéptica de la luz roja y que lo que valora es el masaje y que el aceite se reparta parejo sin engrasar los dedos; una tercera tampoco sabe qué hace la luz.",
+      "fecha_consulta": "2026-11-08",
+      "run_id": "2026-11-08T19-54",
+      "tipo": "nuevo (2 reseñas publicadas en la tienda; no verificadas)"
     }
   ]
 }

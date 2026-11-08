@@ -2738,5 +2738,45 @@
       "OPP-001 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-08T19-54",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search: reseñas EN/ES, lanzamientos Oct–Nov 2026, tiendas AR/MX/CO, Buen Fin MX, TikTok Shop",
+      "Exa fetch: Holy, Ulta (TYMO), Tienda Duna"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: fuera de foco, no se intentó (bloqueada desde la nube)",
+      "Mercado Libre: no consultado (403 previos)",
+      "Reddit: sin hilos 2026 en las búsquedas",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "ar-tiendas-chicas (Tienda Duna)",
+      "freyara (solo reseñas)",
+      "napre (HashIQ, rápido)",
+      "kitsch-us (TikTok Shop set)"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Escepticismo sobre la luz roja pasa de aislado a incipiente (+FREYARA)",
+      "+1 fuente a dispensado (se escapa al darlo vuelta) y a sensación (piezas que apoyan demasiado)",
+      "NAPRE vuelve a acelerar: +183/día (act. 7/11)",
+      "Tienda Duna AR: Therabello ARS 34.900, agotado, contador propio no verificable",
+      "Directos sin cambios de precio (Gadnic, Holy, TYMO)",
+      "Lanzamientos fuera de mercado: oggi otto Scalp Lift Pro (JP, 24/11), casco PEAK (OEM)"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [
+      "OPP-001 (historial)",
+      "OPP-014 (historial)"
+    ],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

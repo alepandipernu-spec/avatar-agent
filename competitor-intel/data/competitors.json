@@ -366,6 +366,12 @@
         "run_id": "2026-11-08T11-55",
         "change": "Sin cambios: ARS 32.799 (tachado 50.460), 18 cuotas de ARS 1.822 (copia de Exa sin fecha).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T19-54",
+        "change": "Sin cambios: ARS 32.799 (tachado 50.460), 18 cuotas (copia de Exa sin fecha).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -2304,6 +2310,12 @@
         "run_id": "2026-11-08T11-55",
         "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9 con 27 reseñas.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T19-54",
+        "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9 con 27 reseñas. Entre las reseñas destacadas hay una que atribuye recrecimiento de pelo tras una enfermedad: claim de salud de terceros visible en su página (riesgo para ellos; no replicar).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2788,7 +2800,8 @@
       "[19/10/2026] Tecno Crazy (AR): 'masajeador capilar recargable' marca ACME a ARS 27.200 contado/transferencia o ARS 39.440 en 6 cuotas, entrega inmediata (no queda claro si tiene depósito). Fuente: https://tecnocrazy.com.ar/descripcion.php?id_articulo=5105",
       "[23/10/2026] DONKA Beauty (AR, tienda de skincare coreana en Wix; envíos por Correo Argentino, 3 cuotas sin interés): masajeador eléctrico con tanque de 3 ml, USB-C, ARS 80.000. Sin garantía, stock ni reseñas visibles en la ficha.",
       "[2026-10-24] Movex (AR, Tiendanube): cepillo con vibración, LED rojo/azul y depósito de 15 ml con bruma a ARS 20.800 (3 cuotas sin interés; inventario 28 en los datos de la página). Formato vecino (bruma), no el de depósito con bolillas. Fuente: https://www.movex.ar/productos/cepillo-masajeador-capilar-con-luz-led-y-vibracion-ggjkq/",
-      "[HECHO 2026-10-31] Nova Group (novagroup.ar, AR): 'Cepillo Therabello™', vibración 3 niveles, LED rojo/azul y depósito de 15 ml con nano-atomización (bruma), ARS 34.900. La ficha aclara que no es un dispositivo médico. Mismo formato vecino que Movex (bruma), no el de bolillas. Sin reseñas, stock ni garantía visibles en la copia. Fuente: https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE"
+      "[HECHO 2026-10-31] Nova Group (novagroup.ar, AR): 'Cepillo Therabello™', vibración 3 niveles, LED rojo/azul y depósito de 15 ml con nano-atomización (bruma), ARS 34.900. La ficha aclara que no es un dispositivo médico. Mismo formato vecino que Movex (bruma), no el de bolillas. Sin reseñas, stock ni garantía visibles en la copia. Fuente: https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE",
+      "[HECHO 2026-11-08] Tienda Duna (tiendaduna.store, AR): mismo 'Cepillo Therabello™' que Nova Group (bruma 15 ml, LED, 3 niveles) a ARS 34.900, 'Agotado'; pago al recibir y envío gratis en CABA/AMBA en 24 h. Muestra '(12.545 Compras)', un contador puesto por la tienda que no se puede verificar. Fuente: https://tiendaduna.store/products/electric-scalp-massager-brush-with-red-blue-led-therapy"
     ],
     "inferences": [
       "[HIPÓTESIS] En AR no hay un precio de referencia claro para el eléctrico: quien explique mejor el valor puede fijarlo.",
@@ -2798,7 +2811,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-10-31",
+    "last_reviewed": "2026-11-08",
     "history": [
       {
         "date": "2026-10-17",
@@ -2841,6 +2854,12 @@
         "run_id": "2026-10-31T03-55",
         "change": "Se suma Nova Group (Therabello, bruma 15 ml, ARS 34.900) como referencia de formato vecino.",
         "source": "https://novagroup.ar/products/cepillo-electrico-con-estimulacion-de-crecimiento-nova%C2%AE"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T19-54",
+        "change": "Se suma Tienda Duna (Therabello, ARS 34.900, agotado, contador propio no verificable). Relevancia baja.",
+        "source": "https://tiendaduna.store/products/electric-scalp-massager-brush-with-red-blue-led-therapy"
       }
     ],
     "id": "ar-tiendas-chicas",
@@ -3591,6 +3610,12 @@
         "run_id": "2026-11-08T11-55",
         "change": "Listado de ofertas de Ulta (copia de Exa sin fecha) sigue en USD 39,99 (lista 99,99); la copia de la ficha muestra solo 99,99 (lista). DTC USD 99,99 (tachado 129,99). Sin cambio confirmable.",
         "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale ; https://tymobeauty.com/products/tymo-trithera"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T19-54",
+        "change": "La copia de la ficha de Ulta muestra solo USD 99,99 (lista), igual que en runs anteriores; no se confirma si sigue la oferta de USD 39,99.",
+        "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
       }
     ]
   },

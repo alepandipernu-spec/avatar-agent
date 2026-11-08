@@ -949,6 +949,12 @@
         "run_id": "2026-11-08T11-55",
         "change": "HashIQ act. 6/11: Kitsch aplicador manual (USD 24,38) 18.650 vendidos, +362/día en el encabezado; [ESTIMACIÓN] 18.650−18.288 = +362 desde la act. del 5/11 (antes +288): acelera; 95 reseñas esta semana vs 92 la anterior. HashIQ act. 7/11: Arboleaf (sin depósito, USD 43,90) 12.935, +36/día (antes +65): se frena. NAPRE sin actualizar desde el 6/11 (7.568, +88/día). Renergy (con depósito, USD 89,99) 461, +0/día, sin actualizar desde el 31/10. Contadores de HashIQ, no son ventas auditadas.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/renergy-unisex-electric-scalp-oil-applicator-hair-growth-pro-1732292664915300633"
+      },
+      {
+        "date": "2026-11-08",
+        "run_id": "2026-11-08T19-54",
+        "change": "Chequeo rápido (fuera de foco): HashIQ act. 7/11 muestra NAPRE (sin depósito, USD 116,99) en 7.751 vendidos, +183/día; [ESTIMACIÓN] 7.751−7.568 = +183 desde la act. del 6/11 (antes +88). Corrige la lectura de 'se frena' del run 11:55 para NAPRE; Arboleaf sigue en +36/día. Además, la ficha de TikTok Shop del set aplicador + aceite de Kitsch muestra '46.4K sold' (indicador de la plataforma, otra ficha distinta del aplicador solo). Contadores de terceros, no ventas auditadas.",
+        "source": "https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://shop.tiktok.com/us/pdp/hair-oil-applicator-by-kitsch-terracotta-scalp-massager-with-stainless-steel-comb/1730649988283338802"
       }
     ]
   },
