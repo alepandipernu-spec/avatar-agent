@@ -204,9 +204,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 68,
+    "occurrences": 69,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -224,9 +224,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 68,
+    "occurrences": 69,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -265,9 +265,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 67,
+    "occurrences": 68,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -306,9 +306,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 67,
+    "occurrences": 68,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -326,9 +326,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 67,
+    "occurrences": 68,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -367,9 +367,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 37,
+    "occurrences": 38,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -387,9 +387,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 35,
+    "occurrences": 36,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
@@ -407,16 +407,16 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 26,
+    "occurrences": 27,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   },
   "cad834c128f7": {
     "key": "escalafy-meta-sync-stale",
     "category": "anomalia",
     "priority": "P2",
     "title": "Escalafy no sincroniza Meta desde el 16/10",
-    "evidence": "get_ads_report 09/11: last_synced_at 2026-10-16T02:30Z, provisional_from 2026-10-14. El token de Meta figura OK (revisado 08/11 18:46 UTC). El catálogo (0 objetos activos) y el gasto en 0 desde el 15/10 salen de esa misma sincronización.",
+    "evidence": "get_ads_report 09/11 07:47 y 15:46: last_synced_at sigue en 2026-10-16T02:30Z (provisional_from 2026-10-14). El token de Meta figura OK (09/11 18:47 UTC). El catálogo (0 objetos activos) y el gasto en 0 desde el 15/10 salen de esa misma sincronización.",
     "diagnosis": "PROBABLE: Escalafy deja de sincronizar cuando la cuenta no tiene actividad, o la sincronización falló. Si alguien reactivara campañas, el monitor no lo vería. No verificado.",
     "confidence": "media",
     "impact": "El monitor no puede confirmar que el gasto siga en 0 ni que no haya objetos activos.",
@@ -427,8 +427,8 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-11-09T07:47-03:00",
-    "occurrences": 1,
+    "occurrences": 2,
     "status": "abierta",
-    "last_seen": "2026-11-09T07:47-03:00"
+    "last_seen": "2026-11-09T15:46-03:00"
   }
 }
