@@ -16,8 +16,9 @@
     "source": "regla",
     "first_seen": "2026-10-17T14:21-03:00",
     "occurrences": 67,
-    "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "status": "resuelta",
+    "last_seen": "2026-11-08T23:46-03:00",
+    "resolved_at": "2026-11-09T07:47-03:00"
   },
   "8e71a9a45d79": {
     "fingerprint": "8e71a9a45d79",
@@ -191,8 +192,8 @@
     "key": "us-market-cost",
     "category": "debilidad",
     "priority": "P2",
-    "title": "EE. UU. se lleva el 42% del gasto con el peor costo por visita",
-    "evidence": "Ventana 08/10–06/11: US USD 23,20 de USD 64,51 (36%), 145 impresiones (CPM USD 160), 3 clics en enlace, 0 visitas a la tienda. AR: USD 0,22 por visita; CO: USD 0,06; MX: USD 0,61. US - VID Demo (V02) solo: USD 20,42 con 0 visitas.",
+    "title": "EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas",
+    "evidence": "Ventana 11/10–09/11 (solo quedan 12–14/10 con gasto): US USD 6,23 de USD 8,54 (73%), 39 impresiones, 1 clic en enlace, 0 visitas a la tienda. AR: USD 1,73 por 2 visitas (USD 0,87); CO: USD 0,58 por 2 visitas (USD 0,29); MX: sin gasto. Ventana anterior 08/10–06/11: US USD 23,20 de 64,51 (36%) con 0 visitas.",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -203,9 +204,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 67,
+    "occurrences": 68,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -223,9 +224,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 67,
+    "occurrences": 68,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -264,9 +265,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 66,
+    "occurrences": 67,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -305,9 +306,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 66,
+    "occurrences": 67,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -325,9 +326,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 66,
+    "occurrences": 67,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -366,9 +367,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 36,
+    "occurrences": 37,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -386,9 +387,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 34,
+    "occurrences": 35,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
@@ -406,8 +407,28 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 25,
+    "occurrences": 26,
     "status": "abierta",
-    "last_seen": "2026-11-08T23:46-03:00"
+    "last_seen": "2026-11-09T07:47-03:00"
+  },
+  "cad834c128f7": {
+    "key": "escalafy-meta-sync-stale",
+    "category": "anomalia",
+    "priority": "P2",
+    "title": "Escalafy no sincroniza Meta desde el 16/10",
+    "evidence": "get_ads_report 09/11: last_synced_at 2026-10-16T02:30Z, provisional_from 2026-10-14. El token de Meta figura OK (revisado 08/11 18:46 UTC). El catálogo (0 objetos activos) y el gasto en 0 desde el 15/10 salen de esa misma sincronización.",
+    "diagnosis": "PROBABLE: Escalafy deja de sincronizar cuando la cuenta no tiene actividad, o la sincronización falló. Si alguien reactivara campañas, el monitor no lo vería. No verificado.",
+    "confidence": "media",
+    "impact": "El monitor no puede confirmar que el gasto siga en 0 ni que no haya objetos activos.",
+    "action": "Mirar en Ads Manager que no haya nada activo ni gasto desde el 15/10, y en Escalafy (Integraciones) si la sincronización de Meta figura al día. Forzar una resincronización es una acción del dueño.",
+    "needs_approval": true,
+    "fingerprint": "cad834c128f7",
+    "source": "analista",
+    "rule": "analista",
+    "object": "",
+    "first_seen": "2026-11-09T07:47-03:00",
+    "occurrences": 1,
+    "status": "abierta",
+    "last_seen": "2026-11-09T07:47-03:00"
   }
 }
