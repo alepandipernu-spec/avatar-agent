@@ -2856,5 +2856,40 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-09T19-55",
+    "foco": "Reseñas, nuevos competidores y oportunidades (franja 19:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa search: reseñas ES/EN, competidores nuevos US/LatAm, Reddit/foros",
+      "Exa fetch: Gadnic, Holy, Ulta (TYMO), Vento, Valiente Beauty"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: no se intentó (fuera de foco, bloqueada desde la nube)",
+      "Mercado Libre: no consultado (403 previos)",
+      "Reddit: la búsqueda no trajo hilos de 2026",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "tymo-us",
+      "alverela-co",
+      "co-dtc-tiendas",
+      "sensse-uk",
+      "manelume-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Directos sin cambios de precio (Gadnic, Holy, TYMO en Ulta USD 39,99)",
+      "Tiendas chicas CO: Vento (3 en 1, contraentrega) y Valiente Beauty (marca de tratamiento con combo + masajeador infrarrojo COP 189.900); relevancia baja",
+      "Lanzamientos fuera de mercado (Hothwal JP, oggi otto JP, Sensse UK): sin alta",
+      "Reseñas: solo 1 ítem nuevo (positivo, tienda chica); patrones sin cambios de conteo"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

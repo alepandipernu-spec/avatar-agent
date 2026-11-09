@@ -384,6 +384,12 @@
         "run_id": "2026-11-09T11-54",
         "change": "Precio sin cambios (ARS 32.799, tachado 50.460, 35% OFF; sin impuestos nacionales ARS 27.107). Cambia la financiación visible: 'hasta 5 cuotas sin interés de ARS 6.560' (antes 18 cuotas de ARS 1.822) y banner '24 cuotas sin interés en seleccionados'. Envío gratis desde ARS 49.990; 12 meses de garantía.",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T19-55",
+        "change": "Chequeo rápido: sin cambios (ARS 32.799, tachado 50.460; hasta 5 cuotas sin interés; banner de 24 cuotas en seleccionados; sucursal cerrada 8 y 9/11).",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -2370,6 +2376,12 @@
         "run_id": "2026-11-09T11-54",
         "change": "Sin cambios: COP 149.990 (tachado 199.990), 4,9 con 27 reseñas, 3 cuotas sin interés.",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T19-55",
+        "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, 4,9 con 27 reseñas).",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2495,7 +2507,8 @@
       "[23/10/2026] Letengo (CO) vende el cepillo con depósito de la marca de tónicos Anyeluz a COP 28.000, entrega 1–3 días hábiles, pago con Addi/Sistecrédito/Efecty. Es MANUAL (puntas de goma), no eléctrico: competencia indirecta. La ficha atribuye beneficios de circulación y crecimiento.",
       "[HECHO 29/10/2026] Andik Store (andikstore.co): cepillo eléctrico con luz roja y depósito de 3 ml a COP 138.900; garantía de solo 10 días por defectos de fábrica. Copia de Exa sin fecha. Fuente: https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador",
       "[HECHO 29/10/2026] Bella Cosméticos (distribella.com, distribuidora de Cúcuta): cepillo 4 en 1 con luz, vapor y depósito (Maca-071) a COP 25.000, 'Sin existencias'. Precio de distribuidora, no comparable con venta al público. Fuente: https://www.distribella.com/producto/cepillo-masajeador-capilar-maca-071-bella/",
-      "[HECHO 03/11/2026, copias de Exa sin fecha] Tres tiendas chicas más: Soluciones Shop COP 149.990 (claims de caída y crecimiento); GF Shoply COP 79.900 (peine con vapor, envío gratis y pago contra entrega, 2–5 días hábiles); Sabu Home COP 99.990."
+      "[HECHO 03/11/2026, copias de Exa sin fecha] Tres tiendas chicas más: Soluciones Shop COP 149.990 (claims de caída y crecimiento); GF Shoply COP 79.900 (peine con vapor, envío gratis y pago contra entrega, 2–5 días hábiles); Sabu Home COP 99.990.",
+      "[HECHO 09/11/2026] Valiente Beauty (CO), marca de tratamiento capilar, combina su frasco de 500 ml con un masajeador eléctrico 'infrarrojo' (combo COP 189.900; masajeador solo COP 89.900). Vento (CO) vende un 3 en 1 con contraentrega y 9 reseñas de tienda; precio no visible en la copia."
     ],
     "inferences": [
       "[HIPÓTESIS] El mercado colombiano de DTC está saturado del mismo producto genérico con claims médicos: el ángulo honesto de masaje + aplicación y una garantía más larga son diferenciales reales."
@@ -2631,6 +2644,12 @@
         "run_id": "2026-11-09T11-54",
         "change": "Tiendas chicas vistas (relevancia baja, no se dan de alta): GD Colombia/Niu Mart en Addi, cepillo LED rojo con depósito COP 117.900 (tachado 153.900), garantía 30 días, claims de crecimiento y caída; Andik Store, cepillo LED 650 nm con depósito de 3 ml COP 138.900 (tachado 213.900), agotado, FAQ remite al fabricante y a un profesional para minoxidil.",
         "source": "https://marketplace.addi.com/producto/2955880 ; https://andikstore.co/products/cepillo-capilar-alisador-y-masajeador"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T19-55",
+        "change": "Dos tiendas chicas nuevas en CO (relevancia baja, no se dan de alta): (1) Vento (ventocol.com): 'cepillo masajeador capilar 3 en 1', envío gratis, pago contraentrega, 9 reseñas publicadas por la tienda (4,6 aprox.; varias dicen que sirve para repartir tónicos; una menciona 'vapor', o sea formato atomizador); la copia no muestra precio. (2) Valiente Beauty (valientebeauty.com): marca colombiana de tratamiento capilar que vende un 'Scalper masajeador eléctrico infrarrojo' a COP 89.900 y un combo tratamiento 500 ml + masajeador a COP 189.900 (tachado 219.800); usa 'el más elegido' y promesas de resultado en 30 días. No se ve si el masajeador tiene depósito. Copias de Exa sin fecha.",
+        "source": "https://ventocol.com/products/cepillo-masajeador-capilar-3-en-1 ; https://valientebeauty.com/"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -2666,7 +2685,9 @@
       "https://nexocolombia.com/products/cepillo-masajeador-capilar-restaurador",
       "https://nuvitecno.com/products/cepillo-masajeador-capilar-vibratoriocepillo-masajeador-capilar-vibratorio-cuero-cabelludo-cuero-cabelludo",
       "https://magoogadgets.com/products/cepillo-masajeador-capilar-con-vapor",
-      "https://letengo.com/products/cepillo-masajeador-estimulante-capilar-con-deposito-anyeluz"
+      "https://letengo.com/products/cepillo-masajeador-estimulante-capilar-con-deposito-anyeluz",
+      "https://ventocol.com/products/cepillo-masajeador-capilar-3-en-1",
+      "https://valientebeauty.com/"
     ],
     "relevance": "media",
     "follow_reason": "Definen el piso de precio y el estándar de claims en CO; útiles para ver qué NO hacer y dónde está el hueco de confianza."
@@ -3712,6 +3733,12 @@
         "run_id": "2026-11-09T11-54",
         "change": "Ulta: el listado 'sale' de TYMO vuelve a incluir el TriThera Hair Brush a USD 39,99 (lista 99,99), 3,8 con 4 reseñas. Contradice la hipótesis del run 03:56 de que la oferta había terminado: se descarta esa hipótesis (copias de Exa sin fecha; no se pudo verificar en vivo).",
         "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T19-55",
+        "change": "Chequeo rápido: el listado 'sale' de Ulta sigue mostrando TriThera a USD 39,99 (lista 99,99), 3,8 con 4 reseñas. Copia sin fecha.",
+        "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale"
       }
     ]
   },
@@ -3860,6 +3887,12 @@
         "date": "2026-11-09",
         "run_id": "2026-11-09T03-56",
         "change": "Sin cambios: combo COP 117.700, 'precio de lanzamiento hasta el 15 de noviembre'.",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T19-55",
+        "change": "Reseñas: sin reseñas nuevas independientes (la de 'hay que apretar la tapa' ya estaba contada). Sigue el 'precio de lanzamiento' de COP 117.700 hasta el 15/11.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
       }
     ]

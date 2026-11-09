@@ -76,6 +76,11 @@
           "date": "2026-11-08",
           "run_id": "2026-11-08T19-54",
           "change": "+1 fuente (FREYARA, reseña en tienda): el aceite se escapa si se da vuelta el aparato."
+        },
+        {
+          "date": "2026-11-09",
+          "run_id": "2026-11-09T19-55",
+          "change": "Búsqueda de reseñas sin fuentes independientes nuevas (Alverela/NUVEA, Breo, SAFARİ, mriya, TODAY ya contadas). n_fuentes sin cambio."
         }
       ]
     },
@@ -92,6 +97,11 @@
           "date": "2026-11-08",
           "run_id": "2026-11-08T19-54",
           "change": "+1 fuente (FREYARA: dos compradoras dudan de la luz roja y valoran masaje + aplicación). Pasa de aislado a incipiente."
+        },
+        {
+          "date": "2026-11-09",
+          "run_id": "2026-11-09T19-55",
+          "change": "Búsqueda de reseñas sin fuentes independientes nuevas (Alverela/NUVEA, Breo, SAFARİ, mriya, TODAY ya contadas). n_fuentes sin cambio."
         }
       ]
     },
@@ -1238,6 +1248,16 @@
       "fecha_consulta": "2026-11-08",
       "run_id": "2026-11-08T19-54",
       "tipo": "nuevo (2 reseñas publicadas en la tienda; no verificadas)"
+    },
+    {
+      "fuente": "https://ventocol.com/products/cepillo-masajeador-capilar-3-en-1",
+      "producto": "Vento 3 en 1 (CO)",
+      "problema": "Valoración positiva: repartir tónicos en el cuero cabelludo",
+      "fecha": "sin fecha visible",
+      "parafrasis": "Varias compradoras dicen que lo usan para aplicar tónicos y que los reparte bien; una menciona el vapor del aparato.",
+      "fecha_consulta": "2026-11-09",
+      "run_id": "2026-11-09T19-55",
+      "tipo": "nuevo (5 reseñas visibles publicadas por la tienda; no verificadas)"
     }
   ]
 }
