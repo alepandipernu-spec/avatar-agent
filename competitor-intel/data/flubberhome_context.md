@@ -100,3 +100,4 @@ Argentina, Colombia, México y Estados Unidos (una campaña de Meta por país; l
 
 - 08/11/2026 03:54 (run 2026-11-08T03-54): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; updatedAt 28/10/2026 09:44 UTC). Cuadernos Mágicos sigue activo y sin stock.
 - 09/11/2026 03:56 (run 2026-11-09T03-56): precios y variantes verificados en Shopify, sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; última actualización 28/10).
+- 09/11/2026 11:54 (run 2026-11-09T11-54): precios y variantes sin cambios (6 variantes; USD 41,93 / 71,88 / 89,85; sin precio tachado). Producto actualizado en Shopify el 28/10/2026, igual que en los runs anteriores.

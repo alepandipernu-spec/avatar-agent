@@ -674,7 +674,15 @@
     "primera_vez_visto": "2026-11-03",
     "ultima_vez_visto": "2026-11-03",
     "repeticiones": "No visible",
-    "nota": "Algunos videos usan claims de salud (migrañas, crecimiento): no replicar. Arboleaf: 12.641 vendidos, +49/día (HashIQ, act. 2/11)."
+    "nota": "Algunos videos usan claims de salud (migrañas, crecimiento): no replicar. Arboleaf: 12.641 vendidos, +49/día (HashIQ, act. 2/11).",
+    "history": [
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T11-54",
+        "change": "Sigue el mismo video nº 1 (79k vistas). Aparece entre los 16 videos uno que propone usarlo en la ducha con champú (864 vistas, 26/10). [INTERPRETACIÓN] Flubberhome no puede usar ese ángulo: su uso es con pelo seco o apenas húmedo, nunca bajo el agua.",
+        "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
+      }
+    ]
   },
   "nuvea-ar:posts-organicos-2026-03-05": {
     "id": "nuvea-ar:posts-organicos-2026-03-05",

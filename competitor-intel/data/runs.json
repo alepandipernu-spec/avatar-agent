@@ -2821,5 +2821,40 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-09T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: HashIQ (Kitsch, NAPRE, Arboleaf, Renergy), Ulta (TYMO), Breo, Gadnic, Holy",
+      "Exa search: creatividades US/ES, ofertas BF/Buen Fin LatAm"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: WebFetch, permiso no respondido",
+      "TikTok Creative Center: no se intentó (sin resultados en runs previos, necesita JavaScript)",
+      "Mercado Libre: no consultado (403 previos)",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "kitsch-us",
+      "napre/arboleaf/renergy (HashIQ)",
+      "tymo-us",
+      "breo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "TYMO TriThera vuelve a figurar en el listado sale de Ulta a USD 39,99: se descarta la hipótesis de fin de oferta",
+      "Kitsch +316/día (antes +362); Arboleaf rebota a +81/día; Renergy (con depósito) +1/día",
+      "Gadnic: mismo precio, cambia la financiación visible (5 cuotas sin interés; banner 24 cuotas en seleccionados)",
+      "Breo BF sin cambios (10.ª vez); Buen Fin MX y BF LatAm sin ofertas de la categoría"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
