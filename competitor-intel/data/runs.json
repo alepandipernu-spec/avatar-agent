@@ -2778,5 +2778,48 @@
       "OPP-014 (historial)"
     ],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-09T03-56",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Gadnic, Lena, Microshop, Beltronic, Carrello, Holy, Farmatodo (Aurevia), Nihlo, Alverela, Introstem, Znice, Ulta (TYMO), Isyra (HTML y JSON público)",
+      "Exa search: Buen Fin MX, TYMO BF/US, tiendas AR/CO"
+    ],
+    "fuentes_fallidas": [
+      "WebFetch: permisos no respondidos (ejecución desatendida), no se pudo leer Ulta en vivo",
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: fuera de foco",
+      "Beltronic y Carrello: copias sin precio",
+      "Copias de Exa sin fecha de captura"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "beltronic-ar",
+      "carrello-ar",
+      "holy-cosmetics-co",
+      "aurevia-co",
+      "nihlo-co",
+      "alverela-co",
+      "tymo-us",
+      "isyra-mx-cl",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Isyra MX: escalera 949/999/1.499 MXN leída del JSON público; tachado baja a ~1.880; contador propio de reseñas +53.376 (antes +10.839)",
+      "TYMO Ulta: señales de que la oferta de USD 39,99 terminó (ficha 99,99, fuera del listado sale); sin confirmar",
+      "Buen Fin MX: todavía sin ofertas de la categoría",
+      "Directos AR/CO sin cambios",
+      "Tiendas chicas CO: Online Shop Colombian con aviso explícito de que no trata caída"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

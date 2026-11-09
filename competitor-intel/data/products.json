@@ -807,6 +807,12 @@
         "run_id": "2026-11-05T11-55",
         "change": "Ulta USD 39,99 (lista 99,99).",
         "source": "https://www.ulta.com/p/trithera-hair-brush-mkt77000808?sku=77001264"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T03-56",
+        "change": "Ulta: ficha en USD 99,99 y TriThera fuera del listado sale de la marca (copias sin fecha). [HIPÓTESIS] terminó la oferta de USD 39,99; sin confirmar. DTC USD 99,99 (tachado 129,99).",
+        "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale"
       }
     ]
   },
@@ -1058,9 +1064,7 @@
     "id": "isyra-mx-cl:renacer-capilar",
     "problema": "Caída del cabello (comunicado con claims médicos)",
     "variantes": "Aparato solo o kits con aceites (ver competitors.json; los kits se vieron el 28/10)",
-    "precio": {
-      "1u": "MXN 999 (tachado 1.999)"
-    },
+    "precio": "Solo Dispositivo MXN 949 (tachado 1.879) · Kit Inicio MXN 999 (tachado 1.882) · Kit Renacer MXN 1.499 (tachado 1.885) — 09/11/2026, JSON público de la ficha",
     "promos": "'Oferta de aniversario', 'Últimas 7 unidades' (escasez)",
     "garantia": "90 días de devolución 'sin preguntas' si no hay resultados",
     "devolucion": "Incluida en la garantía de 90 días",
@@ -1085,6 +1089,12 @@
         "run_id": "2026-10-29T03-55",
         "change": "Alta del producto",
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test"
+      },
+      {
+        "date": "2026-11-09",
+        "run_id": "2026-11-09T03-56",
+        "change": "Escalera de 3 ofertas confirmada (949/999/1.499 MXN); tachado bajó de 1.999 a ~1.880; contador de reseñas de la tienda sube a +53.376 (no verificable).",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test.json"
       }
     ]
   },
