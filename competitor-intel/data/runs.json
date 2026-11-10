@@ -2933,5 +2933,40 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-10T11-54",
+    "foco": "Anuncios, creatividades y demanda (franja 11:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: HashIQ (Kitsch, Arboleaf, NAPRE, Renergy), Gadnic, Holy JSON, Isyra JSON, Breo BF, Ulta (TYMO, parcial)",
+      "Exa search: Buen Fin MX, BF US, videos en español"
+    ],
+    "fuentes_fallidas": [
+      "Biblioteca de Meta: WebFetch, permiso no respondido (retirado)",
+      "TikTok Creative Center: no se intentó (necesita JavaScript)",
+      "Mercado Libre: no consultado (403 previos)",
+      "Ulta: copia cortada, TriThera no visible",
+      "Copias de Exa sin fecha de captura (salvo HashIQ y JSON de Holy/Isyra)"
+    ],
+    "competidores_revisados": [
+      "kitsch-us",
+      "arboleaf/napre/renergy (HashIQ)",
+      "breo-us",
+      "gadnic-ar",
+      "holy-cosmetics-co",
+      "isyra-mx-cl",
+      "tymo-us"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Arboleaf (indirecto, sin depósito) baja en TikTok Shop de USD 43,90 a 32,90 (30% off); ritmo +33/día, sin salto todavía",
+      "Kitsch suma 1 video afiliado (11); contador sin actualizar desde el 7/11",
+      "Directos sin cambios (Gadnic, Holy, Isyra); Breo BF sin cambios (11.ª vez); Buen Fin MX sin ofertas de la categoría a 3 días"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]

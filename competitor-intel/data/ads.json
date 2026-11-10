@@ -336,7 +336,7 @@
       "Pack de 2 con ahorro por unidad bajo (≈3%) frente a la unidad"
     ],
     "primera_vez_visto": "2026-10-24",
-    "ultima_vez_visto": "2026-10-29",
+    "ultima_vez_visto": "2026-11-10",
     "repeticiones": 6,
     "history": [
       {
@@ -367,6 +367,12 @@
         "date": "2026-10-29",
         "run_id": "2026-10-29T12-21",
         "change": "Vista por 6.ª vez, sin cambios.",
+        "source": "https://us.breo.com/pages/black-friday-2026"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T11-54",
+        "change": "Sin cambios (11.ª revisión): 'up to USD 150 off', garantía de precio de 30 días, S3 USD 159,99 (tachado 239,99), LumiHeal Pro USD 179,99.",
         "source": "https://us.breo.com/pages/black-friday-2026"
       }
     ]
@@ -405,7 +411,7 @@
       "Video principal 26 mil vistas (18/10)"
     ],
     "primera_vez_visto": "2026-10-29",
-    "ultima_vez_visto": "2026-11-01",
+    "ultima_vez_visto": "2026-11-10",
     "repeticiones": 3,
     "history": [
       {
@@ -418,6 +424,12 @@
         "date": "2026-11-01",
         "run_id": "2026-11-01T11-54",
         "change": "Sin videos nuevos en HashIQ (10 videos, 47 mil vistas, act. 30/10). Se confirma el patrón: 7 de 9 abren con afirmación, gancho ~3,7 s, oferta a 0:20 en 4 de 9, pedido de compra a 0:32 en 6 de 9; uno usa el ángulo de regalo navideño.",
+        "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T11-54",
+        "change": "11 videos (antes 10), 55k vistas. El nº 1 sigue siendo el mismo (33k). Patrón: gancho de afirmación de ~4 s; la oferta (bundle con aceite) aparece hacia el segundo 21. Sin actualización de HashIQ desde el 7/11.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450"
       }
     ]
@@ -672,7 +684,7 @@
       "alivio del estrés"
     ],
     "primera_vez_visto": "2026-11-03",
-    "ultima_vez_visto": "2026-11-03",
+    "ultima_vez_visto": "2026-11-10",
     "repeticiones": "No visible",
     "nota": "Algunos videos usan claims de salud (migrañas, crecimiento): no replicar. Arboleaf: 12.641 vendidos, +49/día (HashIQ, act. 2/11).",
     "history": [
@@ -680,6 +692,12 @@
         "date": "2026-11-09",
         "run_id": "2026-11-09T11-54",
         "change": "Sigue el mismo video nº 1 (79k vistas). Aparece entre los 16 videos uno que propone usarlo en la ducha con champú (864 vistas, 26/10). [INTERPRETACIÓN] Flubberhome no puede usar ese ángulo: su uso es con pelo seco o apenas húmedo, nunca bajo el agua.",
+        "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T11-54",
+        "change": "17 videos (antes 16), 100k vistas en total; el nº 1 sigue igual (79k). Precio en TikTok Shop baja a USD 32,90 con rótulo '30% off' (antes USD 43,90).",
         "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271"
       }
     ]

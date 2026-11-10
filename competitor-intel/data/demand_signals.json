@@ -961,6 +961,12 @@
         "run_id": "2026-11-09T11-54",
         "change": "HashIQ: Kitsch (aplicador manual) 18.966, +316/día (act. 7/11; [ESTIMACIÓN] 18.966−18.650 = +316); Arboleaf (sin depósito) 13.016, +81/día (act. 8/11; antes +36, rebota); NAPRE 7.751, +183/día (act. 7/11, sin actualización nueva); Renergy (con depósito, USD 89,99) 462, +1/día (act. 1/11). Contadores de terceros con actualización irregular, no ventas auditadas.",
         "source": "https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/renergy-unisex-electric-scalp-oil-applicator-hair-growth-pro-1732292664915300633"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T11-54",
+        "change": "HashIQ act. 10/11: Arboleaf (sin depósito) baja de USD 43,90 a USD 32,90 ('30% off') y queda en 13.107 vendidos, +33/día; [ESTIMACIÓN] 13.107−13.016 = +91 desde la act. del 8/11 (≈ +45/día en 2 días). La baja de precio no muestra todavía un salto de ritmo. Kitsch, NAPRE y Renergy sin actualización nueva (7/11, 7/11 y 1/11): 18.966 (+316/día), 7.751 (+183/día), 462 (+1/día). Kitsch suma 1 video (11 en total, 55k vistas). Contadores de terceros, no ventas auditadas.",
+        "source": "https://hashiq.io/shop/p/arboleaf-electric-scalp-massager-portable-rechargeable-water-1729469810302358271 ; https://hashiq.io/shop/p/scalp-oil-applicator-1732487042424934450 ; https://hashiq.io/shop/p/napre-electric-scalp-massager-with-brush-cordless-handheld-a-1731840768149065866 ; https://hashiq.io/shop/p/renergy-unisex-electric-scalp-oil-applicator-hair-growth-pro-1732292664915300633"
       }
     ]
   },
