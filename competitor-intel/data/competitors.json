@@ -42,7 +42,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Marca local conocida de AR con el mismo formato (depósito), ahora con stock, precio y oferta visibles.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -390,6 +390,12 @@
         "run_id": "2026-11-09T19-55",
         "change": "Chequeo rápido: sin cambios (ARS 32.799, tachado 50.460; hasta 5 cuotas sin interés; banner de 24 cuotas en seleccionados; sucursal cerrada 8 y 9/11).",
         "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Sin cambios: ARS 32.799 (tachado 50.460, 35% OFF; sin impuestos nacionales ARS 27.107), hasta 5 cuotas sin interés de ARS 6.560, banner 24 cuotas en seleccionados, envío gratis desde ARS 49.990, 12 meses de garantía. El aviso de sucursal cerrada 8 y 9/11 sigue en la copia.",
+        "source": "https://www.gadnic.com.ar/masajeador-capilar/masajeador-capilar-electrico-gadnic-con-luz-infrarroja-3-modos-deposito-para-liquidos-1400-mah-5w-tipo-c"
       }
     ]
   },
@@ -431,7 +437,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Único competidor directo AR con señal pública de ventas del formato aparato + tónico; seguir contador y reposición.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -569,6 +575,12 @@
         "run_id": "2026-11-09T03-56",
         "change": "Sin cambios: ARS 25.600 (tachado 32.000), ARS 20.480 por transferencia, '+70 vendidos', 'Solo quedan 3' y 'Sin stock' a la vez.",
         "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Sin cambios: ARS 25.600 (tachado 32.000), '+70 vendidos' (rótulo de la tienda), 20% extra por transferencia (ARS 20.480), 3 cuotas sin interés. Sigue figurando 'Sin stock'.",
+        "source": "https://www.lenacosmetica.com.ar/productos/scalp-masajeador-capilar-tonico-capilar-control-caida/"
       }
     ]
   },
@@ -604,7 +616,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -784,6 +796,12 @@
         "run_id": "2026-11-09T03-56",
         "change": "La copia no trae precio ni stock legible. Último precio: ARS 129.900 (07/11).",
         "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Copia sin precio visible (otra vez). Último precio registrado: ARS 129.900 (07/11).",
+        "source": "https://www.beltronic.com.ar/productos/masajeador-dosificador-scalp-electrico-py008/"
       }
     ]
   },
@@ -815,7 +833,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Heredado del registro del monitor de Meta Ads (17/10/2026); reevaluar en la primera ejecución.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -911,6 +929,12 @@
         "run_id": "2026-11-09T03-56",
         "change": "Sin cambios: ARS 45.780 (tachado 60.000), envío gratis.",
         "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Sin cambios: ARS 45.780 (tachado 60.000, 24% OFF), envío gratis, 10% por transferencia.",
+        "source": "https://www.microshop.com.ar/productos/micro-masajeador-capilar/"
       }
     ]
   },
@@ -949,7 +973,7 @@
     ],
     "relevance": "media",
     "follow_reason": "Aplicador de tónico vibratorio en una cadena de farmacias de CO: referencia de precio de canal confiable.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -990,6 +1014,12 @@
         "date": "2026-11-09",
         "run_id": "2026-11-09T03-56",
         "change": "Sin cambios: Farmatodo COP 89.900, '7 unidades disponibles' (igual que el 08/11), despacho 4–5 días.",
+        "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Farmatodo: COP 89.900, '7 unidades disponibles' (igual), despacho 4-5 días, sin reseñas.",
         "source": "https://www.farmatodo.com.co/producto/500031920-rejuvenecedor-de-foliculos-capilares-y-aplicador-de-tonico-aurevia-caja-x-1"
       }
     ]
@@ -2171,7 +2201,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -2382,6 +2412,12 @@
         "run_id": "2026-11-09T19-55",
         "change": "Chequeo rápido: sin cambios (COP 149.990, tachado 199.990, 4,9 con 27 reseñas).",
         "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "JSON público (updated_at 10/11 01:56 hora CO): COP 149.990 (tachado 199.990). Sin cambios; 4,9 con 27 reseñas en la búsqueda.",
+        "source": "https://holycosmetics.com.co/products/masajeador-capilar-revitalizante-capilar.json"
       }
     ],
     "id": "holy-cosmetics-co",
@@ -2425,7 +2461,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -2474,6 +2510,12 @@
         "run_id": "2026-11-09T03-56",
         "change": "Sin cambios: COP 89.900, garantía de 1 año, 0 reseñas.",
         "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "JSON público leído pero la copia se cortó antes de las variantes: sin precio en esta ejecución. Descripción sin cambios (garantía 1 año). Último precio: COP 89.900 (09/11).",
+        "source": "https://www.nihlo.com.co/products/masajeador-capilar-nihlo.json"
       }
     ],
     "id": "nihlo-co",
@@ -2517,7 +2559,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -2650,6 +2692,12 @@
         "run_id": "2026-11-09T19-55",
         "change": "Dos tiendas chicas nuevas en CO (relevancia baja, no se dan de alta): (1) Vento (ventocol.com): 'cepillo masajeador capilar 3 en 1', envío gratis, pago contraentrega, 9 reseñas publicadas por la tienda (4,6 aprox.; varias dicen que sirve para repartir tónicos; una menciona 'vapor', o sea formato atomizador); la copia no muestra precio. (2) Valiente Beauty (valientebeauty.com): marca colombiana de tratamiento capilar que vende un 'Scalper masajeador eléctrico infrarrojo' a COP 89.900 y un combo tratamiento 500 ml + masajeador a COP 189.900 (tachado 219.800); usa 'el más elegido' y promesas de resultado en 30 días. No se ve si el masajeador tiene depósito. Copias de Exa sin fecha.",
         "source": "https://ventocol.com/products/cepillo-masajeador-capilar-3-en-1 ; https://valientebeauty.com/"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Vento: el JSON da 402 y la copia HTML sigue sin precio; 9 reseñas (67% 5★), contraentrega, reclamos por daño dentro de 48 h con fotos, cancelación solo en 24 h. Smartjoys: COP 64.900 con tachado 80.000 (-19%); antes se registró tachado 116.000; copia sin fecha, dato no concluyente.",
+        "source": "https://ventocol.com/products/cepillo-masajeador-capilar-3-en-1 ; https://smartjoys.co/producto/cepillo-masajeador-de-terapia-capilar-portatil-electrico/"
       }
     ],
     "id": "co-dtc-tiendas",
@@ -2719,7 +2767,7 @@
     "unknowns": [
       "Ventas, anuncios activos, tasa de devoluciones."
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-17",
@@ -2858,6 +2906,12 @@
         "run_id": "2026-11-09T03-56",
         "change": "Víspera del Buen Fin (13–17/11): búsqueda sin ofertas de Buen Fin de la categoría; El Universal dice que publicará las ofertas oficiales el 12/11. Sin cambios: Introstem MXN 890; Znice MXN 565 (tachado 1.610, '12 disponibles'); OC Market MXN 1.038 'Agotado'; Joinet KS-918 MXN 345 (escala hasta 297); Peosaard Amazon MX MXN 426,59; JIODTMER 'no disponible'. Elektra sin precio.",
         "source": "https://www.eluniversal.com.mx/descubre-y-compra/buen-fin-fechas-tiendas-participantes-y-ofertas/ ; https://joinet.com/producto/cepillo-masajeador-electrico-3-en-1-con-aplicador-de-aceite-3-niveles-y-luz-5w-variedad-de-colores-ks-918-f-h-918-scalap-massage-comb/"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "A 3 días del Buen Fin (13–17/11): sin cambios. Introstem MXN 890 (sin reseñas), Znice MXN 565 (tachado 1.610, '12 disponibles'), OC Market MXN 1.038 'Agotado', Joinet MXN 345 (escala hasta 297), Peosaard Amazon MX MXN 426,59 (devolución festiva hasta 31/01/2027). Búsqueda sin ofertas de Buen Fin de la categoría.",
+        "source": "https://introstem.com.mx/products/scalptech ; https://znice.mx/producto/cepillo-electrico-terapia-de-luz/ ; https://www.amazon.com.mx/dp/B0D3LPTDH4"
       }
     ],
     "id": "mx-tiendas",
@@ -3420,7 +3474,7 @@
     ],
     "relevance": "alta",
     "follow_reason": "Primer competidor del formato con marca reconocida y distribución en retail grande de EE. UU., con un precio de oferta igual al de Flubberhome y un pack de regalo para las fiestas.",
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "history": [
       {
         "date": "2026-10-19",
@@ -3739,6 +3793,12 @@
         "run_id": "2026-11-09T19-55",
         "change": "Chequeo rápido: el listado 'sale' de Ulta sigue mostrando TriThera a USD 39,99 (lista 99,99), 3,8 con 4 reseñas. Copia sin fecha.",
         "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "Ulta, listado sale: TriThera USD 39,99 (lista 99,99), 3,8 con 4 reseñas. Sin cambios. Ficha DTC sin precio en la copia del JSON (cortada).",
+        "source": "https://www.ulta.com/brand/tymo-beauty?special+offer=sale"
       }
     ]
   },
@@ -3808,7 +3868,7 @@
     "sources": [
       "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "relevance": "media",
     "follow_reason": "Es el único combo aparato + líquido relevado en CO; sirve de evidencia para OPP-006 y su bloque de reseñas muestra un riesgo de credibilidad.",
     "facts": [
@@ -3894,6 +3954,12 @@
         "run_id": "2026-11-09T19-55",
         "change": "Reseñas: sin reseñas nuevas independientes (la de 'hay que apretar la tapa' ya estaba contada). Sigue el 'precio de lanzamiento' de COP 117.700 hasta el 15/11.",
         "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "No se pudo leer (error SSL en el JSON). Último dato: combo COP 117.700, lanzamiento hasta 15/11 (09/11).",
+        "source": "https://www.alverela.com/products/combo-aceite-argan-cepillo-crecimiento.json"
       }
     ]
   },
@@ -4363,7 +4429,7 @@
       "https://isyra.com.mx/products/renacer-capilar-ab-test",
       "https://www.isyra.cl/products/isyra"
     ],
-    "last_reviewed": "2026-11-09",
+    "last_reviewed": "2026-11-10",
     "relevance": "media",
     "follow_reason": "Primer eléctrico en Amazon MX con indicador mensual visible ('50+ el mes pasado') en el rango de precio de Flubberhome; vende en kit con aceites.",
     "history": [
@@ -4413,6 +4479,12 @@
         "date": "2026-11-09",
         "run_id": "2026-11-09T03-56",
         "change": "Precio leído del JSON público de la ficha (Shopify, updated_at 09/11 00:57 hora MX): 3 opciones 'Escoge tu Oferta': Solo Dispositivo MXN 949 (tachado 1.879), Kit Inicio MXN 999 (tachado 1.882), Kit Renacer MXN 1.499 (tachado 1.885). El precio de Kit Inicio no cambió (999); el tachado bajó de 1.999 a 1.882. El encabezado ahora dice '4.9 Excelente | Más de +53.376 Reseñas' (antes '+10,839', 29/10): contador de la propia tienda, no verificable. Siguen 'Oferta de aniversario', 'últimas 7 unidades', 90 días de devolución y testimonios con claims de caída/crecimiento. Sin rótulo de Buen Fin todavía.",
+        "source": "https://isyra.com.mx/products/renacer-capilar-ab-test.json"
+      },
+      {
+        "date": "2026-11-10",
+        "run_id": "2026-11-10T03-55",
+        "change": "JSON público (updated_at 10/11 00:56 hora MX): Solo Dispositivo MXN 949 (tachado 1.879), Kit Inicio 999 (1.882), Kit Renacer 1.499 (1.885). Sin cambios; sin rótulo de Buen Fin en los datos.",
         "source": "https://isyra.com.mx/products/renacer-capilar-ab-test.json"
       }
     ]

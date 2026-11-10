@@ -2891,5 +2891,47 @@
     "oportunidades_nuevas": [],
     "oportunidades_actualizadas": [],
     "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
+  },
+  {
+    "run_id": "2026-11-10T03-55",
+    "foco": "Catálogo, tiendas y precios (franja 03:54)",
+    "fuentes_ok": [
+      "Shopify (lectura)",
+      "GitHub (privacidad, gh api)",
+      "Exa fetch: Isyra JSON, Introstem, Gadnic, Holy JSON, Ulta (TYMO), Znice, Lena, Microshop, Farmatodo (Aurevia), Vento HTML, Nihlo JSON (parcial)",
+      "Exa search: Buen Fin MX / categoría"
+    ],
+    "fuentes_fallidas": [
+      "Alverela: error SSL",
+      "Vento JSON: HTTP 402; HTML sin precio",
+      "Beltronic: copia sin precio",
+      "Nihlo y TYMO DTC: copias cortadas antes del precio",
+      "Mercado Libre: no consultado (403 previos)",
+      "Biblioteca de Meta: fuera de foco",
+      "Copias de Exa sin fecha de captura (salvo JSON de Isyra y Holy)"
+    ],
+    "competidores_revisados": [
+      "gadnic-ar",
+      "lena-vegetal-ar",
+      "microshop-ar",
+      "beltronic-ar",
+      "holy-cosmetics-co",
+      "aurevia-co",
+      "nihlo-co",
+      "alverela-co",
+      "tymo-us",
+      "isyra-mx-cl",
+      "mx-tiendas",
+      "co-dtc-tiendas"
+    ],
+    "competidores_nuevos": [],
+    "novedades": [
+      "Directos AR/CO/MX/US sin cambios de precio",
+      "Buen Fin MX: todavía sin ofertas de la categoría a 3 días",
+      "Smartjoys CO: tachado distinto al registrado (80.000 vs 116.000), no concluyente"
+    ],
+    "oportunidades_nuevas": [],
+    "oportunidades_actualizadas": [],
+    "privacidad": "repo PÚBLICO (GitHub: private=false): sin datos internos"
   }
 ]
