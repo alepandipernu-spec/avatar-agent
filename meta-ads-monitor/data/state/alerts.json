@@ -193,7 +193,7 @@
     "category": "debilidad",
     "priority": "P2",
     "title": "EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas",
-    "evidence": "Ventana 12/10–10/11 (solo quedan 12–14/10 con gasto): US USD 6,23 de USD 8,54 (73%), 39 impresiones, 1 clic en enlace, 0 visitas a la tienda. AR: USD 1,73 por 2 visitas (USD 0,87); CO: USD 0,58 por 2 visitas (USD 0,29); MX: sin gasto. Ventana anterior 08/10–06/11: US USD 23,20 de 64,51 (36%) con 0 visitas.",
+    "evidence": "Ventana 13/10–11/11 (todo el gasto restante es del 14/10): US USD 6,23 de USD 8,54 (73%), 39 impresiones, 1 clic en enlace, 0 visitas a la tienda. AR: USD 1,73 por 2 visitas (USD 0,87); CO: USD 0,58 por 2 visitas (USD 0,29); MX: sin gasto. Ventana anterior 08/10–06/11: US USD 23,20 de 64,51 (36%) con 0 visitas.",
     "diagnosis": "Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días.",
     "confidence": "media",
     "impact": "Con el mismo dinero AR/CO habrían traído ~40 veces más visitas.",
@@ -204,9 +204,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 73,
+    "occurrences": 74,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -224,9 +224,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 73,
+    "occurrences": 74,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -265,9 +265,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 72,
+    "occurrences": 73,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -306,9 +306,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 72,
+    "occurrences": 73,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -326,9 +326,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 72,
+    "occurrences": 73,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -367,9 +367,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 42,
+    "occurrences": 43,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -387,9 +387,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 40,
+    "occurrences": 41,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
@@ -407,9 +407,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 31,
+    "occurrences": 32,
     "status": "abierta",
-    "last_seen": "2026-11-10T23:46-03:00"
+    "last_seen": "2026-11-11T07:47-03:00"
   },
   "cad834c128f7": {
     "key": "escalafy-meta-sync-stale",
