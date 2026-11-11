@@ -204,9 +204,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 72,
+    "occurrences": 73,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "3b1cdecc3a0d": {
     "key": "store-conversion-gap",
@@ -224,9 +224,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T14:21-03:00",
-    "occurrences": 72,
+    "occurrences": 73,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "d26d8144ca22": {
     "key": "trust-guarantee-gap",
@@ -265,9 +265,9 @@
     "value": null,
     "source": "regla",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 71,
+    "occurrences": 72,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "47a7339447da": {
     "key": "shipping-free-unconditional",
@@ -306,9 +306,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 71,
+    "occurrences": 72,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "22f9e5d57bc7": {
     "key": "refund-policy-legal",
@@ -326,9 +326,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-17T23:46-03:00",
-    "occurrences": 71,
+    "occurrences": 72,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "58ac1ee3d240": {
     "fingerprint": "58ac1ee3d240",
@@ -367,9 +367,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-27T23:46-03:00",
-    "occurrences": 41,
+    "occurrences": 42,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "d3edac1cbdb0": {
     "key": "duplicate-pixels",
@@ -387,9 +387,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-28T15:46-03:00",
-    "occurrences": 39,
+    "occurrences": 40,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "b354b77a1305": {
     "key": "new-product-cuadernos-live",
@@ -407,9 +407,9 @@
     "rule": "analista",
     "object": "",
     "first_seen": "2026-10-31T23:46-03:00",
-    "occurrences": 30,
+    "occurrences": 31,
     "status": "abierta",
-    "last_seen": "2026-11-10T15:46-03:00"
+    "last_seen": "2026-11-10T23:46-03:00"
   },
   "cad834c128f7": {
     "key": "escalafy-meta-sync-stale",
