@@ -1,24 +1,25 @@
-# Flubberhome · Meta Ads Monitor · 2026-11-11T23:46-03:00
+# Flubberhome · Meta Ads Monitor · 2026-11-12T07:47-03:00
 
-Período: 2026-10-13 → 2026-11-11 · comparado con 2026-09-13 → 2026-10-12 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
+Período: 2026-10-14 → 2026-11-12 · comparado con 2026-09-14 → 2026-10-13 · moneda USD · zona America/Argentina/Buenos_Aires · modo read_only
 
 ## A. Resumen ejecutivo
 
-- Ventana 13/10–11/11 sin cambios: USD 8,54 (todo del 14/10) sin compras; pasa a 0 el 13/11 por la ventana. Pausa intencional, 0 objetos activos (última sincronización de Meta 10/11 15:46 UTC).
-- Tienda: 293 sesiones (10 con carrito, 8 al checkout, 0 compras); productos, precios, envíos, políticas y #D1 sin cambios.
+- La ventana pasa a 14/10–12/11; el 13/10 no tenía gasto, así que sigue en USD 8,54 (todo del 14/10) sin compras. Mañana sale el 14/10 y el gasto de 30 días queda en 0 (efecto de la ventana). Pausa intencional, 0 objetos activos.
+- Tienda: 291 sesiones, 8 con carrito (eran 10: 2 eran del 13/10), 8 al checkout, 0 compras; productos, precios, envíos, políticas y #D1 sin cambios.
+- Commit del 11/11 23:46 sin subir (push bloqueado por permisos).
 - Alertas abiertas: 8 (3 P0/P1). Nuevas o con cambio en esta ejecución: 0. Resueltas: 0.
 
 ## B. Estado técnico
 
 | Fuente | Estado | Detalle |
 | --- | --- | --- |
-| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/13–11/11), catálogo (0 activos). Última sincronización de Meta: 10/11 15:46 UTC. Por anuncio: filas del 09/11 07:47 (mismo gasto). |
+| escalafy | ok | Org flubberhome OK. Dashboard 30+30 días (10/14–11/12 vs 09/14–10/13), catálogo (0 activos). Última sincronización de Meta: 10/11 15:46 UTC. Por anuncio: filas del 09/11 07:47 (mismo gasto). |
 | shopify | ok | Embudo, pedidos, precios, ScalpCare, Cuadernos Mágicos, perfiles de envío, políticas y #D1 leídos. |
 | competencia_web | partial | No se actualizó (se revisó a las 15:51 del 11/11; próxima revisión 15:46 del 12/11) |
 | meta_ad_library | blocked | facebook.com no resuelve desde la nube (política de red). No se vieron anuncios de competidores. |
 | meta_ads_manager_pixel_facturacion | partial | Activos de Meta revisados el 11/11 a las 15:51 (token OK, 2 píxeles 'FLUBBERHOMME PIXEL', 0 páginas en Escalafy, IG 17841447093080625 en 196 creatividades). Facturación y eventos del píxel sin acceso. |
 
-- los últimos días hasta 2026-11-11 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
+- los últimos días hasta 2026-11-12 todavía pueden cambiar (pedidos tardíos, reexpresión de Meta)
 - Los presupuestos que informa Escalafy (10.000 y 15.400 ARS diarios) no se pudieron confirmar en Ads Manager; la unidad (pesos o centavos) queda sin verificar.
 - El período previo tiene 1.289 clics en enlace y 0 visitas a la página: esa métrica no se registró entonces, no significa que no hubo visitas (Shopify contó 1.633 sesiones).
 - Shopify reporta la zona horaria como EDT y Escalafy usa la de la organización; las cifras diarias pueden correrse un día.
@@ -35,24 +36,24 @@ Período: 2026-10-13 → 2026-11-11 · comparado con 2026-09-13 → 2026-10-12 �
 
 | Métrica | Actual | Anterior | Cambio |
 | --- | --- | --- | --- |
-| Gasto | USD 8.54 | USD 264.25 | -97% |
-| Impresiones | 409 | 36,217 | -99% |
-| Alcance (suma diaria) | 401 | 31,559 | -99% |
-| Clics (todos) | 20 | 1,266 | -98% |
-| Clics en enlace | 5 | 972 | -99% |
+| Gasto | USD 8.54 | USD 249.97 | -97% |
+| Impresiones | 409 | 33,552 | -99% |
+| Alcance (suma diaria) | 401 | 29,478 | -99% |
+| Clics (todos) | 20 | 1,215 | -98% |
+| Clics en enlace | 5 | 933 | -99% |
 | Visitas a la página | 3 | 604 | -100% |
-| Reproducciones 3 s | 160 | 6,970 | -98% |
-| ThruPlays | 37 | 2,327 | -98% |
+| Reproducciones 3 s | 160 | 6,592 | -98% |
+| ThruPlays | 37 | 2,167 | -98% |
 | Agregados al carrito (Meta) | 1 | 2 | -50% |
 | Inicios de pago (Meta) | 0 | 0 | sin comparación |
 | Compras atribuidas (Meta) | 0 | 0 | sin comparación |
 | Valor de compras (Meta) | USD 0.00 | USD 0.00 | sin comparación |
-| CPM | USD 20.87 | USD 7.30 | +186% |
-| CTR de enlace | 1.22% | 2.68% | -54% |
-| CTR total (todos los clics) | 4.89% | 3.50% | +40% |
-| CPC de enlace | USD 1.71 | USD 0.27 | +528% |
-| Costo por visita a la página | USD 2.85 | USD 0.44 | +550% |
-| Frecuencia | 1.02 | 1.15 | -11% |
+| CPM | USD 20.87 | USD 7.45 | +180% |
+| CTR de enlace | 1.22% | 2.78% | -56% |
+| CTR total (todos los clics) | 4.89% | 3.62% | +35% |
+| CPC de enlace | USD 1.71 | USD 0.27 | +537% |
+| Costo por visita a la página | USD 2.85 | USD 0.41 | +587% |
+| Frecuencia | 1.02 | 1.14 | -10% |
 | CPA (compras Meta) | no disponible | no disponible | sin comparación |
 | ROAS atribuido | 0.00 | 0.00 | sin comparación |
 
@@ -88,9 +89,9 @@ Por anuncio (ordenado por gasto):
 | Impresiones (Meta) | 409 | no disponible |
 | Clics en enlace (Meta) | 5 | 1.22% |
 | Visitas a la página de destino (Meta) | 3 | 60.00% |
-| Sesiones de la tienda (Shopify, todas las fuentes) | 293 | 9766.67% |
-| Sesiones con agregado al carrito (Shopify) | 10 | 3.41% |
-| Sesiones que llegaron al checkout (Shopify) | 8 | 80.00% |
+| Sesiones de la tienda (Shopify, todas las fuentes) | 291 | 9700.00% |
+| Sesiones con agregado al carrito (Shopify) | 8 | 2.75% |
+| Sesiones que llegaron al checkout (Shopify) | 8 | 100.00% |
 | Compras (Shopify) | 0 | 0.00% |
 
 Mayor punto de fuga medible: **Sesiones que llegaron al checkout (Shopify) → Compras (Shopify)** (0.00%).
@@ -112,7 +113,7 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 - [P1] Tráfico sin ventas: 0 pedidos en 365 días — Evidencia: 30 días: 786 sesiones, 10 con carrito, 6 en checkout, 0 completadas. 30 días previos: 1.633 sesiones, 14, 7, 0. Shopify 365 días: 0 pedidos, USD 0. Diagnóstico: La fuga está en la tienda y la oferta, no en el anuncio. Sin una compra de prueba no se puede descartar una falla técnica del checkout o del pago. Confianza: alta (hecho) / media (causa). Acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. (requiere aprobación)
 - [P1] La política de devoluciones no cumple la Ley 24.240 — Evidencia: Excluye productos abiertos o usados, cobra el envío de vuelta y limita fallas a 72 h. La ley da 10 días de arrepentimiento sin costo (art. 34, CCyC 1115) y 6 meses de garantía (art. 11). Falta el Botón de Arrepentimiento (Disp. 954/2025). 27/10 19:37: la ficha ya no menciona garantía, fallas ni devoluciones; la política publicada sigue siendo la del 31/08. Diagnóstico: Riesgo legal y de confianza; los competidores ofrecen 6–12 meses. Confianza: alta. Acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). (requiere aprobación)
-- [P2] EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas — Evidencia: Ventana 13/10–11/11 (todo el gasto restante es del 14/10): US USD 6,23 de USD 8,54 (73%), 39 impresiones, 1 clic en enlace, 0 visitas a la tienda. AR: USD 1,73 por 2 visitas (USD 0,87); CO: USD 0,58 por 2 visitas (USD 0,29); MX: sin gasto. Ventana anterior 08/10–06/11: US USD 23,20 de 64,51 (36%) con 0 visitas. Diagnóstico: Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días. Confianza: media. Acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. (requiere aprobación)
+- [P2] EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas — Evidencia: Ventana 14/10–12/11 (todo el gasto restante es del 14/10): US USD 6,23 de USD 8,54 (73%), 39 impresiones, 1 clic en enlace, 0 visitas a la tienda. AR: USD 1,73 por 2 visitas (USD 0,87); CO: USD 0,58 por 2 visitas (USD 0,29); MX: sin gasto. Ventana anterior 08/10–06/11: US USD 23,20 de 64,51 (36%) con 0 visitas. Diagnóstico: Mercado caro con presupuesto chico (15.400 ARS/día) que no sale de aprendizaje; además la tienda tiene 66 sesiones de EE. UU. y 0 carritos en 30 días. Confianza: media. Acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. (requiere aprobación)
 - [P2] La ficha nueva quitó envío, soporte y preguntas frecuentes — Evidencia: La versión de las 19:37 ya no tiene: envío USD 10 / gratis desde USD 70 con plazos, contacto por WhatsApp y email, qué pasa si llega fallado o no llega, ni la aclaración de que el precio está en USD. La versión de las 05:08 sí lo tenía. Diagnóstico: Puede que esos bloques se hayan pasado al tema (no se ve desde el panel) o que se borraran. Si se borraron, vuelven las objeciones de envío, moneda y confianza que frenan el checkout. Confianza: media. Acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. (requiere aprobación)
 - [P3] Escalafy no ve ninguna página de Facebook — Evidencia: list_ad_assets: pages vacío con status ok; Instagram 17841447093080625 vinculado a la página 1271494552714994 aparece en 196 creatividades. Diagnóstico: Al conectar Meta en Escalafy no se marcó la página. Solo importa si en el futuro se crean anuncios desde Escalafy. Confianza: alta. Acción: Si se quiere usar Escalafy para crear anuncios: reconectar Meta y tildar la página. (requiere aprobación)
 
@@ -231,14 +232,14 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## J. Alertas
 
-- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 76 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
-- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 75 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
-- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 75 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
-- **[P2] EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 76 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
-- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 45 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
-- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 43 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
-- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 34 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
-- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 75 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
+- **[P1] Tráfico sin ventas: 0 pedidos en 365 días** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 77 · confianza alta (hecho) / media (causa) · impacto: Todo gasto en anuncios es improductivo hasta resolverlo. · acción: EXP-001 (compra de prueba) antes de cualquier gasto nuevo; después EXP-002 y EXP-003. · requiere aprobación
+- **[P1] Posible cobro en pesos del monto en dólares con Mercado Pago** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 76 · confianza baja · impacto: Bloquea o arruina las ventas en Argentina. · acción: Compra real con Mercado Pago (reembolsable). Si cobra en ARS, desactivarlo. · requiere aprobación
+- **[P1] La política de devoluciones no cumple la Ley 24.240** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 76 · confianza alta · impacto: Multas, reclamos y menor conversión. · acción: Publicar la política elegida por la arena (necesita razón social, CUIT y domicilio). · requiere aprobación
+- **[P2] EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas** · ya conocida · detectada 2026-10-17T14:21-03:00 · veces: 77 · confianza media · impacto: Con el mismo dinero AR/CO habrían traído ~40 veces más visitas. · acción: No reactivar la campaña US hasta tener una venta en LatAm. Si se prueba, que sea un experimento aparte. · requiere aprobación
+- **[P2] La ficha nueva quitó envío, soporte y preguntas frecuentes** · ya conocida · detectada 2026-10-27T23:46-03:00 · veces: 46 · confianza media · impacto: Menor conversión de carrito a compra cuando vuelva el tráfico. · acción: El dueño confirma si esos datos se ven en la página publicada; si no, volver a agregarlos. · requiere aprobación
+- **[P2] La cuenta publicitaria tiene 2 píxeles con el mismo nombre** · ya conocida · detectada 2026-10-28T15:46-03:00 · veces: 44 · confianza media · impacto: Optimización y medición rotas cuando vuelvan las campañas. · acción: En Events Manager: ver cuál de los dos recibe eventos de flubberhomme.com y usar solo ese en los conjuntos. No borrar nada sin revisar. · requiere aprobación
+- **[P2] Producto nuevo publicado con etiqueta de borrador: Cuadernos Mágicos de Caligrafía (México)** · ya conocida · detectada 2026-10-31T23:46-03:00 · veces: 35 · confianza alta · impacto: Si no era intencional, se vende algo sin revisar; si lo es, suma un segundo producto con la misma política de devoluciones que hay que corregir. · acción: El dueño confirma si el lanzamiento en México es intencional. El monitor no lo despublica ni lo modifica. · requiere aprobación
+- **[P3] Campañas en pausa intencional (decisión del dueño)** · ya conocida · detectada 2026-10-17T23:46-03:00 · veces: 76 · confianza alta · impacto: Sin aprendizaje nuevo de anuncios mientras dure. · acción: Reactivar solo con un experimento aprobado.
 
 ## K. Decisiones pendientes (requieren aprobación expresa)
 
@@ -249,12 +250,14 @@ Nota: las sesiones de Shopify incluyen tráfico orgánico y directo; el paso Met
 
 ## L. Estado de la ejecución
 
-- Inicio: 2026-11-11T23:46:46-03:00 · Fin del análisis: 2026-11-11T23:47:39-03:00
+- Inicio: 2026-11-12T07:47:16-03:00 · Fin del análisis: 2026-11-12T07:48:27-03:00
 - Completado: Escalafy: dashboard y catálogo (0 activos)
-- Completado: Shopify: embudo (293 sesiones), pedidos (0), productos sin cambios, envíos, políticas y #D1 (OPEN)
+- Completado: Shopify: embudo (291 sesiones), pedidos (0), productos sin cambios, envíos, políticas y #D1 (OPEN)
 - Parcial: Por anuncio: filas del 09/11 07:47 (mismo gasto)
+- Parcial: Clics en 'agregar al carrito' del período anterior: no disponible en Escalafy
 - Parcial: Competencia y activos de Meta: se revisan una vez por día (15:46)
+- Parcial: Git: push del 11/11 23:46 bloqueado por permisos
 - Falló: Customer Journey de Escalafy: no habilitado para la organización (visto el 02/11)
 - Falló: Biblioteca de anuncios de Meta: bloqueada por la red
-- Próxima ejecución programada: 2026-11-12 07:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
-- Snapshot: data/snapshots/2026-11-11T23-46-03-00.json
+- Próxima ejecución programada: 2026-11-12 15:46 (America/Argentina/Buenos_Aires) — tarea trig_01W98gbW1v5HysUuvdqXiFXe
+- Snapshot: data/snapshots/2026-11-12T07-47-03-00.json
