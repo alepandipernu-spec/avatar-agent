@@ -1312,5 +1312,23 @@
       "meta_ad_library": "blocked",
       "meta_ads_manager_pixel_facturacion": "partial"
     }
+  },
+  {
+    "run_id": "2026-11-13T07:46-03:00",
+    "started_at": "2026-11-13T07:46:49-03:00",
+    "finished_at": "2026-11-13T07:47:35-03:00",
+    "report": "2026-11-13T07-46-03-00.md",
+    "alerts_open": 7,
+    "alerts_notify": [],
+    "resolved": [
+      "EE. UU. se lleva el 73% del gasto restante de la ventana con 0 visitas"
+    ],
+    "sources": {
+      "escalafy": "ok",
+      "shopify": "ok",
+      "competencia_web": "partial",
+      "meta_ad_library": "blocked",
+      "meta_ads_manager_pixel_facturacion": "partial"
+    }
   }
 ]
